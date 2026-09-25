@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-24",
+  "accepted_universe": {
+    "ICML 2026": 6341,
+    "ICLR 2026": 5353,
+    "NeurIPS 2025": 5287
+  },
+  "venue_snapshot_dates": {
+    "ICML 2026": "2026-09-23",
+    "ICLR 2026": "2026-09-23",
+    "NeurIPS 2025": "2026-09-24"
+  },
+  "curated_unique": 598,
+  "by_venue": {
+    "ICLR 2026": 189,
+    "ICML 2026": 233,
+    "NeurIPS 2025": 176
+  },
+  "by_theme": {
+    "Optimizer": 380,
+    "Manifold": 87,
+    "Matrix computation": 186,
+    "Training dynamics": 208
+  },
+  "matrix_by_scope": {
+    "Scientific computing": 9,
+    "Deep learning": 134,
+    "General ML": 29,
+    "Theory / foundations": 13,
+    "Numerical foundations": 1
+  },
+  "matrix_by_venue": {
+    "ICLR 2026": 51,
+    "ICML 2026": 65,
+    "NeurIPS 2025": 70
+  },
+  "matrix_by_category": {
+    "X1": {
+      "name": "Matrix functions, roots and matrix geometry",
+      "count": 13
+    },
+    "X2": {
+      "name": "Eigenproblems, spectral computation and SVD analysis",
+      "count": 17
+    },
+    "X3": {
+      "name": "Fisher, Hessian, derivatives and implicit differentiation",
+      "count": 33
+    },
+    "X4": {
+      "name": "Randomized sketching and kernel approximations",
+      "count": 16
+    },
+    "X5": {
+      "name": "Attention, state-space algebra and parallel scans",
+      "count": 36
+    },
+    "X6": {
+      "name": "Matrix and tensor methods for compression",
+      "count": 30
+    },
+    "X7": {
+      "name": "Structured products, transforms and GPU kernels",
+      "count": 17
+    },
+    "X8": {
+      "name": "Linear systems, sparse solvers and Gaussian processes",
+      "count": 15
+    },
+    "X9": {
+      "name": "Related numerical primitives and computation",
+      "count": 9
+    }
+  },
+  "extension_name": "learning-rate, scaling-law and training-dynamics",
+  "new_unique_papers_this_extension": 126,
+  "training_existing_reclassified": 82,
+  "training_by_venue": {
+    "ICLR 2026": 69,
+    "ICML 2026": 75,
+    "NeurIPS 2025": 64
+  },
+  "training_by_scope": {
+    "Theory / controlled models": 60,
+    "LLM training": 100,
+    "General optimization": 14,
+    "Other deep learning": 30,
+    "Reinforcement learning": 4
+  },
+  "training_by_category": {
+    "T1": {
+      "name": "Learning-rate selection, warm-up and schedules",
+      "count": 75
+    },
+    "T2": {
+      "name": "Batch size, gradient noise and training efficiency",
+      "count": 33
+    },
+    "T3": {
+      "name": "Width/depth scaling and hyperparameter transfer",
+      "count": 36
+    },
+    "T4": {
+      "name": "Compute, data and model scaling laws",
+      "count": 63
+    },
+    "T5": {
+      "name": "Stability, curvature and edge-of-stability dynamics",
+      "count": 38
+    },
+    "T6": {
+      "name": "Feature learning, implicit bias and generalization dynamics",
+      "count": 67
+    },
+    "T7": {
+      "name": "Initialization, normalization, weight decay and regularization",
+      "count": 65
+    },
+    "T8": {
+      "name": "Optimizer dynamics, comparisons and diagnostics",
+      "count": 46
+    }
+  },
+  "by_venue_and_theme": {
+    "ICML 2026": {
+      "Optimizer": 147,
+      "Manifold": 33,
+      "Matrix computation": 65,
+      "Training dynamics": 75
+    },
+    "ICLR 2026": {
+      "Optimizer": 121,
+      "Manifold": 28,
+      "Matrix computation": 51,
+      "Training dynamics": 69
+    },
+    "NeurIPS 2025": {
+      "Optimizer": 112,
+      "Manifold": 26,
+      "Matrix computation": 70,
+      "Training dynamics": 64
+    }
+  },
+  "manifold_by_scope": {
+    "Direct algorithm/theory/application": 47,
+    "Related/supporting": 40
+  },
+  "earlier_matrix_extension_new_unique": 98,
+  "papers_with_targeted_fulltext_checks": 26,
+  "matrix_papers_with_targeted_fulltext_checks": 15,
+  "screening": "Searches over the full accepted title/abstract universe; broad lexical candidates; manual selection and annotations from selected abstracts; targeted full-text checks. Not an exhaustive full-text systematic review.",
+  "acceptance_sources": [
+    "https://icml.cc/static/virtual/data/icml-2026-orals-posters.json",
+    "https://icml.cc/static/virtual/data/icml-2026-abstracts.json",
+    "https://iclr.cc/static/virtual/data/iclr-2026-orals-posters.json",
+    "https://iclr.cc/static/virtual/data/iclr-2026-abstracts.json",
+    "https://neurips.cc/static/virtual/data/neurips-2025-orals-posters.json",
+    "https://proceedings.neurips.cc/paper_files/paper/2025/vol38-main-conference"
+  ],
+  "input_sha256": {
+    "icml2026_optimizer_survey/main_conference.json": "f50483f860f38847c37330924bdf79736fcccc849114e971e5f99928a8b4afd2",
+    "iclr2026_optimizer_survey/main_conference.json": "7e74101c65c1eca5f4b35d2d4657aa4ea8f796ce427a496bdd2090d1247fdb80",
+    "matrix_computation_survey/selection.tsv": "f70c19235c403b3ae82c566d0753a5ce9d463b63c1d31bc784aaf093c71d772c",
+    "neurips2025_survey/main_conference.json": "1172a838d5cf1d5c79c9fb46357e73006c24d1a2b2940a657c32c7e85a6fd729",
+    "neurips2025_survey/selection.json": "f3e420bac3bd1036afeafba255de5e90c56578e5022b5be797d222bd189d03b5",
+    "neurips2025_survey/fulltext_checks.json": "c5cb18be4f36e38b8d5fba8647d0bba4972cce477e512826cf1343a90a3a3906",
+    "neurips2025_survey/proceedings_links.json": "0e8f24f5fbd38c77af8540161956f0ee69267f38ede58c52e9074cfcd4ad0f8a",
+    "training_dynamics_survey/selection.json": "d9ba6646ab351bb31d95cd35fc02a436be4678e10d13ab91473e118b335ac9d8",
+    "training_dynamics_survey/categories.json": "f5008c9f8fb9abfbe6abe9436cfbdf3c36e8064644c00ab953711ce30940fae2",
+    "training_dynamics_survey/baseline_keys.json": "c50c5a1a0c57cc174497b562297e4b3a39b76a3e9a44947b2c639929e42fd56d"
+  }
+}

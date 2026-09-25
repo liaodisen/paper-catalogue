@@ -1,0 +1,4218 @@
+[
+  {
+    "key": "ICLR:10010069",
+    "conference": "ICLR 2026",
+    "id": 10010069,
+    "title": "A Block Coordinate Descent Method for Nonsmooth Composite Optimization under Orthogonality Constraints",
+    "authors": "Ganzhao Yuan",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=L3Or2mhuCH",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010069",
+    "pdf_url": "https://openreview.net/pdf?id=L3Or2mhuCH",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "OBCD performs feasible block-coordinate updates for nonsmooth composite objectives and establishes stronger block stationarity and convergence rates."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonality constraints / Stiefel-type feasible matrices",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010984",
+    "conference": "ICLR 2026",
+    "id": 10010984,
+    "title": "A Spectral-Grassmann Wasserstein metric for operator representations of dynamical systems",
+    "authors": "Thibaut Germain; Rémi Flamary; Vladimir Kostic; Karim Lounici",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=B02EqvyiF3",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010984",
+    "pdf_url": "https://openreview.net/pdf?id=B02EqvyiF3",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Defines distances and Frechet means for dynamical-system operators; relevant geometric infrastructure rather than a general descent algorithm."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Spectral/Grassmann geometry and Wasserstein transport",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011738",
+    "conference": "ICLR 2026",
+    "id": 10011738,
+    "title": "Adaptive gradient descent on Riemannian manifolds and its applications to Gaussian variational inference",
+    "authors": "Jiyoung Park; Jaewook J. Suh; Bofan Wang; Anirban Bhattacharya; Shiqian Ma",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=2TTQjRkgFn",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011738",
+    "pdf_url": "https://openreview.net/pdf?id=2TTQjRkgFn",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RAdaGD adapts step sizes without line search and proves convergence under local geodesic smoothness and generalized geodesic convexity, with additional assumptions for VI."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "General Riemannian manifolds; Gaussian variational inference",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10008176",
+    "conference": "ICLR 2026",
+    "id": 10008176,
+    "title": "Barriers for Learning in an Evolving World:  Mathematical Understanding of Loss of Plasticity",
+    "authors": "Amir Joudaki; Giulia Lanzillotta; Mohammad Samragh; Iman Mirzadeh; Keivan Alizadeh-Vahid; Thomas Hofmann; Mehrdad Farajtabar; Fartash Faghri",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=g6kof5fSba",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10008176",
+    "pdf_url": "https://openreview.net/pdf?id=g6kof5fSba",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "H",
+        "name": "Learning rates, batch sizes, parameterization, and plasticity",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Analyzes plasticity loss as gradient dynamics becoming trapped in invariant parameter manifolds and studies architectural interventions; supporting theory rather than a new LLM optimizer."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Explains loss of plasticity through trapping near frozen- and cloned-unit manifolds. These are dynamical-system obstructions, not a prescribed feasible manifold."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Invariant submanifolds of parameter dynamics",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010974",
+    "conference": "ICLR 2026",
+    "id": 10010974,
+    "title": "Counterfactual Explanations on Robust Perceptual Geodesics",
+    "authors": "Eslam Zaher; Maciej Trzaskowski; Quan Nguyen; Fred Roosta",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=B5RBKM4vPY",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010974",
+    "pdf_url": "https://openreview.net/pdf?id=B5RBKM4vPY",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "PCG constructs counterfactuals along perceptual geodesics; geometry-guided trajectory construction, adjacent to manifold optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Perceptual Riemannian metric in latent space",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011344",
+    "conference": "ICLR 2026",
+    "id": 10011344,
+    "title": "Directional Textual Inversion for Personalized Text-to-Image Generation",
+    "authors": "Kunhee Kim; NaHyeon Park; Kibeom Hong; Hyunjung Shim",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=6wA4qpyyU9",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011344",
+    "pdf_url": "https://openreview.net/pdf?id=6wA4qpyyU9",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Directional Textual Inversion fixes embedding magnitude and optimizes direction with Riemannian SGD and a von Mises-Fisher prior."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Unit hypersphere of text-token embeddings",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/kunheek/dti."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010597",
+    "conference": "ICLR 2026",
+    "id": 10010597,
+    "title": "Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation",
+    "authors": "Fei Wu; Jia Hu; Geyong Min; Shiqiang Wang",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=FSHrinMArK",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010597",
+    "pdf_url": "https://openreview.net/pdf?id=FSHrinMArK",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "PSOFT restricts orthogonal fine-tuning transformations to a principal weight subspace and gradually relaxes orthogonality for adaptation."
+      },
+      {
+        "theme": "Manifold",
+        "note": "PSOFT uses constrained/reparameterized orthogonal fine-tuning and tunable relaxations; useful for manifold-inspired PEFT, with deliberate departure from strict orthogonality."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Principal-subspace orthogonal transformations, gradually relaxed",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010872",
+    "conference": "ICLR 2026",
+    "id": 10010872,
+    "title": "Energy-Regularized Sequential Model Editing on Hyperspheres",
+    "authors": "Qingyuan Liu; Jia-Chen Gu; Yunzhi Yao; Hong Wang; Nanyun (Violet) Peng",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=CHsdtzCip6",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010872",
+    "pdf_url": "https://openreview.net/pdf?id=CHsdtzCip6",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "SPHERE uses energy-based regularization and sparse projection for sequential LLM editing; not strict optimization on a fixed sphere manifold."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hyperspherical neuron-weight geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10006851",
+    "conference": "ICLR 2026",
+    "id": 10006851,
+    "title": "Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering",
+    "authors": "Dongxuan Zhu; Ly Khanh; Andy Yat-Ming Cheung; Man-Chung Yue; Viet Anh Nguyen",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=v0QOVSVPtq",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10006851",
+    "pdf_url": "https://openreview.net/pdf?id=v0QOVSVPtq",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "STARS jointly optimizes orthogonal steering directions for diverse LLM generations, with a Riemannian GD formulation and a fast one-step inference approximation."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Stiefel manifold of activation-steering directions",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10006869",
+    "conference": "ICLR 2026",
+    "id": 10006869,
+    "title": "Exponential-Wrapped Mechanisms: Differential Privacy on Hadamard Manifolds Made Practical",
+    "authors": "Yangdi Jiang; Xiaotian Chang; Lei Ding; Linglong Kong; Bei Jiang",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=ulCVfMOo30",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10006869",
+    "pdf_url": "https://openreview.net/pdf?id=ulCVfMOo30",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Exponential-wrapped privacy mechanisms and privatized Frechet means; relevant to manifold statistics, with no new optimization algorithm as the central contribution."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hadamard manifolds, including SPD examples",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011463",
+    "conference": "ICLR 2026",
+    "id": 10011463,
+    "title": "Fast and Stable Riemannian Metrics on SPD Manifolds via Cholesky Product Geometry",
+    "authors": "Ziheng Chen; Yue Song; Xiaojun Wu; Nicu Sebe",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=5S8ruWKe8l",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011463",
+    "pdf_url": "https://openreview.net/pdf?id=5S8ruWKe8l",
+    "themes": [
+      "Manifold",
+      "Matrix computation"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X1",
+        "name": "Matrix functions, roots and matrix geometry",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "PCM and BWCM supply fast, stable closed-form geometric operators for SPD networks and classifiers; useful optimization infrastructure, not primarily an optimizer paper."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "Use Cholesky product geometry to construct fast metrics with closed-form operators for SPD neural networks."
+      }
+    ],
+    "quantity": "Riemannian operators on SPD matrices",
+    "method": "Use Cholesky product geometry to construct fast metrics with closed-form operators for SPD neural networks.",
+    "caveat": "Changes the chosen metric; not a universal acceleration of every existing SPD metric.",
+    "matrix_scope": "Deep learning",
+    "geometry": "SPD matrices via Cholesky product geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/GitZH-Chen/PCM_BWCM."
+    ],
+    "featured_rank": 11,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010570",
+    "conference": "ICLR 2026",
+    "id": 10010570,
+    "title": "Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization",
+    "authors": "Yunzhe Hu; Difan Zou; Dong Xu",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=FinhjyDgYA",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010570",
+    "pdf_url": "https://openreview.net/pdf?id=FinhjyDgYA",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "J",
+        "name": "Adjacent numerical, architectural, and specialized training methods",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Hyper-SET derives recurrent Transformer modules from constrained token-energy minimization on a hypersphere; an architecture with an optimization interpretation, not a parameter optimizer."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Hyper-SET derives attention/feedforward modules as iterative constrained energy minimization; this is an architecture interpretation, not a general parameter optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hypersphere of token states",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/huyunzhe/hyper-set."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10008982",
+    "conference": "ICLR 2026",
+    "id": 10008982,
+    "title": "Hyperbolic Aware Minimization: Implicit Bias for Sparsity",
+    "authors": "Tom Jacobs; Advait Gadhikar; Celia Rubio-Madrigal; Rebekka Burkholz",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=XKB5Hu0ACY",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10008982",
+    "pdf_url": "https://openreview.net/pdf?id=XKB5Hu0ACY",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "C",
+        "name": "General-purpose matrix, spectral, adaptive, and learned optimizers",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Hyperbolic Aware Minimization alternates ordinary optimizer updates with hyperbolic mirror steps to promote sparse feature learning; the abstract reports vision experiments."
+      },
+      {
+        "theme": "Manifold",
+        "note": "HAM alternates standard optimizer steps with hyperbolic mirror steps to promote sparsity. It is geometry-aware optimization, not evidence that all model weights lie on a fixed hyperboloid."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hyperbolic mirror geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010269",
+    "conference": "ICLR 2026",
+    "id": 10010269,
+    "title": "Intrinsic training dynamics of deep neural networks",
+    "authors": "Sibylle Marcotte; Gabriel Peyré; Rémi Gribonval",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=IlyesljaNb",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010269",
+    "pdf_url": "https://openreview.net/pdf?id=IlyesljaNb",
+    "themes": [
+      "Manifold",
+      "Optimizer",
+      "Training dynamics"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      },
+      {
+        "code": "T6",
+        "name": "Feature learning, implicit bias and generalization dynamics",
+        "theme": "Training dynamics"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Characterizes when parameter gradient flow induces intrinsic lower-dimensional dynamics, with results for ReLU path lifting and relaxed-balanced linear networks."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Analyzes when ordinary gradient flow can be rewritten intrinsically, including relaxed-balanced deep linear networks; optimization geometry theory rather than a new constrained solver."
+      },
+      {
+        "theme": "Training dynamics",
+        "note": "Characterizes when parameter gradient flow induces intrinsic lower-dimensional dynamics, with results for ReLU path lifting and relaxed-balanced linear networks."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Intrinsic metrics and lower-dimensional lifted parameter dynamics",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "Theory / controlled models",
+    "hyperparameters": "Parameterization; intrinsic gradient-flow trajectories",
+    "training_finding": "Characterizes when parameter gradient flow induces intrinsic lower-dimensional dynamics, with results for ReLU path lifting and relaxed-balanced linear networks.",
+    "training_caveat": "Reuses the earlier source-grounded annotation. Consult the linked paper for assumptions, tested scales and parameterization conventions.",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10006634",
+    "conference": "ICLR 2026",
+    "id": 10006634,
+    "title": "Landing with the Score: Riemannian Optimization through Denoising",
+    "authors": "Andrey Kharitenko; Zebang Shen; Riccardo De Santi; Niao He; Florian Dorfler",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=xZNoeX0z9f",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10006634",
+    "pdf_url": "https://openreview.net/pdf?id=xZNoeX0z9f",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Denoising Landing Flow and Denoising Riemannian GD recover approximate projection/tangent operations from a score model, with feasibility and stationarity guarantees."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Implicit data manifolds represented by score networks",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011713",
+    "conference": "ICLR 2026",
+    "id": 10011713,
+    "title": "LipNeXt: Scaling up Lipschitz-based Certified Robustness to Billion-parameter Models",
+    "authors": "Kai Hu; Haoqi Hu; Matt Fredrikson",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=2fgzEJPH02",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011713",
+    "pdf_url": "https://openreview.net/pdf?id=2fgzEJPH02",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "LipNeXt explicitly updates parameters on the orthogonal manifold to scale networks with certified Lipschitz robustness."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonal parameter manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10009014",
+    "conference": "ICLR 2026",
+    "id": 10009014,
+    "title": "LoRA meets Riemannion: Muon Optimizer for Parametrization-independent Low-Rank Adapters",
+    "authors": "Vladimir Bogachev; Vladimir Aletov; Alexander Molozhavenko; Denis Bobkov; Vera Soboleva; Aibek Alanov; Maxim Rakhuba",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=WtbXgc9GVA",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10009014",
+    "pdf_url": "https://openreview.net/pdf?id=WtbXgc9GVA",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Riemannion extends Muon to the fixed-rank matrix manifold and combines parametrization-independent LoRA optimization with Riemannian initialization."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Riemannion extends Muon to direct, parametrization-independent LoRA optimization and introduces a Riemannian gradient-informed initialization; evaluated on LLMs and diffusion models."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Fixed-rank matrix manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010449",
+    "conference": "ICLR 2026",
+    "id": 10010449,
+    "title": "LoRA-S: An Efficient Low Rank Adaptation scheme via Sylvester equation",
+    "authors": "Jinyang ZHENG; Tong Wu",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=Guo2XGgxZA",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010449",
+    "pdf_url": "https://openreview.net/pdf?id=Guo2XGgxZA",
+    "themes": [
+      "Manifold",
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X3",
+        "name": "Fisher, Hessian, derivatives and implicit differentiation",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "LoRA-S uses quotient-manifold geometry and Sylvester equations to derive Adam-Sylvester and LRACS adapter optimizers."
+      },
+      {
+        "theme": "Manifold",
+        "note": "LoRA-S uses horizontal lifts and Sylvester equations to derive Adam-Sylvester and LRACS optimizers for low-rank adapters."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "Use quotient-manifold horizontal lifts and a Sylvester-equation construction for LoRA optimizers."
+      }
+    ],
+    "quantity": "Geometry-aware low-rank adapter updates",
+    "method": "Use quotient-manifold horizontal lifts and a Sylvester-equation construction for LoRA optimizers.",
+    "caveat": "Specialized to the low-rank factor geometry; see the paper for metric and solver assumptions.",
+    "matrix_scope": "Deep learning",
+    "geometry": "Quotient manifold of low-rank factors",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 10,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010215",
+    "conference": "ICLR 2026",
+    "id": 10010215,
+    "title": "On the Benefits of Weight Normalization for Overparameterized Matrix Sensing",
+    "authors": "Yudong Wei; Liang Zhang; Bingcong Li; Niao He",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=JIMM5YLShy",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010215",
+    "pdf_url": "https://openreview.net/pdf?id=JIMM5YLShy",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Proves linear convergence of weight normalization with Riemannian optimization and studies benefits of overparameterization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Weight-normalized matrix-sensing parameter geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10008824",
+    "conference": "ICLR 2026",
+    "id": 10008824,
+    "title": "Preserve and Sculpt: Manifold-Aligned Fine-tuning of Vision-Language Models for Few-Shot Learning",
+    "authors": "Dexia Chen; Qianjie Zhu; Weibing Li; Yue Yu; Tong Zhang; Ruixuan Wang",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=ZGJJF1e2u0",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10008824",
+    "pdf_url": "https://openreview.net/pdf?id=ZGJJF1e2u0",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "MPS-Tuning preserves and sculpts feature geometry with Gram-matrix regularization; does not establish intrinsic Riemannian parameter updates."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Semantic feature manifold",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10007434",
+    "conference": "ICLR 2026",
+    "id": 10007434,
+    "title": "Riemannian Federated Learning via Averaging Gradient Streams",
+    "authors": "Zhenwei Huang; Wen Huang; Pratik Jawanpuria; Bamdev Mishra",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=oEtrDiFOFF",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10007434",
+    "pdf_url": "https://openreview.net/pdf?id=oEtrDiFOFF",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RFedAGS aggregates gradient streams and analyzes convergence with heterogeneous clients and partial participation."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "General Riemannian federated optimization",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011398",
+    "conference": "ICLR 2026",
+    "id": 10011398,
+    "title": "Riemannian High-Order Pooling for Brain Foundation Models",
+    "authors": "Chen Hu; Ziheng Chen; Rui Wang; Yefeng Zheng; Nicu Sebe",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=66h1sCMm7F",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011398",
+    "pdf_url": "https://openreview.net/pdf?id=66h1sCMm7F",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RHOP aggregates brain-model tokens using Riemannian mean and covariance; a manifold-statistical pooling module, not a general optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Quotient Gaussian descriptors and SPD manifold",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010676",
+    "conference": "ICLR 2026",
+    "id": 10010676,
+    "title": "Riemannian Optimization on Relaxed Indicator Matrix Manifold",
+    "authors": "Jinghui Yuan; Xie Fangyuan; Feiping Nie; Xuelong Li",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=ERJd7dMN6U",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010676",
+    "pdf_url": "https://openreview.net/pdf?id=ERJd7dMN6U",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Builds a Riemannian optimization toolbox, including retractions, and applies it to Ratio Cut and large-scale image denoising."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Relaxed indicator matrix manifold; generalizes doubly stochastic geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10006573",
+    "conference": "ICLR 2026",
+    "id": 10006573,
+    "title": "Riemannian Zeroth-Order Gradient Estimation with Structure-Preserving Metrics for Geodesically Incomplete Manifolds",
+    "authors": "Shaocong Ma; Heng Huang",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=yEfKDCbtv1",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10006573",
+    "pdf_url": "https://openreview.net/pdf?id=yEfKDCbtv1",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Constructs complete structure-preserving metrics and analyzes an intrinsic two-point zeroth-order gradient estimator and stochastic optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Geodesically incomplete Riemannian manifolds",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10009110",
+    "conference": "ICLR 2026",
+    "id": 10009110,
+    "title": "Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures",
+    "authors": "Yedi Zhang; Andrew Saxe; Peter Latham",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=Vit5M0G5Gb",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10009110",
+    "pdf_url": "https://openreview.net/pdf?id=Vit5M0G5Gb",
+    "themes": [
+      "Manifold",
+      "Optimizer",
+      "Training dynamics"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      },
+      {
+        "code": "T6",
+        "name": "Feature learning, implicit bias and generalization dynamics",
+        "theme": "Training dynamics"
+      },
+      {
+        "code": "T7",
+        "name": "Initialization, normalization, weight decay and regularization",
+        "theme": "Training dynamics"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Explains optimizer simplicity bias through saddle-to-saddle gradient dynamics near invariant manifolds, including attention architectures."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Explains a simplicity bias of ordinary gradient descent across architectures; related geometry of training, not an algorithm for an externally specified manifold constraint."
+      },
+      {
+        "theme": "Training dynamics",
+        "note": "Explains optimizer simplicity bias through saddle-to-saddle gradient dynamics near invariant manifolds, including attention architectures."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Invariant manifolds and saddle-to-saddle dynamics",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "Theory / controlled models",
+    "hyperparameters": "Initialization; saddle-to-saddle dynamics",
+    "training_finding": "Explains optimizer simplicity bias through saddle-to-saddle gradient dynamics near invariant manifolds, including attention architectures.",
+    "training_caveat": "Reuses the earlier source-grounded annotation. Consult the linked paper for assumptions, tested scales and parameterization conventions.",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10010606",
+    "conference": "ICLR 2026",
+    "id": 10010606,
+    "title": "Scalable Second-order Riemannian Optimization for $K$-means Clustering",
+    "authors": "Peng Xu; Chun Ying Hou; Xiaohui Chen; Richard Zhang",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=FNWNG1ftuw",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10010606",
+    "pdf_url": "https://openreview.net/pdf?id=FNWNG1ftuw",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Uses cubic-regularized Riemannian Newton optimization and efficiently solves Newton subproblems for cluster recovery."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "K-means submanifold / product-manifold factorization",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011522",
+    "conference": "ICLR 2026",
+    "id": 10011522,
+    "title": "Strongly Convex Sets in Riemannian Manifolds",
+    "authors": "Damien Scieur; David Martinez-Rubio; thomas Kerdreux; Alexandre d&amp;#x27;Aspremont; Sebastian Pokutta",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=4sDszSYKP6",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011522",
+    "pdf_url": "https://openreview.net/pdf?id=4sDszSYKP6",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Develops notions of strong convexity on manifolds and proves linear convergence of Riemannian Frank-Wolfe under Riemannian scaling inequalities."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Geodesically strongly convex sets",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICLR:10011256",
+    "conference": "ICLR 2026",
+    "id": 10011256,
+    "title": "Understanding and Improving Hyperbolic Deep Reinforcement Learning",
+    "authors": "Timo Klein; Thomas Lang; Andrii Shkabrii; Alexander Sturm; Kevin Sidak; Lukas Miklautz; Claudia Plant; Yllka Velaj; Sebastian Tschiatschek",
+    "acceptance": "Accept (Poster)",
+    "openreview_url": "https://openreview.net/forum?id=7rfdenlP1L",
+    "conference_url": "https://iclr.cc/virtual/2026/poster/10011256",
+    "pdf_url": "https://openreview.net/pdf?id=7rfdenlP1L",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Hyper++ analyzes optimization instability in hyperbolic RL and improves regularization and layers; not a generic manifold optimization method."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Poincare ball and hyperboloid representations",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/Probabilistic-and-Interactive-ML/hyper-rl."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61849",
+    "conference": "ICML 2026",
+    "id": 61849,
+    "title": "AdamO: A Collapse-Suppressed Optimizer for Offline RL",
+    "authors": "Nan Qiao; Sheng Yue; Shuning Wang; Ju Ren",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=mMlt3tQ7Ot",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61849",
+    "pdf_url": "https://openreview.net/pdf?id=mMlt3tQ7Ot",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "AdamO adds a task-budgeted orthogonality correction to Adam for stable offline RL; a specialized optimizer, with no general manifold retraction established by the abstract."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonality correction for critic parameters",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61285",
+    "conference": "ICML 2026",
+    "id": 61285,
+    "title": "An Embarrassingly Simple Way to Optimize Orthogonal Matrices at Scale",
+    "authors": "Adrián Javaloy; Antonio Vergari",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=rlvnG8oKmN",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61285",
+    "pdf_url": "https://openreview.net/pdf?id=rlvnG8oKmN",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "J",
+        "name": "Adjacent numerical, architectural, and specialized training methods",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "POGO is a scalable, GPU-friendly optimizer for orthogonal matrices; an adjacent numerical building block, with LLM relevance not established by the abstract."
+      },
+      {
+        "theme": "Manifold",
+        "note": "POGO improves Landing-style optimization with adaptive optimizers and five matrix products. The abstract reports effective practical orthogonality; do not interpret this as an exact-feasibility theorem for every iterate."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonal matrices",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/adrianjav/pogo."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:62055",
+    "conference": "ICML 2026",
+    "id": 62055,
+    "title": "Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence",
+    "authors": "Valérie Castin; Kimia Nadjahi; Pierre Ablin; Gabriel Peyré",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=kHInw3cjCP",
+    "conference_url": "https://icml.cc/virtual/2026/poster/62055",
+    "pdf_url": "https://openreview.net/pdf?id=kHInw3cjCP",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "BaLoRA balances low-rank factors to remove parameterization-related ill-conditioning and accelerate fine-tuning."
+      },
+      {
+        "theme": "Manifold",
+        "note": "BaLoRA projects factor pairs onto a balanced manifold while preserving their product, improving conditioning and adapter convergence."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Balanced low-rank factor manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61727",
+    "conference": "ICML 2026",
+    "id": 61727,
+    "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
+    "authors": "Zhicheng Cai; Xinyuan Guo; Hanlin Wu; Mingxuan Wang; Wei-Ying Ma; Ya-Qin Zhang; Hao Zhou",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=nSRbKvrmsH",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61727",
+    "pdf_url": "https://openreview.net/pdf?id=nSRbKvrmsH",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "RIPO uses the Riemannian geometry of policy distributions to reformulate clipping for LLM reinforcement learning and mitigate exploration collapse."
+      },
+      {
+        "theme": "Manifold",
+        "note": "RIPO reformulates policy clipping to obtain isometric policy updates and mitigate exploration collapse in LLM reinforcement learning; a policy-optimization application."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian geometry of policy distributions",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66212",
+    "conference": "ICML 2026",
+    "id": 66212,
+    "title": "Controlled LLM Training on Spectral Sphere",
+    "authors": "Tian Xie; Haoming Luo; Haoyu Tang; Hu Yiwen; Jason Liu; Qingnan Ren; Yang Wang; Xin Zhao; Rui Yan; Bing Su; Chong Luo; Baining Guo",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=5kTn1c3vtt",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66212",
+    "pdf_url": "https://openreview.net/pdf?id=5kTn1c3vtt",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "C",
+        "name": "General-purpose matrix, spectral, adaptive, and learned optimizers",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Spectral Sphere Optimizer (SSO) constrains both weights and updates, linking optimizer design to maximal-update parameterization; evaluates dense, MoE, and very deep LLMs."
+      },
+      {
+        "theme": "Manifold",
+        "note": "SSO derives constrained steepest-descent updates for stable LLM training. A spectral-norm sphere need not be a globally smooth Riemannian manifold; keep it distinct from Stiefel optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Spectral-norm sphere constraints on weights and updates",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61970",
+    "conference": "ICML 2026",
+    "id": 61970,
+    "title": "DDSVM: A Differentiable Framework for Deep Support Vector Machines with Iterative Geometry-Aware Optimization",
+    "authors": "Yirun Ding; Zhihui Lai",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=l6MbbwsWUs",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61970",
+    "pdf_url": "https://openreview.net/pdf?id=l6MbbwsWUs",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "DDSVM produces tangent-space feature gradients for angular margin optimization; geometry-driven representation training rather than an optimizer for arbitrary manifold parameters."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Spherical normalization of feature vectors",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61746",
+    "conference": "ICML 2026",
+    "id": 61746,
+    "title": "Differentially Private Geodesic Regression",
+    "authors": "Aditya Kulkarni; Carlos Soto",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=nGlwpZFZre",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61746",
+    "pdf_url": "https://openreview.net/pdf?id=nGlwpZFZre",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Develops privacy guarantees for geodesic-regression parameters using a Riemannian K-norm-gradient mechanism and Jacobi-field sensitivity bounds."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Sphere, SPD matrices, and Kendall shape space",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66261",
+    "conference": "ICML 2026",
+    "id": 66261,
+    "title": "Geodesic Calculus on Implicitly Defined Latent Manifolds",
+    "authors": "Florine Hartwig; Josua Sassen; Juliane Braunsmann; Martin Rumpf; Benedikt Wirth",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=5LBH6azyBM",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66261",
+    "pdf_url": "https://openreview.net/pdf?id=5LBH6azyBM",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Develops discrete Riemannian operators, learned projections, and geodesic path/shooting computations; useful infrastructure for implicit-manifold optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Implicitly defined latent submanifolds",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:64891",
+    "conference": "ICML 2026",
+    "id": 64891,
+    "title": "Geometric Convergence of Gauss–Newton for Neural Networks: Riemannian Geometry and Adaptive Damping",
+    "authors": "Semih Cayci",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=IoGEXDFVEb",
+    "conference_url": "https://icml.cc/virtual/2026/poster/64891",
+    "pdf_url": "https://openreview.net/pdf?id=IoGEXDFVEb",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Gauss-Newton convergence and adaptive damping theory for neural networks under over- and underparameterization; adjacent second-order theory."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Relates parameter-space Gauss-Newton flow to Riemannian gradient flow and proves conditioning-independent convergence under stated output-scaling and regularity assumptions."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Neural-network function-space submanifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61874",
+    "conference": "ICML 2026",
+    "id": 61874,
+    "title": "Hyperbolic Associative Memory Networks",
+    "authors": "Boliang Hao; Bailing Zhang; Fangyu Wu",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=m7SH64ZF6j",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61874",
+    "pdf_url": "https://openreview.net/pdf?id=m7SH64ZF6j",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Hyperbolic associative memory uses curvature-aware Riemannian optimization and exponential-map updates for on-manifold retrieval."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hyperbolic space, instantiated with the Poincare ball",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/hbl66/HAMNs."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:64946",
+    "conference": "ICML 2026",
+    "id": 64946,
+    "title": "Improving Classifier-Free Guidance of Flow Matching via Manifold Projection",
+    "authors": "Jian-Feng Cai; Haixia Liu; Zhengyi Su; Chao Wang",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=IPp3LD6u16",
+    "conference_url": "https://icml.cc/virtual/2026/poster/64946",
+    "pdf_url": "https://openreview.net/pdf?id=IPp3LD6u16",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Reformulates classifier-free guidance as homotopy optimization with a manifold constraint and approximates projection using incremental gradient descent and Anderson acceleration."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Implicit image/data manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/LeonSuZhengYi/CFG-MP."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66595",
+    "conference": "ICML 2026",
+    "id": 66595,
+    "title": "Information Geometry Loss for Time Series Forecasting",
+    "authors": "Jiayu Fang; Xuande Liu; Sangsha Fang; Zhen Tian; Hongwei Ma; Zhiqi Shao; Junbin Gao",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=2NbXZDl4nB",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66595",
+    "pdf_url": "https://openreview.net/pdf?id=2NbXZDl4nB",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "InfoGeo Loss combines distributional geometry and natural-gradient weighting for time-series forecasting; a specialized information-geometric training method."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Statistical manifolds with Fisher geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:63836",
+    "conference": "ICML 2026",
+    "id": 63836,
+    "title": "KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices",
+    "authors": "Wuyang Zhou; Yuxuan Gu; Giorgos Iacovides; Danilo Mandic",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=TI7Q2o6EIa",
+    "conference_url": "https://icml.cc/virtual/2026/poster/63836",
+    "pdf_url": "https://openreview.net/pdf?id=TI7Q2o6EIa",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "E",
+        "name": "Training stabilization and distributed optimization",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "KromHC uses Kronecker products of small doubly stochastic matrices to enforce hyper-connection constraints efficiently; Kronecker parameterization here is not KFAC."
+      },
+      {
+        "theme": "Manifold",
+        "note": "KromHC parameterizes constrained residual mixing with small factors. The Birkhoff polytope has a boundary; its use of Kronecker products is unrelated to KFAC curvature."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Kronecker products of doubly stochastic factors",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/wz1119/KromHC."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:62677",
+    "conference": "ICML 2026",
+    "id": 62677,
+    "title": "Manifold-Optimal Guidance: A Unified Riemannian Control View of Diffusion Guidance",
+    "authors": "Zexi Jia; Pengcheng Luo; Zhengyao Fang; Jinchao Zhang; Jie Zhou",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=eSxGdQ0zwG",
+    "conference_url": "https://icml.cc/virtual/2026/poster/62677",
+    "pdf_url": "https://openreview.net/pdf?id=eSxGdQ0zwG",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Manifold-Optimal Guidance derives a closed-form geometry-aware update from a local optimal-control problem; inference guidance, not parameter training."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Local Riemannian geometry of the data manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61870",
+    "conference": "ICML 2026",
+    "id": 61870,
+    "title": "mHC: Manifold-Constrained Hyper-Connections",
+    "authors": "Zhenda Xie; Yixuan Wei; Huanqi Cao; Chenggang Zhao; Chengqi Deng; Jiashi Li; Damai Dai; Huazuo Gao; Mingyu Xu; Kuai Yu; Liang Zhao; Shangyan Zhou; Zhean Xu; Zhengyan Zhang; Wangding Zeng; Shengding Hu; Yuqing Wang; Jingyang Yuan; Lean Wang; Wenfeng Liang",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=mDhyxu8WRb",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61870",
+    "pdf_url": "https://openreview.net/pdf?id=mDhyxu8WRb",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "E",
+        "name": "Training stabilization and distributed optimization",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "mHC projects hyper-connection residual mixing into a constrained set to stabilize large-model training; an architectural constraint mechanism rather than a replacement optimizer."
+      },
+      {
+        "theme": "Manifold",
+        "note": "mHC constrains residual connections to improve large-model training stability. This is a constrained architecture, not a general Riemannian optimization algorithm."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Doubly stochastic residual mixing / Birkhoff constraints",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66044",
+    "conference": "ICML 2026",
+    "id": 66044,
+    "title": "Mixtures of geodesic factor analyzers on Riemannian homogeneous spaces",
+    "authors": "Hengchao Chen; Yuanyao Tan; Chao Huang; Hongtu Zhu; Qiang Sun",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=7bTdGPe3RG",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66044",
+    "pdf_url": "https://openreview.net/pdf?id=7bTdGPe3RG",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "MGFA supplies an iterative maximum-likelihood estimation algorithm for mixtures of geodesic factor analyzers; a statistical estimation application, not a general optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian homogeneous spaces: spheres, shape spaces, hyperbolic spaces",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61531",
+    "conference": "ICML 2026",
+    "id": 61531,
+    "title": "Orthogonal Model Merging",
+    "authors": "Sihan Yang; Kexuan Shi; Weiyang Liu",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=pCaeMsqpCa",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61531",
+    "pdf_url": "https://openreview.net/pdf?id=pCaeMsqpCa",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "OrthoMerge combines orthogonal updates in the Lie algebra and uses orthogonal Procrustes fitting to extend merging beyond orthogonally fine-tuned models."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonal group and its Lie algebra",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:65054",
+    "conference": "ICML 2026",
+    "id": 65054,
+    "title": "PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry",
+    "authors": "Marcin Możejko; Adam Bielecki; Jurand Prądzyński; Hyun-Su Lee; Antoni Janowski; Michal Kmicikiewicz; Paulina Szymczak; Karol Jurasz; Marcin Traskowski; Michał Kucharczyk; Marcelo Torres; Cesar de la Fuente-Nunez; Ewa Szczurek",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=HENUU9VR8F",
+    "conference_url": "https://icml.cc/virtual/2026/poster/65054",
+    "pdf_url": "https://openreview.net/pdf?id=HENUU9VR8F",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "PepCompass combines potential-minimizing geodesic search, tangent-space exploration, and local Bayesian optimization for peptide design."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Decoder-induced union of locally stable Riemannian manifolds",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:71112",
+    "conference": "ICML 2026",
+    "id": 71112,
+    "title": "POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation",
+    "authors": "Zeju Qiu; Lixin LIU; Adrian Weller; Han Shi; Weiyang Liu",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=et8jpWLUuD",
+    "conference_url": "https://icml.cc/virtual/2026/oral/71112",
+    "pdf_url": "https://openreview.net/pdf?id=et8jpWLUuD",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "D",
+        "name": "Memory-efficient and low-precision optimizers",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "POET-X scales spectrum-preserving orthogonal-equivalence training to reduce LLM training memory and computation."
+      },
+      {
+        "theme": "Manifold",
+        "note": "POET-X makes spectrum-preserving orthogonal reparameterized LLM training more memory- and compute-efficient; the abstract does not specify a new general Riemannian optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Orthogonal-equivalence transformations of weight matrices",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:64048",
+    "conference": "ICML 2026",
+    "id": 64048,
+    "title": "Prompt Tuning for CLIP on the Pretrained Manifold",
+    "authors": "Xi Yang; Yuanrong Xu; Weigang Zhang; Guangming Lu; David Zhang; Jie Wen",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=ROFqW86Dca",
+    "conference_url": "https://icml.cc/virtual/2026/poster/64048",
+    "pdf_url": "https://openreview.net/pdf?id=ROFqW86Dca",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "ManiPT constrains cosine consistency during prompt tuning; manifold preservation through regularization, not a demonstrated generic Riemannian solver."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Pretrained CLIP representation geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66778",
+    "conference": "ICML 2026",
+    "id": 66778,
+    "title": "Reflective Hamiltonian Monte Carlo:  Mixing Analysis and Application to Sampling on Stiefel Manifold",
+    "authors": "Kwangmin Lee; Yeonhee Park; Sewon Park",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=0QjwbySLcU",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66778",
+    "pdf_url": "https://openreview.net/pdf?id=0QjwbySLcU",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Reflective HMC supplies mixing guarantees and a Stiefel sampling application; sampling is distinguished from minimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Stiefel manifold through polar reparameterization",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:62937",
+    "conference": "ICML 2026",
+    "id": 62937,
+    "title": "Rh-3DGS: Robust Open-Vocabulary Scene Understanding via Riemannian Huber Distillation and Manifold-Aware Sampling",
+    "authors": "Xinpeng Zhao; Jiang Jie; Fengyuan Zhang; Lixin Zhan; Dong Wang; Qinyuan Bu; Jiahangtu; Guangzhen Yao",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=bjtuHOb3vN",
+    "conference_url": "https://icml.cc/virtual/2026/poster/62937",
+    "pdf_url": "https://openreview.net/pdf?id=bjtuHOb3vN",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Rh-3DGS aggregates embeddings using a visibility-weighted Frechet mean with a Riemannian Huber objective; an intrinsic statistical aggregation application."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Unit hypersphere of semantic embeddings",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61755",
+    "conference": "ICML 2026",
+    "id": 61755,
+    "title": "Riemannian Dueling Optimization",
+    "authors": "Yuxuan Ren; Abhishek Roy; Shiqian Ma",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=nDfDnsyllY",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61755",
+    "pdf_url": "https://openreview.net/pdf?id=nDfDnsyllY",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RDNGD and projection-free RDFW extend dueling optimization to geodesically smooth and convex settings with iteration/oracle complexity analysis."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "General Riemannian manifolds with comparison-only feedback",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:64721",
+    "conference": "ICML 2026",
+    "id": 64721,
+    "title": "Riemannian Metric Matching for Scalable Geometric Modeling of Distributions",
+    "authors": "Jacob Bamberger; Adam Gosztolai; Pierre Vandergheynst; Michael Bronstein; Iolo Jones",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=KVzXnWPLgX",
+    "conference_url": "https://icml.cc/virtual/2026/poster/64721",
+    "pdf_url": "https://openreview.net/pdf?id=KVzXnWPLgX",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Riemannian metric matching learns geometric operators through denoising and supplies consistent, amortized geometric estimates; infrastructure rather than an optimization update rule."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Learned geometry of data distributions",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:65936",
+    "conference": "ICML 2026",
+    "id": 65936,
+    "title": "Riemannian Networks over Full-Rank Correlation Matrices",
+    "authors": "Ziheng Chen; Xiaojun Wu; Bernhard Schölkopf; Nicu Sebe",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=8k4om4zj5E",
+    "conference_url": "https://icml.cc/virtual/2026/poster/65936",
+    "pdf_url": "https://openreview.net/pdf?id=8k4om4zj5E",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Extends neural-network layers and backpropagation to correlation geometries; related differentiable manifold modeling rather than a new generic solver."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Full-rank correlation matrix manifold",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:62618",
+    "conference": "ICML 2026",
+    "id": 62618,
+    "title": "Riemannian Neural Optimal Transport",
+    "authors": "Alessandro Micheli; Yueqi Cao; Anthea Monod; Samir Bhatt",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=ez4oLq7PR3",
+    "conference_url": "https://icml.cc/virtual/2026/poster/62618",
+    "pdf_url": "https://openreview.net/pdf?id=ez4oLq7PR3",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RNOT learns transport potentials through the Kantorovich semi-dual; its c-transform requires an inner Riemannian gradient-descent solve, optionally with momentum (Appendix E.2)."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "General compact Riemannian manifolds; sphere and torus experiments",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [
+      {
+        "url": "https://arxiv.org/html/2602.03566",
+        "location": "Appendix E.2: inner c-transform minimization by Riemannian gradient descent, optionally with momentum.",
+        "note": "Targeted check recorded in the earlier project catalog; not a complete paper review."
+      }
+    ],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:65835",
+    "conference": "ICML 2026",
+    "id": 65835,
+    "title": "Riemannian Optimization for Fair Spectral Clustering",
+    "authors": "Minh Phu Vuong; Jinyoung Lee; Young-Ju Lee; Chul-Ho Lee",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=9crQp1ibCx",
+    "conference_url": "https://icml.cc/virtual/2026/poster/65835",
+    "pdf_url": "https://openreview.net/pdf?id=9crQp1ibCx",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "R-FairSC uses a Riemannian ADMM formulation with variable splitting to solve fair graph clustering efficiently."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Fairness-constrained spectral-clustering manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:63071",
+    "conference": "ICML 2026",
+    "id": 63071,
+    "title": "Riemannian stochastic optimization for sufficient dimension reduction",
+    "authors": "Thibault Pautrel; François Portier",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=aLnPza1dyT",
+    "conference_url": "https://icml.cc/virtual/2026/poster/63071",
+    "pdf_url": "https://openreview.net/pdf?id=aLnPza1dyT",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "SMAVE derives a Riemannian gradient and stochastic ascent method for sufficient dimension reduction, with convergence analysis for a simplified variant."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Stiefel manifold with a Grassmannian statistical target",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:64699",
+    "conference": "ICML 2026",
+    "id": 64699,
+    "title": "Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows",
+    "authors": "Yuhang Xi; Yu-Feng Yu; Chuan-Xian Ren; Zhao-Rong Lai",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=KjF35IhQGS",
+    "conference_url": "https://icml.cc/virtual/2026/poster/64699",
+    "pdf_url": "https://openreview.net/pdf?id=KjF35IhQGS",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "SBVI treats LoRA as a Bures-Wasserstein gradient flow over Gaussian measures, adapting ranks with spectral dynamics and factorized Riemannian retractions."
+      },
+      {
+        "theme": "Manifold",
+        "note": "SBVI models dynamic LoRA with Wasserstein gradient flows and factorized Riemannian retractions, adapting the distribution of ranks across layers."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Gaussian measures / Bures-Wasserstein geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61996",
+    "conference": "ICML 2026",
+    "id": 61996,
+    "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation",
+    "authors": "Hao Gu; Mao-Lin Luo; Zi-Hao Zhou; Han-Chen Zhang; Min-Ling Zhang; Tong Wei",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=kqE6GjpQTn",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61996",
+    "pdf_url": "https://openreview.net/pdf?id=kqE6GjpQTn",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Uses projected first-order optimization on a restricted Stiefel manifold to balance low-rank adaptation spectra and reduce continual-learning forgetting."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Decouples low-rank update magnitude and direction, then uses projected first-order optimization to balance spectra and reduce forgetting in continual adaptation."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Restricted Stiefel manifold",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:66371",
+    "conference": "ICML 2026",
+    "id": 66371,
+    "title": "Stochastic Gradient Variational Inference with Price's Gradient Estimator from Bures-Wasserstein to Parameter Space",
+    "authors": "Kyurae Kim; Qiang Fu; Yian Ma; Jacob Gardner; Trevor Campbell",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=4HquuQN4qK",
+    "conference_url": "https://icml.cc/virtual/2026/poster/66371",
+    "pdf_url": "https://openreview.net/pdf?id=4HquuQN4qK",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Compares Wasserstein VI and parameter-space VI, identifying Price's Hessian-based gradient estimator as the source of improved iteration complexity."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Gaussian measures with Bures-Wasserstein geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:63038",
+    "conference": "ICML 2026",
+    "id": 63038,
+    "title": "TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization",
+    "authors": "Haodong WANG; Junjie Liu; Zicong Hong; Qianli Liu; Jian Lin; Song Guo; Xu Chen",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=ahYRAjx7UG",
+    "conference_url": "https://icml.cc/virtual/2026/poster/63038",
+    "pdf_url": "https://openreview.net/pdf?id=ahYRAjx7UG",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "TwinQuant jointly learns transformations on these manifolds to optimize quantization-friendly decompositions of LLM weight matrices."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Stiefel and general linear manifolds",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "ICML:61264",
+    "conference": "ICML 2026",
+    "id": 61264,
+    "title": "TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization",
+    "authors": "Zhixiong Zhao; Zukang Xu; Zhixuan Chen; Xing Hu; Zhe jiang; Dawei Yang",
+    "acceptance": "Accept (regular)",
+    "openreview_url": "https://openreview.net/forum?id=s1WSLFmnr8",
+    "conference_url": "https://icml.cc/virtual/2026/poster/61264",
+    "pdf_url": "https://openreview.net/pdf?id=s1WSLFmnr8",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "TWLA combines a Euclidean-to-manifold quantizer and Kronecker orthogonal shaping for LLM quantization. The abstract does not fully identify the manifold or establish a generic Riemannian solver."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Ternary-weight relocation and orthogonal rotations",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/Kishon-zzx/TWLA"
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-23"
+  },
+  {
+    "key": "NeurIPS:118663",
+    "conference": "NeurIPS 2025",
+    "id": 118663,
+    "title": "A Geometric Analysis of PCA",
+    "authors": "Ayoub El Hanchi; Murat Erdogdu; Chris Maddison",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=KEVjRT4haB",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118663",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Analyzes PCA excess risk through manifold geometry and curvature; supporting statistical theory rather than a new LLM optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Grassmann geometry of PCA",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e9638fbbd671a3361bc807e4e7a71400-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117118",
+    "conference": "NeurIPS 2025",
+    "id": 117118,
+    "title": "A geometric framework for momentum-based optimizers for low-rank training",
+    "authors": "Steffen Schotthöfer; Timon Klein; Jonas Kusch",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=cCefuzQrjK",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117118",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Derives geometry-respecting momentum methods through dynamical low-rank approximation, connecting low-rank training with standard optimizer dynamics."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Develops a geometric framework for momentum-based low-rank training rather than applying an unconstrained optimizer independently to arbitrary factors."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Manifold of low-rank matrices; dynamical low-rank approximation",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/81f1ae463ed30c5d44ff416d134f9071-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117444",
+    "conference": "NeurIPS 2025",
+    "id": 117444,
+    "title": "A Geometry-Aware Metric for Mode Collapse in Time Series Generative Models",
+    "authors": "Yassine ABBAHADDOU; Amine Aboussalah",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=YAc0O13qMc",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117444",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "DMD-GEN compares generated time series through mode subspaces and optimal transport; a geometric evaluation metric, not a manifold optimizer."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Grassmann geometry of dynamic-mode subspaces",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/de4c2179a4ab3728f8a20aeb5a3f1bb6-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116559",
+    "conference": "NeurIPS 2025",
+    "id": 116559,
+    "title": "A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation",
+    "authors": "Etienne Boursier; Scott Pesme; Radu-Alexandru Dragomir",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=iSvAAHGFSw",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116559",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer",
+      "Training dynamics"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      },
+      {
+        "code": "T6",
+        "name": "Feature learning, implicit bias and generalization dynamics",
+        "theme": "Training dynamics"
+      },
+      {
+        "code": "T7",
+        "name": "Initialization, normalization, weight decay and regularization",
+        "theme": "Training dynamics"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Analyzes grokking through slow norm reduction on a manifold of minimizers induced by weight decay."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Explains grokking through weight-decay-induced slow Riemannian norm minimization; primarily an analysis of training dynamics."
+      },
+      {
+        "theme": "Training dynamics",
+        "note": "Analyzes grokking through slow norm reduction on a manifold of minimizers induced by weight decay."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Manifold of loss minimizers",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "Theory / controlled models",
+    "hyperparameters": "Weight decay; minimizer geometry; grokking delay",
+    "training_finding": "Analyzes grokking through slow norm reduction on a manifold of minimizers induced by weight decay.",
+    "training_caveat": "Reuses the earlier source-grounded annotation. Consult the linked paper for assumptions, tested scales and parameterization conventions.",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/de18052eb17cce56554a9637dd5aadba-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:118337",
+    "conference": "NeurIPS 2025",
+    "id": 118337,
+    "title": "Acceleration via silver step-size on Riemannian manifolds with applications to Wasserstein space",
+    "authors": "Jiyoung Park; Abhishek Roy; Jonathan W. Siegel; Anirban Bhattacharya",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=Nl02znfTCT",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118337",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Transfers silver-step acceleration ideas to manifold gradient descent using vector transport, including positive-definite matrix examples."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian and Wasserstein geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/347dae37f42ba41506cf7af753f98560-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116405",
+    "conference": "NeurIPS 2025",
+    "id": 116405,
+    "title": "Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold",
+    "authors": "Xinghan Li; Haodong Wen; Kaifeng Lyu",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=kCUDzyKQ7G",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116405",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer",
+      "Training dynamics"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      },
+      {
+        "code": "T5",
+        "name": "Stability, curvature and edge-of-stability dynamics",
+        "theme": "Training dynamics"
+      },
+      {
+        "code": "T8",
+        "name": "Optimizer dynamics, comparisons and diagnostics",
+        "theme": "Training dynamics"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Analyzes Adam sharpness and implicit regularization near manifolds of minimizers using stochastic dynamics; distinguishes Adam and SGD curvature criteria."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Studies how Adam and SGD select different notions of sharpness near a manifold of minima."
+      },
+      {
+        "theme": "Training dynamics",
+        "note": "Analyzes Adam sharpness and implicit regularization near manifolds of minimizers using stochastic dynamics; distinguishes Adam and SGD curvature criteria."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Manifolds of minimizers and stochastic dynamics",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "Theory / controlled models",
+    "hyperparameters": "Adam noise; minimizer manifold; sharpness criterion",
+    "training_finding": "Analyzes Adam sharpness and implicit regularization near manifolds of minimizers using stochastic dynamics; distinguishes Adam and SGD curvature criteria.",
+    "training_caveat": "Reuses the earlier source-grounded annotation. Consult the linked paper for assumptions, tested scales and parameterization conventions.",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a82b0c6d19e4f53c5f2252a742ae8d5e-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116261",
+    "conference": "NeurIPS 2025",
+    "id": 116261,
+    "title": "Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing",
+    "authors": "Kangkang Deng; Jiachen Jin; Jiang Hu; Hongxia Wang",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=lni933mlvF",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116261",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "ARADMM combines Riemannian-gradient and proximal steps in an adaptive augmented-Lagrangian splitting method."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian constraints; nonsmooth composite objectives",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/bc46f5d72f432de4c58e1a311bad011b-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119506",
+    "conference": "NeurIPS 2025",
+    "id": 119506,
+    "title": "An Adaptive Algorithm for Bilevel Optimization on Riemannian Manifolds",
+    "authors": "Xu Shi; Rufeng Xiao; Rujun Jiang",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=9r3OQhPiqT",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119506",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "AdaRHD adapts hypergradient steps in bilevel manifold optimization and analyzes the effect of retraction geometry."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian bilevel optimization and retractions",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/867bc56be95b320a3a7af20bb4cbd9a8-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:118190",
+    "conference": "NeurIPS 2025",
+    "id": 118190,
+    "title": "Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space",
+    "authors": "Mingyang Yi; Bohan Wang",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=PlQqwb7Bte",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118190",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Analyzes continuous-time Riemannian SGD and variance-reduced flows in Wasserstein geometry."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Wasserstein space of probability measures",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/551d050b0e351ad566e00a088d1e7b1f-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:115564",
+    "conference": "NeurIPS 2025",
+    "id": 115564,
+    "title": "Finding Low-Rank Matrix Weights in DNNs via Riemannian Optimization: RAdaGrad and RAdamW",
+    "authors": "Fengmiao Bian; Jinyang ZHENG; Ziyun Liu; Jianzhou Luo; Jian-Feng CAI",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=tiGFiCrmKm",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/115564",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "RAdaGrad and RAdamW optimize fixed-rank weight matrices with adaptive Riemannian metrics; experiments include LLM and diffusion-model adaptation."
+      },
+      {
+        "theme": "Manifold",
+        "note": "RAdaGrad and RAdamW perform adaptive Riemannian optimization directly on fixed-rank matrix weights."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Fixed-rank matrix manifold with adaptive metrics",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5679173c400b332796426e443ab5ea0d-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117078",
+    "conference": "NeurIPS 2025",
+    "id": 117078,
+    "title": "Finite-Time Analysis of Stochastic Nonconvex Nonsmooth  Optimization on the Riemannian Manifolds",
+    "authors": "Emre Sahinoglu; Youbang Sun; Shahin Shahrampour",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=cbWApYUvZ9",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117078",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Develops stochastic and zeroth-order algorithms with complexity guarantees for nonsmooth nonconvex manifold optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "General Riemannian manifolds",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c2bd9242609219deb380f161682f4568-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119377",
+    "conference": "NeurIPS 2025",
+    "id": 119377,
+    "title": "Follow the Energy, Find the Path: Riemannian Metrics from Energy-Based Models",
+    "authors": "Louis Bethune; David Vigouroux; Yilun Du; Rufin VanRullen; Thomas Serre; Victor Boutin",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=BOiQ7Kd5Lx",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119377",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Constructs data-dependent geometry and studies geodesics; relevant geometric computation, with a different target from training an optimizer on a fixed manifold."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian metric induced by an energy model",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/8cc4d34998c0b4006641ccd1341022b7-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116485",
+    "conference": "NeurIPS 2025",
+    "id": 116485,
+    "title": "PoLAR: Polar-Decomposed Low-Rank Adapter Representation",
+    "authors": "Kai Lion; Liang Zhang; Bingcong Li; Niao He",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=jDxFD45kkc",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116485",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X1",
+        "name": "Matrix functions, roots and matrix geometry",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "PoLAR uses two orthonormal factors and a scale factor with Riemannian optimization for parameter-efficient fine-tuning."
+      },
+      {
+        "theme": "Manifold",
+        "note": "PoLAR uses a polar-inspired low-rank parameterization and Riemannian factor updates for fine-tuning."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "PoLAR uses a polar-inspired three-factor representation and Riemannian updates for orthonormal factors."
+      }
+    ],
+    "quantity": "Geometrically separated low-rank directions and scales",
+    "method": "PoLAR uses a polar-inspired three-factor representation and Riemannian updates for orthonormal factors.",
+    "caveat": "A fine-tuning parameterization; it is not a new general-purpose polar-decomposition solver.",
+    "matrix_scope": "Deep learning",
+    "geometry": "Two Stiefel factors with a separate scale",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/db79b6c50430a52fbab9d63efb8433ca-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117955",
+    "conference": "NeurIPS 2025",
+    "id": 117955,
+    "title": "Riemannian Consistency Model",
+    "authors": "Chaoran Cheng; Yusong Wang; Yuxin Chen; Xiangxin Zhou; Nanning Zheng; Ge Liu",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=SAlCQdk5lx",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117955",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Riemannian consistency modeling simplifies geometric generative objectives using covariant derivatives and exponential-map structure; adjacent to optimization."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "SO(3), spheres and flat tori",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7422317f84e8c83e4c1ad2ff87e1e88e-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:118350",
+    "conference": "NeurIPS 2025",
+    "id": 118350,
+    "title": "Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry",
+    "authors": "Antoine Collas; Ce Ju; Nicolas Salvy; Bertrand Thirion",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=NY3LzmUXl7",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118350",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Matrix computation"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X1",
+        "name": "Matrix functions, roots and matrix geometry",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "DiffeoCFM transports matrix-manifold flow matching through diffeomorphisms so that the training objective can be implemented in Euclidean coordinates."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "DiffeoCFM uses matrix diffeomorphisms and pullback metrics to transform geometric flow matching into Euclidean computations."
+      }
+    ],
+    "quantity": "Flow-matching computations on SPD and correlation matrices",
+    "method": "DiffeoCFM uses matrix diffeomorphisms and pullback metrics to transform geometric flow matching into Euclidean computations.",
+    "caveat": "Equivalence is tied to the selected diffeomorphism and pullback metric, not every canonical matrix-manifold metric.",
+    "matrix_scope": "Deep learning",
+    "geometry": "SPD and correlation matrices with pullback geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/antoinecollas/DiffeoCFM"
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5616112a0120c15bf7d47a6bccc21bc3-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:118588",
+    "conference": "NeurIPS 2025",
+    "id": 118588,
+    "title": "Riemannian Proximal Sampler for High-accuracy Sampling on Manifolds",
+    "authors": "Yunrui Guan; Krishnakumar Balasubramanian; Shiqian Ma",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=KxhCJc8BOg",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118588",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Develops high-accuracy sampling using manifold heat-kernel oracles; relevant to geometric numerical methods but targets sampling."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Riemannian heat kernels and proximal sampling",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/8e185f16e458ef5e666901260079cd42-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116292",
+    "conference": "NeurIPS 2025",
+    "id": 116292,
+    "title": "Robust Hyperbolic Learning with Curvature-Aware Optimization",
+    "authors": "Ahmad Bdeir; Johannes Burchert; Lars Schmidt-Thieme; Niels Landwehr",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=lJ5WCJZfQn",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116292",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "J",
+        "name": "Adjacent numerical, architectural, and specialized training methods",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Develops curvature-aware Riemannian AdamW updates for robust hyperbolic learning."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Introduces curvature-aware Riemannian AdamW for stable hyperbolic-model learning."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Hyperbolic manifolds with variable curvature",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/75817c38dd91ccef8add921b2eb4284a-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119625",
+    "conference": "NeurIPS 2025",
+    "id": 119625,
+    "title": "RSAVQ: Riemannian Sensitivity-Aware Vector Quantization for Large Language Models",
+    "authors": "Zukang Xu; Xing Hu; Qiang Wu; Dawei Yang",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=8Ounc8L4F7",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119625",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Matrix computation"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X6",
+        "name": "Matrix and tensor methods for compression",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "RSAVQ uses the Fisher metric to guide weight-quantization directions and precision allocation; this is geometry-aware quantization, not a generic constrained manifold optimizer."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "RSAVQ uses Fisher-Rao geometry to guide adaptive vector quantization."
+      }
+    ],
+    "quantity": "Curvature-weighted quantization errors and bit allocation",
+    "method": "RSAVQ uses Fisher-Rao geometry to guide adaptive vector quantization.",
+    "caveat": "The metric is estimated and quantization remains lossy; this is not exact model preservation.",
+    "matrix_scope": "Deep learning",
+    "geometry": "Fisher-Rao metric for quantization",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/022a921af644da887f5930377f9d53d6-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117312",
+    "conference": "NeurIPS 2025",
+    "id": 117312,
+    "title": "Sharper Convergence Rates for Nonconvex Optimisation via Reduction Mappings",
+    "authors": "Evan Markou; Thalaiyasingam Ajanthan; Stephen Gould",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=ZvqbNFWQkh",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117312",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "G",
+        "name": "Optimizer theory, benchmarks, and training dynamics",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M5",
+        "name": "Supporting geometry, statistics, and training-dynamics papers",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Uses reduction mappings near manifolds of minimizers to improve the geometry of reparameterized optimization problems."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Studies how reparameterizations near minimizer manifolds alter local curvature and optimization behavior."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Manifold of minimizers and reduction mappings",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/812f0e17bf0fa2a31a3d0b24dca49462-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:118902",
+    "conference": "NeurIPS 2025",
+    "id": 118902,
+    "title": "Siegel Neural Networks",
+    "authors": "Xuan Son Nguyen; Aymeric Histace; Nistor Grozavu",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=HIV6t8BAZY",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/118902",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Uses quotient geometry and vector-valued distances to construct neural-network layers; a supporting representation method."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Siegel spaces and quotient geometry",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/ca1c61a02f458bde48180fc15ae50631-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117290",
+    "conference": "NeurIPS 2025",
+    "id": 117290,
+    "title": "Spectral Graph Coarsening Using Inner Product Preservation and the Grassmann Manifold",
+    "authors": "Ido Cohen; Ronen Talmon",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=aBUG2Phwdt",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117290",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Matrix computation"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X2",
+        "name": "Eigenproblems, spectral computation and SVD analysis",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "Optimizes graph-coarsening subspaces on a Grassmann manifold to control inner-product distortion."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "Optimizes a low-dimensional Grassmann representation to preserve graph inner products."
+      }
+    ],
+    "quantity": "Subspaces and inner products for graph coarsening",
+    "method": "Optimizes a low-dimensional Grassmann representation to preserve graph inner products.",
+    "caveat": "Coarsening changes the graph representation; the optimization controls distortion rather than eliminating it.",
+    "matrix_scope": "General ML",
+    "geometry": "Grassmann manifold of subspaces",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/aa4bee5e2720d7e8f073d762ee8c7fd4-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119898",
+    "conference": "NeurIPS 2025",
+    "id": 119898,
+    "title": "StelLA: Subspace Learning in Low-rank Adaptation using Stiefel Manifold",
+    "authors": "Zhizhong Li; Sina Sajadmanesh; Jingtao Li; Lingjuan Lyu",
+    "acceptance": "Accept (spotlight)",
+    "openreview_url": "https://openreview.net/forum?id=55Lv1unlUL",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119898",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "I",
+        "name": "Fine-tuning, LoRA, privacy, and specialized post-training",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "StelLA separates low-rank directions and scales and converts Euclidean optimizers to Riemannian updates for orthonormal factors in fine-tuning."
+      },
+      {
+        "theme": "Manifold",
+        "note": "StelLA trains orthonormal direction factors on Stiefel manifolds while separately optimizing the low-rank scale, including LLM fine-tuning."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Stiefel manifolds for low-rank factors",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [
+      {
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf",
+        "location": "Sections 3–4 and Algorithm 1, pages 3–5.",
+        "note": "Verified Stiefel tangent projection and polar retraction. The implementation batches SVDs of equal-shaped factors to reduce retraction overhead."
+      }
+    ],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/SonyResearch/stella."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cb0c6e7d50d5d65613f0456ca85e2db-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119775",
+    "conference": "NeurIPS 2025",
+    "id": 119775,
+    "title": "SubTrack++ : Gradient Subspace Tracking for Scalable LLM Training",
+    "authors": "Sahar Rajabi; Nayeema Nonta; Sirisha Rambhatla",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=6geRIdlFWJ",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119775",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "D",
+        "name": "Memory-efficient and low-precision optimizers",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M2",
+        "name": "Manifold-based LLM training and low-rank adaptation",
+        "theme": "Manifold"
+      },
+      {
+        "code": "X2",
+        "name": "Eigenproblems, spectral computation and SVD analysis",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "SubTrack++ tracks gradient subspaces on a Grassmann manifold and corrects projected Adam statistics for memory-efficient language-model training."
+      },
+      {
+        "theme": "Manifold",
+        "note": "SubTrack++ treats memory-efficient gradient subspace tracking as Grassmann optimization, with projection-aware adaptive optimizer statistics."
+      },
+      {
+        "theme": "Matrix computation",
+        "note": "SubTrack++ updates the projection subspace using Grassmann geometry and adjusts Adam statistics for projection changes."
+      }
+    ],
+    "quantity": "Time-varying low-rank gradient subspaces",
+    "method": "SubTrack++ updates the projection subspace using Grassmann geometry and adjusts Adam statistics for projection changes.",
+    "caveat": "Gradient compression remains approximate; subspace tracking and statistic corrections address its changing geometry.",
+    "matrix_scope": "Deep learning",
+    "geometry": "Grassmann manifold of gradient subspaces",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [
+      {
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf",
+        "location": "Section 3 and Algorithm 1, pages 2–4.",
+        "note": "Verified SVD initialization, rank-one Grassmann geodesic subspace updates, and changes to projected Adam statistics. Tracking still uses singular-vector computations."
+      }
+    ],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/criticalml-uw/SubTrack."
+    ],
+    "featured_rank": 22,
+    "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2d62cb71e87ae340e3ab0e874befcbc2-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:117534",
+    "conference": "NeurIPS 2025",
+    "id": 117534,
+    "title": "The Quotient Bayesian Learning Rule",
+    "authors": "Mykola Lukashchuk; Raphaël Trésor; Wouter Nuijten; Ismail Senoz; Bert Vries",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=XDisynd63Y",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/117534",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf",
+    "themes": [
+      "Manifold",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "J",
+        "name": "Adjacent numerical, architectural, and specialized training methods",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "M1",
+        "name": "General manifold algorithms and convergence theory",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Optimizer",
+        "note": "Defines quotient natural-gradient learning for non-exponential distribution families using an exponential-family covering space and inherited Fisher geometry."
+      },
+      {
+        "theme": "Manifold",
+        "note": "Defines a quotient natural-gradient rule through a covering exponential family for learning with non-exponential distributions."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Quotient Fisher-Rao geometry",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0ce1eb87dbb03fdfa872a93d15cfe333-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:116259",
+    "conference": "NeurIPS 2025",
+    "id": 116259,
+    "title": "Towards a General Attention Framework on Gyrovector Spaces for Matrix Manifolds",
+    "authors": "Rui Wang; Chen Hu; Xiaoning Song; Xiaojun Wu; Nicu Sebe; Ziheng Chen",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=lovTDtbsdZ",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/116259",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M4",
+        "name": "Related constrained and geometry-aware optimization",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "GyroAtt builds geometry-aware attention operators; relevant matrix-manifold architecture, not a general-purpose manifold optimization algorithm."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "SPD, semidefinite and Grassmann matrix geometries",
+    "manifold_scope": "Related/supporting",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a2e3b4132ab2e0b7a21e6e75da7f91a9-Abstract-Conference.html"
+  },
+  {
+    "key": "NeurIPS:119817",
+    "conference": "NeurIPS 2025",
+    "id": 119817,
+    "title": "VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold",
+    "authors": "Dominic Maggio; Hyungtae Lim; Luca Carlone",
+    "acceptance": "Accept (poster)",
+    "openreview_url": "https://openreview.net/forum?id=63ljkCGMhE",
+    "conference_url": "https://neurips.cc/virtual/2025/poster/119817",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf",
+    "themes": [
+      "Manifold"
+    ],
+    "categories": [
+      {
+        "code": "M3",
+        "name": "Applications that explicitly optimize or solve problems on manifolds",
+        "theme": "Manifold"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Manifold",
+        "note": "VGGT-SLAM optimizes projective alignment on SL(4) to resolve reconstruction ambiguity in a SLAM pipeline."
+      }
+    ],
+    "quantity": "",
+    "method": "",
+    "caveat": "",
+    "matrix_scope": "",
+    "geometry": "Special linear group SL(4)",
+    "manifold_scope": "Direct algorithm/theory/application",
+    "fulltext_checks": [],
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "code_links": [
+      "https://github.com/MIT-SPARK/VGGT-SLAM."
+    ],
+    "featured_rank": 0,
+    "evidence": "Official accepted-paper title and abstract",
+    "snapshot_date": "2026-09-24",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/bc65ab11abfbad890171109686233f4e-Abstract-Conference.html"
+  }
+]
