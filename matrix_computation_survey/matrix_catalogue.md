@@ -1,19 +1,19 @@
 # All Papers — Matrix computation and numerical methods
 
-186 curated papers: 51 ICLR 2026, 65 ICML 2026, 70 NeurIPS 2025. Updated 2026-09-24.
+191 curated papers: 1 CVPR 2021, 51 ICLR 2026, 1 ICML 2024, 65 ICML 2026, 1 NeurIPS 2023, 70 NeurIPS 2025, 2 arXiv. Updated 2026-09-24.
 
 The catalog separates direct deep-learning applications, general ML, theoretical foundations and scientific computing. X9 includes adjacent numerical primitives beyond matrix algebra. Each entry records the computed quantity, computational idea, qualification and primary-source links. Most entries are supported by the accepted abstract; targeted full-text checks are marked.
 
 | Category | Papers |
 |---|---:|
 | X1 — Matrix functions, roots and matrix geometry | 13 |
-| X2 — Eigenproblems, spectral computation and SVD analysis | 17 |
-| X3 — Fisher, Hessian, derivatives and implicit differentiation | 33 |
-| X4 — Randomized sketching and kernel approximations | 16 |
+| X2 — Eigenproblems, spectral computation and SVD analysis | 20 |
+| X3 — Fisher, Hessian, derivatives and implicit differentiation | 34 |
+| X4 — Randomized sketching and kernel approximations | 17 |
 | X5 — Attention, state-space algebra and parallel scans | 36 |
-| X6 — Matrix and tensor methods for compression | 30 |
+| X6 — Matrix and tensor methods for compression | 31 |
 | X7 — Structured products, transforms and GPU kernels | 17 |
-| X8 — Linear systems, sparse solvers and Gaussian processes | 15 |
+| X8 — Linear systems, sparse solvers and Gaussian processes | 16 |
 | X9 — Related numerical primitives and computation | 9 |
 
 ## X1 — Matrix functions, roots and matrix geometry
@@ -503,6 +503,30 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **Code links listed by authors:** [Repository](<https://github.com/hiahei/Swift-SVD.>). Links extracted from the accepted abstract; code was not tested.
 
+### Block Low-Rank Preconditioner with Shared Basis for Stochastic Optimization
+
+**NeurIPS 2023 · Published** · Jui-Nan Yen; Sai Surya Duvvuri; Inderjit S. Dhillon; Cho-Jui Hsieh
+
+[Primary source](<https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** B — Shampoo, structured curvature, and matrix-function computation; X2 — Eigenproblems, spectral computation and SVD analysis; X3 — Fisher, Hessian, derivatives and implicit differentiation.
+
+[Accepted proceedings](<https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html>)
+
+**Quantity:** Block-diagonal gradient second-moment matrices and their preconditioners.
+
+**Computational idea:** Represent each block as B R_i B^T. Update the common basis through randomized subspace iteration, reusing the previous basis and structured matrix products without materializing the full blocks.
+
+**Scope:** Deep learning. **Qualification:** The approximation concerns gradient second-moment blocks, not the two EMA Kronecker factors of KFAC. Shared-basis and block-diagonal restrictions discard information. Reported experiments include autoencoders and a 19.3M-parameter Transformer, not billion-parameter LLM pretraining.
+
+**Research note relevance:** Approximates second-moment blocks using one shared low-rank basis per layer and a separate small coefficient matrix for each block. An online update maintains this structure during training, providing a related design for low-rank preconditioning beyond KFAC.
+
+**Evidence:** Official NeurIPS 2023 proceedings metadata and abstract; targeted full-text passage checked.
+
+- [Targeted passage](<https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf>): Section 2.2, equation (4), online shared-basis update and equation (5), pages 4-5; introduction for benchmark scope. Checked shared basis with per-block dense coefficients and implicit randomized basis updates.
+
 ### Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems
 
 **NeurIPS 2025 · Accept (poster)** · Minchan Jeong; Jongha (Jon) Ryu; Se-Young Yun; Gregory Wornell
@@ -657,6 +681,50 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **Code links listed by authors:** [Repository](<https://github.com/criticalml-uw/SubTrack.>). Links extracted from the accepted abstract; code was not tested.
 
+### Brand New K-FACs: Speeding up K-FAC with Online Decomposition Updates
+
+**arXiv · 2022 · Preprint** · Constantin Octavian Puiu
+
+[Primary source](<https://arxiv.org/abs/2210.08494>) · [PDF](<https://arxiv.org/pdf/2210.08494v2>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X2 — Eigenproblems, spectral computation and SVD analysis.
+
+**Quantity:** Online low-rank representations and inverse applications for EMA KFAC factors.
+
+**Computational idea:** Scale the retained eigenvalues by the EMA decay and apply a symmetric Brand update for the incoming factor. Algorithm 4 truncates to rank r before the update and uses the expanded rank r + minibatch-size representation for preconditioning.
+
+**Scope:** Deep learning. **Qualification:** Truncation accumulates approximation error; speed depends on rank plus minibatch size being small relative to layer width. First posted in 2022, revised in September 2023; the source-provided BibTeX cites the 2023 revision. Listed as a preprint.
+
+**Research note relevance:** B-KFAC maintains a low-rank eigendecomposition of EMA KFAC factors using a symmetric version of Brand's online SVD update. It reuses the previous decomposition and incorporates incoming minibatch factors, making it directly relevant to online low-rank curvature tracking.
+
+**Evidence:** arXiv metadata and abstract, version 2 (12 September 2023); targeted full-text passage checked.
+
+- [Targeted passage](<https://arxiv.org/pdf/2210.08494v2>): Section 2.3 (symmetric Brand update), Section 3.1 and Algorithm 4, pages 6-8. Checked EMA scaling, truncation before the update, the expanded representation used for the inverse, and the conditional width-scaling claim.
+
+### Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra
+
+**arXiv · 2022 · Preprint** · Constantin Octavian Puiu
+
+[Primary source](<https://arxiv.org/abs/2206.15397>) · [PDF](<https://arxiv.org/pdf/2206.15397v3>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X2 — Eigenproblems, spectral computation and SVD analysis; X4 — Randomized sketching and kernel approximations.
+
+**Quantity:** Leading eigenspaces and approximate damped inverses of EMA KFAC factors.
+
+**Computational idea:** Replace a full factor eigendecomposition with randomized low-rank decomposition. Unlike Brand New K-FACs, the decomposition is recomputed rather than maintained through online Brand updates.
+
+**Scope:** Deep learning. **Qualification:** Low-rank truncation and randomized projection introduce error. The spectral result assumes bounds on incoming factors and a lower bound on the leading eigenvalue; it is not an unconditional fixed-rank guarantee. Verified as a 2022 arXiv preprint, not an accepted conference paper.
+
+**Research note relevance:** RS-KFAC and SRE-KFAC use randomized SVD or symmetric randomized eigendecomposition to retain leading modes of exponentially averaged KFAC factors. The paper motivates this approximation using spectral decay induced by EMA updates, with theory under stated assumptions and empirical evidence.
+
+**Evidence:** arXiv metadata and abstract, version 3 (25 November 2022); targeted full-text passage checked.
+
+- [Targeted passage](<https://arxiv.org/pdf/2206.15397v3>): Sections 2.2-2.3 and Section 3, Proposition 3.1. Checked randomized SVD/EVD, the two approximation-error sources, and the assumptions in the EMA eigenspectrum bound.
+
 
 ## X3 — Fisher, Hessian, derivatives and implicit differentiation
 
@@ -798,17 +866,19 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
-**Quantity:** Memory-efficient structured Fisher preconditioners.
+**Quantity:** Structured Fisher preconditioners and projected EMA states for LLMs.
 
-**Computational idea:** Derive row/column-scaled and low-rank approximations, yielding RACS and Alice optimizers.
+**Computational idea:** RACS uses row/column scaling; Alice uses subspace iteration, low-rank state tracking, subspace switching and compensation to extend Eigen-Adam.
 
-**Scope:** Deep learning. **Qualification:** Structural approximations trade curvature fidelity for storage and computation.
+**Scope:** Deep learning. **Qualification:** Alice is a low-rank extension of Eigen-Adam, not an implemented low-rank SOAP method. The new detailed method check uses arXiv:2502.07752v2 (2025); the ICLR 2026 venue comes from the accepted-program record.
 
-**Optimizer relevance:** Structured empirical-Fisher approximation unifies optimizer designs and yields RACS and Alice; includes low-rank tracking and residual compensation for memory-efficient LLaMA pretraining.
+**Optimizer relevance:** Structured Fisher approximation motivates RACS (Row and Column Scaled SGD) and Alice (Adaptive low-dimensional subspace estimation). Alice extends Eigen-Adam through low-rank tracking of projected EMA states, subspace switching and compensation. This connects memory-efficient LLM optimization to low-rank curvature tracking; Sections 5 and 8 of the arXiv version explicitly leave a low-rank SOAP extension for future work.
 
 **Evidence:** Official accepted-paper title and abstract; targeted full-text passage checked.
 
 - [Targeted passage](<https://openreview.net/pdf?id=KUFZXdem5R>): Figure 1 and Section 2: block-diagonal/Kronecker empirical-Fisher approximations and relation to K-FAC; indexed accepted-paper full text. Targeted check recorded in the earlier project catalog; not a complete paper review.
+
+- [Targeted passage](<https://arxiv.org/pdf/2502.07752v2>): Section 5 (tracking, subspace switching and compensation), Section 8 (future work), arXiv version 2, 20 February 2025. Checked Alice as a low-rank Eigen-Adam extension and the explicit future-work statement for low-rank SOAP. This additional check is of the preprint, not the accepted OpenReview PDF.
 
 ### Understanding and improving Shampoo and SOAP via Kullback-Leibler Minimization
 
@@ -1083,6 +1153,30 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 **Optimizer relevance:** Structured Fisher approximation: matrix-free Fisher factorization (MFF) and GFWSVD preserve non-diagonal parameter sensitivity for neural-network and LLM compression.
 
 **Evidence:** Official accepted-paper title and abstract.
+
+### Block Low-Rank Preconditioner with Shared Basis for Stochastic Optimization
+
+**NeurIPS 2023 · Published** · Jui-Nan Yen; Sai Surya Duvvuri; Inderjit S. Dhillon; Cho-Jui Hsieh
+
+[Primary source](<https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** B — Shampoo, structured curvature, and matrix-function computation; X2 — Eigenproblems, spectral computation and SVD analysis; X3 — Fisher, Hessian, derivatives and implicit differentiation.
+
+[Accepted proceedings](<https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html>)
+
+**Quantity:** Block-diagonal gradient second-moment matrices and their preconditioners.
+
+**Computational idea:** Represent each block as B R_i B^T. Update the common basis through randomized subspace iteration, reusing the previous basis and structured matrix products without materializing the full blocks.
+
+**Scope:** Deep learning. **Qualification:** The approximation concerns gradient second-moment blocks, not the two EMA Kronecker factors of KFAC. Shared-basis and block-diagonal restrictions discard information. Reported experiments include autoencoders and a 19.3M-parameter Transformer, not billion-parameter LLM pretraining.
+
+**Research note relevance:** Approximates second-moment blocks using one shared low-rank basis per layer and a separate small coefficient matrix for each block. An online update maintains this structure during training, providing a related design for low-rank preconditioning beyond KFAC.
+
+**Evidence:** Official NeurIPS 2023 proceedings metadata and abstract; targeted full-text passage checked.
+
+- [Targeted passage](<https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf>): Section 2.2, equation (4), online shared-basis update and equation (5), pages 4-5; introduction for benchmark scope. Checked shared basis with per-block dense coefficients and implicit randomized basis updates.
 
 ### A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input
 
@@ -1664,6 +1758,28 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 **Evidence:** Official accepted-paper title and abstract.
 
 **Code links listed by authors:** [Repository](<https://github.com/yokiwuuu/KrossFuse.>). Links extracted from the accepted abstract; code was not tested.
+
+### Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra
+
+**arXiv · 2022 · Preprint** · Constantin Octavian Puiu
+
+[Primary source](<https://arxiv.org/abs/2206.15397>) · [PDF](<https://arxiv.org/pdf/2206.15397v3>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X2 — Eigenproblems, spectral computation and SVD analysis; X4 — Randomized sketching and kernel approximations.
+
+**Quantity:** Leading eigenspaces and approximate damped inverses of EMA KFAC factors.
+
+**Computational idea:** Replace a full factor eigendecomposition with randomized low-rank decomposition. Unlike Brand New K-FACs, the decomposition is recomputed rather than maintained through online Brand updates.
+
+**Scope:** Deep learning. **Qualification:** Low-rank truncation and randomized projection introduce error. The spectral result assumes bounds on incoming factors and a lower bound on the leading eigenvalue; it is not an unconditional fixed-rank guarantee. Verified as a 2022 arXiv preprint, not an accepted conference paper.
+
+**Research note relevance:** RS-KFAC and SRE-KFAC use randomized SVD or symmetric randomized eigendecomposition to retain leading modes of exponentially averaged KFAC factors. The paper motivates this approximation using spectral decay induced by EMA updates, with theory under stated assumptions and empirical evidence.
+
+**Evidence:** arXiv metadata and abstract, version 3 (25 November 2022); targeted full-text passage checked.
+
+- [Targeted passage](<https://arxiv.org/pdf/2206.15397v3>): Sections 2.2-2.3 and Section 3, Proposition 3.1. Checked randomized SVD/EVD, the two approximation-error sources, and the assumptions in the EMA eigenspectrum bound.
 
 
 ## X5 — Attention, state-space algebra and parallel scans
@@ -2635,6 +2751,30 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **Code links listed by authors:** [Repository](<https://github.com/SAI-Lab-NYU/WSVD.>). Links extracted from the accepted abstract; code was not tested.
 
+### GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+
+**ICML 2024 · Published** · Jiawei Zhao; Zhenyu Zhang; Beidi Chen; Zhangyang Wang; Anima Anandkumar; Yuandong Tian
+
+[Primary source](<https://proceedings.mlr.press/v235/zhao24s.html>) · [PDF](<https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhao24s/zhao24s.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** D — Memory-efficient and low-precision optimizers; X6 — Matrix and tensor methods for compression.
+
+[Accepted proceedings](<https://proceedings.mlr.press/v235/zhao24s.html>)
+
+**Quantity:** Projected gradients and compressed optimizer states.
+
+**Computational idea:** Use leading singular vectors of the current gradient to form low-rank projections, apply an optimizer such as Adam in the projected space, then lift its update to the original weight matrix.
+
+**Scope:** Deep learning. **Qualification:** GaLore compresses gradients and optimizer states rather than KFAC factors or a Fisher approximation. Weights remain full-sized; low-rank projection changes the update and periodic SVD refreshes have a computational cost.
+
+**Research note relevance:** GaLore projects gradients into a low-rank subspace, maintains optimizer states there, and maps updates back to the full parameter space. Periodically refreshed projection bases allow full-parameter learning while reducing optimizer-state memory, making it relevant to LLM low-rank optimizer design.
+
+**Evidence:** Official ICML 2024 PMLR proceedings metadata and abstract; targeted full-text passage checked.
+
+- [Targeted passage](<https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhao24s/zhao24s.pdf>): Algorithm 1; Sections 3.3 and 4.1, equations (12)-(14). Checked projected optimization, SVD basis refresh and composition of updates across changing subspaces.
+
 ### Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
 
 **ICML 2026 · Accept (regular)** · Moritz Thoma; Maximilian Groezinger; Maximilian Forstenhäusler; Emad Aghajanzadeh; Manoj Rohit Vemparala; Christos Anagnostopoulos; Pierpaolo Mori; Nael Fasfous; Alexander Frickenstein; Daniel Mueller-Gritschneder; Ulf Schlichtmann
@@ -3326,6 +3466,28 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 
 ## X8 — Linear systems, sparse solvers and Gaussian processes
+
+### SKFAC: Training Neural Networks With Faster Kronecker-Factored Approximate Curvature
+
+**CVPR 2021 · Published** · Zedong Tang; Fenlong Jiang; Maoguo Gong; Hao Li; Yue Wu; Fan Yu; Zidong Wang; Min Wang
+
+[Primary source](<https://openaccess.thecvf.com/content/CVPR2021/html/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.html>) · [PDF](<https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
+
+**Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X8 — Linear systems, sparse solvers and Gaussian processes.
+
+**Quantity:** Damped inverses of minibatch KFAC factors.
+
+**Computational idea:** For a factor lambda I + Y^T Y / M, invert M lambda I + YY^T when the minibatch size M is smaller than the layer dimension; use direct inversion otherwise.
+
+**Scope:** Deep learning. **Qualification:** The fully connected-layer inversion is exact for the chosen damped minibatch factors. The Fisher/Kronecker model and convolutional extensions introduce approximations. This is not an online eigenspace tracker for full EMA factors; the benefit depends on batch size versus width.
+
+**Research note relevance:** Swift KFAC (SKFAC) exploits the low rank of minibatch activation and output-derivative Gram matrices. A Woodbury-form identity moves damped factor inversion to a batch-sized system, connecting low-rank preconditioning to efficient KFAC computation.
+
+**Evidence:** Official CVPR proceedings metadata and abstract; targeted full-text passage checked.
+
+- [Targeted passage](<https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.pdf>): Section 3.1, Theorem 1, equations (13)-(17), Algorithm 1; Section 3.2. Checked the batch-sized inversion formula, the batch-size condition and the need for additional convolutional approximations.
 
 ### Differentiable Model Predictive Control on the GPU
 

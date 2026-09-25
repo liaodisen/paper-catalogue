@@ -1,5 +1,69 @@
 [
   {
+    "key": "CVPR:2021-SKFAC",
+    "id": "CVPR:2021-SKFAC",
+    "title": "SKFAC: Training Neural Networks With Faster Kronecker-Factored Approximate Curvature",
+    "conference": "CVPR 2021",
+    "year": 2021,
+    "authors": "Zedong Tang; Fenlong Jiang; Maoguo Gong; Hao Li; Yue Wu; Fan Yu; Zidong Wang; Min Wang",
+    "acceptance": "Published",
+    "publication_status": "Published",
+    "source_url": "https://openaccess.thecvf.com/content/CVPR2021/html/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.html",
+    "doi": "",
+    "pdf_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.pdf",
+    "openreview_url": "",
+    "conference_url": "",
+    "proceedings_url": "",
+    "themes": [
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "A",
+        "name": "KFAC / EKFAC methods, applications, and substantive evaluations",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "X8",
+        "name": "Linear systems, sparse solvers and Gaussian processes",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Research note",
+        "note": "Swift KFAC (SKFAC) exploits the low rank of minibatch activation and output-derivative Gram matrices. A Woodbury-form identity moves damped factor inversion to a batch-sized system, connecting low-rank preconditioning to efficient KFAC computation."
+      }
+    ],
+    "quantity": "Damped inverses of minibatch KFAC factors",
+    "method": "For a factor lambda I + Y^T Y / M, invert M lambda I + YY^T when the minibatch size M is smaller than the layer dimension; use direct inversion otherwise.",
+    "caveat": "The fully connected-layer inversion is exact for the chosen damped minibatch factors. The Fisher/Kronecker model and convolutional extensions introduce approximations. This is not an online eigenspace tracker for full EMA factors; the benefit depends on batch size versus width.",
+    "matrix_scope": "Deep learning",
+    "geometry": "",
+    "manifold_scope": "",
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "featured_rank": 0,
+    "code_links": [],
+    "fulltext_checks": [
+      {
+        "url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.pdf",
+        "location": "Section 3.1, Theorem 1, equations (13)-(17), Algorithm 1; Section 3.2.",
+        "note": "Checked the batch-sized inversion formula, the batch-size condition and the need for additional convolutional approximations."
+      }
+    ],
+    "evidence": "Official CVPR proceedings metadata and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "bibtex_source": "https://openaccess.thecvf.com/content/CVPR2021/html/Tang_SKFAC_Training_Neural_Networks_With_Faster_Kronecker-Factored_Approximate_Curvature_CVPR_2021_paper.html",
+    "bibtex_kind": "Source-provided citation",
+    "bibtex": "@InProceedings{Tang_2021_CVPR,\n    author    = {Tang, Zedong and Jiang, Fenlong and Gong, Maoguo and Li, Hao and Wu, Yue and Yu, Fan and Wang, Zidong and Wang, Min},\n    title     = {SKFAC: Training Neural Networks With Faster Kronecker-Factored Approximate Curvature},\n    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n    month     = {June},\n    year      = {2021},\n    pages     = {13479-13487}\n}",
+    "citation_key": "Tang_2021_CVPR"
+  },
+  {
     "key": "ICLR:10008484",
     "conference": "ICLR 2026",
     "id": 10008484,
@@ -6425,16 +6489,16 @@
     "annotations": [
       {
         "theme": "Optimizer",
-        "note": "Structured empirical-Fisher approximation unifies optimizer designs and yields RACS and Alice; includes low-rank tracking and residual compensation for memory-efficient LLaMA pretraining."
+        "note": "Structured Fisher approximation motivates RACS (Row and Column Scaled SGD) and Alice (Adaptive low-dimensional subspace estimation). Alice extends Eigen-Adam through low-rank tracking of projected EMA states, subspace switching and compensation. This connects memory-efficient LLM optimization to low-rank curvature tracking; Sections 5 and 8 of the arXiv version explicitly leave a low-rank SOAP extension for future work."
       },
       {
         "theme": "Matrix computation",
-        "note": "Derive row/column-scaled and low-rank approximations, yielding RACS and Alice optimizers."
+        "note": "RACS uses row/column scaling; Alice uses subspace iteration, low-rank state tracking, subspace switching and compensation to extend Eigen-Adam."
       }
     ],
-    "quantity": "Memory-efficient structured Fisher preconditioners",
-    "method": "Derive row/column-scaled and low-rank approximations, yielding RACS and Alice optimizers.",
-    "caveat": "Structural approximations trade curvature fidelity for storage and computation.",
+    "quantity": "Structured Fisher preconditioners and projected EMA states for LLMs",
+    "method": "RACS uses row/column scaling; Alice uses subspace iteration, low-rank state tracking, subspace switching and compensation to extend Eigen-Adam.",
+    "caveat": "Alice is a low-rank extension of Eigen-Adam, not an implemented low-rank SOAP method. The new detailed method check uses arXiv:2502.07752v2 (2025); the ICLR 2026 venue comes from the accepted-program record.",
     "matrix_scope": "Deep learning",
     "geometry": "",
     "manifold_scope": "",
@@ -6443,6 +6507,11 @@
         "url": "https://openreview.net/pdf?id=KUFZXdem5R",
         "location": "Figure 1 and Section 2: block-diagonal/Kronecker empirical-Fisher approximations and relation to K-FAC; indexed accepted-paper full text.",
         "note": "Targeted check recorded in the earlier project catalog; not a complete paper review."
+      },
+      {
+        "url": "https://arxiv.org/pdf/2502.07752v2",
+        "location": "Section 5 (tracking, subspace switching and compensation), Section 8 (future work), arXiv version 2, 20 February 2025.",
+        "note": "Checked Alice as a low-rank Eigen-Adam extension and the explicit future-work statement for low-rank SOAP. This additional check is of the preprint, not the accepted OpenReview PDF."
       }
     ],
     "training_scope": "",
@@ -7275,6 +7344,70 @@
     "bibtex_kind": "Generated from catalogue metadata",
     "bibtex": "@misc{ICLR_10008569,\n  title = {{xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity}},\n  author = {Maximilian Beck and Kajetan Schweighofer and Sebastian Böck and Sebastian Lehner and Sepp Hochreiter},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=bpbU549sSg}\n}",
     "citation_key": "ICLR_10008569"
+  },
+  {
+    "key": "ICML:2024-GaLore",
+    "id": "ICML:2024-GaLore",
+    "title": "GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection",
+    "conference": "ICML 2024",
+    "year": 2024,
+    "authors": "Jiawei Zhao; Zhenyu Zhang; Beidi Chen; Zhangyang Wang; Anima Anandkumar; Yuandong Tian",
+    "acceptance": "Published",
+    "publication_status": "Published",
+    "source_url": "https://proceedings.mlr.press/v235/zhao24s.html",
+    "doi": "",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhao24s/zhao24s.pdf",
+    "openreview_url": "",
+    "conference_url": "",
+    "proceedings_url": "https://proceedings.mlr.press/v235/zhao24s.html",
+    "themes": [
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "D",
+        "name": "Memory-efficient and low-precision optimizers",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "X6",
+        "name": "Matrix and tensor methods for compression",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Research note",
+        "note": "GaLore projects gradients into a low-rank subspace, maintains optimizer states there, and maps updates back to the full parameter space. Periodically refreshed projection bases allow full-parameter learning while reducing optimizer-state memory, making it relevant to LLM low-rank optimizer design."
+      }
+    ],
+    "quantity": "Projected gradients and compressed optimizer states",
+    "method": "Use leading singular vectors of the current gradient to form low-rank projections, apply an optimizer such as Adam in the projected space, then lift its update to the original weight matrix.",
+    "caveat": "GaLore compresses gradients and optimizer states rather than KFAC factors or a Fisher approximation. Weights remain full-sized; low-rank projection changes the update and periodic SVD refreshes have a computational cost.",
+    "matrix_scope": "Deep learning",
+    "geometry": "",
+    "manifold_scope": "",
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "featured_rank": 0,
+    "code_links": [],
+    "fulltext_checks": [
+      {
+        "url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhao24s/zhao24s.pdf",
+        "location": "Algorithm 1; Sections 3.3 and 4.1, equations (12)-(14).",
+        "note": "Checked projected optimization, SVD basis refresh and composition of updates across changing subspaces."
+      }
+    ],
+    "evidence": "Official ICML 2024 PMLR proceedings metadata and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "bibtex_source": "https://proceedings.mlr.press/v235/zhao24s.html",
+    "bibtex_kind": "Source-provided citation",
+    "bibtex": "@InProceedings{pmlr-v235-zhao24s,\n  title = \t {{G}a{L}ore: Memory-Efficient {LLM} Training by Gradient Low-Rank Projection},\n  author =       {Zhao, Jiawei and Zhang, Zhenyu and Chen, Beidi and Wang, Zhangyang and Anandkumar, Anima and Tian, Yuandong},\n  booktitle = \t {Proceedings of the 41st International Conference on Machine Learning},\n  pages = \t {61121--61143},\n  year = \t {2024},\n  editor = \t {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},\n  volume = \t {235},\n  series = \t {Proceedings of Machine Learning Research},\n  month = \t {21--27 Jul},\n  publisher =    {PMLR},\n  pdf = \t {https://raw.githubusercontent.com/mlresearch/v235/main/assets/zhao24s/zhao24s.pdf},\n  url = \t {https://proceedings.mlr.press/v235/zhao24s.html},\n}",
+    "citation_key": "pmlr-v235-zhao24s"
   },
   {
     "key": "ICML:62988",
@@ -15931,6 +16064,75 @@
     "citation_key": "ICML_61252"
   },
   {
+    "key": "NeurIPS:2023-Block-Low-Rank",
+    "id": "NeurIPS:2023-Block-Low-Rank",
+    "title": "Block Low-Rank Preconditioner with Shared Basis for Stochastic Optimization",
+    "conference": "NeurIPS 2023",
+    "year": 2023,
+    "authors": "Jui-Nan Yen; Sai Surya Duvvuri; Inderjit S. Dhillon; Cho-Jui Hsieh",
+    "acceptance": "Published",
+    "publication_status": "Published",
+    "source_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html",
+    "doi": "10.52202/075280-0764",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf",
+    "openreview_url": "",
+    "conference_url": "",
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/389cfad711d2b1e2128e931feee80230-Abstract-Conference.html",
+    "themes": [
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "B",
+        "name": "Shampoo, structured curvature, and matrix-function computation",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "X2",
+        "name": "Eigenproblems, spectral computation and SVD analysis",
+        "theme": "Matrix computation"
+      },
+      {
+        "code": "X3",
+        "name": "Fisher, Hessian, derivatives and implicit differentiation",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Research note",
+        "note": "Approximates second-moment blocks using one shared low-rank basis per layer and a separate small coefficient matrix for each block. An online update maintains this structure during training, providing a related design for low-rank preconditioning beyond KFAC."
+      }
+    ],
+    "quantity": "Block-diagonal gradient second-moment matrices and their preconditioners",
+    "method": "Represent each block as B R_i B^T. Update the common basis through randomized subspace iteration, reusing the previous basis and structured matrix products without materializing the full blocks.",
+    "caveat": "The approximation concerns gradient second-moment blocks, not the two EMA Kronecker factors of KFAC. Shared-basis and block-diagonal restrictions discard information. Reported experiments include autoencoders and a 19.3M-parameter Transformer, not billion-parameter LLM pretraining.",
+    "matrix_scope": "Deep learning",
+    "geometry": "",
+    "manifold_scope": "",
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "featured_rank": 0,
+    "code_links": [],
+    "fulltext_checks": [
+      {
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf",
+        "location": "Section 2.2, equation (4), online shared-basis update and equation (5), pages 4-5; introduction for benchmark scope.",
+        "note": "Checked shared basis with per-block dense coefficients and implicit randomized basis updates."
+      }
+    ],
+    "evidence": "Official NeurIPS 2023 proceedings metadata and abstract; targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "bibtex_source": "https://proceedings.neurips.cc/paper_files/paper/21286-/bibtex",
+    "bibtex_kind": "Source-provided citation",
+    "bibtex": "@inproceedings{NEURIPS2023_389cfad7,\n author = {Yen, Jui-Nan and Duvvuri, Sai Surya and Dhillon, Inderjit and Hsieh, Cho-Jui},\n booktitle = {Advances in Neural Information Processing Systems},\n doi = {10.52202/075280-0764},\n editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},\n pages = {17408--17419},\n publisher = {Curran Associates, Inc.},\n title = {Block Low-Rank Preconditioner with Shared Basis for Stochastic Optimization},\n url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/389cfad711d2b1e2128e931feee80230-Paper-Conference.pdf},\n volume = {36},\n year = {2023}\n}",
+    "citation_key": "NEURIPS2023_389cfad7"
+  },
+  {
     "key": "NeurIPS:117118",
     "conference": "NeurIPS 2025",
     "id": 117118,
@@ -22916,5 +23118,138 @@
     "bibtex_kind": "Generated from catalogue metadata",
     "bibtex": "@misc{NeurIPS_116554,\n  title = {{Zeroth-Order Optimization Finds Flat Minima}},\n  author = {Liang Zhang and Bingcong Li and Kiran Thekumparampil and Sewoong Oh and Michael Muehlebach and Niao He},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=iXy0ncNepZ}\n}",
     "citation_key": "NeurIPS_116554"
+  },
+  {
+    "key": "arXiv:2210.08494",
+    "id": "arXiv:2210.08494",
+    "title": "Brand New K-FACs: Speeding up K-FAC with Online Decomposition Updates",
+    "conference": "arXiv",
+    "year": 2022,
+    "authors": "Constantin Octavian Puiu",
+    "acceptance": "Preprint",
+    "publication_status": "Preprint",
+    "source_url": "https://arxiv.org/abs/2210.08494",
+    "doi": "10.48550/arXiv.2210.08494",
+    "pdf_url": "https://arxiv.org/pdf/2210.08494v2",
+    "openreview_url": "",
+    "conference_url": "",
+    "proceedings_url": "",
+    "themes": [
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "A",
+        "name": "KFAC / EKFAC methods, applications, and substantive evaluations",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "X2",
+        "name": "Eigenproblems, spectral computation and SVD analysis",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Research note",
+        "note": "B-KFAC maintains a low-rank eigendecomposition of EMA KFAC factors using a symmetric version of Brand's online SVD update. It reuses the previous decomposition and incorporates incoming minibatch factors, making it directly relevant to online low-rank curvature tracking."
+      }
+    ],
+    "quantity": "Online low-rank representations and inverse applications for EMA KFAC factors",
+    "method": "Scale the retained eigenvalues by the EMA decay and apply a symmetric Brand update for the incoming factor. Algorithm 4 truncates to rank r before the update and uses the expanded rank r + minibatch-size representation for preconditioning.",
+    "caveat": "Truncation accumulates approximation error; speed depends on rank plus minibatch size being small relative to layer width. First posted in 2022, revised in September 2023; the source-provided BibTeX cites the 2023 revision. Listed as a preprint.",
+    "matrix_scope": "Deep learning",
+    "geometry": "",
+    "manifold_scope": "",
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "featured_rank": 0,
+    "code_links": [],
+    "fulltext_checks": [
+      {
+        "url": "https://arxiv.org/pdf/2210.08494v2",
+        "location": "Section 2.3 (symmetric Brand update), Section 3.1 and Algorithm 4, pages 6-8.",
+        "note": "Checked EMA scaling, truncation before the update, the expanded representation used for the inverse, and the conditional width-scaling claim."
+      }
+    ],
+    "evidence": "arXiv metadata and abstract, version 2 (12 September 2023); targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "bibtex_source": "https://arxiv.org/bibtex/2210.08494",
+    "bibtex_kind": "Source-provided citation",
+    "bibtex": "@misc{puiu2023brandnewkfacsspeeding,\n      title={Brand New K-FACs: Speeding up K-FAC with Online Decomposition Updates},\n      author={Constantin Octavian Puiu},\n      year={2023},\n      eprint={2210.08494},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2210.08494},\n}",
+    "citation_key": "puiu2023brandnewkfacsspeeding"
+  },
+  {
+    "key": "arXiv:2206.15397",
+    "id": "arXiv:2206.15397",
+    "title": "Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra",
+    "conference": "arXiv",
+    "year": 2022,
+    "authors": "Constantin Octavian Puiu",
+    "acceptance": "Preprint",
+    "publication_status": "Preprint",
+    "source_url": "https://arxiv.org/abs/2206.15397",
+    "doi": "10.48550/arXiv.2206.15397",
+    "pdf_url": "https://arxiv.org/pdf/2206.15397v3",
+    "openreview_url": "",
+    "conference_url": "",
+    "proceedings_url": "",
+    "themes": [
+      "Matrix computation",
+      "Optimizer"
+    ],
+    "categories": [
+      {
+        "code": "A",
+        "name": "KFAC / EKFAC methods, applications, and substantive evaluations",
+        "theme": "Optimizer"
+      },
+      {
+        "code": "X2",
+        "name": "Eigenproblems, spectral computation and SVD analysis",
+        "theme": "Matrix computation"
+      },
+      {
+        "code": "X4",
+        "name": "Randomized sketching and kernel approximations",
+        "theme": "Matrix computation"
+      }
+    ],
+    "annotations": [
+      {
+        "theme": "Research note",
+        "note": "RS-KFAC and SRE-KFAC use randomized SVD or symmetric randomized eigendecomposition to retain leading modes of exponentially averaged KFAC factors. The paper motivates this approximation using spectral decay induced by EMA updates, with theory under stated assumptions and empirical evidence."
+      }
+    ],
+    "quantity": "Leading eigenspaces and approximate damped inverses of EMA KFAC factors",
+    "method": "Replace a full factor eigendecomposition with randomized low-rank decomposition. Unlike Brand New K-FACs, the decomposition is recomputed rather than maintained through online Brand updates.",
+    "caveat": "Low-rank truncation and randomized projection introduce error. The spectral result assumes bounds on incoming factors and a lower bound on the leading eigenvalue; it is not an unconditional fixed-rank guarantee. Verified as a 2022 arXiv preprint, not an accepted conference paper.",
+    "matrix_scope": "Deep learning",
+    "geometry": "",
+    "manifold_scope": "",
+    "training_scope": "",
+    "hyperparameters": "",
+    "training_finding": "",
+    "training_caveat": "",
+    "training_reading_rank": 0,
+    "featured_rank": 0,
+    "code_links": [],
+    "fulltext_checks": [
+      {
+        "url": "https://arxiv.org/pdf/2206.15397v3",
+        "location": "Sections 2.2-2.3 and Section 3, Proposition 3.1.",
+        "note": "Checked randomized SVD/EVD, the two approximation-error sources, and the assumptions in the EMA eigenspectrum bound."
+      }
+    ],
+    "evidence": "arXiv metadata and abstract, version 3 (25 November 2022); targeted full-text passage checked",
+    "snapshot_date": "2026-09-24",
+    "bibtex_source": "https://arxiv.org/bibtex/2206.15397",
+    "bibtex_kind": "Source-provided citation",
+    "bibtex": "@misc{puiu2022randomizedkfacsspeedingkfac,\n      title={Randomized K-FACs: Speeding up K-FAC with Randomized Numerical Linear Algebra},\n      author={Constantin Octavian Puiu},\n      year={2022},\n      eprint={2206.15397},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2206.15397},\n}",
+    "citation_key": "puiu2022randomizedkfacsspeedingkfac"
   }
 ]

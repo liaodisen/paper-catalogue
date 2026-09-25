@@ -7,39 +7,49 @@
     "NeurIPS 2025": 5287
   },
   "scope": "Research papers from any conference, journal, workshop or preprint source; all years are eligible.",
-  "additional_papers": 0,
+  "additional_papers": 5,
   "historical_collection": 598,
   "by_publication_status": {
-    "Accepted": 598
+    "Published": 3,
+    "Accepted": 598,
+    "Preprint": 2
   },
   "venue_snapshot_dates": {
     "ICML 2026": "2026-09-23",
     "ICLR 2026": "2026-09-23",
     "NeurIPS 2025": "2026-09-24"
   },
-  "curated_unique": 598,
+  "curated_unique": 603,
   "by_venue": {
+    "CVPR 2021": 1,
     "ICLR 2026": 189,
+    "ICML 2024": 1,
     "ICML 2026": 233,
-    "NeurIPS 2025": 176
+    "NeurIPS 2023": 1,
+    "NeurIPS 2025": 176,
+    "arXiv": 2
   },
   "by_theme": {
-    "Optimizer": 380,
+    "Optimizer": 385,
     "Manifold": 87,
-    "Matrix computation": 186,
+    "Matrix computation": 191,
     "Training dynamics": 208
   },
   "matrix_by_scope": {
+    "Deep learning": 139,
     "Scientific computing": 9,
-    "Deep learning": 134,
     "General ML": 29,
     "Theory / foundations": 13,
     "Numerical foundations": 1
   },
   "matrix_by_venue": {
+    "CVPR 2021": 1,
     "ICLR 2026": 51,
+    "ICML 2024": 1,
     "ICML 2026": 65,
-    "NeurIPS 2025": 70
+    "NeurIPS 2023": 1,
+    "NeurIPS 2025": 70,
+    "arXiv": 2
   },
   "matrix_by_category": {
     "X1": {
@@ -48,15 +58,15 @@
     },
     "X2": {
       "name": "Eigenproblems, spectral computation and SVD analysis",
-      "count": 17
+      "count": 20
     },
     "X3": {
       "name": "Fisher, Hessian, derivatives and implicit differentiation",
-      "count": 33
+      "count": 34
     },
     "X4": {
       "name": "Randomized sketching and kernel approximations",
-      "count": 16
+      "count": 17
     },
     "X5": {
       "name": "Attention, state-space algebra and parallel scans",
@@ -64,7 +74,7 @@
     },
     "X6": {
       "name": "Matrix and tensor methods for compression",
-      "count": 30
+      "count": 31
     },
     "X7": {
       "name": "Structured products, transforms and GPU kernels",
@@ -72,7 +82,7 @@
     },
     "X8": {
       "name": "Linear systems, sparse solvers and Gaussian processes",
-      "count": 15
+      "count": 16
     },
     "X9": {
       "name": "Related numerical primitives and computation",
@@ -129,11 +139,23 @@
     }
   },
   "by_venue_and_theme": {
+    "CVPR 2021": {
+      "Optimizer": 1,
+      "Manifold": 0,
+      "Matrix computation": 1,
+      "Training dynamics": 0
+    },
     "ICLR 2026": {
       "Optimizer": 121,
       "Manifold": 28,
       "Matrix computation": 51,
       "Training dynamics": 69
+    },
+    "ICML 2024": {
+      "Optimizer": 1,
+      "Manifold": 0,
+      "Matrix computation": 1,
+      "Training dynamics": 0
     },
     "ICML 2026": {
       "Optimizer": 147,
@@ -141,11 +163,23 @@
       "Matrix computation": 65,
       "Training dynamics": 75
     },
+    "NeurIPS 2023": {
+      "Optimizer": 1,
+      "Manifold": 0,
+      "Matrix computation": 1,
+      "Training dynamics": 0
+    },
     "NeurIPS 2025": {
       "Optimizer": 112,
       "Manifold": 26,
       "Matrix computation": 70,
       "Training dynamics": 64
+    },
+    "arXiv": {
+      "Optimizer": 2,
+      "Manifold": 0,
+      "Matrix computation": 2,
+      "Training dynamics": 0
     }
   },
   "manifold_by_scope": {
@@ -153,8 +187,8 @@
     "Related/supporting": 40
   },
   "earlier_matrix_extension_new_unique": 98,
-  "papers_with_targeted_fulltext_checks": 26,
-  "matrix_papers_with_targeted_fulltext_checks": 15,
+  "papers_with_targeted_fulltext_checks": 31,
+  "matrix_papers_with_targeted_fulltext_checks": 20,
   "screening": "The initial collection used accepted-program title/abstract screening. Additional papers may come from any venue or preprint source, with publication status and evidence recorded separately. A curated collection, not an exhaustive full-text review.",
   "acceptance_sources": [
     "https://icml.cc/static/virtual/data/icml-2026-orals-posters.json",
@@ -167,7 +201,7 @@
   "input_sha256": {
     "icml2026_optimizer_survey/main_conference.json": "f50483f860f38847c37330924bdf79736fcccc849114e971e5f99928a8b4afd2",
     "iclr2026_optimizer_survey/main_conference.json": "7e74101c65c1eca5f4b35d2d4657aa4ea8f796ce427a496bdd2090d1247fdb80",
-    "matrix_computation_survey/selection.tsv": "f70c19235c403b3ae82c566d0753a5ce9d463b63c1d31bc784aaf093c71d772c",
+    "matrix_computation_survey/selection.tsv": "616e5f2fea678765afa0c2b5defc3879984a68ac76c78aa5f437b1a2531e4b5c",
     "neurips2025_survey/main_conference.json": "1172a838d5cf1d5c79c9fb46357e73006c24d1a2b2940a657c32c7e85a6fd729",
     "neurips2025_survey/selection.json": "f3e420bac3bd1036afeafba255de5e90c56578e5022b5be797d222bd189d03b5",
     "neurips2025_survey/fulltext_checks.json": "c5cb18be4f36e38b8d5fba8647d0bba4972cce477e512826cf1343a90a3a3906",
@@ -175,7 +209,7 @@
     "training_dynamics_survey/selection.json": "d9ba6646ab351bb31d95cd35fc02a436be4678e10d13ab91473e118b335ac9d8",
     "training_dynamics_survey/categories.json": "f5008c9f8fb9abfbe6abe9436cfbdf3c36e8064644c00ab953711ce30940fae2",
     "training_dynamics_survey/baseline_keys.json": "c50c5a1a0c57cc174497b562297e4b3a39b76a3e9a44947b2c639929e42fd56d",
-    "paper_catalogue/additional_papers.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "paper_catalogue/citation_overrides.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    "paper_catalogue/additional_papers.json": "40d495023bd6e31ccff3254988e5002fbf42a909504c7d1424073ed5c9ad214e",
+    "paper_catalogue/citation_overrides.json": "53f9216f9faa0b8eea6a3ee74aab572e2207e7e697a76f55f6f7cfe240569c85"
   }
 }

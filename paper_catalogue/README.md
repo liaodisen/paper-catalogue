@@ -1,15 +1,19 @@
 # All Papers
 
-**598 curated papers**: 189 ICLR 2026, 233 ICML 2026, 176 NeurIPS 2025. Any conference, journal, workshop, preprint source or year is eligible. The initial three-conference collection is retained; 0 additional records have been added through the open-venue input.
+**603 curated papers**: 1 CVPR 2021, 189 ICLR 2026, 1 ICML 2024, 233 ICML 2026, 1 NeurIPS 2023, 176 NeurIPS 2025, 2 arXiv. Any conference, journal, workshop, preprint source or year is eligible. The initial three-conference collection is retained; 5 additional records have been added through the open-venue input.
 
 Open [the searchable index](<index.html>). Reading guides: [learning rates, scaling laws and training dynamics](<../training_dynamics_survey/reading_guide.md>) · [matrix computation](<reading_guide.md>). The HTML works offline; external paper links require internet. This copy is packaged for static hosting.
 
 | Venue | Unique papers | Optimizers | Manifolds | Matrix / numerics | Training dynamics |
 |---|---:|---:|---:|---:|---:|
+| CVPR 2021 | 1 | 1 | 0 | 1 | 0 |
 | ICLR 2026 | 189 | 121 | 28 | 51 | 69 |
+| ICML 2024 | 1 | 1 | 0 | 1 | 0 |
 | ICML 2026 | 233 | 147 | 33 | 65 | 75 |
+| NeurIPS 2023 | 1 | 1 | 0 | 1 | 0 |
 | NeurIPS 2025 | 176 | 112 | 26 | 70 | 64 |
-| **Total** | **598** | **380** | **87** | **186** | **208** |
+| arXiv | 2 | 2 | 0 | 2 | 0 |
+| **Total** | **603** | **385** | **87** | **191** | **208** |
 
 Topic counts overlap. Training categories T1–T8 cover learning rates and schedules; batch size and noise; hyperparameter transfer; scaling laws; stability; feature learning and implicit bias; initialization and regularization; and optimizer dynamics. Each training entry records study context, hyperparameters, reported finding and qualification.
 
@@ -32,7 +36,7 @@ See [the update guide](<update_guide.html>). Add new records to `paper_catalogue
 
 Updated **2026-09-24**. The accepted-program snapshots contain 6,341 ICML 2026 and 5,353 ICLR 2026 entries (2026-09-23), plus 5,287 NeurIPS 2025 entries (2026-09-24). Duplicate presentation events were removed in that historical scan. Its three-venue scope does not restrict future additions.
 
-The new topic pass screened all 16,981 titles/abstracts and produced 1,253 broad candidates. New annotations summarize selected accepted abstracts; existing annotations and targeted passage checks are retained. This is **not an exhaustive full-text systematic review**. 26 entries have targeted full-text checks, labeled individually. Results are author-reported and code links were not tested.
+The new topic pass screened all 16,981 titles/abstracts and produced 1,253 broad candidates. New annotations summarize selected accepted abstracts; existing annotations and targeted passage checks are retained. This is **not an exhaustive full-text systematic review**. 31 entries have targeted full-text checks, labeled individually. Results are author-reported and code links were not tested.
 
 The initial NeurIPS collection contains 176 program-confirmed papers; 174 are also matched to the proceedings index. Two revised proceedings titles retain their program titles as aliases. Additional records have their own source and publication-status fields.
 

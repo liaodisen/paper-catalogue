@@ -1,6 +1,6 @@
 # All Papers
 
-**598 curated research papers**. Open to any venue, source or year, including journals, workshops and preprints.
+**603 curated research papers**. Open to any venue, source or year, including journals, workshops and preprints.
 Snapshot updated 2026-09-24.
 
 [Open All Papers](paper_catalogue/index.html) ·
