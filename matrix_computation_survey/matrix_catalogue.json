@@ -40,7 +40,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=rrbCQT7JKX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=rrbCQT7JKX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007112,\n  title = {{Accelerating Eigenvalue Dataset Generation via Chebyshev Subspace Filter}},\n  author = {Hong Wang and Jie Wang and Jian Luo and huanshuo dong and Yeqiu Chen and Runmin Jiang and Zhen Huang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=rrbCQT7JKX}\n}",
+    "citation_key": "ICLR_10007112"
   },
   {
     "key": "ICLR:10011207",
@@ -83,7 +91,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=8NE554wv0m",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=8NE554wv0m",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011207,\n  title = {{ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization}},\n  author = {Lawrence Liu and Alexander Liu and Mengdi Wang and Tuo Zhao and Lin Yang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=8NE554wv0m}\n}",
+    "citation_key": "ICLR_10011207"
   },
   {
     "key": "ICLR:10006476",
@@ -126,7 +142,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=zCZcbRsc4g",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=zCZcbRsc4g",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006476,\n  title = {{Avoid Catastrophic Forgetting with Rank-1 Fisher from Diffusion Models}},\n  author = {Zekun Wang and Anant Gupta and Zihan Dong and Christopher MacLellan},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=zCZcbRsc4g}\n}",
+    "citation_key": "ICLR_10006476"
   },
   {
     "key": "ICLR:10010697",
@@ -169,7 +193,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=EEr6cADbZx",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=EEr6cADbZx",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010697,\n  title = {{Back to Square Roots: An Optimal Bound on the Matrix Factorization Error for Multi-Epoch Differentially Private SGD}},\n  author = {Nikita Kalinin and Ryan McKenna and Jalaj Upadhyay and Christoph Lampert},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=EEr6cADbZx}\n}",
+    "citation_key": "ICLR_10010697"
   },
   {
     "key": "ICLR:10008904",
@@ -228,7 +260,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=YEBpZVm70i",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=YEBpZVm70i",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008904,\n  title = {{Bayesian Influence Functions for Hessian-Free Data Attribution}},\n  author = {Philipp Alexander Kreer and Wilson Wu and Maxwell Adam and Zach Furman and Jesse Hoogland},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=YEBpZVm70i}\n}",
+    "citation_key": "ICLR_10008904"
   },
   {
     "key": "ICLR:10010773",
@@ -271,7 +311,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=DVurf4kGag",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=DVurf4kGag",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010773,\n  title = {{CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention}},\n  author = {Zhongzhu Zhou and Fengxiang Bie and Ziyan Chen and Zhenyu Zhang and Yibo Yang and Junxiong Wang and Ben Athiwaratkun and Xiaoxia (Shirley) Wu and Shuaiwen Song},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=DVurf4kGag}\n}",
+    "citation_key": "ICLR_10010773"
   },
   {
     "key": "ICLR:10006756",
@@ -314,7 +362,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=w7csRoB5CO",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=w7csRoB5CO",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006756,\n  title = {{ConvT3: Structured State Kernels for Convolutional State Space Models}},\n  author = {Jaeyoung Hong and YunYoung Choi and Joohwan Ko and Minseon Gwak},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=w7csRoB5CO}\n}",
+    "citation_key": "ICLR_10006756"
   },
   {
     "key": "ICLR:10008616",
@@ -359,7 +415,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=bMi5ssfPoM",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=bMi5ssfPoM",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008616,\n  title = {{DASH: Deterministic Attention Scheduling for High-throughput Reproducible LLM Training}},\n  author = {Xinwei Qiang and Hongmin chen and Shixuan Sun and Jingwen Leng and Xin Liu and Minyi Guo},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=bMi5ssfPoM}\n}",
+    "citation_key": "ICLR_10008616"
   },
   {
     "key": "ICLR:10006920",
@@ -402,7 +466,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=u6JLh0BO5h",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=u6JLh0BO5h",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006920,\n  title = {{Decomposing LLM Computation with Jets}},\n  author = {Yihong Chen and Xiangxiang Xu and Pontus Stenetorp and Sebastian Riedel and Luca Franceschi},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=u6JLh0BO5h}\n}",
+    "citation_key": "ICLR_10006920"
   },
   {
     "key": "ICLR:10009375",
@@ -445,7 +517,15 @@
     "code_links": [],
     "featured_rank": 9,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Ssevs8KCsU",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Ssevs8KCsU",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009375,\n  title = {{Deterministic Bounds and Random Estimates of Metric Tensors on Neuromanifolds}},\n  author = {Ke Sun},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=Ssevs8KCsU}\n}",
+    "citation_key": "ICLR_10009375"
   },
   {
     "key": "ICLR:10008630",
@@ -488,7 +568,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=bFYfV6c9zu",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=bFYfV6c9zu",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008630,\n  title = {{Differentiable Model Predictive Control on the GPU}},\n  author = {Emre Adabag and Marcus Greiff and John Subosits and Thomas Lew},\n  year = {2026},\n  note = {ICLR 2026; Accept (Oral)},\n  url = {https://openreview.net/forum?id=bFYfV6c9zu}\n}",
+    "citation_key": "ICLR_10008630"
   },
   {
     "key": "ICLR:10010743",
@@ -531,7 +619,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Dq64kthckN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Dq64kthckN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010743,\n  title = {{EigenScore: OOD Detection using Posterior Covariance in Diffusion Models}},\n  author = {Shirin Shoushtari and Yi Wang and Xiao Shi and Salman Asif and Ulugbek Kamilov},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=Dq64kthckN}\n}",
+    "citation_key": "ICLR_10010743"
   },
   {
     "key": "ICLR:10009636",
@@ -574,7 +670,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=PvWHzAf9qp",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=PvWHzAf9qp",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009636,\n  title = {{Falcon: Fast Proximal Linearization of Normalized Cuts for Unsupervised Image Segmentation}},\n  author = {Xiao Zhang and Xiangyu Han and Xiwen Lai and Yao Sun and Pei Zhang and Xia Liu and Konrad P Kording},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=PvWHzAf9qp}\n}",
+    "citation_key": "ICLR_10009636"
   },
   {
     "key": "ICLR:10011463",
@@ -629,7 +733,15 @@
     ],
     "featured_rank": 11,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=5S8ruWKe8l",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=5S8ruWKe8l",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011463,\n  title = {{Fast and Stable Riemannian Metrics on SPD Manifolds via Cholesky Product Geometry}},\n  author = {Ziheng Chen and Yue Song and Xiaojun Wu and Nicu Sebe},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=5S8ruWKe8l}\n}",
+    "citation_key": "ICLR_10011463"
   },
   {
     "key": "ICLR:10009893",
@@ -672,7 +784,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=N4jJQvQSiN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=N4jJQvQSiN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009893,\n  title = {{FlexLinearAttention: Compiling a Unified Abstraction into Scalable Kernels for Linear Attention}},\n  author = {Haojie Duanmu and Size Zheng and Ningxin Zheng and Jianqiao Lu and Xuegui Zheng and Xingcheng Zhang and Li-Wen Chang and Xin Liu and Dahua Lin},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=N4jJQvQSiN}\n}",
+    "citation_key": "ICLR_10009893"
   },
   {
     "key": "ICLR:10011224",
@@ -715,7 +835,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=89SQfLguNn",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=89SQfLguNn",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011224,\n  title = {{Graph Random Features for Scalable Gaussian Processes}},\n  author = {Matthew Zhang and Jihao Andreas Lin and Krzysztof Choromanski and Adrian Weller and Richard E Turner and Isaac Reid},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=89SQfLguNn}\n}",
+    "citation_key": "ICLR_10011224"
   },
   {
     "key": "ICLR:10010227",
@@ -760,7 +888,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=JAbMgS7gl6",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=JAbMgS7gl6",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010227,\n  title = {{HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space}},\n  author = {Ke Li and Zheng Yang and Zhongbin Zhou and Xuefeng and Zhonglin Jiang and Wenxiao Wang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=JAbMgS7gl6}\n}",
+    "citation_key": "ICLR_10010227"
   },
   {
     "key": "ICLR:10011587",
@@ -803,7 +939,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=40e58sTE5F",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=40e58sTE5F",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011587,\n  title = {{Hierarchical Multi-Stage Recovery Framework for Kronecker Compressed Sensing}},\n  author = {Yanbin He and Geethu Joseph},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=40e58sTE5F}\n}",
+    "citation_key": "ICLR_10011587"
   },
   {
     "key": "ICLR:10010385",
@@ -846,7 +990,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=HVFjzaQeig",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=HVFjzaQeig",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010385,\n  title = {{Householder-Diagonalized Linear Attention (HDLA): Utilizing Enhanced Decay Mechanism for Efficient Sequence Modeling}},\n  author = {Jiefu Zhang and Qin Zhen and Jiabo Tong and Shijie Mei and Jiakui Hu and Yuqi Pan and Anjie Hu and Man Yao and Bo XU and Guoqi Li},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=HVFjzaQeig}\n}",
+    "citation_key": "ICLR_10010385"
   },
   {
     "key": "ICLR:10006798",
@@ -889,7 +1041,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=veFs5UfYq9",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=veFs5UfYq9",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006798,\n  title = {{KBVQ-MoE: KLT-guided SVD with Bias-Corrected Vector Quantization for MoE Large Language Models}},\n  author = {Zukang Xu and Zhixiong Zhao and Xing Hu and Zhixuan Chen and Dawei Yang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=veFs5UfYq9}\n}",
+    "citation_key": "ICLR_10006798"
   },
   {
     "key": "ICLR:10008622",
@@ -932,7 +1092,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=bJZExGYWqx",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=bJZExGYWqx",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008622,\n  title = {{LaplacianFormer:Rethinking Linear Attention with Laplacian Kernel}},\n  author = {Zhe Feng and Sen Lian and Changwei Wang and Muyang Zhang and Tianlong Tan and Rongtao Xu and Weiliang Meng and Xiaopeng Zhang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=bJZExGYWqx}\n}",
+    "citation_key": "ICLR_10008622"
   },
   {
     "key": "ICLR:10011895",
@@ -975,7 +1143,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=0oHaazjMUX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=0oHaazjMUX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011895,\n  title = {{LeSTD: LLM Compression via Learning-based Sparse Tensor Decomposition}},\n  author = {Yi Li and Zhichun Guo and Miao Yin and Bingzhe Li},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=0oHaazjMUX}\n}",
+    "citation_key": "ICLR_10011895"
   },
   {
     "key": "ICLR:10009059",
@@ -1018,7 +1194,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=WGpzi489XY",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=WGpzi489XY",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009059,\n  title = {{Local Linear Attention: An Optimal Interpolation of Linear and Softmax Attention For Test-Time Regression}},\n  author = {Yifei Zuo and Yutong Yin and Zhichen Zeng and Ang Li and Banghua Zhu and Zhaoran Wang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=WGpzi489XY}\n}",
+    "citation_key": "ICLR_10009059"
   },
   {
     "key": "ICLR:10007581",
@@ -1061,7 +1245,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=mOJgZWkXKW",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=mOJgZWkXKW",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007581,\n  title = {{Log-Linear Attention}},\n  author = {Guo and Songlin Yang and Tarushii Goel and Eric P Xing and Tri Dao and Yoon Kim},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=mOJgZWkXKW}\n}",
+    "citation_key": "ICLR_10007581"
   },
   {
     "key": "ICLR:10010449",
@@ -1124,7 +1316,15 @@
     "code_links": [],
     "featured_rank": 10,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Guo2XGgxZA",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Guo2XGgxZA",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010449,\n  title = {{LoRA-S: An Efficient Low Rank Adaptation scheme via Sylvester equation}},\n  author = {Jinyang ZHENG and Tong Wu},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=Guo2XGgxZA}\n}",
+    "citation_key": "ICLR_10010449"
   },
   {
     "key": "ICLR:10006633",
@@ -1167,7 +1367,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=xa3OnTb6c3",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=xa3OnTb6c3",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006633,\n  title = {{MesaNet: Sequence Modeling by Locally Optimal Test-Time Training}},\n  author = {Johannes von Oswald and Nino Scherrer and Seijin Kobayashi and Luca Versari and Songlin Yang and Maximilian Schlegel and Kaitlin Maile and Yanick Schimpf and Oliver Sieberling and Alexander Meulemans and Guillaume Lajoie and Rif A. Saurous and Charlotte Frenkel and Razvan Pascanu and Blaise Aguera y Arcas and Joao Sacramento},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=xa3OnTb6c3}\n}",
+    "citation_key": "ICLR_10006633"
   },
   {
     "key": "ICLR:10008929",
@@ -1210,7 +1418,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Xvpk1g02u2",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Xvpk1g02u2",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008929,\n  title = {{QKV Projections Require a Fraction of Their Memory}},\n  author = {Malik Khalaf and Yara Shamshoum and Nitzan Hodos and Yuval Sieradzki and Assaf Schuster},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=Xvpk1g02u2}\n}",
+    "citation_key": "ICLR_10008929"
   },
   {
     "key": "ICLR:10009595",
@@ -1253,7 +1469,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=QMN4ERDdp4",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=QMN4ERDdp4",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009595,\n  title = {{QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models}},\n  author = {Hyesung Jeon and Seojune Lee and Beomseok Kang and Yulhwa Kim and jae-joon kim},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=QMN4ERDdp4}\n}",
+    "citation_key": "ICLR_10009595"
   },
   {
     "key": "ICLR:10009492",
@@ -1296,7 +1520,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=RR8Lh8RHgA",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=RR8Lh8RHgA",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009492,\n  title = {{RACE Attention: A Strictly Linear-Time Attention for Long-Sequence Training}},\n  author = {Sahil Joshi and Agniva Chowdhury and Amar Kanakamedala and Ekam Singh and Evan Tu and Anshumali Shrivastava},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=RR8Lh8RHgA}\n}",
+    "citation_key": "ICLR_10009492"
   },
   {
     "key": "ICLR:10010610",
@@ -1339,7 +1571,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=FKEHiHU4bN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=FKEHiHU4bN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010610,\n  title = {{Revisiting Matrix Sketching in Linear  Bandits: Achieving Sublinear Regret via Dyadic Block Sketching}},\n  author = {Dongxie Wen and Hanyan Yin and Xiao Zhang and Peng Zhao and Lijun Zhang and Zhewei Wei},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=FKEHiHU4bN}\n}",
+    "citation_key": "ICLR_10010610"
   },
   {
     "key": "ICLR:10010139",
@@ -1382,7 +1622,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=KMAYsQO8pU",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=KMAYsQO8pU",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010139,\n  title = {{SAES-SVD: Self-Adaptive Suppression of Accumulated and Local Errors for SVD-based LLM Compression}},\n  author = {Xing Hu and Dawei Yang and Yuan Cheng and Zhixuan Chen and Zukang Xu},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=KMAYsQO8pU}\n}",
+    "citation_key": "ICLR_10010139"
   },
   {
     "key": "ICLR:10008227",
@@ -1425,7 +1673,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=fWhRslwYri",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=fWhRslwYri",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008227,\n  title = {{Scalable Random Wavelet Features: Efficient Non-Stationary Kernel Approximation with Convergence Guarantees}},\n  author = {Sawan Kumar and Souvik Chakraborty},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=fWhRslwYri}\n}",
+    "citation_key": "ICLR_10008227"
   },
   {
     "key": "ICLR:10009189",
@@ -1468,7 +1724,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=UspMJlGusi",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=UspMJlGusi",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009189,\n  title = {{Scaling Attention via Feature Sparsity}},\n  author = {Yan Xie and Tiansheng Wen and Tang Da Huang and Bo Chen and Chenyu You and Stefanie Jegelka and Yifei Wang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=UspMJlGusi}\n}",
+    "citation_key": "ICLR_10009189"
   },
   {
     "key": "ICLR:10006941",
@@ -1511,7 +1775,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=tuLF84azND",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=tuLF84azND",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006941,\n  title = {{Sequential Parallel Duality in Prefix Scannable Models}},\n  author = {Morris Yau and Sharut Gupta and Valerie Engelmayer and Kazuki Irie and Stefanie Jegelka and Jacob Andreas},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=tuLF84azND}\n}",
+    "citation_key": "ICLR_10006941"
   },
   {
     "key": "ICLR:10007493",
@@ -1554,7 +1826,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=nFjj8NEBqv",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=nFjj8NEBqv",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007493,\n  title = {{SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization}},\n  author = {Yeonsik Park and Hyeonseong Kim and Seungkyu Choi},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=nFjj8NEBqv}\n}",
+    "citation_key": "ICLR_10007493"
   },
   {
     "key": "ICLR:10011014",
@@ -1597,7 +1877,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=AepuXqQM4X",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=AepuXqQM4X",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011014,\n  title = {{Splat Feature Solver}},\n  author = {Butian Xiong and Rong Liu and Kenneth Xu and Meida Chen and Andrew Feng},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=AepuXqQM4X}\n}",
+    "citation_key": "ICLR_10011014"
   },
   {
     "key": "ICLR:10007309",
@@ -1642,7 +1930,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=pjMDZJd4rT",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=pjMDZJd4rT",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007309,\n  title = {{SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality}},\n  author = {Hyunwoo Kim and BYOUNGCHAN KO and Minseok Kang and Minwoo Kim and Dongjin Lee and Jaehoon Lee and Sungroh Yoon and Dahuin Jung},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=pjMDZJd4rT}\n}",
+    "citation_key": "ICLR_10007309"
   },
   {
     "key": "ICLR:10011950",
@@ -1685,7 +1981,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=0GpolO2auw",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=0GpolO2auw",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10011950,\n  title = {{Sublinear Spectral Clustering Oracle with Little Memory}},\n  author = {Ranran Shen and Xiaoyi Zhu and Pan Peng and Zengfeng Huang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=0GpolO2auw}\n}",
+    "citation_key": "ICLR_10011950"
   },
   {
     "key": "ICLR:10009900",
@@ -1728,7 +2032,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=N1kiOll2EN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=N1kiOll2EN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009900,\n  title = {{SVD Provably Denoises Nearest Neighbor Data}},\n  author = {Ravindran Kannan and Kijun Shin and David Woodruff},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=N1kiOll2EN}\n}",
+    "citation_key": "ICLR_10009900"
   },
   {
     "key": "ICLR:10010735",
@@ -1801,7 +2113,15 @@
     "code_links": [],
     "featured_rank": 8,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=DuNf2vPTTK",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=DuNf2vPTTK",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010735,\n  title = {{Taming Curvature: Architecture Warm-up for Stable Transformer Training}},\n  author = {Sameera Ramasinghe and Thalaiyasingam Ajanthan and Hadi Mohaghegh Dolatabadi and Chamin Hewa Koneputugodage and Gil Avraham and Violetta Shevchenko and Yan Zuo and Karol Pajak and Alexander Long},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=DuNf2vPTTK}\n}",
+    "citation_key": "ICLR_10010735"
   },
   {
     "key": "ICLR:10010804",
@@ -1846,7 +2166,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=D9cnZNZfxX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=D9cnZNZfxX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010804,\n  title = {{TD-MoE: Tensor Decomposition for MoE Models}},\n  author = {Yuebin XU and YANHONG WANG and Xuemei Peng and Hui Zang and Minghao Chen and Pengfei Xia and Zeyi Wen},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=D9cnZNZfxX}\n}",
+    "citation_key": "ICLR_10010804"
   },
   {
     "key": "ICLR:10006553",
@@ -1905,7 +2233,15 @@
     "code_links": [],
     "featured_rank": 2,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=yRtgZ1K8hO",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=yRtgZ1K8hO",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006553,\n  title = {{The Polar Express: Optimal Matrix Sign Methods and their Application to the Muon Algorithm}},\n  author = {Noah Amsel and David Persson and Christopher Musco and Robert M. Gower},\n  year = {2026},\n  note = {ICLR 2026; Accept (Oral)},\n  url = {https://openreview.net/forum?id=yRtgZ1K8hO}\n}",
+    "citation_key": "ICLR_10006553"
   },
   {
     "key": "ICLR:10010128",
@@ -1964,7 +2300,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=KUFZXdem5R",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=KUFZXdem5R",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010128,\n  title = {{Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension}},\n  author = {Wenbo Gong and Meyer Scetbon and Chao Ma and Edward Meeds},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=KUFZXdem5R}\n}",
+    "citation_key": "ICLR_10010128"
   },
   {
     "key": "ICLR:10008784",
@@ -2007,7 +2351,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZgLEEp7AwL",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZgLEEp7AwL",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008784,\n  title = {{Towards Sampling Data Structures for Tensor Products in Turnstile Streams}},\n  author = {Zhao Song and Shenghao Xie and Samson Zhou},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=ZgLEEp7AwL}\n}",
+    "citation_key": "ICLR_10008784"
   },
   {
     "key": "ICLR:10009288",
@@ -2062,7 +2414,15 @@
     ],
     "featured_rank": 12,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=TkHjRwbMNl",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=TkHjRwbMNl",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10009288,\n  title = {{Trion: FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of LLMs}},\n  author = {Ionut-Vlad Modoranu and Mher Safaryan and Erik Schultheis and Maksim Riabinin and Artem Chumachenko and Dan Alistarh},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=TkHjRwbMNl}\n}",
+    "citation_key": "ICLR_10009288"
   },
   {
     "key": "ICLR:10010426",
@@ -2113,7 +2473,15 @@
     ],
     "featured_rank": 13,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=HA0TnV8r7x",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=HA0TnV8r7x",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010426,\n  title = {{TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation}},\n  author = {Junhan Kim and Yeo Jeong Park and Seungwoo Son and Chungman Lee and Ho-young Kim and Joonyoung Kim and Yongkweon Jeon},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=HA0TnV8r7x}\n}",
+    "citation_key": "ICLR_10010426"
   },
   {
     "key": "ICLR:10008790",
@@ -2156,7 +2524,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZfCCwJ4Wcs",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZfCCwJ4Wcs",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10008790,\n  title = {{TyphoonMLA: A Mixed Naive-Absorb MLA Kernel For Shared Prefix}},\n  author = {Ahmet Yüzügüler and Ahmet Çelik and Jiawei Zhuang and Lukas Cavigelli},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=ZfCCwJ4Wcs}\n}",
+    "citation_key": "ICLR_10008790"
   },
   {
     "key": "ICLR:10007330",
@@ -2209,7 +2585,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=pQQuC1nIQq",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=pQQuC1nIQq",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007330,\n  title = {{Understanding and improving Shampoo and SOAP via Kullback-Leibler Minimization}},\n  author = {Wu Lin and Scott C. Lowe and Felix Dangel and Runa Eschenhagen and Zikun Xu and Roger Grosse},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=pQQuC1nIQq}\n}",
+    "citation_key": "ICLR_10007330"
   },
   {
     "key": "ICLR:10010523",
@@ -2252,7 +2636,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=GBkRMi3qjD",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=GBkRMi3qjD",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10010523,\n  title = {{Understanding and Relaxing the Limitations of Transformers for Linear Algebra}},\n  author = {Andres Potapczynski and Alex Ali and Andrew Gordon Wilson},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=GBkRMi3qjD}\n}",
+    "citation_key": "ICLR_10010523"
   },
   {
     "key": "ICLR:10007967",
@@ -2297,7 +2689,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=iOGu4wtDTF",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=iOGu4wtDTF",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10007967,\n  title = {{UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs}},\n  author = {Hung-Yueh Chiang and Chi-Chih Chang and Yu-Chen Lu and Chien-Yu Lin and Kai-Chiang Wu and Mohamed Abdelfattah and Diana Marculescu},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=iOGu4wtDTF}\n}",
+    "citation_key": "ICLR_10007967"
   },
   {
     "key": "ICLR:10006413",
@@ -2342,7 +2742,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=zrmQ4koOw9",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=zrmQ4koOw9",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICLR_10006413,\n  title = {{WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models}},\n  author = {Haiyu Wang and Yutong Wang and Jack Jiang and Sai Qian Zhang},\n  year = {2026},\n  note = {ICLR 2026; Accept (Poster)},\n  url = {https://openreview.net/forum?id=zrmQ4koOw9}\n}",
+    "citation_key": "ICLR_10006413"
   },
   {
     "key": "ICML:64716",
@@ -2385,7 +2793,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Kaliw0BQL9",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Kaliw0BQL9",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64716,\n  title = {{3DGS$^2$-TR: A Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting}},\n  author = {Roger Hsiao and Yuchen Fang and Xiangru Huang and Ruilong Li and Hesam Rabeti and Zan Gojcic and Javad Lavaei and James Demmel and Sophia Shao},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=Kaliw0BQL9}\n}",
+    "citation_key": "ICML_64716"
   },
   {
     "key": "ICML:62152",
@@ -2428,7 +2844,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=jJur8Fq7IK",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=jJur8Fq7IK",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62152,\n  title = {{A Fully First-Order Layer for Differentiable Optimization}},\n  author = {Zihao Zhao and Kai-Chia Mo and Shing-Hei Ho and Brandon Amos and Kai Wang},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=jJur8Fq7IK}\n}",
+    "citation_key": "ICML_62152"
   },
   {
     "key": "ICML:66543",
@@ -2473,7 +2897,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=2jpMiRwsrL",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=2jpMiRwsrL",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66543,\n  title = {{A Penalty Approach For Differentiation Through Black-box Quadratic Programming Solvers}},\n  author = {Yuxuan Linghu and Zhiyuan Liu and Qi Deng},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=2jpMiRwsrL}\n}",
+    "citation_key": "ICML_66543"
   },
   {
     "key": "ICML:66550",
@@ -2526,7 +2958,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=2iDtIht7W4",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=2iDtIht7W4",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66550,\n  title = {{A Sketch-and-Project Analysis of Subsampled Natural Gradient Algorithms}},\n  author = {Gil Goldshlager and Jiang Hu and Lin Lin},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=2iDtIht7W4}\n}",
+    "citation_key": "ICML_66550"
   },
   {
     "key": "ICML:66022",
@@ -2569,7 +3009,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7qpvff2gWI",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7qpvff2gWI",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66022,\n  title = {{AdaSplash-2: Faster Differentiable Sparse Attention}},\n  author = {Nuno M. T. Gonçalves and Hugo Pitorro and Vlad Niculae and Edoardo Ponti and Lei Li and Andre Martins and Marcos V. Treviso},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=7qpvff2gWI}\n}",
+    "citation_key": "ICML_66022"
   },
   {
     "key": "ICML:64908",
@@ -2622,7 +3070,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=IjIgNPFuCt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=IjIgNPFuCt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64908,\n  title = {{Advancing SVD-based LLM Compression via Layer-Wise Error Model Search}},\n  author = {Moritz Thoma and Maximilian Groezinger and Maximilian Forstenhäusler and Emad Aghajanzadeh and Manoj Rohit Vemparala and Christos Anagnostopoulos and Pierpaolo Mori and Nael Fasfous and Alexander Frickenstein and Daniel Mueller-Gritschneder and Ulf Schlichtmann},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=IjIgNPFuCt}\n}",
+    "citation_key": "ICML_64908"
   },
   {
     "key": "ICML:65961",
@@ -2665,7 +3121,15 @@
     "code_links": [],
     "featured_rank": 15,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=8UzZ0CbPsk",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=8UzZ0CbPsk",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_65961,\n  title = {{Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics}},\n  author = {YuQing Xie and Ameya Daigavane and Mit Kotak and Tess Smidt},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=8UzZ0CbPsk}\n}",
+    "citation_key": "ICML_65961"
   },
   {
     "key": "ICML:61770",
@@ -2708,7 +3172,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=n7F2nwPcYB",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=n7F2nwPcYB",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61770,\n  title = {{AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions}},\n  author = {Esteban Real and Mirko Rossini and Connal de Souza and Manav Garg and Moritz Firsching and Quoc Le and Yao Chen and Akhil Verghese and Ekin Dogus Cubuk and David Park},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=n7F2nwPcYB}\n}",
+    "citation_key": "ICML_61770"
   },
   {
     "key": "ICML:63598",
@@ -2751,7 +3223,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=VbMi2zFVlk",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=VbMi2zFVlk",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63598,\n  title = {{Causal Structure Learning for Sparse Matrix Fill-in Reduction}},\n  author = {Ziwei Li and Shuzi Niu and Tao Yuan and Huiyuan Li},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=VbMi2zFVlk}\n}",
+    "citation_key": "ICML_63598"
   },
   {
     "key": "ICML:60742",
@@ -2796,7 +3276,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=x23DAFnbhi",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=x23DAFnbhi",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60742,\n  title = {{CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression}},\n  author = {Yuli Chen and Shuhao Zhang and Jiale Han and Fanshen Meng and Haishen Jiang and Bo Cheng and Qiang Tong and Xiulei Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=x23DAFnbhi}\n}",
+    "citation_key": "ICML_60742"
   },
   {
     "key": "ICML:64794",
@@ -2839,7 +3327,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=JjBozF4i2w",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=JjBozF4i2w",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64794,\n  title = {{CLARITree: Cholesky and Lookahead Accelerations for Regression with Interpretable Piecewise Linear Trees}},\n  author = {Yixiao Wang and Hayden McTavish and Varun Babbar and Margo Seltzer and Cynthia Rudin},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=JjBozF4i2w}\n}",
+    "citation_key": "ICML_64794"
   },
   {
     "key": "ICML:64410",
@@ -2882,7 +3378,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=NvJPE1oiKd",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=NvJPE1oiKd",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64410,\n  title = {{Computationally-efficient Graph Modeling with Refined Graph Random Features}},\n  author = {Krzysztof Choromanski and Kumar Avinava Dubey and Arijit Sehanobish and Isaac Reid},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=NvJPE1oiKd}\n}",
+    "citation_key": "ICML_64410"
   },
   {
     "key": "ICML:60988",
@@ -2943,7 +3447,15 @@
     ],
     "featured_rank": 3,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ujeyxKwTGM",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ujeyxKwTGM",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60988,\n  title = {{DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers}},\n  author = {Ionut-Vlad Modoranu and Philip Zmushko and Erik Schultheis and Mher Safaryan and Dan Alistarh},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ujeyxKwTGM}\n}",
+    "citation_key": "ICML_60988"
   },
   {
     "key": "ICML:63194",
@@ -2986,7 +3498,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZDtFevjwin",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZDtFevjwin",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63194,\n  title = {{Decision-Focused Learning via Tangent-Space Projection of Prediction Error}},\n  author = {Junhyeong Lee and Sangjin Jin and Yongjae Lee},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ZDtFevjwin}\n}",
+    "citation_key": "ICML_63194"
   },
   {
     "key": "ICML:63039",
@@ -3029,7 +3549,15 @@
     "code_links": [],
     "featured_rank": 17,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ah9xkFXCV6",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ah9xkFXCV6",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63039,\n  title = {{DELTA4: Sparse Matrix-Vector Multiplication for Low Sparsity}},\n  author = {Vladimír Macko and Vladimír Boža},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=ah9xkFXCV6}\n}",
+    "citation_key": "ICML_63039"
   },
   {
     "key": "ICML:66224",
@@ -3072,7 +3600,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=5eZmlUyFpl",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=5eZmlUyFpl",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66224,\n  title = {{Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch}},\n  author = {Ziyang Zhang and Xinheng Ding and Jiayi Yuan and Rixin Liu and Huizi Mao and Jiarong Xing and Zirui Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=5eZmlUyFpl}\n}",
+    "citation_key": "ICML_66224"
   },
   {
     "key": "ICML:63209",
@@ -3125,7 +3661,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Z6HxJqAzbp",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Z6HxJqAzbp",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63209,\n  title = {{DP-KFC: Data-Free Preconditioning for Privacy-Preserving Deep Learning}},\n  author = {Marc Molina Van den bosch and Riccardo Taiello and Albert Aillet and Andrea Protani and Miguel Angel Gonzalez Ballester and Luigi Serio},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=Z6HxJqAzbp}\n}",
+    "citation_key": "ICML_63209"
   },
   {
     "key": "ICML:62474",
@@ -3170,7 +3714,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=gIUVdEAa3l",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=gIUVdEAa3l",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62474,\n  title = {{E2Former-V2: On-the-Fly Equivariant Attention  with Linear Activation Memory}},\n  author = {Lin Huang and Chengxiang Huang and Ziang Wang and Yiyue Du and Chu Wang and Haocheng Lu and Yunyang Li and Xiaoli LIU and Arthur JIANG and Jia Zhang},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=gIUVdEAa3l}\n}",
+    "citation_key": "ICML_62474"
   },
   {
     "key": "ICML:61003",
@@ -3213,7 +3765,15 @@
     "code_links": [],
     "featured_rank": 18,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ueNIrBXz7R",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ueNIrBXz7R",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61003,\n  title = {{Even Faster Kernel Matrix Linear Algebra via Density Estimation}},\n  author = {Rikhav Shah and Sandeep Silwal and Haike Xu},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=ueNIrBXz7R}\n}",
+    "citation_key": "ICML_61003"
   },
   {
     "key": "ICML:66739",
@@ -3258,7 +3818,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=0ujhEWEeAc",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=0ujhEWEeAc",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66739,\n  title = {{Fast Estimation for Forest Matrix of Signed Graphs}},\n  author = {Haoxin Sun and Zhongzhi Zhang},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=0ujhEWEeAc}\n}",
+    "citation_key": "ICML_66739"
   },
   {
     "key": "ICML:64123",
@@ -3301,7 +3869,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=QiDicUd6PB",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=QiDicUd6PB",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64123,\n  title = {{Fast kernel methods: Sobolev, physics-informed, and additive models}},\n  author = {Nathan Doumèche and Francis Bach and Gérard Biau and Claire Boyer},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=QiDicUd6PB}\n}",
+    "citation_key": "ICML_64123"
   },
   {
     "key": "ICML:71180",
@@ -3346,7 +3922,15 @@
     ],
     "featured_rank": 16,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=VzIA4MASxK",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=VzIA4MASxK",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_71180,\n  title = {{FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU}},\n  author = {Felix X.-F. Ye and Xingjie Li and An Yu and Ming-Ching Chang and LINSONG CHU and Davis Wertheimer},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=VzIA4MASxK}\n}",
+    "citation_key": "ICML_71180"
   },
   {
     "key": "ICML:71181",
@@ -3395,7 +3979,15 @@
     "code_links": [],
     "featured_rank": 6,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=cCwxV6rSXF",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=cCwxV6rSXF",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_71181,\n  title = {{FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs}},\n  author = {Rajat Vadiraj Dwaraknath and Sungyoon Kim and Mert Pilanci},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=cCwxV6rSXF}\n}",
+    "citation_key": "ICML_71181"
   },
   {
     "key": "ICML:63117",
@@ -3448,7 +4040,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZwFJbTzJP9",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZwFJbTzJP9",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63117,\n  title = {{FOAM: Frequency and Operator-Error Based Adaptive Damping Method for Reducing Staleness-Oriented Error for Shampoo}},\n  author = {Kyunghun Nam and Sumyeong Ahn},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ZwFJbTzJP9}\n}",
+    "citation_key": "ICML_63117"
   },
   {
     "key": "ICML:60991",
@@ -3491,7 +4091,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=uizi6lvkSW",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=uizi6lvkSW",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60991,\n  title = {{G-RANS: Generalizable Residual-Aware Neural Solvers for Sparse Systems}},\n  author = {Weixin Liao and Mingquan Feng and Zhizhou Zhang and Youjia Wu and Yifan Fu and Junchi Yan},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=uizi6lvkSW}\n}",
+    "citation_key": "ICML_60991"
   },
   {
     "key": "ICML:61580",
@@ -3534,7 +4142,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=okzQ1x71pS",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=okzQ1x71pS",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61580,\n  title = {{Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation}},\n  author = {Felix Petersen and Christian Borgelt and Aashwin Mishra and Stefano Ermon},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=okzQ1x71pS}\n}",
+    "citation_key": "ICML_61580"
   },
   {
     "key": "ICML:60707",
@@ -3577,7 +4193,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=xLnzdfOS6r",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=xLnzdfOS6r",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60707,\n  title = {{gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points}},\n  author = {Marcus Noack and Mark Risser and HENGRUI LUO and Vardaan Tekriwal and Ronald Pandolfi},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=xLnzdfOS6r}\n}",
+    "citation_key": "ICML_60707"
   },
   {
     "key": "ICML:62394",
@@ -3620,7 +4244,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=h2uxKKK4WZ",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=h2uxKKK4WZ",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62394,\n  title = {{Inference of Online Newton Methods with Nesterov's Accelerated Sketching}},\n  author = {Haoxuan Wang and Xinchen Du and Sen Na},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=h2uxKKK4WZ}\n}",
+    "citation_key": "ICML_62394"
   },
   {
     "key": "ICML:60558",
@@ -3673,7 +4305,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=z0m3EhzhOH",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=z0m3EhzhOH",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60558,\n  title = {{IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation}},\n  author = {Yiting Chen and Zongwei Huo and Junchi Yan},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=z0m3EhzhOH}\n}",
+    "citation_key": "ICML_60558"
   },
   {
     "key": "ICML:65832",
@@ -3716,7 +4356,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=9h7sSJe4jN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=9h7sSJe4jN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_65832,\n  title = {{Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modeling and State Tracking}},\n  author = {Vaisakh Shaj and Cameron Barker and Aidan Scannell and Andras Szecsenyi and Elliot Crowley and Amos Storkey},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=9h7sSJe4jN}\n}",
+    "citation_key": "ICML_65832"
   },
   {
     "key": "ICML:62060",
@@ -3759,7 +4407,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=kD8iJmyn5l",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=kD8iJmyn5l",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62060,\n  title = {{L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations}},\n  author = {Samuel Fernandez and Eduardo Pavez and Antonio Ortega},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=kD8iJmyn5l}\n}",
+    "citation_key": "ICML_62060"
   },
   {
     "key": "ICML:63150",
@@ -3802,7 +4458,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZaOZDGJDAM",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZaOZDGJDAM",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63150,\n  title = {{Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers}},\n  author = {Yeqiu Chen and Ziyan Liu and Hong Wang and Lei Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ZaOZDGJDAM}\n}",
+    "citation_key": "ICML_63150"
   },
   {
     "key": "ICML:61325",
@@ -3851,7 +4515,15 @@
     "code_links": [],
     "featured_rank": 7,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=rJ2gMA21ZW",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=rJ2gMA21ZW",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61325,\n  title = {{Local Hessian Spectral Filtering for Robust Intrinsic Dimension Estimation}},\n  author = {Genki Osada},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=rJ2gMA21ZW}\n}",
+    "citation_key": "ICML_61325"
   },
   {
     "key": "ICML:63901",
@@ -3896,7 +4568,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Sh3rKEAxlW",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Sh3rKEAxlW",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63901,\n  title = {{MDN: Parallelizing Stepwise Momentum for Delta Linear Attention}},\n  author = {Yulong Huang and Xiang Liu and Hongxiang Huang and Xiaopeng LIN and Zunchang LIU and Xiaowen Chu and Zeke Xie and Bojun Cheng},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=Sh3rKEAxlW}\n}",
+    "citation_key": "ICML_63901"
   },
   {
     "key": "ICML:63671",
@@ -3939,7 +4619,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=UmQ07sj13y",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=UmQ07sj13y",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63671,\n  title = {{MIMOMamba: From Scalar Duality to Matrix-Valued Attention}},\n  author = {Yanbo Li and Richard Cornelius Suwandi and Feng Yin and Yiyong SUN and Wei Huang and Wenqiang Pu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=UmQ07sj13y}\n}",
+    "citation_key": "ICML_63671"
   },
   {
     "key": "ICML:64269",
@@ -3992,7 +4680,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=PKFilPWjMI",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=PKFilPWjMI",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64269,\n  title = {{Model-Preserving Adaptive Rounding}},\n  author = {Albert Tseng and Zhaofeng Sun and Chris De Sa},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=PKFilPWjMI}\n}",
+    "citation_key": "ICML_64269"
   },
   {
     "key": "ICML:66368",
@@ -4051,7 +4747,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=4K54YHTG2i",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=4K54YHTG2i",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66368,\n  title = {{Natural Hypergradient Descent:  Algorithm Design, Convergence Analysis, and Parallel Implementation}},\n  author = {Deyi Kong and Zaiwei Chen and Shuzhong Zhang and Shancong Mou},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=4K54YHTG2i}\n}",
+    "citation_key": "ICML_66368"
   },
   {
     "key": "ICML:63907",
@@ -4094,7 +4798,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=SdKzHplaIq",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=SdKzHplaIq",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63907,\n  title = {{Near-Universal Multiplicative Updates for Nonnegative Einsum Factorization}},\n  author = {John Hood and Aaron Schein},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=SdKzHplaIq}\n}",
+    "citation_key": "ICML_63907"
   },
   {
     "key": "ICML:65468",
@@ -4139,7 +4851,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=DKathyl3XN",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=DKathyl3XN",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_65468,\n  title = {{On Structured State-Space Duality}},\n  author = {Jerry Yao-Chieh Hu and Xiwen Zhang and Ali ElSheikh and Weimin Wu and Han Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=DKathyl3XN}\n}",
+    "citation_key": "ICML_65468"
   },
   {
     "key": "ICML:65541",
@@ -4182,7 +4902,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=CYg2w0YKM4",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=CYg2w0YKM4",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_65541,\n  title = {{PLASH: Provably Linear-Time Attention with Selective Higher-Order Feature Sketching}},\n  author = {Yuwen Huang and Xiang Pan},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=CYg2w0YKM4}\n}",
+    "citation_key": "ICML_65541"
   },
   {
     "key": "ICML:63733",
@@ -4225,7 +4953,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=UC6YiTOeKb",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=UC6YiTOeKb",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63733,\n  title = {{Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences}},\n  author = {Neehal Tumma and Noel Loo and Daniela Rus},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=UC6YiTOeKb}\n}",
+    "citation_key": "ICML_63733"
   },
   {
     "key": "ICML:65313",
@@ -4268,7 +5004,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ErqvESaJpk",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ErqvESaJpk",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_65313,\n  title = {{Principled SVD-based Delta Compression via Quantization Error Minimization}},\n  author = {Boya Xiong and Shuo Wang and Weifeng Ge and Guanhua CHEN and Yun Chen},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ErqvESaJpk}\n}",
+    "citation_key": "ICML_65313"
   },
   {
     "key": "ICML:62288",
@@ -4327,7 +5071,15 @@
     "code_links": [],
     "featured_rank": 1,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=hwhvjhXC0m",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=hwhvjhXC0m",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62288,\n  title = {{PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training}},\n  author = {Shenghao Yang and Zhichao Wang and Oleg Balabanov and N. Benjamin Erichson and Michael Mahoney},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=hwhvjhXC0m}\n}",
+    "citation_key": "ICML_62288"
   },
   {
     "key": "ICML:61979",
@@ -4372,7 +5124,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=l1v359RKe0",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=l1v359RKe0",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61979,\n  title = {{Push, Pop, Parallelize: Stack-Augmented Linear Attention via the Delta Rule}},\n  author = {Anh T Nguyen and Saleh Momeni and Ashutosh Chaubey and Changnan Xiao and Bing Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=l1v359RKe0}\n}",
+    "citation_key": "ICML_61979"
   },
   {
     "key": "ICML:61606",
@@ -4421,7 +5181,15 @@
     "code_links": [],
     "featured_rank": 5,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=oVtiySvpXz",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=oVtiySvpXz",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61606,\n  title = {{Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation}},\n  author = {Mingfei Sun},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=oVtiySvpXz}\n}",
+    "citation_key": "ICML_61606"
   },
   {
     "key": "ICML:62202",
@@ -4464,7 +5232,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=iiNPaOvuwj",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=iiNPaOvuwj",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62202,\n  title = {{RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections}},\n  author = {Yali Fink and Ido Ben-Yair and Lars Ruthotto and Eran Treister},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=iiNPaOvuwj}\n}",
+    "citation_key": "ICML_62202"
   },
   {
     "key": "ICML:61753",
@@ -4507,7 +5283,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=nEQYu4ndGA",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=nEQYu4ndGA",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61753,\n  title = {{Revisiting Zeroth-Order Hessian Approximation: A Single-Step Policy Optimization Lens}},\n  author = {Junbin Qiu and Zhaowei Hong and Renzhe Xu and Yao Shu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=nEQYu4ndGA}\n}",
+    "citation_key": "ICML_61753"
   },
   {
     "key": "ICML:66025",
@@ -4550,7 +5334,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7pQIzVNctu",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7pQIzVNctu",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66025,\n  title = {{Rex: A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers}},\n  author = {Zander Blasingame and Chen Liu},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=7pQIzVNctu}\n}",
+    "citation_key": "ICML_66025"
   },
   {
     "key": "ICML:64326",
@@ -4595,7 +5387,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Oj2I1xdKpv",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Oj2I1xdKpv",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64326,\n  title = {{RL4RLA: Teaching ML to Discover Randomized Linear Algebra Algorithms Through Curriculum Design and Graph-Based Search}},\n  author = {Jinglong Xiong and Xiaotian Liu and Ruoxin Wang and Zihang Liu and Yefan Zhou and Yujun Yan and Yaoqing Yang},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=Oj2I1xdKpv}\n}",
+    "citation_key": "ICML_64326"
   },
   {
     "key": "ICML:61508",
@@ -4638,7 +5438,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=pRsFAKBQKz",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=pRsFAKBQKz",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61508,\n  title = {{Robust Parallel Diffusion Sampling via Dynamic Jacobian Bandwidth}},\n  author = {Zile Huang and Ser-Nam Lim},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=pRsFAKBQKz}\n}",
+    "citation_key": "ICML_61508"
   },
   {
     "key": "ICML:61515",
@@ -4691,7 +5499,15 @@
     "code_links": [],
     "featured_rank": 4,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=pNe5fVK1tR",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=pNe5fVK1tR",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61515,\n  title = {{Scalable Kronecker-Factored Fisher Approximation for Neural Network Parameter Sensitivity}},\n  author = {Viktoriia Chekalina and Daniil Moskovskiy and Tatyana Matveeva and Andrey Kuznetsov and Evgeny Frolov},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=pNe5fVK1tR}\n}",
+    "citation_key": "ICML_61515"
   },
   {
     "key": "ICML:61048",
@@ -4734,7 +5550,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=uCLVPafHqd",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=uCLVPafHqd",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61048,\n  title = {{Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference}},\n  author = {Hoang Anh Duy Le and Sahil Joshi and Zeyu Yang and Zhaozhuo Xu and Anshumali Shrivastava},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=uCLVPafHqd}\n}",
+    "citation_key": "ICML_61048"
   },
   {
     "key": "ICML:63357",
@@ -4777,7 +5601,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Xn9Eu2x7Hw",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Xn9Eu2x7Hw",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_63357,\n  title = {{SHARP-Q: Spectral Hessian Alignment and Rectification for Post-training Quantization}},\n  author = {Menghao Lv and Huiqiong Wang and Li Sun and Mingli Song},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=Xn9Eu2x7Hw}\n}",
+    "citation_key": "ICML_63357"
   },
   {
     "key": "ICML:60572",
@@ -4820,7 +5652,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ytlRCCl7Pf",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ytlRCCl7Pf",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_60572,\n  title = {{Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms}},\n  author = {Zhiming Zhang and Rong Yin and Xiaoshuai Hao and Hansong Zhang and Hao Peng and Yong Liu and Can Ma and Dan Meng},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=ytlRCCl7Pf}\n}",
+    "citation_key": "ICML_60572"
   },
   {
     "key": "ICML:64057",
@@ -4863,7 +5703,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=RKHDV40omz",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=RKHDV40omz",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64057,\n  title = {{SoftJAX \\& SoftTorch: Empowering Automatic Differentiation Libraries with Informative Gradients}},\n  author = {Anselm Paulus and Andreas René Geist and Vit Musil and Sebastian Hoffmann and Georg Martius},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=RKHDV40omz}\n}",
+    "citation_key": "ICML_64057"
   },
   {
     "key": "ICML:66195",
@@ -4908,7 +5756,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=5u3Ra6Qf5C",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=5u3Ra6Qf5C",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66195,\n  title = {{Sparser Block-Sparse Attention via Token Permutation}},\n  author = {Xinghao Wang and Pengyu Wang and Dong Zhang and Chenkun Tan and Shaojun Zhou and Zhaoxiang Liu and Shiguo Lian and Fangxu Liu and Kai Song and Xipeng Qiu},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=5u3Ra6Qf5C}\n}",
+    "citation_key": "ICML_66195"
   },
   {
     "key": "ICML:62656",
@@ -4951,7 +5807,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=eeRgTFtEjv",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=eeRgTFtEjv",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_62656,\n  title = {{State Space Model with Continuous Limit of HiPPO Matrix: Eigenvalue Analysis and Explicit Solution Formula}},\n  author = {Atsushi Takabatake and Takaharu Yaguchi},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=eeRgTFtEjv}\n}",
+    "citation_key": "ICML_62656"
   },
   {
     "key": "ICML:66016",
@@ -4994,7 +5858,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7tt8TwMjdJ",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7tt8TwMjdJ",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66016,\n  title = {{SVD as a Fast Interpretability Method for Transformers}},\n  author = {Min Xue and Artur Andrzejak},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=7tt8TwMjdJ}\n}",
+    "citation_key": "ICML_66016"
   },
   {
     "key": "ICML:61765",
@@ -5039,7 +5911,15 @@
     ],
     "featured_rank": 14,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=nAQ4h8FpdM",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=nAQ4h8FpdM",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61765,\n  title = {{Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression}},\n  author = {Ruoling Qi and Yirui Liu and Xuaner Wu and Xiangyu Wang and Ming Li and Chen Chen and Jian Chen and Yin Chen and Qizhen Weng},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=nAQ4h8FpdM}\n}",
+    "citation_key": "ICML_61765"
   },
   {
     "key": "ICML:64659",
@@ -5082,7 +5962,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=LBcnybFVBp",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=LBcnybFVBp",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64659,\n  title = {{SWING: Unlocking Implicit Graph Representations for Graph Random Features}},\n  author = {Alessandro Manenti and Kumar Avinava Dubey and Arijit Sehanobish and Cesare Alippi and Krzysztof Choromanski},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=LBcnybFVBp}\n}",
+    "citation_key": "ICML_64659"
   },
   {
     "key": "ICML:61632",
@@ -5125,7 +6013,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=oHxq8g8Wy1",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=oHxq8g8Wy1",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61632,\n  title = {{The benefits of full data shuffle, now with optimal I/O cost: $k$-wise independence and matrix transposition to the rescue}},\n  author = {Peyman Afshani and Rezaul Chowdhury and Mayank Goswami and Jens Kristian R Schou and Francesco Silvestri and Mariafiore Tognon},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=oHxq8g8Wy1}\n}",
+    "citation_key": "ICML_61632"
   },
   {
     "key": "ICML:66306",
@@ -5170,7 +6066,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=4spHlgHY9x",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=4spHlgHY9x",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_66306,\n  title = {{Training-Free Hashing-Based Attention via Binary Principal Components}},\n  author = {Daohai Yu and Zhanpeng Zeng and Keyu Chen and Wenhao Li and Zhifeng Shen and Luxi Lin and Ruizhi Qiao and Xing Sun and Rongrong Ji},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=4spHlgHY9x}\n}",
+    "citation_key": "ICML_66306"
   },
   {
     "key": "ICML:64126",
@@ -5213,7 +6117,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Qg9Jcy788i",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Qg9Jcy788i",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_64126,\n  title = {{WBMM: Windowed Batch Matrix Multiplication for Efficient Large Receptive Field Convolution}},\n  author = {Wan Song and Zhou Wei and Rui Wang and Jun Yu and Toru Kurihara and Xu Jiajia and shu zhan},\n  year = {2026},\n  note = {ICML 2026; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=Qg9Jcy788i}\n}",
+    "citation_key": "ICML_64126"
   },
   {
     "key": "ICML:61920",
@@ -5256,7 +6168,15 @@
     "code_links": [],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=lfqyLp4hZm",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=lfqyLp4hZm",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61920,\n  title = {{WildCat: Near-Linear Attention in Theory and Practice}},\n  author = {Tobias Schröder and Lester Mackey},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=lfqyLp4hZm}\n}",
+    "citation_key": "ICML_61920"
   },
   {
     "key": "ICML:61159",
@@ -5301,7 +6221,15 @@
     ],
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
-    "snapshot_date": "2026-09-23"
+    "snapshot_date": "2026-09-23",
+    "year": 2026,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=tAdsDOkRBw",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=tAdsDOkRBw",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{ICML_61159,\n  title = {{Zero Sum SVD: Balancing Loss Sensitivity for Low Rank LLM Compression}},\n  author = {Ali Abbasi and Chayne Thrash and Haoran Qin and Shansita Sharma and Sepehr Seifi and Soheil Kolouri},\n  year = {2026},\n  note = {ICML 2026; Accept (regular)},\n  url = {https://openreview.net/forum?id=tAdsDOkRBw}\n}",
+    "citation_key": "ICML_61159"
   },
   {
     "key": "NeurIPS:117134",
@@ -5347,7 +6275,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/fe498359454d826def8a847fad753dc2-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/fe498359454d826def8a847fad753dc2-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=byNNv5Et10",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=byNNv5Et10",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117134,\n  title = {{3BASiL: An Algorithmic Framework for Sparse plus Low-Rank Compression of LLMs}},\n  author = {Mehdi Makni and Xiang Meng and Rahul Mazumder},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=byNNv5Et10}\n}",
+    "citation_key": "NeurIPS_117134"
   },
   {
     "key": "NeurIPS:115461",
@@ -5391,7 +6327,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c023f4ec4c567ad48188e9b2ce6bdba7-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c023f4ec4c567ad48188e9b2ce6bdba7-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=urDdBuhbLx",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=urDdBuhbLx",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115461,\n  title = {{A faster training algorithm for regression trees with linear leaves, and an analysis of its complexity}},\n  author = {Kuat Gazizov and Miguel A. Carreira-Perpinan},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=urDdBuhbLx}\n}",
+    "citation_key": "NeurIPS_115461"
   },
   {
     "key": "NeurIPS:119097",
@@ -5435,7 +6379,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e61c3ae7d4ace10e1fb6f9fd25218fd7-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e61c3ae7d4ace10e1fb6f9fd25218fd7-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Ep4mYI7OLF",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Ep4mYI7OLF",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119097,\n  title = {{A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input}},\n  author = {Bar Mahpud and Or Sheffet},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Ep4mYI7OLF}\n}",
+    "citation_key": "NeurIPS_119097"
   },
   {
     "key": "NeurIPS:120317",
@@ -5489,7 +6441,15 @@
     "featured_rank": 21,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/fe722dac731f46d30b043c6b0db9a3ef-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/fe722dac731f46d30b043c6b0db9a3ef-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=0T8i3uXq3O",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=0T8i3uXq3O",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_120317,\n  title = {{A Stable Whitening Optimizer for Efficient Neural Network Training}},\n  author = {Kevin Frans and Sergey Levine and Pieter Abbeel},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=0T8i3uXq3O}\n}",
+    "citation_key": "NeurIPS_120317"
   },
   {
     "key": "NeurIPS:116796",
@@ -5543,7 +6503,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b862a40b617719cde47fa268b8d5c91d-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b862a40b617719cde47fa268b8d5c91d-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=fru52tkjHf",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=fru52tkjHf",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116796,\n  title = {{ASGO: Adaptive Structured Gradient Optimization}},\n  author = {Kang An and Yuxing Liu and Rui Pan and Yi Ren and Shiqian Ma and Donald Goldfarb and Tong Zhang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=fru52tkjHf}\n}",
+    "citation_key": "NeurIPS_116796"
   },
   {
     "key": "NeurIPS:119714",
@@ -5603,7 +6571,15 @@
     "featured_rank": 19,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/936ce22b767cf1a1496083e4725d3b21-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/936ce22b767cf1a1496083e4725d3b21-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7LTTzYXyJ1",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7LTTzYXyJ1",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119714,\n  title = {{Better Training Data Attribution via Better Inverse Hessian-Vector Products}},\n  author = {Andrew Wang and Elisa Nguyen and Runshi Yang and Juhan Bae and Sheila McIlraith and Roger Grosse},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=7LTTzYXyJ1}\n}",
+    "citation_key": "NeurIPS_119714"
   },
   {
     "key": "NeurIPS:119877",
@@ -5647,7 +6623,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e7cf82c8f34920d20299a84b16b720e8-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e7cf82c8f34920d20299a84b16b720e8-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=5MGClYw1cR",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=5MGClYw1cR",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119877,\n  title = {{Binary Quadratic Quantization: Beyond First-Order Quantization for Real-Valued Matrix Compression}},\n  author = {Kyo Kuroki and Yasuyuki Okoshi and Thiem Van Chu and Kazushi Kawamura and Masato Motomura},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=5MGClYw1cR}\n}",
+    "citation_key": "NeurIPS_119877"
   },
   {
     "key": "NeurIPS:117335",
@@ -5701,7 +6685,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0edd294b7632fc96903abfbf3b264fc1-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0edd294b7632fc96903abfbf3b264fc1-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZdmmOAN4h3",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZdmmOAN4h3",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117335,\n  title = {{Breaking the Frozen Subspace: Importance Sampling for Low-Rank Optimization in LLM Pretraining}},\n  author = {Haochen Zhang and Junze Yin and Guanchu Wang and Zirui Liu and Lin Yang and Tianyi Zhang and Anshumali Shrivastava and Vladimir Braverman},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=ZdmmOAN4h3}\n}",
+    "citation_key": "NeurIPS_117335"
   },
   {
     "key": "NeurIPS:117530",
@@ -5751,7 +6743,15 @@
     "featured_rank": 24,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/054a9c9f6249eee0093a85ccee5b3313-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/054a9c9f6249eee0093a85ccee5b3313-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=XF4JM2MTSF",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=XF4JM2MTSF",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117530,\n  title = {{CDFlow: Building Invertible Layers with Circulant and Diagonal Matrices}},\n  author = {XUCHEN FENG and Siyu Liao},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=XF4JM2MTSF}\n}",
+    "citation_key": "NeurIPS_117530"
   },
   {
     "key": "NeurIPS:119963",
@@ -5795,7 +6795,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5752f9fd2d5c40174738d6f02c202e72-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5752f9fd2d5c40174738d6f02c202e72-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=4EkEL77k6O",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=4EkEL77k6O",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119963,\n  title = {{Compress Large Language Models via  Collaboration Between Learning and Matrix Approximation}},\n  author = {Yuesen Liao and Zhiwei Li and Binrui Wu and Zihao Cheng and Su Zhao and Shuai Chen and Weizhong Zhang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=4EkEL77k6O}\n}",
+    "citation_key": "NeurIPS_119963"
   },
   {
     "key": "NeurIPS:116184",
@@ -5839,7 +6847,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d53193a098b982229340a7c3eb0ecbf-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6d53193a098b982229340a7c3eb0ecbf-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=mor7s1NGBV",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=mor7s1NGBV",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116184,\n  title = {{CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning}},\n  author = {Seewon Choi and Alaia Solko-Breslin and Rajeev Alur and Eric Wong},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=mor7s1NGBV}\n}",
+    "citation_key": "NeurIPS_116184"
   },
   {
     "key": "NeurIPS:119670",
@@ -5883,7 +6899,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c98ef086dc70d528e1c1aa1e66893365-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c98ef086dc70d528e1c1aa1e66893365-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7qq1UeCYL6",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7qq1UeCYL6",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119670,\n  title = {{Degrees of Freedom for Linear Attention: Distilling Softmax Attention with Optimal Feature Efficiency}},\n  author = {Naoki Nishikawa and Rei Higuchi and Taiji Suzuki},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=7qq1UeCYL6}\n}",
+    "citation_key": "NeurIPS_119670"
   },
   {
     "key": "NeurIPS:117836",
@@ -5937,7 +6961,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a686ddca183f72ee9f3f04896eb11bcb-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a686ddca183f72ee9f3f04896eb11bcb-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=TecJ926Vgn",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=TecJ926Vgn",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117836,\n  title = {{Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix}},\n  author = {Ming Wen and Jiaqi Zhu and Yuedong Xu and Yipeng Zhou and DINGDING HAN},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=TecJ926Vgn}\n}",
+    "citation_key": "NeurIPS_117836"
   },
   {
     "key": "NeurIPS:118313",
@@ -5981,7 +7013,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7f6901ebab786e43b21530328fc989ca-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7f6901ebab786e43b21530328fc989ca-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ODgWBaErst",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ODgWBaErst",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118313,\n  title = {{Distribution-Aware Tensor Decomposition for Compression of Convolutional Neural Networks}},\n  author = {Alper KALLE and Théo Rudkiewicz and Mohamed Ouerfelli and Mohamed Tamaazousti},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=ODgWBaErst}\n}",
+    "citation_key": "NeurIPS_118313"
   },
   {
     "key": "NeurIPS:119731",
@@ -6035,7 +7075,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd5c450b7b3a004380cba0ff704a0cc9-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cd5c450b7b3a004380cba0ff704a0cc9-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7AwFJzgIUW",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7AwFJzgIUW",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119731,\n  title = {{Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks}},\n  author = {Steffen Schotthöfer and Lexie Yang and Stefan Schnake},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (oral)},\n  url = {https://openreview.net/forum?id=7AwFJzgIUW}\n}",
+    "citation_key": "NeurIPS_119731"
   },
   {
     "key": "NeurIPS:116254",
@@ -6079,7 +7127,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ls5L4IMEwt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ls5L4IMEwt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116254,\n  title = {{E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products}},\n  author = {Yunyang Li and Lin Huang and Zhihao Ding and Xinran Wei and Chu Wang and Han Yang and Zun Wang and Chang Liu and Yu Shi and Peiran Jin and Tao Qin and Mark Gerstein and Jia Zhang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=ls5L4IMEwt}\n}",
+    "citation_key": "NeurIPS_116254"
   },
   {
     "key": "NeurIPS:119164",
@@ -6123,7 +7179,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d2d4f6858cc2d21fd0230244fcb34f1d-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d2d4f6858cc2d21fd0230244fcb34f1d-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=E6ZdfjtoiX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=E6ZdfjtoiX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119164,\n  title = {{Efficient Data Selection at Scale via Influence Distillation}},\n  author = {Mahdi Nikdan and Vincent Cohen-Addad and Dan Alistarh and Vahab Mirrokni},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=E6ZdfjtoiX}\n}",
+    "citation_key": "NeurIPS_119164"
   },
   {
     "key": "NeurIPS:118451",
@@ -6169,7 +7233,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/36db9d16a9f80ede9e69d5d174cfd6ea-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/36db9d16a9f80ede9e69d5d174cfd6ea-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Mc0eJHZhW5",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Mc0eJHZhW5",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118451,\n  title = {{Efficient Low Rank Attention for Long-Context Inference in Large Language Models}},\n  author = {Li Tenghui and Guoxu Zhou and Xuyang Zhao and Yuning Qiu and Qibin Zhao},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Mc0eJHZhW5}\n}",
+    "citation_key": "NeurIPS_118451"
   },
   {
     "key": "NeurIPS:116395",
@@ -6213,7 +7285,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/24826a1c623fe41706850748f3dc7370-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/24826a1c623fe41706850748f3dc7370-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=kL2pnzClyD",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=kL2pnzClyD",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116395,\n  title = {{Efficient Parametric SVD of Koopman Operator for Stochastic Dynamical Systems}},\n  author = {Minchan Jeong and Jongha (Jon) Ryu and Se-Young Yun and Gregory Wornell},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=kL2pnzClyD}\n}",
+    "citation_key": "NeurIPS_116395"
   },
   {
     "key": "NeurIPS:118097",
@@ -6267,7 +7347,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/ad922aa85d4027ff3502e8e5f406e828-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/ad922aa85d4027ff3502e8e5f406e828-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Qq19n9LZ97",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Qq19n9LZ97",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118097,\n  title = {{FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA}},\n  author = {Seanie Lee and Sangwoo Park and Dong Bok Lee and Dominik Wagner and Haebin Seong and Tobias Bocklet and Juho Lee and Sung Ju Hwang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Qq19n9LZ97}\n}",
+    "citation_key": "NeurIPS_118097"
   },
   {
     "key": "NeurIPS:116755",
@@ -6313,7 +7401,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/07ea874e9e4f71ec6680a3574a485a36-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/07ea874e9e4f71ec6680a3574a485a36-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=gKsG5qR3Bt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=gKsG5qR3Bt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116755,\n  title = {{Flash Invariant Point Attention}},\n  author = {Andrew Liu and Axel Elaldi and Nicholas Franklin and Nathan Russell and Gurinder Atwal and Yih-En Ban and Olivia Viessmann},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=gKsG5qR3Bt}\n}",
+    "citation_key": "NeurIPS_116755"
   },
   {
     "key": "NeurIPS:119716",
@@ -6359,7 +7455,15 @@
     "featured_rank": 27,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1dc3d70df51a218497529df998a8a8ce-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1dc3d70df51a218497529df998a8a8ce-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=7L4NvUtZY3",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=7L4NvUtZY3",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119716,\n  title = {{FlashBias: Fast Computation of Attention with Bias}},\n  author = {Haixu Wu and Minghao Guo and Yuezhou Ma and Yuanxu Sun and Jianmin Wang and Wojciech Matusik and Mingsheng Long},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=7L4NvUtZY3}\n}",
+    "citation_key": "NeurIPS_119716"
   },
   {
     "key": "NeurIPS:119124",
@@ -6405,7 +7509,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/918d938bd209e5b56072777366f8a211-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/918d938bd209e5b56072777366f8a211-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=EZfDHprhZM",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=EZfDHprhZM",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119124,\n  title = {{FlashMoE: Fast Distributed MoE in a Single Kernel}},\n  author = {Osayamen Aimuyo and Byungsoo Oh and Rachee Singh},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=EZfDHprhZM}\n}",
+    "citation_key": "NeurIPS_119124"
   },
   {
     "key": "NeurIPS:116024",
@@ -6459,7 +7571,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/3d6235707dbc91acda049a0ccd641a7e-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/3d6235707dbc91acda049a0ccd641a7e-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=oanhUGY6un",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=oanhUGY6un",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116024,\n  title = {{Gradient Multi-Normalization for Efficient LLM Training}},\n  author = {Meyer Scetbon and Chao Ma and Wenbo Gong and Ted Meeds},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=oanhUGY6un}\n}",
+    "citation_key": "NeurIPS_116024"
   },
   {
     "key": "NeurIPS:118925",
@@ -6513,7 +7633,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e2d228a7479823e1fb12918f08f8955f-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e2d228a7479823e1fb12918f08f8955f-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Gvex75bPMI",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Gvex75bPMI",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118925,\n  title = {{GradMetaNet: An Equivariant Architecture for Learning on Gradients}},\n  author = {Yoav Gelberg and Yam Eitan and Aviv Navon and Aviv Shamsian and Theo Putterman and Michael Bronstein and Haggai Maron},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Gvex75bPMI}\n}",
+    "citation_key": "NeurIPS_118925"
   },
   {
     "key": "NeurIPS:119496",
@@ -6557,7 +7685,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/550ab405d0addd3de5b70e57b44878df-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/550ab405d0addd3de5b70e57b44878df-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=9yG7LGYfHS",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=9yG7LGYfHS",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119496,\n  title = {{GSPN-2: Efficient Parallel Sequence Modeling}},\n  author = {Hongjun Wang and yitong jiang and Collin McCarthy and David Wehr and Hanrong Ye and Xinhao Li and Ka Chun Cheung and Wonmin Byeon and Jinwei Gu and Ke Chen and Kai Han and Hongxu Yin and Pavlo Molchanov and Jan Kautz and Sifei Liu},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=9yG7LGYfHS}\n}",
+    "citation_key": "NeurIPS_119496"
   },
   {
     "key": "NeurIPS:117569",
@@ -6601,7 +7737,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c3070c3388552a08a3326f0d28dc2af9-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c3070c3388552a08a3326f0d28dc2af9-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=WkztaHpjt1",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=WkztaHpjt1",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117569,\n  title = {{Hankel Singular Value Regularization for Highly Compressible State Space Models}},\n  author = {Paul Schwerdtner and Jules Berman and Benjamin Peherstorfer},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=WkztaHpjt1}\n}",
+    "citation_key": "NeurIPS_117569"
   },
   {
     "key": "NeurIPS:119855",
@@ -6655,7 +7799,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a5809a25c65040fd43e146126b45b150-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a5809a25c65040fd43e146126b45b150-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=5YMZfufpfY",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=5YMZfufpfY",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119855,\n  title = {{Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization}},\n  author = {Andrés Guzmán-Cordero and Felix Dangel and Gil Goldshlager and Marius Zeinhofer},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=5YMZfufpfY}\n}",
+    "citation_key": "NeurIPS_119855"
   },
   {
     "key": "NeurIPS:116843",
@@ -6709,7 +7861,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f943a0abbfe9fb6e46a01411fc7372c9-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f943a0abbfe9fb6e46a01411fc7372c9-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=fSFgcEVDT2",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=fSFgcEVDT2",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116843,\n  title = {{Irrational Complex Rotations Empower Low-bit Optimizers}},\n  author = {Zhen Tian and Xin Zhao and Ji-Rong Wen},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=fSFgcEVDT2}\n}",
+    "citation_key": "NeurIPS_116843"
   },
   {
     "key": "NeurIPS:118176",
@@ -6763,7 +7923,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/323acd89d43df534db8d39da4c67a4b1-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/323acd89d43df534db8d39da4c67a4b1-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Pvoy6fWaRJ",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Pvoy6fWaRJ",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118176,\n  title = {{KOALA++: Efficient Kalman-Based Optimization with Gradient-Covariance Products}},\n  author = {Zixuan XIa and Aram Davtyan and Paolo Favaro},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Pvoy6fWaRJ}\n}",
+    "citation_key": "NeurIPS_118176"
   },
   {
     "key": "NeurIPS:117396",
@@ -6809,7 +7977,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a0183ad2088503d707669e1d222bc8c4-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a0183ad2088503d707669e1d222bc8c4-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Ynwl0V1YH0",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Ynwl0V1YH0",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117396,\n  title = {{Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression}},\n  author = {Xi Zhang and Xiaolin Wu and Jiamang Wang and Weisi Lin},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Ynwl0V1YH0}\n}",
+    "citation_key": "NeurIPS_117396"
   },
   {
     "key": "NeurIPS:116429",
@@ -6853,7 +8029,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/23fcc63005ac1a6e460ec4e209d17607-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/23fcc63005ac1a6e460ec4e209d17607-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=jtMDzggo6M",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=jtMDzggo6M",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116429,\n  title = {{Learning Sparse Approximate Inverse Preconditioners for Conjugate Gradient Solvers on GPUs}},\n  author = {Zhehao Li and Zhehao Li and Kangbo Lyu and Yixuan Li and Tao Du and Ligang Liu},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=jtMDzggo6M}\n}",
+    "citation_key": "NeurIPS_116429"
   },
   {
     "key": "NeurIPS:118924",
@@ -6907,7 +8091,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d51ceadaf09a4699f18986702df24987-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d51ceadaf09a4699f18986702df24987-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Gvh6sU0uUt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Gvh6sU0uUt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118924,\n  title = {{Least squares variational inference}},\n  author = {Yvann Le Fay and Nicolas Chopin and Simon Barthelmé},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Gvh6sU0uUt}\n}",
+    "citation_key": "NeurIPS_118924"
   },
   {
     "key": "NeurIPS:119431",
@@ -6951,7 +8143,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/71845d09f05d40d030fa3cde8b5dcd13-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/71845d09f05d40d030fa3cde8b5dcd13-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Ar62cqTduE",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Ar62cqTduE",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119431,\n  title = {{Linear Attention for Efficient Bidirectional Sequence Modeling}},\n  author = {Arshia Afzal and Elias Abad Rocamora and Leyla Candogan and Pol Puigdemont and Francesco Tonin and Yongtao Wu and Mahsa Shoaran and Volkan Cevher},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Ar62cqTduE}\n}",
+    "citation_key": "NeurIPS_119431"
   },
   {
     "key": "NeurIPS:116030",
@@ -6995,7 +8195,15 @@
     "featured_rank": 26,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b07091c16719ad3990e3d1ccee6641f1-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b07091c16719ad3990e3d1ccee6641f1-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=oWnAlRn3X1",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=oWnAlRn3X1",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116030,\n  title = {{Memory-Efficient Training with In-Place FFT Implementation}},\n  author = {XINYU DING and Bangtian Liu and Siyu Liao and Zhongfeng Wang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=oWnAlRn3X1}\n}",
+    "citation_key": "NeurIPS_116030"
   },
   {
     "key": "NeurIPS:115772",
@@ -7049,7 +8257,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7f7eade8b69c853e3137cab80df3ccf6-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7f7eade8b69c853e3137cab80df3ccf6-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=rVT1GK60Nt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=rVT1GK60Nt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115772,\n  title = {{On the Optimal Construction of Unbiased Gradient Estimators for Zeroth-Order Optimization}},\n  author = {Shaocong Ma and Heng Huang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=rVT1GK60Nt}\n}",
+    "citation_key": "NeurIPS_115772"
   },
   {
     "key": "NeurIPS:118580",
@@ -7093,7 +8309,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f003e17e2fe9aac7667a1b4407ccef46-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f003e17e2fe9aac7667a1b4407ccef46-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=L3UfIfNxb7",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=L3UfIfNxb7",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118580,\n  title = {{Partial Correlation Network Estimation by Semismooth Newton Methods}},\n  author = {DongWon Kim and Sungdong Lee and Joong-Ho (Johann) Won},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=L3UfIfNxb7}\n}",
+    "citation_key": "NeurIPS_118580"
   },
   {
     "key": "NeurIPS:117216",
@@ -7147,7 +8371,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a14193e9d9fb0b03af0b717de1cac8ac-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a14193e9d9fb0b03af0b717de1cac8ac-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=b2IU6QOOfo",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=b2IU6QOOfo",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117216,\n  title = {{PaZO: Preconditioned Accelerated Zeroth-Order Optimization for Fine-Tuning LLMs}},\n  author = {Hanzhen Zhao and Ding Shihong and Cong Fang and Zhouchen Lin},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=b2IU6QOOfo}\n}",
+    "citation_key": "NeurIPS_117216"
   },
   {
     "key": "NeurIPS:117183",
@@ -7191,7 +8423,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/953d276d037e701fcd97dbb34ebb2394-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/953d276d037e701fcd97dbb34ebb2394-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=bPNzBXl1n7",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=bPNzBXl1n7",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117183,\n  title = {{Perturbation Bounds for Low-Rank Inverse Approximations under Noise}},\n  author = {Phuc Tran and Nisheeth K. Vishnoi},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=bPNzBXl1n7}\n}",
+    "citation_key": "NeurIPS_117183"
   },
   {
     "key": "NeurIPS:120092",
@@ -7237,7 +8477,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0d5c9d43eb13c98db21eeb92c7c986d8-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0d5c9d43eb13c98db21eeb92c7c986d8-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=2sa13vyCn0",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=2sa13vyCn0",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_120092,\n  title = {{pLSTM: parallelizable Linear Source Transition Mark networks}},\n  author = {Korbinian Pöppel and Richard Freinschlag and Thomas Schmied and Wei Lin and Sepp Hochreiter},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=2sa13vyCn0}\n}",
+    "citation_key": "NeurIPS_120092"
   },
   {
     "key": "NeurIPS:116485",
@@ -7301,7 +8549,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/db79b6c50430a52fbab9d63efb8433ca-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/db79b6c50430a52fbab9d63efb8433ca-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=jDxFD45kkc",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=jDxFD45kkc",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116485,\n  title = {{PoLAR: Polar-Decomposed Low-Rank Adapter Representation}},\n  author = {Kai Lion and Liang Zhang and Bingcong Li and Niao He},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=jDxFD45kkc}\n}",
+    "citation_key": "NeurIPS_116485"
   },
   {
     "key": "NeurIPS:115604",
@@ -7357,7 +8613,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a9afa70eead1805f00e3a0df2a41157-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a9afa70eead1805f00e3a0df2a41157-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=tM4cHBD7kD",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=tM4cHBD7kD",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115604,\n  title = {{PseuZO: Pseudo-Zeroth-Order Algorithm for Training Deep Neural Networks}},\n  author = {Pengyun Yue and Xuanlin Yang and Mingqing Xiao and Zhouchen Lin},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=tM4cHBD7kD}\n}",
+    "citation_key": "NeurIPS_115604"
   },
   {
     "key": "NeurIPS:116361",
@@ -7432,7 +8696,15 @@
     "featured_rank": 20,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f14f4eda29a74c02c803699a09529bb9-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f14f4eda29a74c02c803699a09529bb9-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=kePsKwxvaV",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=kePsKwxvaV",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116361,\n  title = {{Purifying Shampoo: Investigating Shampoo's Heuristics by Decomposing its Preconditioner}},\n  author = {Runa Eschenhagen and Aaron Defazio and Tsung-Hsien Lee and Richard Turner and Hao-Jun Shi},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=kePsKwxvaV}\n}",
+    "citation_key": "NeurIPS_116361"
   },
   {
     "key": "NeurIPS:117315",
@@ -7486,7 +8758,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c1e6da1f619fe4b2e00cb5ca98392ec4-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c1e6da1f619fe4b2e00cb5ca98392ec4-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ZtzWvNKOCr",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ZtzWvNKOCr",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117315,\n  title = {{Q3R: Quadratic Reweighted Rank Regularizer for Effective Low-Rank Training}},\n  author = {Ipsita Ghosh and Ethan Nguyen and Christian Kümmerle},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=ZtzWvNKOCr}\n}",
+    "citation_key": "NeurIPS_117315"
   },
   {
     "key": "NeurIPS:115710",
@@ -7532,7 +8812,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/028ef7e68a5ea25fc26cd6abf3a5c147-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/028ef7e68a5ea25fc26cd6abf3a5c147-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=sEFDhxF1mG",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=sEFDhxF1mG",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115710,\n  title = {{QSVD: Efficient Low-rank Approximation for Unified Query-Key-Value Weight Compression in Low-Precision Vision-Language Models}},\n  author = {Yutong Wang and Haiyu Wang and Sai Qian Zhang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=sEFDhxF1mG}\n}",
+    "citation_key": "NeurIPS_115710"
   },
   {
     "key": "NeurIPS:116798",
@@ -7582,7 +8870,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1292cf2ff215e3c857c34c32336413a5-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1292cf2ff215e3c857c34c32336413a5-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=fqpbXJ2QtC",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=fqpbXJ2QtC",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116798,\n  title = {{Revitalizing SVD for Global Covariance Pooling: Halley’s Method to Overcome Over-Flattening}},\n  author = {Jiawei Gu and Ziyue Qiao and Xinming Li and Zechao Li},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=fqpbXJ2QtC}\n}",
+    "citation_key": "NeurIPS_116798"
   },
   {
     "key": "NeurIPS:118350",
@@ -7638,7 +8934,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5616112a0120c15bf7d47a6bccc21bc3-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5616112a0120c15bf7d47a6bccc21bc3-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=NY3LzmUXl7",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=NY3LzmUXl7",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118350,\n  title = {{Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry}},\n  author = {Antoine Collas and Ce Ju and Nicolas Salvy and Bertrand Thirion},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=NY3LzmUXl7}\n}",
+    "citation_key": "NeurIPS_118350"
   },
   {
     "key": "NeurIPS:115607",
@@ -7682,7 +8986,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0122ad3e4a752438562297553bbf9049-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0122ad3e4a752438562297553bbf9049-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=tJZKaDSSTX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=tJZKaDSSTX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115607,\n  title = {{Robust and Computation-Aware Gaussian Processes}},\n  author = {Marshal Sinaga and Julien Martinelli and Samuel Kaski},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=tJZKaDSSTX}\n}",
+    "citation_key": "NeurIPS_115607"
   },
   {
     "key": "NeurIPS:119625",
@@ -7736,7 +9048,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/022a921af644da887f5930377f9d53d6-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/022a921af644da887f5930377f9d53d6-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=8Ounc8L4F7",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=8Ounc8L4F7",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119625,\n  title = {{RSAVQ: Riemannian Sensitivity-Aware Vector Quantization for Large Language Models}},\n  author = {Zukang Xu and Xing Hu and Qiang Wu and Dawei Yang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=8Ounc8L4F7}\n}",
+    "citation_key": "NeurIPS_119625"
   },
   {
     "key": "NeurIPS:116734",
@@ -7780,7 +9100,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6ec23290bd9c728558ff882e44e2f28a-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6ec23290bd9c728558ff882e44e2f28a-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=gXoMU9YYdY",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=gXoMU9YYdY",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116734,\n  title = {{Sketch-Augmented Features Improve Learning Long-Range Dependencies in Graph Neural Networks}},\n  author = {Ryien Hosseini and Filippo Simini and Venkatram Vishwanath and Rebecca Willett and Henry Hoffmann},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=gXoMU9YYdY}\n}",
+    "citation_key": "NeurIPS_116734"
   },
   {
     "key": "NeurIPS:117527",
@@ -7834,7 +9162,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/308224aa2da89a3b4257d95b8b2be634-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/308224aa2da89a3b4257d95b8b2be634-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=XIeE8jbM4K",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=XIeE8jbM4K",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117527,\n  title = {{Sketched Adaptive Distributed Deep Learning: A Sharp Convergence Analysis}},\n  author = {Zhijie Chen and Qiaobo Li and Arindam Banerjee},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=XIeE8jbM4K}\n}",
+    "citation_key": "NeurIPS_117527"
   },
   {
     "key": "NeurIPS:120164",
@@ -7878,7 +9214,15 @@
     "featured_rank": 25,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/02d425a464e48bda5e810f8f4914b77e-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/02d425a464e48bda5e810f8f4914b77e-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=2CeGVUpOd7",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=2CeGVUpOd7",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_120164,\n  title = {{Spectral Estimation with Free Decompression}},\n  author = {Siavash Ameli and Chris van der Heide and Liam Hodgkinson and Michael Mahoney},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=2CeGVUpOd7}\n}",
+    "citation_key": "NeurIPS_120164"
   },
   {
     "key": "NeurIPS:117290",
@@ -7932,7 +9276,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/aa4bee5e2720d7e8f073d762ee8c7fd4-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/aa4bee5e2720d7e8f073d762ee8c7fd4-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=aBUG2Phwdt",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=aBUG2Phwdt",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117290,\n  title = {{Spectral Graph Coarsening Using Inner Product Preservation and the Grassmann Manifold}},\n  author = {Ido Cohen and Ronen Talmon},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=aBUG2Phwdt}\n}",
+    "citation_key": "NeurIPS_117290"
   },
   {
     "key": "NeurIPS:119075",
@@ -7976,7 +9328,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0e2cf47a9f948f8e8f283d06c118e3ae-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0e2cf47a9f948f8e8f283d06c118e3ae-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=F0JzotXYgC",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=F0JzotXYgC",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119075,\n  title = {{Spectral Perturbation Bounds for Low-Rank Approximation with Applications to Privacy}},\n  author = {Phuc Tran and Van Vu and Nisheeth K. Vishnoi},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (oral)},\n  url = {https://openreview.net/forum?id=F0JzotXYgC}\n}",
+    "citation_key": "NeurIPS_119075"
   },
   {
     "key": "NeurIPS:116110",
@@ -8020,7 +9380,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/48d467d310502791a97d05d1631c5b0f-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/48d467d310502791a97d05d1631c5b0f-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=nimTd1IJz1",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=nimTd1IJz1",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116110,\n  title = {{STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem}},\n  author = {Hong Wang and Yixuan Jiang and Jie Wang and Xinyi Li and Jian Luo and huanshuo dong},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=nimTd1IJz1}\n}",
+    "citation_key": "NeurIPS_116110"
   },
   {
     "key": "NeurIPS:119094",
@@ -8076,7 +9444,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f092c84221d73387a6a5dd7517c500a5-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/f092c84221d73387a6a5dd7517c500a5-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=EpgMSwJY8t",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=EpgMSwJY8t",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119094,\n  title = {{StreamBP: Memory-Efficient Exact Backpropagation for Long Sequence Training of LLMs}},\n  author = {Qijun Luo and Mengqi Li and Lei Zhao and Xiao Li},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=EpgMSwJY8t}\n}",
+    "citation_key": "NeurIPS_119094"
   },
   {
     "key": "NeurIPS:118046",
@@ -8122,7 +9498,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/77b830c18836a9b2e1395a4936dd687a-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/77b830c18836a9b2e1395a4936dd687a-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=RDbuSCWhad",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=RDbuSCWhad",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118046,\n  title = {{Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models}},\n  author = {Aleksandar Terzic and Nicolas Menet and Michael Hersche and Thomas Hofmann and Abbas Rahimi},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=RDbuSCWhad}\n}",
+    "citation_key": "NeurIPS_118046"
   },
   {
     "key": "NeurIPS:119775",
@@ -8194,7 +9578,15 @@
     "featured_rank": 22,
     "evidence": "Official accepted-paper title and abstract; targeted full-text passage checked",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2d62cb71e87ae340e3ab0e874befcbc2-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2d62cb71e87ae340e3ab0e874befcbc2-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=6geRIdlFWJ",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=6geRIdlFWJ",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119775,\n  title = {{SubTrack++ : Gradient Subspace Tracking for Scalable LLM Training}},\n  author = {Sahar Rajabi and Nayeema Nonta and Sirisha Rambhatla},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=6geRIdlFWJ}\n}",
+    "citation_key": "NeurIPS_119775"
   },
   {
     "key": "NeurIPS:119226",
@@ -8248,7 +9640,15 @@
     "featured_rank": 23,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d85a66edadd443ac2350e93c0287f4f9-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/d85a66edadd443ac2350e93c0287f4f9-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=DIjRvEKOeG",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=DIjRvEKOeG",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119226,\n  title = {{SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training}},\n  author = {Yehonathan Refael and Guy Smorodinsky and Tom Tirer and Ofir Lindenbaum},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=DIjRvEKOeG}\n}",
+    "citation_key": "NeurIPS_119226"
   },
   {
     "key": "NeurIPS:118256",
@@ -8292,7 +9692,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5c17c18c1dea5a0c00907824bbb80449-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5c17c18c1dea5a0c00907824bbb80449-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Oupeovfx0L",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Oupeovfx0L",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118256,\n  title = {{SymMaP: Improving Computational Efficiency in Linear Solvers through Symbolic Preconditioning}},\n  author = {Hong Wang and Jie Wang and Minghao Ma and Haoran Shao and Haoyang Liu},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=Oupeovfx0L}\n}",
+    "citation_key": "NeurIPS_118256"
   },
   {
     "key": "NeurIPS:119499",
@@ -8339,7 +9747,15 @@
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
     "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/7fe3f83c15c1c96daf4689d358c9cadf-Abstract-Conference.html",
-    "program_title": "Tensor Decomposition Networks for Accelerating Machine Learning Force Field Computations"
+    "program_title": "Tensor Decomposition Networks for Accelerating Machine Learning Force Field Computations",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=9vKJyCUfMH",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=9vKJyCUfMH",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119499,\n  title = {{Tensor Decomposition Networks for Fast Machine Learning Interatomic Potential Computations}},\n  author = {Yuchao Lin and Cong Fu and Zachary Krueger and Haiyang Yu and Maho Nakata and Jianwen Xie and Emine Kucukbenli and Xiaofeng Qian and Shuiwang Ji},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=9vKJyCUfMH}\n}",
+    "citation_key": "NeurIPS_119499"
   },
   {
     "key": "NeurIPS:119152",
@@ -8385,7 +9801,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a301ec7cb9e07dc050403e2eb11d0041-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a301ec7cb9e07dc050403e2eb11d0041-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=ECTxVRFhUa",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=ECTxVRFhUa",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_119152,\n  title = {{Tensor Product Attention Is All You Need}},\n  author = {Yifan Zhang and Yifeng Liu and Huizhuo Yuan and Zhen Qin and Yang Yuan and Quanquan Gu and Andrew Yao},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=ECTxVRFhUa}\n}",
+    "citation_key": "NeurIPS_119152"
   },
   {
     "key": "NeurIPS:115720",
@@ -8454,7 +9878,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0010665e949927b74faf6e3ada6d7f72-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0010665e949927b74faf6e3ada6d7f72-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=s4LnWgjacg",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=s4LnWgjacg",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115720,\n  title = {{The Primacy of Magnitude in Low-Rank Adaptation}},\n  author = {Zicheng Zhang and Haoran Li and Yifeng Zhang and Guoqiang Gong and Jiaxing Wang and Pengzhang Liu and Qixia Jiang and Junxing Hu},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=s4LnWgjacg}\n}",
+    "citation_key": "NeurIPS_115720"
   },
   {
     "key": "NeurIPS:115613",
@@ -8498,7 +9930,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/3545b95bd8bdab38c71bcdfa8a91859e-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/3545b95bd8bdab38c71bcdfa8a91859e-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=tGLZj8GWx3",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=tGLZj8GWx3",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115613,\n  title = {{The Structural Complexity of Matrix-Vector Multiplication}},\n  author = {Emile Anand and Jan van den Brand and Rose McCarty},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=tGLZj8GWx3}\n}",
+    "citation_key": "NeurIPS_115613"
   },
   {
     "key": "NeurIPS:117208",
@@ -8544,7 +9984,15 @@
     "featured_rank": 28,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cb81234ab47027e991728ed7dd76735-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cb81234ab47027e991728ed7dd76735-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=b6H64u6TqI",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=b6H64u6TqI",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117208,\n  title = {{Tiled Flash Linear Attention: More Efficient Linear RNN and xLSTM Kernels}},\n  author = {Maximilian Beck and Korbinian Pöppel and Phillip Lippe and Sepp Hochreiter},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=b6H64u6TqI}\n}",
+    "citation_key": "NeurIPS_117208"
   },
   {
     "key": "NeurIPS:118958",
@@ -8588,7 +10036,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cf8b2205e39f81726a8d828ecbe00ad0-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/cf8b2205e39f81726a8d828ecbe00ad0-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=GaL0ja9ygG",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=GaL0ja9ygG",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118958,\n  title = {{Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project}},\n  author = {Pratik Rathore and Zachary Frangella and Sachin Garg and Shaghayegh Fazliani and Michal Derezinski and Madeleine Udell},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=GaL0ja9ygG}\n}",
+    "citation_key": "NeurIPS_118958"
   },
   {
     "key": "NeurIPS:115735",
@@ -8642,7 +10098,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/9b25312145e55be426ee7071e845cb90-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/9b25312145e55be426ee7071e845cb90-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=rwmVd8BKW5",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=rwmVd8BKW5",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_115735,\n  title = {{Universal Sequence Preconditioning}},\n  author = {Annie Marsden and Elad Hazan},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=rwmVd8BKW5}\n}",
+    "citation_key": "NeurIPS_115735"
   },
   {
     "key": "NeurIPS:117475",
@@ -8688,7 +10152,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/317565cd8f3e83be1163f6324b4a4569-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/317565cd8f3e83be1163f6324b4a4569-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=XougXwZAHI",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=XougXwZAHI",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_117475,\n  title = {{When Kernels Multiply, Clusters Unify: Fusing Embeddings with the Kronecker Product}},\n  author = {Youqi WU and Jingwei Zhang and Farzan Farnia},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=XougXwZAHI}\n}",
+    "citation_key": "NeurIPS_117475"
   },
   {
     "key": "NeurIPS:116936",
@@ -8732,7 +10204,15 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c7de4d7804077094c10c8f1ba960241c-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/c7de4d7804077094c10c8f1ba960241c-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=eHRFb3DSZS",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=eHRFb3DSZS",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_116936,\n  title = {{ZeCO: Zero-Communication Overhead Sequence Parallelism for Linear Attention}},\n  author = {Yuhong CHOU and Zehao Liu and Rui-Jie Zhu and Xinyi Wan and Tianjian Li and Congying Chu and Qian Liu and Jibin Wu and Zejun MA},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (poster)},\n  url = {https://openreview.net/forum?id=eHRFb3DSZS}\n}",
+    "citation_key": "NeurIPS_116936"
   },
   {
     "key": "NeurIPS:118425",
@@ -8776,6 +10256,14 @@
     "featured_rank": 0,
     "evidence": "Official accepted-paper title and abstract",
     "snapshot_date": "2026-09-24",
-    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1363163299a172662dcf0c0f9932acf6-Abstract-Conference.html"
+    "proceedings_url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/1363163299a172662dcf0c0f9932acf6-Abstract-Conference.html",
+    "year": 2025,
+    "publication_status": "Accepted",
+    "source_url": "https://openreview.net/forum?id=Ms6IXbfzzX",
+    "doi": "",
+    "bibtex_source": "https://openreview.net/forum?id=Ms6IXbfzzX",
+    "bibtex_kind": "Generated from catalogue metadata",
+    "bibtex": "@misc{NeurIPS_118425,\n  title = {{ZeroS: Zero‑Sum Linear Attention for Efficient Transformers}},\n  author = {Jiecheng Lu and Xu Han and Yan Sun and Viresh Pati and Yubin Kim and Siddhartha Somani and Shihao Yang},\n  year = {2025},\n  note = {NeurIPS 2025; Accept (spotlight)},\n  url = {https://openreview.net/forum?id=Ms6IXbfzzX}\n}",
+    "citation_key": "NeurIPS_118425"
   }
 ]

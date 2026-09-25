@@ -1,6 +1,6 @@
-# ICML 2026 / ICLR 2026 / NeurIPS 2025 project paper catalogue
+# All Papers
 
-598 unique accepted main-conference papers (189 ICLR 2026, 233 ICML 2026, 176 NeurIPS 2025), selected from 16,981 official program entries. Updated: 2026-09-24.
+598 curated papers (189 ICLR 2026, 233 ICML 2026, 176 NeurIPS 2025). Open to any venue, year, journal, workshop or preprint source. The initial collection used 16,981 official program entries. Updated: 2026-09-24.
 
 Topics overlap: 380 optimizer papers, 87 manifold papers, 186 matrix computation papers, 208 training dynamics papers. The learning-rate, scaling-law and training-dynamics extension adds 126 unique papers and categorizes 82 existing entries.
 
@@ -10,7 +10,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yuandong Tian
 
-[OpenReview](<https://openreview.net/forum?id=ceIBRhJpUr>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008484>) · [PDF](<https://openreview.net/pdf?id=ceIBRhJpUr>)
+[Primary source](<https://openreview.net/forum?id=ceIBRhJpUr>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008484>) · [PDF](<https://openreview.net/pdf?id=ceIBRhJpUr>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -30,7 +32,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Benjamin Thérien; Charles-Étienne Joseph; Boris Knyazev; Edouard Oyallon; Irina Rish; Eugene Belilovsky
 
-[OpenReview](<https://openreview.net/forum?id=f8z2bzOLK2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008268>) · [PDF](<https://openreview.net/pdf?id=f8z2bzOLK2>)
+[Primary source](<https://openreview.net/forum?id=f8z2bzOLK2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008268>) · [PDF](<https://openreview.net/pdf?id=f8z2bzOLK2>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -50,7 +54,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ganzhao Yuan
 
-[OpenReview](<https://openreview.net/forum?id=L3Or2mhuCH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010069>) · [PDF](<https://openreview.net/pdf?id=L3Or2mhuCH>)
+[Primary source](<https://openreview.net/forum?id=L3Or2mhuCH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010069>) · [PDF](<https://openreview.net/pdf?id=L3Or2mhuCH>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -64,7 +70,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xuan Tang; Jichu Li; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=wwP1SCACee>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006690>) · [PDF](<https://openreview.net/pdf?id=wwP1SCACee>)
+[Primary source](<https://openreview.net/forum?id=wwP1SCACee>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006690>) · [PDF](<https://openreview.net/pdf?id=wwP1SCACee>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -76,7 +84,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Pranav Vaidhyanathan; Lucas Schorling; Natalia Ares; Michael Osborne
 
-[OpenReview](<https://openreview.net/forum?id=6BhduwrCp3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011394>) · [PDF](<https://openreview.net/pdf?id=6BhduwrCp3>)
+[Primary source](<https://openreview.net/forum?id=6BhduwrCp3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011394>) · [PDF](<https://openreview.net/pdf?id=6BhduwrCp3>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -88,7 +98,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Thibaut Germain; Rémi Flamary; Vladimir Kostic; Karim Lounici
 
-[OpenReview](<https://openreview.net/forum?id=B02EqvyiF3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010984>) · [PDF](<https://openreview.net/pdf?id=B02EqvyiF3>)
+[Primary source](<https://openreview.net/forum?id=B02EqvyiF3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010984>) · [PDF](<https://openreview.net/pdf?id=B02EqvyiF3>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -102,7 +114,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shuo Xie; Tianhao Wang; Beining Wu; Zhiyuan Li
 
-[OpenReview](<https://openreview.net/forum?id=iaoAKDRAJQ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007952>) · [PDF](<https://openreview.net/pdf?id=iaoAKDRAJQ>)
+[Primary source](<https://openreview.net/forum?id=iaoAKDRAJQ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007952>) · [PDF](<https://openreview.net/pdf?id=iaoAKDRAJQ>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -114,7 +128,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Mugunthan Shandirasegaran; Hongkang Li; Songyang Zhang; Meng Wang; Shuai Zhang
 
-[OpenReview](<https://openreview.net/forum?id=hvpKqEYJjj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008011>) · [PDF](<https://openreview.net/pdf?id=hvpKqEYJjj>)
+[Primary source](<https://openreview.net/forum?id=hvpKqEYJjj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008011>) · [PDF](<https://openreview.net/pdf?id=hvpKqEYJjj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -132,7 +148,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Hong-Yi Wang; Di Luo; Tomaso Poggio; Isaac Chuang; Liu Ziyin
 
-[OpenReview](<https://openreview.net/forum?id=vxkzW4ljeX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006767>) · [PDF](<https://openreview.net/pdf?id=vxkzW4ljeX>)
+[Primary source](<https://openreview.net/forum?id=vxkzW4ljeX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006767>) · [PDF](<https://openreview.net/pdf?id=vxkzW4ljeX>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -150,7 +168,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Hong Wang; Jie Wang; Jian Luo; huanshuo dong; Yeqiu Chen; Runmin Jiang; Zhen Huang
 
-[OpenReview](<https://openreview.net/forum?id=rrbCQT7JKX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007112>) · [PDF](<https://openreview.net/pdf?id=rrbCQT7JKX>)
+[Primary source](<https://openreview.net/forum?id=rrbCQT7JKX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007112>) · [PDF](<https://openreview.net/pdf?id=rrbCQT7JKX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -166,7 +186,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Huaijin Wu; Bingrui Li; Yebin Yang; Yi Tu; Zhanpeng Zhou; Jianfei Chen; Junchi Yan
 
-[OpenReview](<https://openreview.net/forum?id=g2l9bg9DWx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008183>) · [PDF](<https://openreview.net/pdf?id=g2l9bg9DWx>)
+[Primary source](<https://openreview.net/forum?id=g2l9bg9DWx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008183>) · [PDF](<https://openreview.net/pdf?id=g2l9bg9DWx>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -180,7 +202,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jiyoung Park; Jaewook J. Suh; Bofan Wang; Anirban Bhattacharya; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=2TTQjRkgFn>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011738>) · [PDF](<https://openreview.net/pdf?id=2TTQjRkgFn>)
+[Primary source](<https://openreview.net/forum?id=2TTQjRkgFn>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011738>) · [PDF](<https://openreview.net/pdf?id=2TTQjRkgFn>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -194,7 +218,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Enea Monzio Compagnoni; Alessandro Stanghellini; Rustem Islamov; Aurelien Lucchi; Anastasia Koloskova
 
-[OpenReview](<https://openreview.net/forum?id=hSpA4DAoMk>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008058>) · [PDF](<https://openreview.net/pdf?id=hSpA4DAoMk>)
+[Primary source](<https://openreview.net/forum?id=hSpA4DAoMk>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008058>) · [PDF](<https://openreview.net/pdf?id=hSpA4DAoMk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -214,7 +240,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Lawrence Liu; Alexander Liu; Mengdi Wang; Tuo Zhao; Lin Yang
 
-[OpenReview](<https://openreview.net/forum?id=8NE554wv0m>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011207>) · [PDF](<https://openreview.net/pdf?id=8NE554wv0m>)
+[Primary source](<https://openreview.net/forum?id=8NE554wv0m>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011207>) · [PDF](<https://openreview.net/pdf?id=8NE554wv0m>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -230,7 +258,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shayne Longpre; Sneha Kudugunta; Niklas Muennighoff; I-Hung Hsu; Isaac Caswell; Alex Pentland; Sercan Arik; Chen-Yu Lee; Sayna Ebrahimi
 
-[OpenReview](<https://openreview.net/forum?id=0BkvUY61MX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011962>) · [PDF](<https://openreview.net/pdf?id=0BkvUY61MX>)
+[Primary source](<https://openreview.net/forum?id=0BkvUY61MX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011962>) · [PDF](<https://openreview.net/pdf?id=0BkvUY61MX>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -248,7 +278,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zekun Wang; Anant Gupta; Zihan Dong; Christopher MacLellan
 
-[OpenReview](<https://openreview.net/forum?id=zCZcbRsc4g>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006476>) · [PDF](<https://openreview.net/pdf?id=zCZcbRsc4g>)
+[Primary source](<https://openreview.net/forum?id=zCZcbRsc4g>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006476>) · [PDF](<https://openreview.net/pdf?id=zCZcbRsc4g>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -264,7 +296,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Nikita Kalinin; Ryan McKenna; Jalaj Upadhyay; Christoph Lampert
 
-[OpenReview](<https://openreview.net/forum?id=EEr6cADbZx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010697>) · [PDF](<https://openreview.net/pdf?id=EEr6cADbZx>)
+[Primary source](<https://openreview.net/forum?id=EEr6cADbZx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010697>) · [PDF](<https://openreview.net/pdf?id=EEr6cADbZx>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -280,7 +314,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Amir Joudaki; Giulia Lanzillotta; Mohammad Samragh; Iman Mirzadeh; Keivan Alizadeh-Vahid; Thomas Hofmann; Mehrdad Farajtabar; Fartash Faghri
 
-[OpenReview](<https://openreview.net/forum?id=g6kof5fSba>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008176>) · [PDF](<https://openreview.net/pdf?id=g6kof5fSba>)
+[Primary source](<https://openreview.net/forum?id=g6kof5fSba>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008176>) · [PDF](<https://openreview.net/pdf?id=g6kof5fSba>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -296,7 +332,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Philipp Alexander Kreer; Wilson Wu; Maxwell Adam; Zach Furman; Jesse Hoogland
 
-[OpenReview](<https://openreview.net/forum?id=YEBpZVm70i>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008904>) · [PDF](<https://openreview.net/pdf?id=YEBpZVm70i>)
+[Primary source](<https://openreview.net/forum?id=YEBpZVm70i>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008904>) · [PDF](<https://openreview.net/pdf?id=YEBpZVm70i>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -316,7 +354,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Georgios Vlassis; Saleh Ashkboos; Alexandra Volkova; Torsten Hoefler; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=mVldAuDAn5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007569>) · [PDF](<https://openreview.net/pdf?id=mVldAuDAn5>)
+[Primary source](<https://openreview.net/forum?id=mVldAuDAn5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007569>) · [PDF](<https://openreview.net/pdf?id=mVldAuDAn5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -336,7 +376,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xize Liang; Lin Yang; Jie Wang; Rui Liu; Yang Lu; Jinliang Zeng; Hanzhu Chen; Dong Li; Jianye Hao
 
-[OpenReview](<https://openreview.net/forum?id=R2EZtdHWJT>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009536>) · [PDF](<https://openreview.net/pdf?id=R2EZtdHWJT>)
+[Primary source](<https://openreview.net/forum?id=R2EZtdHWJT>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009536>) · [PDF](<https://openreview.net/pdf?id=R2EZtdHWJT>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -348,7 +390,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jiachen (Tianhao) Wang; Tong Wu; Kaifeng Lyu; James Y Zou; Dawn Song; Ruoxi Jia; Prateek Mittal
 
-[OpenReview](<https://openreview.net/forum?id=2FZC0c06jP>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011765>) · [PDF](<https://openreview.net/pdf?id=2FZC0c06jP>)
+[Primary source](<https://openreview.net/forum?id=2FZC0c06jP>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011765>) · [PDF](<https://openreview.net/pdf?id=2FZC0c06jP>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -366,7 +410,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhongzhu Zhou; Fengxiang Bie; Ziyan Chen; Zhenyu Zhang; Yibo Yang; Junxiong Wang; Ben Athiwaratkun; Xiaoxia (Shirley) Wu; Shuaiwen Song
 
-[OpenReview](<https://openreview.net/forum?id=DVurf4kGag>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010773>) · [PDF](<https://openreview.net/pdf?id=DVurf4kGag>)
+[Primary source](<https://openreview.net/forum?id=DVurf4kGag>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010773>) · [PDF](<https://openreview.net/pdf?id=DVurf4kGag>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -382,7 +428,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kaizhao Liang; Lizhang Chen; Bo Liu; Qiang Liu
 
-[OpenReview](<https://openreview.net/forum?id=zBPZeRjfgu>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006480>) · [PDF](<https://openreview.net/pdf?id=zBPZeRjfgu>)
+[Primary source](<https://openreview.net/forum?id=zBPZeRjfgu>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006480>) · [PDF](<https://openreview.net/pdf?id=zBPZeRjfgu>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -394,7 +442,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Lizhang Chen; Jonathan Li; Kaizhao Liang; Baiyu Su; Cong Xie; Chen Liang; Ni Lao; Qiang Liu
 
-[OpenReview](<https://openreview.net/forum?id=Gwe6gbGng5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010446>) · [PDF](<https://openreview.net/pdf?id=Gwe6gbGng5>)
+[Primary source](<https://openreview.net/forum?id=Gwe6gbGng5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010446>) · [PDF](<https://openreview.net/pdf?id=Gwe6gbGng5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -414,7 +464,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Abhinav Moudgil; Boris Knyazev; Eugene Belilovsky
 
-[OpenReview](<https://openreview.net/forum?id=hxDB30LwVe>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008009>) · [PDF](<https://openreview.net/pdf?id=hxDB30LwVe>)
+[Primary source](<https://openreview.net/forum?id=hxDB30LwVe>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008009>) · [PDF](<https://openreview.net/pdf?id=hxDB30LwVe>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -426,7 +478,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Basile Confavreux; Aaditya Singh; Jin Hwa Lee; Amaury Sabran; Andrew Saxe
 
-[OpenReview](<https://openreview.net/forum?id=cJAtzOcAnd>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008523>) · [PDF](<https://openreview.net/pdf?id=cJAtzOcAnd>)
+[Primary source](<https://openreview.net/forum?id=cJAtzOcAnd>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008523>) · [PDF](<https://openreview.net/pdf?id=cJAtzOcAnd>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -444,7 +498,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Bruno Mlodozeniec; Pierre Ablin; Louis Béthune; Dan Busbridge; Michal Klein; Jason Ramapuram; marco cuturi
 
-[OpenReview](<https://openreview.net/forum?id=elB9k4nTL1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008289>) · [PDF](<https://openreview.net/pdf?id=elB9k4nTL1>)
+[Primary source](<https://openreview.net/forum?id=elB9k4nTL1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008289>) · [PDF](<https://openreview.net/pdf?id=elB9k4nTL1>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -464,7 +520,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Aleksandr Dremov; David Grangier; Angelos Katharopoulos; Awni Hannun
 
-[OpenReview](<https://openreview.net/forum?id=QpbtT95S95>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009552>) · [PDF](<https://openreview.net/pdf?id=QpbtT95S95>)
+[Primary source](<https://openreview.net/forum?id=QpbtT95S95>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009552>) · [PDF](<https://openreview.net/pdf?id=QpbtT95S95>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -482,7 +540,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhe Li; Bicheng Ying; Zidong Liu; Chaosheng Dong; Haibo Yang
 
-[OpenReview](<https://openreview.net/forum?id=lJqssVKeR7>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007694>) · [PDF](<https://openreview.net/pdf?id=lJqssVKeR7>)
+[Primary source](<https://openreview.net/forum?id=lJqssVKeR7>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007694>) · [PDF](<https://openreview.net/pdf?id=lJqssVKeR7>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -494,7 +554,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Gyu Yeol Kim; Min-hwan Oh
 
-[OpenReview](<https://openreview.net/forum?id=lJSfxtLpLm>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007695>) · [PDF](<https://openreview.net/pdf?id=lJSfxtLpLm>)
+[Primary source](<https://openreview.net/forum?id=lJSfxtLpLm>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007695>) · [PDF](<https://openreview.net/pdf?id=lJSfxtLpLm>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -506,7 +568,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhiqi Bu; Shiyun Xu; Jialin Mao
 
-[OpenReview](<https://openreview.net/forum?id=dSdLqg02tx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008408>) · [PDF](<https://openreview.net/pdf?id=dSdLqg02tx>)
+[Primary source](<https://openreview.net/forum?id=dSdLqg02tx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008408>) · [PDF](<https://openreview.net/pdf?id=dSdLqg02tx>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -526,7 +590,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jaeyoung Hong; YunYoung Choi; Joohwan Ko; Minseon Gwak
 
-[OpenReview](<https://openreview.net/forum?id=w7csRoB5CO>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006756>) · [PDF](<https://openreview.net/pdf?id=w7csRoB5CO>)
+[Primary source](<https://openreview.net/forum?id=w7csRoB5CO>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006756>) · [PDF](<https://openreview.net/pdf?id=w7csRoB5CO>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -542,7 +608,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Liming Liu; Zhenghao Xu; Zixuan Zhang; Hao Kang; Zichong Li; Chen Liang; Weizhu Chen; Tuo Zhao
 
-[OpenReview](<https://openreview.net/forum?id=j2QTOOtM8R>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007916>) · [PDF](<https://openreview.net/pdf?id=j2QTOOtM8R>)
+[Primary source](<https://openreview.net/forum?id=j2QTOOtM8R>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007916>) · [PDF](<https://openreview.net/pdf?id=j2QTOOtM8R>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -554,7 +622,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Eslam Zaher; Maciej Trzaskowski; Quan Nguyen; Fred Roosta
 
-[OpenReview](<https://openreview.net/forum?id=B5RBKM4vPY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010974>) · [PDF](<https://openreview.net/pdf?id=B5RBKM4vPY>)
+[Primary source](<https://openreview.net/forum?id=B5RBKM4vPY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010974>) · [PDF](<https://openreview.net/pdf?id=B5RBKM4vPY>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -568,7 +638,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xinwei Qiang; Hongmin chen; Shixuan Sun; Jingwen Leng; Xin Liu; Minyi Guo
 
-[OpenReview](<https://openreview.net/forum?id=bMi5ssfPoM>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008616>) · [PDF](<https://openreview.net/pdf?id=bMi5ssfPoM>)
+[Primary source](<https://openreview.net/forum?id=bMi5ssfPoM>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008616>) · [PDF](<https://openreview.net/pdf?id=bMi5ssfPoM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -586,7 +658,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Angelo Porrello; Pietro Buzzega; Felix Dangel; Thomas Sommariva; Riccardo Salami; Lorenzo Bonicelli; Simone Calderara
 
-[OpenReview](<https://openreview.net/forum?id=32mrjmaeMP>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011679>) · [PDF](<https://openreview.net/pdf?id=32mrjmaeMP>)
+[Primary source](<https://openreview.net/forum?id=32mrjmaeMP>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011679>) · [PDF](<https://openreview.net/pdf?id=32mrjmaeMP>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -598,7 +672,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yihong Chen; Xiangxiang Xu; Pontus Stenetorp; Sebastian Riedel; Luca Franceschi
 
-[OpenReview](<https://openreview.net/forum?id=u6JLh0BO5h>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006920>) · [PDF](<https://openreview.net/pdf?id=u6JLh0BO5h>)
+[Primary source](<https://openreview.net/forum?id=u6JLh0BO5h>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006920>) · [PDF](<https://openreview.net/pdf?id=u6JLh0BO5h>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -614,7 +690,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Bowen Peng; Lizhang Chen; Baiyu Su; Jeffrey Quesnelle; Diederik (Durk) Kingma; Qiang Liu
 
-[OpenReview](<https://openreview.net/forum?id=U9oewpa7cn>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009256>) · [PDF](<https://openreview.net/pdf?id=U9oewpa7cn>)
+[Primary source](<https://openreview.net/forum?id=U9oewpa7cn>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009256>) · [PDF](<https://openreview.net/pdf?id=U9oewpa7cn>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -626,7 +704,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Alex Iacob; Lorenzo Sani; Mher Safaryan; Paris Giampouras; Samuel Horváth; Andrej Jovanovic; Meghdad Kurmanji; Preslav Aleksandrov; William Shen; Xinchi Qiu; Nic Lane
 
-[OpenReview](<https://openreview.net/forum?id=6N2qFixxYZ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011382>) · [PDF](<https://openreview.net/pdf?id=6N2qFixxYZ>)
+[Primary source](<https://openreview.net/forum?id=6N2qFixxYZ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011382>) · [PDF](<https://openreview.net/pdf?id=6N2qFixxYZ>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -638,7 +718,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ke Sun
 
-[OpenReview](<https://openreview.net/forum?id=Ssevs8KCsU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009375>) · [PDF](<https://openreview.net/pdf?id=Ssevs8KCsU>)
+[Primary source](<https://openreview.net/forum?id=Ssevs8KCsU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009375>) · [PDF](<https://openreview.net/pdf?id=Ssevs8KCsU>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -654,7 +736,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Emre Adabag; Marcus Greiff; John Subosits; Thomas Lew
 
-[OpenReview](<https://openreview.net/forum?id=bFYfV6c9zu>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008630>) · [PDF](<https://openreview.net/pdf?id=bFYfV6c9zu>)
+[Primary source](<https://openreview.net/forum?id=bFYfV6c9zu>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008630>) · [PDF](<https://openreview.net/pdf?id=bFYfV6c9zu>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -670,7 +754,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kunhee Kim; NaHyeon Park; Kibeom Hong; Hyunjung Shim
 
-[OpenReview](<https://openreview.net/forum?id=6wA4qpyyU9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011344>) · [PDF](<https://openreview.net/pdf?id=6wA4qpyyU9>)
+[Primary source](<https://openreview.net/forum?id=6wA4qpyyU9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011344>) · [PDF](<https://openreview.net/pdf?id=6wA4qpyyU9>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -686,7 +772,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xianbiao Qi; Marco Chen; Wenjie Xiao; Jiaquan Ye; Yelin He; Chun-Guang Li; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=62pn18XmAg>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011405>) · [PDF](<https://openreview.net/pdf?id=62pn18XmAg>)
+[Primary source](<https://openreview.net/forum?id=62pn18XmAg>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011405>) · [PDF](<https://openreview.net/pdf?id=62pn18XmAg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -706,7 +794,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yicheng Lang; Yihua Zhang; Chongyu Fan; Changsheng Wang; Jinghan Jia; Sijia Liu
 
-[OpenReview](<https://openreview.net/forum?id=Sswng2ToR4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009373>) · [PDF](<https://openreview.net/pdf?id=Sswng2ToR4>)
+[Primary source](<https://openreview.net/forum?id=Sswng2ToR4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009373>) · [PDF](<https://openreview.net/pdf?id=Sswng2ToR4>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -718,7 +808,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Fei Wu; Jia Hu; Geyong Min; Shiqiang Wang
 
-[OpenReview](<https://openreview.net/forum?id=FSHrinMArK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010597>) · [PDF](<https://openreview.net/pdf?id=FSHrinMArK>)
+[Primary source](<https://openreview.net/forum?id=FSHrinMArK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010597>) · [PDF](<https://openreview.net/pdf?id=FSHrinMArK>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M4 — Related constrained and geometry-aware optimization.
 
@@ -734,7 +826,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Le-Trung Nguyen; Enzo Tartaglione; Van-Tam Nguyen
 
-[OpenReview](<https://openreview.net/forum?id=0nvQ5kHXf4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011896>) · [PDF](<https://openreview.net/pdf?id=0nvQ5kHXf4>)
+[Primary source](<https://openreview.net/forum?id=0nvQ5kHXf4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011896>) · [PDF](<https://openreview.net/pdf?id=0nvQ5kHXf4>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -748,7 +842,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ali Saheb Pasand; Elvis Dohmatob
 
-[OpenReview](<https://openreview.net/forum?id=wCnHeql3ow>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006751>) · [PDF](<https://openreview.net/pdf?id=wCnHeql3ow>)
+[Primary source](<https://openreview.net/forum?id=wCnHeql3ow>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006751>) · [PDF](<https://openreview.net/pdf?id=wCnHeql3ow>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -768,7 +864,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shirin Shoushtari; Yi Wang; Xiao Shi; Salman Asif; Ulugbek Kamilov
 
-[OpenReview](<https://openreview.net/forum?id=Dq64kthckN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010743>) · [PDF](<https://openreview.net/pdf?id=Dq64kthckN>)
+[Primary source](<https://openreview.net/forum?id=Dq64kthckN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010743>) · [PDF](<https://openreview.net/pdf?id=Dq64kthckN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -784,7 +882,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Qingyuan Liu; Jia-Chen Gu; Yunzhi Yao; Hong Wang; Nanyun (Violet) Peng
 
-[OpenReview](<https://openreview.net/forum?id=CHsdtzCip6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010872>) · [PDF](<https://openreview.net/pdf?id=CHsdtzCip6>)
+[Primary source](<https://openreview.net/forum?id=CHsdtzCip6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010872>) · [PDF](<https://openreview.net/pdf?id=CHsdtzCip6>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -798,7 +898,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kaja Gruntkowska; Alexander Gaponov; Zhirayr Tovmasyan; Peter Richtarik
 
-[OpenReview](<https://openreview.net/forum?id=rex7s82Iav>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007128>) · [PDF](<https://openreview.net/pdf?id=rex7s82Iav>)
+[Primary source](<https://openreview.net/forum?id=rex7s82Iav>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007128>) · [PDF](<https://openreview.net/pdf?id=rex7s82Iav>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -810,7 +912,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Chenyang Ren; Huanyi Xie; Shu Yang; Meng Ding; Dongrui Liu; Lijie Hu; Di Wang
 
-[OpenReview](<https://openreview.net/forum?id=0gh7haE5tc>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011910>) · [PDF](<https://openreview.net/pdf?id=0gh7haE5tc>)
+[Primary source](<https://openreview.net/forum?id=0gh7haE5tc>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011910>) · [PDF](<https://openreview.net/pdf?id=0gh7haE5tc>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -824,7 +928,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Keitaro Sakamoto; Issei Sato
 
-[OpenReview](<https://openreview.net/forum?id=sLX5P7FTfT>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007064>) · [PDF](<https://openreview.net/pdf?id=sLX5P7FTfT>)
+[Primary source](<https://openreview.net/forum?id=sLX5P7FTfT>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007064>) · [PDF](<https://openreview.net/pdf?id=sLX5P7FTfT>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -842,7 +948,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dongxuan Zhu; Ly Khanh; Andy Yat-Ming Cheung; Man-Chung Yue; Viet Anh Nguyen
 
-[OpenReview](<https://openreview.net/forum?id=v0QOVSVPtq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006851>) · [PDF](<https://openreview.net/pdf?id=v0QOVSVPtq>)
+[Primary source](<https://openreview.net/forum?id=v0QOVSVPtq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006851>) · [PDF](<https://openreview.net/pdf?id=v0QOVSVPtq>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -856,7 +964,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yangdi Jiang; Xiaotian Chang; Lei Ding; Linglong Kong; Bei Jiang
 
-[OpenReview](<https://openreview.net/forum?id=ulCVfMOo30>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006869>) · [PDF](<https://openreview.net/pdf?id=ulCVfMOo30>)
+[Primary source](<https://openreview.net/forum?id=ulCVfMOo30>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006869>) · [PDF](<https://openreview.net/pdf?id=ulCVfMOo30>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -870,7 +980,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xiao Zhang; Xiangyu Han; Xiwen Lai; Yao Sun; Pei Zhang; Xia Liu; Konrad P Kording
 
-[OpenReview](<https://openreview.net/forum?id=PvWHzAf9qp>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009636>) · [PDF](<https://openreview.net/pdf?id=PvWHzAf9qp>)
+[Primary source](<https://openreview.net/forum?id=PvWHzAf9qp>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009636>) · [PDF](<https://openreview.net/pdf?id=PvWHzAf9qp>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -886,7 +998,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kaiyue Wen; David Hall; Tengyu Ma; Percy Liang
 
-[OpenReview](<https://openreview.net/forum?id=2J51qUZ0iG>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011758>) · [PDF](<https://openreview.net/pdf?id=2J51qUZ0iG>)
+[Primary source](<https://openreview.net/forum?id=2J51qUZ0iG>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011758>) · [PDF](<https://openreview.net/pdf?id=2J51qUZ0iG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T3 — Width/depth scaling and hyperparameter transfer; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -906,7 +1020,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ziheng Chen; Yue Song; Xiaojun Wu; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+[Primary source](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -928,7 +1044,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jinbo Wang; Binghui Li; Zhanpeng Zhou; Mingze Wang; yuxuan sun; Jiaqi Zhang; Xunliang Cai; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=PXWgzUkVwo>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009661>) · [PDF](<https://openreview.net/pdf?id=PXWgzUkVwo>)
+[Primary source](<https://openreview.net/forum?id=PXWgzUkVwo>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009661>) · [PDF](<https://openreview.net/pdf?id=PXWgzUkVwo>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -948,7 +1066,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Guillaume Braun; Bruno Loureiro; Minh Ha Quang; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=Ae4eZpkXBX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011017>) · [PDF](<https://openreview.net/pdf?id=Ae4eZpkXBX>)
+[Primary source](<https://openreview.net/forum?id=Ae4eZpkXBX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011017>) · [PDF](<https://openreview.net/pdf?id=Ae4eZpkXBX>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -966,7 +1086,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yuki Takezawa; Anastasia Koloskova; Xiaowen Jiang; Sebastian Stich
 
-[OpenReview](<https://openreview.net/forum?id=9k7bvBVenZ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011085>) · [PDF](<https://openreview.net/pdf?id=9k7bvBVenZ>)
+[Primary source](<https://openreview.net/forum?id=9k7bvBVenZ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011085>) · [PDF](<https://openreview.net/pdf?id=9k7bvBVenZ>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -978,7 +1100,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sifeng SHANG; JIAYI ZHOU; Chenyu Lin; Minxian Li; Kaiyang Zhou
 
-[OpenReview](<https://openreview.net/forum?id=mGeeRFToaW>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007599>) · [PDF](<https://openreview.net/pdf?id=mGeeRFToaW>)
+[Primary source](<https://openreview.net/forum?id=mGeeRFToaW>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007599>) · [PDF](<https://openreview.net/pdf?id=mGeeRFToaW>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -990,7 +1114,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dmytro Vitel; Anshuman Chhabra
 
-[OpenReview](<https://openreview.net/forum?id=Dkgw08Z4sj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010747>) · [PDF](<https://openreview.net/pdf?id=Dkgw08Z4sj>)
+[Primary source](<https://openreview.net/forum?id=Dkgw08Z4sj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010747>) · [PDF](<https://openreview.net/pdf?id=Dkgw08Z4sj>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -1004,7 +1130,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Haojie Duanmu; Size Zheng; Ningxin Zheng; Jianqiao Lu; Xuegui Zheng; Xingcheng Zhang; Li-Wen Chang; Xin Liu; Dahua Lin
 
-[OpenReview](<https://openreview.net/forum?id=N4jJQvQSiN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009893>) · [PDF](<https://openreview.net/pdf?id=N4jJQvQSiN>)
+[Primary source](<https://openreview.net/forum?id=N4jJQvQSiN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009893>) · [PDF](<https://openreview.net/pdf?id=N4jJQvQSiN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1020,7 +1148,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sizhe Dang; yangyangGuo; Yanjun Zhao; Xiaodong Zheng; Guang Dai; Ivor Tsang; Haishan Ye
 
-[OpenReview](<https://openreview.net/forum?id=NMlF3YjS8E>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009867>) · [PDF](<https://openreview.net/pdf?id=NMlF3YjS8E>)
+[Primary source](<https://openreview.net/forum?id=NMlF3YjS8E>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009867>) · [PDF](<https://openreview.net/pdf?id=NMlF3YjS8E>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -1034,7 +1164,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Tongtong Liang; Alexander Cloninger; Rahul Parhi; Yu-Xiang Wang
 
-[OpenReview](<https://openreview.net/forum?id=zVmS7G6Dyi>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006451>) · [PDF](<https://openreview.net/pdf?id=zVmS7G6Dyi>)
+[Primary source](<https://openreview.net/forum?id=zVmS7G6Dyi>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006451>) · [PDF](<https://openreview.net/pdf?id=zVmS7G6Dyi>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1052,7 +1184,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shuang Liang; Guido Montufar
 
-[OpenReview](<https://openreview.net/forum?id=wsxGCaBjWC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006694>) · [PDF](<https://openreview.net/pdf?id=wsxGCaBjWC>)
+[Primary source](<https://openreview.net/forum?id=wsxGCaBjWC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006694>) · [PDF](<https://openreview.net/pdf?id=wsxGCaBjWC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1070,7 +1204,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jingqi Ye; Haonan He; Minglei Li; Fujun Han; Tao Chen; Peng Ye
 
-[OpenReview](<https://openreview.net/forum?id=kObvnQ6pUx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007793>) · [PDF](<https://openreview.net/pdf?id=kObvnQ6pUx>)
+[Primary source](<https://openreview.net/forum?id=kObvnQ6pUx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007793>) · [PDF](<https://openreview.net/pdf?id=kObvnQ6pUx>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -1082,7 +1218,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Andrei Semenov; Martin Jaggi; Nikita Doikov
 
-[OpenReview](<https://openreview.net/forum?id=Epu8Lm6VMK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010642>) · [PDF](<https://openreview.net/pdf?id=Epu8Lm6VMK>)
+[Primary source](<https://openreview.net/forum?id=Epu8Lm6VMK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010642>) · [PDF](<https://openreview.net/pdf?id=Epu8Lm6VMK>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1094,7 +1232,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Matthew Zhang; Jihao Andreas Lin; Krzysztof Choromanski; Adrian Weller; Richard E Turner; Isaac Reid
 
-[OpenReview](<https://openreview.net/forum?id=89SQfLguNn>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011224>) · [PDF](<https://openreview.net/pdf?id=89SQfLguNn>)
+[Primary source](<https://openreview.net/forum?id=89SQfLguNn>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011224>) · [PDF](<https://openreview.net/pdf?id=89SQfLguNn>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1110,7 +1250,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ziyue Li; Chenrui Fan; Tianyi Zhou
 
-[OpenReview](<https://openreview.net/forum?id=blfwRondjY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008581>) · [PDF](<https://openreview.net/pdf?id=blfwRondjY>)
+[Primary source](<https://openreview.net/forum?id=blfwRondjY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008581>) · [PDF](<https://openreview.net/pdf?id=blfwRondjY>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1128,7 +1270,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ke Li; Zheng Yang; Zhongbin Zhou; Xuefeng; Zhonglin Jiang; Wenxiao Wang
 
-[OpenReview](<https://openreview.net/forum?id=JAbMgS7gl6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010227>) · [PDF](<https://openreview.net/pdf?id=JAbMgS7gl6>)
+[Primary source](<https://openreview.net/forum?id=JAbMgS7gl6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010227>) · [PDF](<https://openreview.net/pdf?id=JAbMgS7gl6>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1146,7 +1290,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yanbin He; Geethu Joseph
 
-[OpenReview](<https://openreview.net/forum?id=40e58sTE5F>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011587>) · [PDF](<https://openreview.net/pdf?id=40e58sTE5F>)
+[Primary source](<https://openreview.net/forum?id=40e58sTE5F>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011587>) · [PDF](<https://openreview.net/pdf?id=40e58sTE5F>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -1162,7 +1308,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Aukosh Jagannath; Taj Jones-McCormick; Varnan Sarangian
 
-[OpenReview](<https://openreview.net/forum?id=5OJLOwwXV4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011471>) · [PDF](<https://openreview.net/pdf?id=5OJLOwwXV4>)
+[Primary source](<https://openreview.net/forum?id=5OJLOwwXV4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011471>) · [PDF](<https://openreview.net/pdf?id=5OJLOwwXV4>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1182,7 +1330,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jiefu Zhang; Qin Zhen; Jiabo Tong; Shijie Mei; Jiakui Hu; Yuqi Pan; Anjie Hu; Man Yao; Bo XU; Guoqi Li
 
-[OpenReview](<https://openreview.net/forum?id=HVFjzaQeig>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010385>) · [PDF](<https://openreview.net/pdf?id=HVFjzaQeig>)
+[Primary source](<https://openreview.net/forum?id=HVFjzaQeig>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010385>) · [PDF](<https://openreview.net/pdf?id=HVFjzaQeig>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1198,7 +1348,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Chenxiang Zhang; Alexander Theus; Damien Teney; Antonio Orvieto; Jun Pang; Sjouke Mauw
 
-[OpenReview](<https://openreview.net/forum?id=RU76KTF1Da>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009486>) · [PDF](<https://openreview.net/pdf?id=RU76KTF1Da>)
+[Primary source](<https://openreview.net/forum?id=RU76KTF1Da>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009486>) · [PDF](<https://openreview.net/pdf?id=RU76KTF1Da>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1218,7 +1370,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Kairong Luo; Zhenbo Sun; Haodong Wen; Xinyu Shi; Jiarui Cui; Chenyi Dang; Kaifeng Lyu; Wenguang Chen
 
-[OpenReview](<https://openreview.net/forum?id=T5wkZJqzkz>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009351>) · [PDF](<https://openreview.net/pdf?id=T5wkZJqzkz>)
+[Primary source](<https://openreview.net/forum?id=T5wkZJqzkz>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009351>) · [PDF](<https://openreview.net/pdf?id=T5wkZJqzkz>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -1238,7 +1392,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Bhavya Vasudeva; Puneesh Deora; Yize Zhao; Vatsal Sharan; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=YzjS4jcfmS>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008850>) · [PDF](<https://openreview.net/pdf?id=YzjS4jcfmS>)
+[Primary source](<https://openreview.net/forum?id=YzjS4jcfmS>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008850>) · [PDF](<https://openreview.net/pdf?id=YzjS4jcfmS>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1250,7 +1406,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Newsha Ardalani; Feiyang Kang; Michael Kuchnik; Mostafa Elhoushi; Shubho Sengupta; Shang-Wen Li; Carole-Jean Wu
 
-[OpenReview](<https://openreview.net/forum?id=ZC5QBfdOw7>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008830>) · [PDF](<https://openreview.net/pdf?id=ZC5QBfdOw7>)
+[Primary source](<https://openreview.net/forum?id=ZC5QBfdOw7>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008830>) · [PDF](<https://openreview.net/pdf?id=ZC5QBfdOw7>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1268,7 +1426,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yunzhe Hu; Difan Zou; Dong Xu
 
-[OpenReview](<https://openreview.net/forum?id=FinhjyDgYA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010570>) · [PDF](<https://openreview.net/pdf?id=FinhjyDgYA>)
+[Primary source](<https://openreview.net/forum?id=FinhjyDgYA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010570>) · [PDF](<https://openreview.net/pdf?id=FinhjyDgYA>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M4 — Related constrained and geometry-aware optimization.
 
@@ -1286,7 +1446,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Tom Jacobs; Advait Gadhikar; Celia Rubio-Madrigal; Rebekka Burkholz
 
-[OpenReview](<https://openreview.net/forum?id=XKB5Hu0ACY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008982>) · [PDF](<https://openreview.net/pdf?id=XKB5Hu0ACY>)
+[Primary source](<https://openreview.net/forum?id=XKB5Hu0ACY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008982>) · [PDF](<https://openreview.net/pdf?id=XKB5Hu0ACY>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; M4 — Related constrained and geometry-aware optimization.
 
@@ -1302,7 +1464,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Baekrok Shin; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=NYOYJr988x>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009856>) · [PDF](<https://openreview.net/pdf?id=NYOYJr988x>)
+[Primary source](<https://openreview.net/forum?id=NYOYJr988x>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009856>) · [PDF](<https://openreview.net/pdf?id=NYOYJr988x>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1320,7 +1484,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Beomhan Baek; Minhak Song; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=LJdAdCo3BN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010047>) · [PDF](<https://openreview.net/pdf?id=LJdAdCo3BN>)
+[Primary source](<https://openreview.net/forum?id=LJdAdCo3BN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010047>) · [PDF](<https://openreview.net/pdf?id=LJdAdCo3BN>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1340,7 +1506,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Francesco DAmico; Dario Bocchi; Matteo Negri
 
-[OpenReview](<https://openreview.net/forum?id=qBAV2DEvAC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007275>) · [PDF](<https://openreview.net/pdf?id=qBAV2DEvAC>)
+[Primary source](<https://openreview.net/forum?id=qBAV2DEvAC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007275>) · [PDF](<https://openreview.net/pdf?id=qBAV2DEvAC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1358,7 +1526,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Nahal Mirzaie; Alireza Alipanah; Ali Abbasi; Amirmahdi Farzane; Hossein Jafarinia; Erfan Sobhaei; Mahdi Ghaznavi; Amir Najafi; Mahdieh Baghshah; Mohammad Hossein Rohban
 
-[OpenReview](<https://openreview.net/forum?id=CPdAB7H8mU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010861>) · [PDF](<https://openreview.net/pdf?id=CPdAB7H8mU>)
+[Primary source](<https://openreview.net/forum?id=CPdAB7H8mU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010861>) · [PDF](<https://openreview.net/pdf?id=CPdAB7H8mU>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1378,7 +1548,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Tuan-Kiet Doan; Trung-Hieu Tran; Enzo Tartaglione; Nikola Simidjievski; Van-Tam Nguyen
 
-[OpenReview](<https://openreview.net/forum?id=P2q6Y7UweV>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009720>) · [PDF](<https://openreview.net/pdf?id=P2q6Y7UweV>)
+[Primary source](<https://openreview.net/forum?id=P2q6Y7UweV>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009720>) · [PDF](<https://openreview.net/pdf?id=P2q6Y7UweV>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -1390,7 +1562,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sibylle Marcotte; Gabriel Peyré; Rémi Gribonval
 
-[OpenReview](<https://openreview.net/forum?id=IlyesljaNb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+[Primary source](<https://openreview.net/forum?id=IlyesljaNb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1414,7 +1588,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zukang Xu; Zhixiong Zhao; Xing Hu; Zhixuan Chen; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=veFs5UfYq9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006798>) · [PDF](<https://openreview.net/pdf?id=veFs5UfYq9>)
+[Primary source](<https://openreview.net/forum?id=veFs5UfYq9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006798>) · [PDF](<https://openreview.net/pdf?id=veFs5UfYq9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1430,7 +1606,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Andrey Kharitenko; Zebang Shen; Riccardo De Santi; Niao He; Florian Dorfler
 
-[OpenReview](<https://openreview.net/forum?id=xZNoeX0z9f>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006634>) · [PDF](<https://openreview.net/pdf?id=xZNoeX0z9f>)
+[Primary source](<https://openreview.net/forum?id=xZNoeX0z9f>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006634>) · [PDF](<https://openreview.net/pdf?id=xZNoeX0z9f>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1444,7 +1622,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhe Feng; Sen Lian; Changwei Wang; Muyang Zhang; Tianlong Tan; Rongtao Xu; Weiliang Meng; Xiaopeng Zhang
 
-[OpenReview](<https://openreview.net/forum?id=bJZExGYWqx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008622>) · [PDF](<https://openreview.net/pdf?id=bJZExGYWqx>)
+[Primary source](<https://openreview.net/forum?id=bJZExGYWqx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008622>) · [PDF](<https://openreview.net/pdf?id=bJZExGYWqx>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1460,7 +1640,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yi Li; Zhichun Guo; Miao Yin; Bingzhe Li
 
-[OpenReview](<https://openreview.net/forum?id=0oHaazjMUX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011895>) · [PDF](<https://openreview.net/pdf?id=0oHaazjMUX>)
+[Primary source](<https://openreview.net/forum?id=0oHaazjMUX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011895>) · [PDF](<https://openreview.net/pdf?id=0oHaazjMUX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1476,7 +1658,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kai Hu; Haoqi Hu; Matt Fredrikson
 
-[OpenReview](<https://openreview.net/forum?id=2fgzEJPH02>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011713>) · [PDF](<https://openreview.net/pdf?id=2fgzEJPH02>)
+[Primary source](<https://openreview.net/forum?id=2fgzEJPH02>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011713>) · [PDF](<https://openreview.net/pdf?id=2fgzEJPH02>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -1490,7 +1674,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yifei Zuo; Yutong Yin; Zhichen Zeng; Ang Li; Banghua Zhu; Zhaoran Wang
 
-[OpenReview](<https://openreview.net/forum?id=WGpzi489XY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009059>) · [PDF](<https://openreview.net/pdf?id=WGpzi489XY>)
+[Primary source](<https://openreview.net/forum?id=WGpzi489XY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009059>) · [PDF](<https://openreview.net/pdf?id=WGpzi489XY>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1506,7 +1692,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Nurbek Tastan; Stefanos Laskaridis; Martin Takáč; Karthik Nandakumar; Samuel Horváth
 
-[OpenReview](<https://openreview.net/forum?id=86P3sb1dpr>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011234>) · [PDF](<https://openreview.net/pdf?id=86P3sb1dpr>)
+[Primary source](<https://openreview.net/forum?id=86P3sb1dpr>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011234>) · [PDF](<https://openreview.net/pdf?id=86P3sb1dpr>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -1520,7 +1708,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Guo; Songlin Yang; Tarushii Goel; Eric P Xing; Tri Dao; Yoon Kim
 
-[OpenReview](<https://openreview.net/forum?id=mOJgZWkXKW>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007581>) · [PDF](<https://openreview.net/pdf?id=mOJgZWkXKW>)
+[Primary source](<https://openreview.net/forum?id=mOJgZWkXKW>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007581>) · [PDF](<https://openreview.net/pdf?id=mOJgZWkXKW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1536,7 +1726,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Vladimir Bogachev; Vladimir Aletov; Alexander Molozhavenko; Denis Bobkov; Vera Soboleva; Aibek Alanov; Maxim Rakhuba
 
-[OpenReview](<https://openreview.net/forum?id=WtbXgc9GVA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009014>) · [PDF](<https://openreview.net/pdf?id=WtbXgc9GVA>)
+[Primary source](<https://openreview.net/forum?id=WtbXgc9GVA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009014>) · [PDF](<https://openreview.net/pdf?id=WtbXgc9GVA>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -1552,7 +1744,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jinyang ZHENG; Tong Wu
 
-[OpenReview](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+[Primary source](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1574,7 +1768,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Enneng Yang; Qun Yang; Peng Wang; Anke Tang; Guibing Guo; Xiaochun Cao; Li Shen
 
-[OpenReview](<https://openreview.net/forum?id=C21rz8mo65>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010891>) · [PDF](<https://openreview.net/pdf?id=C21rz8mo65>)
+[Primary source](<https://openreview.net/forum?id=C21rz8mo65>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010891>) · [PDF](<https://openreview.net/pdf?id=C21rz8mo65>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -1586,7 +1782,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Johannes von Oswald; Nino Scherrer; Seijin Kobayashi; Luca Versari; Songlin Yang; Maximilian Schlegel; Kaitlin Maile; Yanick Schimpf; Oliver Sieberling; Alexander Meulemans; Guillaume Lajoie; Rif A. Saurous; Charlotte Frenkel; Razvan Pascanu; Blaise Aguera y Arcas; Joao Sacramento
 
-[OpenReview](<https://openreview.net/forum?id=xa3OnTb6c3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006633>) · [PDF](<https://openreview.net/pdf?id=xa3OnTb6c3>)
+[Primary source](<https://openreview.net/forum?id=xa3OnTb6c3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006633>) · [PDF](<https://openreview.net/pdf?id=xa3OnTb6c3>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1602,7 +1800,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Chaewon Moon; Dongkuk Si; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=ErnnE2UNI2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010640>) · [PDF](<https://openreview.net/pdf?id=ErnnE2UNI2>)
+[Primary source](<https://openreview.net/forum?id=ErnnE2UNI2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010640>) · [PDF](<https://openreview.net/pdf?id=ErnnE2UNI2>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1620,7 +1820,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yide Ran; Wentao Guo; Jingwei Sun; Yanzhou Pan; Xiaodong Yu; Hao Wang; Jianwen Xie; Yiran Chen; Denghui Zhang; Zhaozhuo Xu
 
-[OpenReview](<https://openreview.net/forum?id=2DuMBKVbX2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011768>) · [PDF](<https://openreview.net/pdf?id=2DuMBKVbX2>)
+[Primary source](<https://openreview.net/forum?id=2DuMBKVbX2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011768>) · [PDF](<https://openreview.net/pdf?id=2DuMBKVbX2>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -1632,7 +1834,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Alex Iacob; Andrej Jovanovic; Mher Safaryan; Meghdad Kurmanji; Lorenzo Sani; Samuel Horváth; William Shen; Xinchi Qiu; Nic Lane
 
-[OpenReview](<https://openreview.net/forum?id=5yPP238v4c>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011409>) · [PDF](<https://openreview.net/pdf?id=5yPP238v4c>)
+[Primary source](<https://openreview.net/forum?id=5yPP238v4c>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011409>) · [PDF](<https://openreview.net/pdf?id=5yPP238v4c>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -1644,7 +1848,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shuche Wang; Fengzhuo Zhang; Jiaxiang Li; Cunxiao Du; Chao Du; Tianyu Pang; Zhuoran Yang; Mingyi Hong; Vincent Tan
 
-[OpenReview](<https://openreview.net/forum?id=twbMFL0DMp>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006936>) · [PDF](<https://openreview.net/pdf?id=twbMFL0DMp>)
+[Primary source](<https://openreview.net/forum?id=twbMFL0DMp>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006936>) · [PDF](<https://openreview.net/pdf?id=twbMFL0DMp>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1656,7 +1862,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ahmed Khaled; Kaan Ozkara; Tao Yu; Mingyi Hong; Youngsuk Park
 
-[OpenReview](<https://openreview.net/forum?id=mHouLSUQP5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007594>) · [PDF](<https://openreview.net/pdf?id=mHouLSUQP5>)
+[Primary source](<https://openreview.net/forum?id=mHouLSUQP5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007594>) · [PDF](<https://openreview.net/pdf?id=mHouLSUQP5>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -1668,7 +1876,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Nandan Kumar Jha; Brandon Reagen
 
-[OpenReview](<https://openreview.net/forum?id=W5BPGXR9jf>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009079>) · [PDF](<https://openreview.net/pdf?id=W5BPGXR9jf>)
+[Primary source](<https://openreview.net/forum?id=W5BPGXR9jf>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009079>) · [PDF](<https://openreview.net/pdf?id=W5BPGXR9jf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1680,7 +1890,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Tom Jacobs; Chao Zhou; Rebekka Burkholz
 
-[OpenReview](<https://openreview.net/forum?id=YgudIlQ9nC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008875>) · [PDF](<https://openreview.net/pdf?id=YgudIlQ9nC>)
+[Primary source](<https://openreview.net/forum?id=YgudIlQ9nC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008875>) · [PDF](<https://openreview.net/pdf?id=YgudIlQ9nC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1700,7 +1912,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shaocong Ma; Peiran Yu; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=avgMb57IP5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008660>) · [PDF](<https://openreview.net/pdf?id=avgMb57IP5>)
+[Primary source](<https://openreview.net/forum?id=avgMb57IP5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008660>) · [PDF](<https://openreview.net/pdf?id=avgMb57IP5>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -1712,7 +1926,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Aki Rehn; Linzh Zhao; Mikko Heikkilä; Antti Honkela
 
-[OpenReview](<https://openreview.net/forum?id=V3fEo612nE>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009176>) · [PDF](<https://openreview.net/pdf?id=V3fEo612nE>)
+[Primary source](<https://openreview.net/forum?id=V3fEo612nE>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009176>) · [PDF](<https://openreview.net/pdf?id=V3fEo612nE>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1732,7 +1948,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Cai Yuchen; Ding Cao; Xin Xu; Zijun Yao; Yuqing Huang; Benyi Zhang; Zhenyu Tan; Guiquan Liu; Junfeng Fang
 
-[OpenReview](<https://openreview.net/forum?id=SdHmA6BYVJ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009393>) · [PDF](<https://openreview.net/pdf?id=SdHmA6BYVJ>)
+[Primary source](<https://openreview.net/forum?id=SdHmA6BYVJ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009393>) · [PDF](<https://openreview.net/pdf?id=SdHmA6BYVJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1750,7 +1968,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yudong Wei; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=JIMM5YLShy>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010215>) · [PDF](<https://openreview.net/pdf?id=JIMM5YLShy>)
+[Primary source](<https://openreview.net/forum?id=JIMM5YLShy>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010215>) · [PDF](<https://openreview.net/pdf?id=JIMM5YLShy>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -1764,7 +1984,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shuai Jiang; Eric Cyr; Ben Southworth; Alexey Voronin
 
-[OpenReview](<https://openreview.net/forum?id=CXlsqTAf1E>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010848>) · [PDF](<https://openreview.net/pdf?id=CXlsqTAf1E>)
+[Primary source](<https://openreview.net/forum?id=CXlsqTAf1E>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010848>) · [PDF](<https://openreview.net/pdf?id=CXlsqTAf1E>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1784,7 +2006,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shuo Chen; Xiaolong Li; Jiaying Peng; Yao Zhao
 
-[OpenReview](<https://openreview.net/forum?id=3U6wH7uAPZ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011642>) · [PDF](<https://openreview.net/pdf?id=3U6wH7uAPZ>)
+[Primary source](<https://openreview.net/forum?id=3U6wH7uAPZ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011642>) · [PDF](<https://openreview.net/pdf?id=3U6wH7uAPZ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -1804,7 +2028,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jim Zhao; Tin Sum Cheng; Wojciech Masarczyk; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=9EPYWJrib1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011133>) · [PDF](<https://openreview.net/pdf?id=9EPYWJrib1>)
+[Primary source](<https://openreview.net/forum?id=9EPYWJrib1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011133>) · [PDF](<https://openreview.net/pdf?id=9EPYWJrib1>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1824,7 +2050,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · TIANYUAN ZOU; Zinan Lin; Sivakanth Gopi; Yang Liu; Ya-Qin Zhang; Robert Sim; Xin Deng; Sergey Yekhanin
 
-[OpenReview](<https://openreview.net/forum?id=713ywmTZHv>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011337>) · [PDF](<https://openreview.net/pdf?id=713ywmTZHv>)
+[Primary source](<https://openreview.net/forum?id=713ywmTZHv>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011337>) · [PDF](<https://openreview.net/pdf?id=713ywmTZHv>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -1836,7 +2064,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Anton Baumann; Rui Li; Marcus Klasson; Santeri Mentu; Shyamgopal Karthik; Zeynep Akata; Arno Solin; Martin Trapp
 
-[OpenReview](<https://openreview.net/forum?id=XLiUcvHfzS>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008979>) · [PDF](<https://openreview.net/pdf?id=XLiUcvHfzS>)
+[Primary source](<https://openreview.net/forum?id=XLiUcvHfzS>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008979>) · [PDF](<https://openreview.net/pdf?id=XLiUcvHfzS>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -1850,7 +2080,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Kazuki Yano; Shun Kiyono; Sosuke Kobayashi; Sho Takase; Jun Suzuki
 
-[OpenReview](<https://openreview.net/forum?id=JnebU2QLdH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010172>) · [PDF](<https://openreview.net/pdf?id=JnebU2QLdH>)
+[Primary source](<https://openreview.net/forum?id=JnebU2QLdH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010172>) · [PDF](<https://openreview.net/pdf?id=JnebU2QLdH>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1870,7 +2102,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Konwoo Kim; Suhas Kotha; Percy Liang; Tatsunori Hashimoto
 
-[OpenReview](<https://openreview.net/forum?id=ck0aZTAnwK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008473>) · [PDF](<https://openreview.net/pdf?id=ck0aZTAnwK>)
+[Primary source](<https://openreview.net/forum?id=ck0aZTAnwK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008473>) · [PDF](<https://openreview.net/pdf?id=ck0aZTAnwK>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1888,7 +2122,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Fanqi Wang; Weisheng Tang; Landon Harris; Hairong Qi; Dan Wilson; Igor Mezic
 
-[OpenReview](<https://openreview.net/forum?id=zSTgrLkpRi>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006455>) · [PDF](<https://openreview.net/pdf?id=zSTgrLkpRi>)
+[Primary source](<https://openreview.net/forum?id=zSTgrLkpRi>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006455>) · [PDF](<https://openreview.net/pdf?id=zSTgrLkpRi>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -1900,7 +2136,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dexia Chen; Qianjie Zhu; Weibing Li; Yue Yu; Tong Zhang; Ruixuan Wang
 
-[OpenReview](<https://openreview.net/forum?id=ZGJJF1e2u0>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008824>) · [PDF](<https://openreview.net/pdf?id=ZGJJF1e2u0>)
+[Primary source](<https://openreview.net/forum?id=ZGJJF1e2u0>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008824>) · [PDF](<https://openreview.net/pdf?id=ZGJJF1e2u0>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1914,7 +2152,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Rylan Schaeffer; Noam Levi; Brando Miranda; Sanmi Koyejo
 
-[OpenReview](<https://openreview.net/forum?id=Ym33xJYINV>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008870>) · [PDF](<https://openreview.net/pdf?id=Ym33xJYINV>)
+[Primary source](<https://openreview.net/forum?id=Ym33xJYINV>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008870>) · [PDF](<https://openreview.net/pdf?id=Ym33xJYINV>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1932,7 +2172,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Malik Khalaf; Yara Shamshoum; Nitzan Hodos; Yuval Sieradzki; Assaf Schuster
 
-[OpenReview](<https://openreview.net/forum?id=Xvpk1g02u2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008929>) · [PDF](<https://openreview.net/pdf?id=Xvpk1g02u2>)
+[Primary source](<https://openreview.net/forum?id=Xvpk1g02u2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008929>) · [PDF](<https://openreview.net/pdf?id=Xvpk1g02u2>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1948,7 +2190,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Hyesung Jeon; Seojune Lee; Beomseok Kang; Yulhwa Kim; jae-joon kim
 
-[OpenReview](<https://openreview.net/forum?id=QMN4ERDdp4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009595>) · [PDF](<https://openreview.net/pdf?id=QMN4ERDdp4>)
+[Primary source](<https://openreview.net/forum?id=QMN4ERDdp4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009595>) · [PDF](<https://openreview.net/pdf?id=QMN4ERDdp4>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1964,7 +2208,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sahil Joshi; Agniva Chowdhury; Amar Kanakamedala; Ekam Singh; Evan Tu; Anshumali Shrivastava
 
-[OpenReview](<https://openreview.net/forum?id=RR8Lh8RHgA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009492>) · [PDF](<https://openreview.net/pdf?id=RR8Lh8RHgA>)
+[Primary source](<https://openreview.net/forum?id=RR8Lh8RHgA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009492>) · [PDF](<https://openreview.net/pdf?id=RR8Lh8RHgA>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1980,7 +2226,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xingwu Chen; Tianle Li; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=2OO399hRD6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011748>) · [PDF](<https://openreview.net/pdf?id=2OO399hRD6>)
+[Primary source](<https://openreview.net/forum?id=2OO399hRD6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011748>) · [PDF](<https://openreview.net/pdf?id=2OO399hRD6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1998,7 +2246,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dongxie Wen; Hanyan Yin; Xiao Zhang; Peng Zhao; Lijun Zhang; Zhewei Wei
 
-[OpenReview](<https://openreview.net/forum?id=FKEHiHU4bN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010610>) · [PDF](<https://openreview.net/pdf?id=FKEHiHU4bN>)
+[Primary source](<https://openreview.net/forum?id=FKEHiHU4bN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010610>) · [PDF](<https://openreview.net/pdf?id=FKEHiHU4bN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -2014,7 +2264,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhenwei Huang; Wen Huang; Pratik Jawanpuria; Bamdev Mishra
 
-[OpenReview](<https://openreview.net/forum?id=oEtrDiFOFF>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007434>) · [PDF](<https://openreview.net/pdf?id=oEtrDiFOFF>)
+[Primary source](<https://openreview.net/forum?id=oEtrDiFOFF>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007434>) · [PDF](<https://openreview.net/pdf?id=oEtrDiFOFF>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -2028,7 +2280,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Chen Hu; Ziheng Chen; Rui Wang; Yefeng Zheng; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=66h1sCMm7F>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011398>) · [PDF](<https://openreview.net/pdf?id=66h1sCMm7F>)
+[Primary source](<https://openreview.net/forum?id=66h1sCMm7F>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011398>) · [PDF](<https://openreview.net/pdf?id=66h1sCMm7F>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -2042,7 +2296,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jinghui Yuan; Xie Fangyuan; Feiping Nie; Xuelong Li
 
-[OpenReview](<https://openreview.net/forum?id=ERJd7dMN6U>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010676>) · [PDF](<https://openreview.net/pdf?id=ERJd7dMN6U>)
+[Primary source](<https://openreview.net/forum?id=ERJd7dMN6U>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010676>) · [PDF](<https://openreview.net/pdf?id=ERJd7dMN6U>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -2056,7 +2312,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shaocong Ma; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=yEfKDCbtv1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006573>) · [PDF](<https://openreview.net/pdf?id=yEfKDCbtv1>)
+[Primary source](<https://openreview.net/forum?id=yEfKDCbtv1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006573>) · [PDF](<https://openreview.net/pdf?id=yEfKDCbtv1>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -2070,7 +2328,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yiyou Sun; Yuhan Cao; Pohao Huang; Haoyue Bai; Hanna Hajishirzi; Nouha Dziri; Dawn Song
 
-[OpenReview](<https://openreview.net/forum?id=CJJ8VxOWbG>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010871>) · [PDF](<https://openreview.net/pdf?id=CJJ8VxOWbG>)
+[Primary source](<https://openreview.net/forum?id=CJJ8VxOWbG>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010871>) · [PDF](<https://openreview.net/pdf?id=CJJ8VxOWbG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2088,7 +2348,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Chengxi Ye; Grace Chu; Yanfeng Liu; Yichi Zhang; Lukasz Lew; Li Zhang; Mark Sandler; Andrew Howard
 
-[OpenReview](<https://openreview.net/forum?id=e6nZrzSccj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008354>) · [PDF](<https://openreview.net/pdf?id=e6nZrzSccj>)
+[Primary source](<https://openreview.net/forum?id=e6nZrzSccj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008354>) · [PDF](<https://openreview.net/pdf?id=e6nZrzSccj>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -2100,7 +2362,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yedi Zhang; Andrew Saxe; Peter Latham
 
-[OpenReview](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+[Primary source](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2124,7 +2388,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Xing Hu; Dawei Yang; Yuan Cheng; Zhixuan Chen; Zukang Xu
 
-[OpenReview](<https://openreview.net/forum?id=KMAYsQO8pU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010139>) · [PDF](<https://openreview.net/pdf?id=KMAYsQO8pU>)
+[Primary source](<https://openreview.net/forum?id=KMAYsQO8pU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010139>) · [PDF](<https://openreview.net/pdf?id=KMAYsQO8pU>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2140,7 +2406,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sawan Kumar; Souvik Chakraborty
 
-[OpenReview](<https://openreview.net/forum?id=fWhRslwYri>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008227>) · [PDF](<https://openreview.net/pdf?id=fWhRslwYri>)
+[Primary source](<https://openreview.net/forum?id=fWhRslwYri>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008227>) · [PDF](<https://openreview.net/pdf?id=fWhRslwYri>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -2156,7 +2424,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Peng Xu; Chun Ying Hou; Xiaohui Chen; Richard Zhang
 
-[OpenReview](<https://openreview.net/forum?id=FNWNG1ftuw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010606>) · [PDF](<https://openreview.net/pdf?id=FNWNG1ftuw>)
+[Primary source](<https://openreview.net/forum?id=FNWNG1ftuw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010606>) · [PDF](<https://openreview.net/pdf?id=FNWNG1ftuw>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -2170,7 +2440,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yan Xie; Tiansheng Wen; Tang Da Huang; Bo Chen; Chenyu You; Stefanie Jegelka; Yifei Wang
 
-[OpenReview](<https://openreview.net/forum?id=UspMJlGusi>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009189>) · [PDF](<https://openreview.net/pdf?id=UspMJlGusi>)
+[Primary source](<https://openreview.net/forum?id=UspMJlGusi>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009189>) · [PDF](<https://openreview.net/pdf?id=UspMJlGusi>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2186,7 +2458,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dimitri von Rütte; Janis Fluri; Omead Pooladzandi; Bernhard Schölkopf; Thomas Hofmann; Antonio Orvieto
 
-[OpenReview](<https://openreview.net/forum?id=GDYaNzxt9T>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010520>) · [PDF](<https://openreview.net/pdf?id=GDYaNzxt9T>)
+[Primary source](<https://openreview.net/forum?id=GDYaNzxt9T>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010520>) · [PDF](<https://openreview.net/pdf?id=GDYaNzxt9T>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -2204,7 +2478,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Leonardo Defilippis; Yizhou Xu; Julius Girardin; Vittorio Erba; Emanuele Troiani; Lenka Zdeborova; Bruno Loureiro; Florent Krzakala
 
-[OpenReview](<https://openreview.net/forum?id=Q3yLIIkt7z>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009624>) · [PDF](<https://openreview.net/pdf?id=Q3yLIIkt7z>)
+[Primary source](<https://openreview.net/forum?id=Q3yLIIkt7z>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009624>) · [PDF](<https://openreview.net/pdf?id=Q3yLIIkt7z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2222,7 +2498,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhengyang Liang; Hao He; Ceyuan Yang; Bo DAI
 
-[OpenReview](<https://openreview.net/forum?id=T985gm4sDA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009343>) · [PDF](<https://openreview.net/pdf?id=T985gm4sDA>)
+[Primary source](<https://openreview.net/forum?id=T985gm4sDA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009343>) · [PDF](<https://openreview.net/pdf?id=T985gm4sDA>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2240,7 +2518,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Song Bian; Tao Yu; Shivaram Venkataraman; Youngsuk Park
 
-[OpenReview](<https://openreview.net/forum?id=0TmVqOpBbK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011936>) · [PDF](<https://openreview.net/pdf?id=0TmVqOpBbK>)
+[Primary source](<https://openreview.net/forum?id=0TmVqOpBbK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011936>) · [PDF](<https://openreview.net/pdf?id=0TmVqOpBbK>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -2258,7 +2538,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jihwan Kim; Dogyoon Song; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=zVwRP0ikrx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006450>) · [PDF](<https://openreview.net/pdf?id=zVwRP0ikrx>)
+[Primary source](<https://openreview.net/forum?id=zVwRP0ikrx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006450>) · [PDF](<https://openreview.net/pdf?id=zVwRP0ikrx>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -2276,7 +2558,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Anirudh Subramanyam; Yuxin Chen; Robert Grossman
 
-[OpenReview](<https://openreview.net/forum?id=x54wwB6QvL>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006678>) · [PDF](<https://openreview.net/pdf?id=x54wwB6QvL>)
+[Primary source](<https://openreview.net/forum?id=x54wwB6QvL>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006678>) · [PDF](<https://openreview.net/pdf?id=x54wwB6QvL>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2294,7 +2578,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Shane Bergsma; Bin Zhang; Nolan Dey; Shaheer Muhammad; Gurpreet Gosal; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=3YKeB9R1g9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011632>) · [PDF](<https://openreview.net/pdf?id=3YKeB9R1g9>)
+[Primary source](<https://openreview.net/forum?id=3YKeB9R1g9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011632>) · [PDF](<https://openreview.net/pdf?id=3YKeB9R1g9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2314,7 +2600,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jinglong Luo; Zhuo Zhang; Yehong Zhang; Shiyu Liu; Ye Dong; HUI WANG; Yue Yu; Xun Zhou; Zenglin Xu
 
-[OpenReview](<https://openreview.net/forum?id=iJNM7KY8FD>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007974>) · [PDF](<https://openreview.net/pdf?id=iJNM7KY8FD>)
+[Primary source](<https://openreview.net/forum?id=iJNM7KY8FD>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007974>) · [PDF](<https://openreview.net/pdf?id=iJNM7KY8FD>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -2326,7 +2614,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Alexandru Meterez; Depen Morwani; Jingfeng Wu; Costin-Andrei Oncescu; Cengiz Pehlevan; Sham Kakade
 
-[OpenReview](<https://openreview.net/forum?id=Nj0XBF2o7z>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009838>) · [PDF](<https://openreview.net/pdf?id=Nj0XBF2o7z>)
+[Primary source](<https://openreview.net/forum?id=Nj0XBF2o7z>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009838>) · [PDF](<https://openreview.net/pdf?id=Nj0XBF2o7z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -2346,7 +2636,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Morris Yau; Sharut Gupta; Valerie Engelmayer; Kazuki Irie; Stefanie Jegelka; Jacob Andreas
 
-[OpenReview](<https://openreview.net/forum?id=tuLF84azND>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006941>) · [PDF](<https://openreview.net/pdf?id=tuLF84azND>)
+[Primary source](<https://openreview.net/forum?id=tuLF84azND>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006941>) · [PDF](<https://openreview.net/pdf?id=tuLF84azND>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2362,7 +2654,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yeonsik Park; Hyeonseong Kim; Seungkyu Choi
 
-[OpenReview](<https://openreview.net/forum?id=nFjj8NEBqv>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007493>) · [PDF](<https://openreview.net/pdf?id=nFjj8NEBqv>)
+[Primary source](<https://openreview.net/forum?id=nFjj8NEBqv>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007493>) · [PDF](<https://openreview.net/pdf?id=nFjj8NEBqv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2378,7 +2672,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Dmitry Kovalev
 
-[OpenReview](<https://openreview.net/forum?id=XhXMzPJJ7J>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008948>) · [PDF](<https://openreview.net/pdf?id=XhXMzPJJ7J>)
+[Primary source](<https://openreview.net/forum?id=XhXMzPJJ7J>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008948>) · [PDF](<https://openreview.net/pdf?id=XhXMzPJJ7J>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -2390,7 +2686,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Konstantinos Emmanouilidis; Emmanouil-Vasileios Vlatakis-Gkaragkounis; Rene Vidal
 
-[OpenReview](<https://openreview.net/forum?id=QQZ53UtXgf>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009589>) · [PDF](<https://openreview.net/pdf?id=QQZ53UtXgf>)
+[Primary source](<https://openreview.net/forum?id=QQZ53UtXgf>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009589>) · [PDF](<https://openreview.net/pdf?id=QQZ53UtXgf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -2408,7 +2706,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Daniil Medyakov; Stanko Sergey; Gleb Molodtsov; Philip Zmushko; Grigoriy Evseev; Egor Petrov; Aleksandr Beznosikov
 
-[OpenReview](<https://openreview.net/forum?id=yDLD3D95w3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006577>) · [PDF](<https://openreview.net/pdf?id=yDLD3D95w3>)
+[Primary source](<https://openreview.net/forum?id=yDLD3D95w3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006577>) · [PDF](<https://openreview.net/pdf?id=yDLD3D95w3>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2428,7 +2728,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Punya Syon Pandey; Lê Sơn; Devansh Bhardwaj; Zhijing Jin
 
-[OpenReview](<https://openreview.net/forum?id=xWTjMkkjrO>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006638>) · [PDF](<https://openreview.net/pdf?id=xWTjMkkjrO>)
+[Primary source](<https://openreview.net/forum?id=xWTjMkkjrO>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006638>) · [PDF](<https://openreview.net/pdf?id=xWTjMkkjrO>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -2442,7 +2744,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Butian Xiong; Rong Liu; Kenneth Xu; Meida Chen; Andrew Feng
 
-[OpenReview](<https://openreview.net/forum?id=AepuXqQM4X>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011014>) · [PDF](<https://openreview.net/pdf?id=AepuXqQM4X>)
+[Primary source](<https://openreview.net/forum?id=AepuXqQM4X>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011014>) · [PDF](<https://openreview.net/pdf?id=AepuXqQM4X>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -2458,7 +2762,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Hyunwoo Kim; BYOUNGCHAN KO; Minseok Kang; Minwoo Kim; Dongjin Lee; Jaehoon Lee; Sungroh Yoon; Dahuin Jung
 
-[OpenReview](<https://openreview.net/forum?id=pjMDZJd4rT>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007309>) · [PDF](<https://openreview.net/pdf?id=pjMDZJd4rT>)
+[Primary source](<https://openreview.net/forum?id=pjMDZJd4rT>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007309>) · [PDF](<https://openreview.net/pdf?id=pjMDZJd4rT>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2476,7 +2782,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yize Wu; KE GAO; Ling Li; Yanjun WU
 
-[OpenReview](<https://openreview.net/forum?id=xSa19DAieH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006643>) · [PDF](<https://openreview.net/pdf?id=xSa19DAieH>)
+[Primary source](<https://openreview.net/forum?id=xSa19DAieH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006643>) · [PDF](<https://openreview.net/pdf?id=xSa19DAieH>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2496,7 +2804,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Damien Scieur; David Martinez-Rubio; thomas Kerdreux; Alexandre d&amp;#x27;Aspremont; Sebastian Pokutta
 
-[OpenReview](<https://openreview.net/forum?id=4sDszSYKP6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011522>) · [PDF](<https://openreview.net/pdf?id=4sDszSYKP6>)
+[Primary source](<https://openreview.net/forum?id=4sDszSYKP6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011522>) · [PDF](<https://openreview.net/pdf?id=4sDszSYKP6>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -2510,7 +2820,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Aël Quélennec; Nour Hezbri; Pavlo Mozharovskyi; Van-Tam Nguyen; Enzo Tartaglione
 
-[OpenReview](<https://openreview.net/forum?id=BhfIg0tuti>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010926>) · [PDF](<https://openreview.net/pdf?id=BhfIg0tuti>)
+[Primary source](<https://openreview.net/forum?id=BhfIg0tuti>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010926>) · [PDF](<https://openreview.net/pdf?id=BhfIg0tuti>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2530,7 +2842,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ranran Shen; Xiaoyi Zhu; Pan Peng; Zengfeng Huang
 
-[OpenReview](<https://openreview.net/forum?id=0GpolO2auw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011950>) · [PDF](<https://openreview.net/pdf?id=0GpolO2auw>)
+[Primary source](<https://openreview.net/forum?id=0GpolO2auw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011950>) · [PDF](<https://openreview.net/pdf?id=0GpolO2auw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2546,7 +2860,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ravindran Kannan; Kijun Shin; David Woodruff
 
-[OpenReview](<https://openreview.net/forum?id=N1kiOll2EN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009900>) · [PDF](<https://openreview.net/pdf?id=N1kiOll2EN>)
+[Primary source](<https://openreview.net/forum?id=N1kiOll2EN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009900>) · [PDF](<https://openreview.net/pdf?id=N1kiOll2EN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2562,7 +2878,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sameera Ramasinghe; Thalaiyasingam Ajanthan; Hadi Mohaghegh Dolatabadi; Chamin Hewa Koneputugodage; Gil Avraham; Violetta Shevchenko; Yan Zuo; Karol Pajak; Alexander Long
 
-[OpenReview](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+[Primary source](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -2588,7 +2906,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Zhengbo Wang; Jian Liang; Ran He; Zilei Wang; Tieniu Tan
 
-[OpenReview](<https://openreview.net/forum?id=9Q0dNBYeEY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011115>) · [PDF](<https://openreview.net/pdf?id=9Q0dNBYeEY>)
+[Primary source](<https://openreview.net/forum?id=9Q0dNBYeEY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011115>) · [PDF](<https://openreview.net/pdf?id=9Q0dNBYeEY>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -2602,7 +2922,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yuebin XU; YANHONG WANG; Xuemei Peng; Hui Zang; Minghao Chen; Pengfei Xia; Zeyi Wen
 
-[OpenReview](<https://openreview.net/forum?id=D9cnZNZfxX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010804>) · [PDF](<https://openreview.net/pdf?id=D9cnZNZfxX>)
+[Primary source](<https://openreview.net/forum?id=D9cnZNZfxX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010804>) · [PDF](<https://openreview.net/pdf?id=D9cnZNZfxX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2620,7 +2942,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Tianyuan Zhang; Sai Bi; Yicong Hong; Kai Zhang; Fujun Luan; Songlin Yang; Kalyan Sunkavalli; William Freeman; Hao Tan
 
-[OpenReview](<https://openreview.net/forum?id=Tb9qAxT3xv>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009303>) · [PDF](<https://openreview.net/pdf?id=Tb9qAxT3xv>)
+[Primary source](<https://openreview.net/forum?id=Tb9qAxT3xv>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009303>) · [PDF](<https://openreview.net/pdf?id=Tb9qAxT3xv>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -2632,7 +2956,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Noah Amsel; David Persson; Christopher Musco; Robert M. Gower
 
-[OpenReview](<https://openreview.net/forum?id=yRtgZ1K8hO>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006553>) · [PDF](<https://openreview.net/pdf?id=yRtgZ1K8hO>)
+[Primary source](<https://openreview.net/forum?id=yRtgZ1K8hO>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006553>) · [PDF](<https://openreview.net/pdf?id=yRtgZ1K8hO>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -2652,7 +2978,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Natalie Abreu; Nikhil Vyas; Sham Kakade; Depen Morwani
 
-[OpenReview](<https://openreview.net/forum?id=yxEop1S5le>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006504>) · [PDF](<https://openreview.net/pdf?id=yxEop1S5le>)
+[Primary source](<https://openreview.net/forum?id=yxEop1S5le>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006504>) · [PDF](<https://openreview.net/pdf?id=yxEop1S5le>)
+
+**Topics:** Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation.
 
@@ -2664,7 +2992,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yifan Sun; Yushan Liang; Zhen Zhang; Xin Liu; Jiaye Teng
 
-[OpenReview](<https://openreview.net/forum?id=Hh7x3c0cZl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010371>) · [PDF](<https://openreview.net/pdf?id=Hh7x3c0cZl>)
+[Primary source](<https://openreview.net/forum?id=Hh7x3c0cZl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010371>) · [PDF](<https://openreview.net/pdf?id=Hh7x3c0cZl>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2682,7 +3012,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Blake Bordelon; Mary Letey; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=qA42mWsnbl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007276>) · [PDF](<https://openreview.net/pdf?id=qA42mWsnbl>)
+[Primary source](<https://openreview.net/forum?id=qA42mWsnbl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007276>) · [PDF](<https://openreview.net/pdf?id=qA42mWsnbl>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -2700,7 +3032,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Jia Zhang; Yu Bai; Hualin Zhang; Tianshuo Chen; Zhaogeng Liu; Zhiqiang Xu; Yi Chang; Bin Gu
 
-[OpenReview](<https://openreview.net/forum?id=373rsDQsq4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011671>) · [PDF](<https://openreview.net/pdf?id=373rsDQsq4>)
+[Primary source](<https://openreview.net/forum?id=373rsDQsq4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011671>) · [PDF](<https://openreview.net/pdf?id=373rsDQsq4>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -2714,7 +3048,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Yile Chen; Zeyi Wen; Jian Chen; Jin Huang
 
-[OpenReview](<https://openreview.net/forum?id=AII8ADdDHt>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011049>) · [PDF](<https://openreview.net/pdf?id=AII8ADdDHt>)
+[Primary source](<https://openreview.net/forum?id=AII8ADdDHt>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011049>) · [PDF](<https://openreview.net/pdf?id=AII8ADdDHt>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -2726,7 +3062,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Wenbo Gong; Meyer Scetbon; Chao Ma; Edward Meeds
 
-[OpenReview](<https://openreview.net/forum?id=KUFZXdem5R>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010128>) · [PDF](<https://openreview.net/pdf?id=KUFZXdem5R>)
+[Primary source](<https://openreview.net/forum?id=KUFZXdem5R>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010128>) · [PDF](<https://openreview.net/pdf?id=KUFZXdem5R>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -2746,7 +3084,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Changxin Tian; Kunlong Chen; Jia Liu; Ziqi Liu; Zhiqiang Zhang; JUN ZHOU
 
-[OpenReview](<https://openreview.net/forum?id=7r2lkhDGUj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011257>) · [PDF](<https://openreview.net/pdf?id=7r2lkhDGUj>)
+[Primary source](<https://openreview.net/forum?id=7r2lkhDGUj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011257>) · [PDF](<https://openreview.net/pdf?id=7r2lkhDGUj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -2764,7 +3104,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Zhao Song; Shenghao Xie; Samson Zhou
 
-[OpenReview](<https://openreview.net/forum?id=ZgLEEp7AwL>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008784>) · [PDF](<https://openreview.net/pdf?id=ZgLEEp7AwL>)
+[Primary source](<https://openreview.net/forum?id=ZgLEEp7AwL>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008784>) · [PDF](<https://openreview.net/pdf?id=ZgLEEp7AwL>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -2780,7 +3122,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Albert Catalan-Tatjer; Niccolò Ajroldi; Jonas Geiping
 
-[OpenReview](<https://openreview.net/forum?id=ZXr3Xx7Z1O>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008797>) · [PDF](<https://openreview.net/pdf?id=ZXr3Xx7Z1O>)
+[Primary source](<https://openreview.net/forum?id=ZXr3Xx7Z1O>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008797>) · [PDF](<https://openreview.net/pdf?id=ZXr3Xx7Z1O>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2798,7 +3142,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Clarissa Lauditi; Blake Bordelon; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=Oox4QOhmi9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009752>) · [PDF](<https://openreview.net/pdf?id=Oox4QOhmi9>)
+[Primary source](<https://openreview.net/forum?id=Oox4QOhmi9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009752>) · [PDF](<https://openreview.net/pdf?id=Oox4QOhmi9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2816,7 +3162,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ionut-Vlad Modoranu; Mher Safaryan; Erik Schultheis; Maksim Riabinin; Artem Chumachenko; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=TkHjRwbMNl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009288>) · [PDF](<https://openreview.net/pdf?id=TkHjRwbMNl>)
+[Primary source](<https://openreview.net/forum?id=TkHjRwbMNl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009288>) · [PDF](<https://openreview.net/pdf?id=TkHjRwbMNl>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -2836,7 +3184,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Junhan Kim; Yeo Jeong Park; Seungwoo Son; Chungman Lee; Ho-young Kim; Joonyoung Kim; Yongkweon Jeon
 
-[OpenReview](<https://openreview.net/forum?id=HA0TnV8r7x>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010426>) · [PDF](<https://openreview.net/pdf?id=HA0TnV8r7x>)
+[Primary source](<https://openreview.net/forum?id=HA0TnV8r7x>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010426>) · [PDF](<https://openreview.net/pdf?id=HA0TnV8r7x>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2856,7 +3206,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Alessio Giorlandino; Sebastian Goldt
 
-[OpenReview](<https://openreview.net/forum?id=utSqpxQHXq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006858>) · [PDF](<https://openreview.net/pdf?id=utSqpxQHXq>)
+[Primary source](<https://openreview.net/forum?id=utSqpxQHXq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006858>) · [PDF](<https://openreview.net/pdf?id=utSqpxQHXq>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2874,7 +3226,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Ahmet Yüzügüler; Ahmet Çelik; Jiawei Zhuang; Lukas Cavigelli
 
-[OpenReview](<https://openreview.net/forum?id=ZfCCwJ4Wcs>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008790>) · [PDF](<https://openreview.net/pdf?id=ZfCCwJ4Wcs>)
+[Primary source](<https://openreview.net/forum?id=ZfCCwJ4Wcs>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008790>) · [PDF](<https://openreview.net/pdf?id=ZfCCwJ4Wcs>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2890,7 +3244,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Sungjun Lim; Kangjun Noh; Youngjun Choi; Heeyoung Lee; Kyungwoo Song
 
-[OpenReview](<https://openreview.net/forum?id=7fdcVi2fTJ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011274>) · [PDF](<https://openreview.net/pdf?id=7fdcVi2fTJ>)
+[Primary source](<https://openreview.net/forum?id=7fdcVi2fTJ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011274>) · [PDF](<https://openreview.net/pdf?id=7fdcVi2fTJ>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -2904,7 +3260,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Timo Klein; Thomas Lang; Andrii Shkabrii; Alexander Sturm; Kevin Sidak; Lukas Miklautz; Claudia Plant; Yllka Velaj; Sebastian Tschiatschek
 
-[OpenReview](<https://openreview.net/forum?id=7rfdenlP1L>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011256>) · [PDF](<https://openreview.net/pdf?id=7rfdenlP1L>)
+[Primary source](<https://openreview.net/forum?id=7rfdenlP1L>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011256>) · [PDF](<https://openreview.net/pdf?id=7rfdenlP1L>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -2920,7 +3278,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Wu Lin; Scott C. Lowe; Felix Dangel; Runa Eschenhagen; Zikun Xu; Roger Grosse
 
-[OpenReview](<https://openreview.net/forum?id=pQQuC1nIQq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007330>) · [PDF](<https://openreview.net/pdf?id=pQQuC1nIQq>)
+[Primary source](<https://openreview.net/forum?id=pQQuC1nIQq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007330>) · [PDF](<https://openreview.net/pdf?id=pQQuC1nIQq>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -2938,7 +3298,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Andres Potapczynski; Alex Ali; Andrew Gordon Wilson
 
-[OpenReview](<https://openreview.net/forum?id=GBkRMi3qjD>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010523>) · [PDF](<https://openreview.net/pdf?id=GBkRMi3qjD>)
+[Primary source](<https://openreview.net/forum?id=GBkRMi3qjD>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010523>) · [PDF](<https://openreview.net/pdf?id=GBkRMi3qjD>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -2954,7 +3316,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Annan Yu; Danielle Maddix; Boran Han; Xiyuan Zhang; Abdul Fatir Ansari; Oleksandr Shchur; Christos Faloutsos; Andrew Gordon Wilson; Michael W Mahoney; Bernie Wang
 
-[OpenReview](<https://openreview.net/forum?id=5jkzTzV5Ao>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011425>) · [PDF](<https://openreview.net/pdf?id=5jkzTzV5Ao>)
+[Primary source](<https://openreview.net/forum?id=5jkzTzV5Ao>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011425>) · [PDF](<https://openreview.net/pdf?id=5jkzTzV5Ao>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2972,7 +3336,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Nikhil Ghosh; Denny Wu; Alberto Bietti
 
-[OpenReview](<https://openreview.net/forum?id=Q7mLKxQ8qk>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009619>) · [PDF](<https://openreview.net/pdf?id=Q7mLKxQ8qk>)
+[Primary source](<https://openreview.net/forum?id=Q7mLKxQ8qk>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009619>) · [PDF](<https://openreview.net/pdf?id=Q7mLKxQ8qk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -2992,7 +3358,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Hung-Yueh Chiang; Chi-Chih Chang; Yu-Chen Lu; Chien-Yu Lin; Kai-Chiang Wu; Mohamed Abdelfattah; Diana Marculescu
 
-[OpenReview](<https://openreview.net/forum?id=iOGu4wtDTF>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007967>) · [PDF](<https://openreview.net/pdf?id=iOGu4wtDTF>)
+[Primary source](<https://openreview.net/forum?id=iOGu4wtDTF>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007967>) · [PDF](<https://openreview.net/pdf?id=iOGu4wtDTF>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -3010,7 +3378,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Atli Kosson; Jeremy Welborn; Yang Liu; Martin Jaggi; Xi Chen
 
-[OpenReview](<https://openreview.net/forum?id=PvTxIdZc1E>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009637>) · [PDF](<https://openreview.net/pdf?id=PvTxIdZc1E>)
+[Primary source](<https://openreview.net/forum?id=PvTxIdZc1E>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009637>) · [PDF](<https://openreview.net/pdf?id=PvTxIdZc1E>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3030,7 +3400,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Junxi Yan; Zixi Wei; Qingyao Ai; Yiqun LIU; Jingtao Zhan
 
-[OpenReview](<https://openreview.net/forum?id=o94xgM0sWJ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007437>) · [PDF](<https://openreview.net/pdf?id=o94xgM0sWJ>)
+[Primary source](<https://openreview.net/forum?id=o94xgM0sWJ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007437>) · [PDF](<https://openreview.net/pdf?id=o94xgM0sWJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3048,7 +3420,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Oral)** · Changxin Tian; Jiapeng Wang; Qian Zhao; Kunlong Chen; Jia Liu; Ziqi Liu; Jiaxin Mao; Xin Zhao; Zhiqiang Zhang; JUN ZHOU
 
-[OpenReview](<https://openreview.net/forum?id=HhThhjKyfw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010369>) · [PDF](<https://openreview.net/pdf?id=HhThhjKyfw>)
+[Primary source](<https://openreview.net/forum?id=HhThhjKyfw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010369>) · [PDF](<https://openreview.net/pdf?id=HhThhjKyfw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -3068,7 +3442,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Haiyu Wang; Yutong Wang; Jack Jiang; Sai Qian Zhang
 
-[OpenReview](<https://openreview.net/forum?id=zrmQ4koOw9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006413>) · [PDF](<https://openreview.net/pdf?id=zrmQ4koOw9>)
+[Primary source](<https://openreview.net/forum?id=zrmQ4koOw9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006413>) · [PDF](<https://openreview.net/pdf?id=zrmQ4koOw9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -3086,7 +3462,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICLR 2026 · Accept (Poster)** · Maximilian Beck; Kajetan Schweighofer; Sebastian Böck; Sebastian Lehner; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=bpbU549sSg>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008569>) · [PDF](<https://openreview.net/pdf?id=bpbU549sSg>)
+[Primary source](<https://openreview.net/forum?id=bpbU549sSg>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008569>) · [PDF](<https://openreview.net/pdf?id=bpbU549sSg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -3104,7 +3482,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuxin Ma; Nan Chen; Mateo D Diaz; Soufiane Hayou; Dmitriy Kunisky; Soledad Villar
 
-[OpenReview](<https://openreview.net/forum?id=bAqpZRzlTg>) · [Official program](<https://icml.cc/virtual/2026/poster/62988>) · [PDF](<https://openreview.net/pdf?id=bAqpZRzlTg>)
+[Primary source](<https://openreview.net/forum?id=bAqpZRzlTg>) · [Venue page](<https://icml.cc/virtual/2026/poster/62988>) · [PDF](<https://openreview.net/pdf?id=bAqpZRzlTg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3124,7 +3504,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Roger Hsiao; Yuchen Fang; Xiangru Huang; Ruilong Li; Hesam Rabeti; Zan Gojcic; Javad Lavaei; James Demmel; Sophia Shao
 
-[OpenReview](<https://openreview.net/forum?id=Kaliw0BQL9>) · [Official program](<https://icml.cc/virtual/2026/poster/64716>) · [PDF](<https://openreview.net/pdf?id=Kaliw0BQL9>)
+[Primary source](<https://openreview.net/forum?id=Kaliw0BQL9>) · [Venue page](<https://icml.cc/virtual/2026/poster/64716>) · [PDF](<https://openreview.net/pdf?id=Kaliw0BQL9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3140,7 +3522,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Fabiola Ricci; Claudia Merger; Sebastian Goldt
 
-[OpenReview](<https://openreview.net/forum?id=RQECNEUcbJ>) · [Official program](<https://icml.cc/virtual/2026/poster/64045>) · [PDF](<https://openreview.net/pdf?id=RQECNEUcbJ>)
+[Primary source](<https://openreview.net/forum?id=RQECNEUcbJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/64045>) · [PDF](<https://openreview.net/pdf?id=RQECNEUcbJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3158,7 +3542,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zihao Zhao; Kai-Chia Mo; Shing-Hei Ho; Brandon Amos; Kai Wang
 
-[OpenReview](<https://openreview.net/forum?id=jJur8Fq7IK>) · [Official program](<https://icml.cc/virtual/2026/poster/62152>) · [PDF](<https://openreview.net/pdf?id=jJur8Fq7IK>)
+[Primary source](<https://openreview.net/forum?id=jJur8Fq7IK>) · [Venue page](<https://icml.cc/virtual/2026/poster/62152>) · [PDF](<https://openreview.net/pdf?id=jJur8Fq7IK>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3174,7 +3560,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuxuan Linghu; Zhiyuan Liu; Qi Deng
 
-[OpenReview](<https://openreview.net/forum?id=2jpMiRwsrL>) · [Official program](<https://icml.cc/virtual/2026/poster/66543>) · [PDF](<https://openreview.net/pdf?id=2jpMiRwsrL>)
+[Primary source](<https://openreview.net/forum?id=2jpMiRwsrL>) · [Venue page](<https://icml.cc/virtual/2026/poster/66543>) · [PDF](<https://openreview.net/pdf?id=2jpMiRwsrL>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3192,7 +3580,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Gil Goldshlager; Jiang Hu; Lin Lin
 
-[OpenReview](<https://openreview.net/forum?id=2iDtIht7W4>) · [Official program](<https://icml.cc/virtual/2026/poster/66550>) · [PDF](<https://openreview.net/pdf?id=2iDtIht7W4>)
+[Primary source](<https://openreview.net/forum?id=2iDtIht7W4>) · [Venue page](<https://icml.cc/virtual/2026/poster/66550>) · [PDF](<https://openreview.net/pdf?id=2iDtIht7W4>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3210,7 +3600,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jan Bauer; Kirsten Fischer; Moritz Helias; Agostina Palmigiano
 
-[OpenReview](<https://openreview.net/forum?id=nkVt0sY9HJ>) · [Official program](<https://icml.cc/virtual/2026/poster/61686>) · [PDF](<https://openreview.net/pdf?id=nkVt0sY9HJ>)
+[Primary source](<https://openreview.net/forum?id=nkVt0sY9HJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/61686>) · [PDF](<https://openreview.net/pdf?id=nkVt0sY9HJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3228,7 +3620,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Viktoria Schram; Markus Hiller; Daniel Beck; Trevor Cohn
 
-[OpenReview](<https://openreview.net/forum?id=DXnLu7qu75>) · [Official program](<https://icml.cc/virtual/2026/poster/65451>) · [PDF](<https://openreview.net/pdf?id=DXnLu7qu75>)
+[Primary source](<https://openreview.net/forum?id=DXnLu7qu75>) · [Venue page](<https://icml.cc/virtual/2026/poster/65451>) · [PDF](<https://openreview.net/pdf?id=DXnLu7qu75>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3246,7 +3640,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Guoxia Wang; Shuai Li; Congliang Chen; Jinle Zeng; Jiabin Yang; Dianhai Yu; Yanjun Ma; Li Shen
 
-[OpenReview](<https://openreview.net/forum?id=uBYlCu8b8Z>) · [Official program](<https://icml.cc/virtual/2026/poster/61050>) · [PDF](<https://openreview.net/pdf?id=uBYlCu8b8Z>)
+[Primary source](<https://openreview.net/forum?id=uBYlCu8b8Z>) · [Venue page](<https://icml.cc/virtual/2026/poster/61050>) · [PDF](<https://openreview.net/pdf?id=uBYlCu8b8Z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3268,7 +3664,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhijie Cai; Haolong Chen; Guangxu Zhu
 
-[OpenReview](<https://openreview.net/forum?id=XLc102wbnT>) · [Official program](<https://icml.cc/virtual/2026/poster/63417>) · [PDF](<https://openreview.net/pdf?id=XLc102wbnT>)
+[Primary source](<https://openreview.net/forum?id=XLc102wbnT>) · [Venue page](<https://icml.cc/virtual/2026/poster/63417>) · [PDF](<https://openreview.net/pdf?id=XLc102wbnT>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -3280,7 +3678,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Nan Qiao; Sheng Yue; Shuning Wang; Ju Ren
 
-[OpenReview](<https://openreview.net/forum?id=mMlt3tQ7Ot>) · [Official program](<https://icml.cc/virtual/2026/poster/61849>) · [PDF](<https://openreview.net/pdf?id=mMlt3tQ7Ot>)
+[Primary source](<https://openreview.net/forum?id=mMlt3tQ7Ot>) · [Venue page](<https://icml.cc/virtual/2026/poster/61849>) · [PDF](<https://openreview.net/pdf?id=mMlt3tQ7Ot>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -3294,7 +3694,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hiroki Naganuma; Shagun Gupta; Youssef Briki; Ioannis Mitliagkas; Irina Rish; Parameswaran Raman; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=XMSaWRpEPS>) · [Official program](<https://icml.cc/virtual/2026/poster/63415>) · [PDF](<https://openreview.net/pdf?id=XMSaWRpEPS>)
+[Primary source](<https://openreview.net/forum?id=XMSaWRpEPS>) · [Venue page](<https://icml.cc/virtual/2026/poster/63415>) · [PDF](<https://openreview.net/pdf?id=XMSaWRpEPS>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency.
 
@@ -3314,7 +3716,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Aikaterini Karoni; Rajit Rajpal; Benedict Leimkuhler; Gabriel Stoltz
 
-[OpenReview](<https://openreview.net/forum?id=JWWpV4StVf>) · [Official program](<https://icml.cc/virtual/2026/poster/64813>) · [PDF](<https://openreview.net/pdf?id=JWWpV4StVf>)
+[Primary source](<https://openreview.net/forum?id=JWWpV4StVf>) · [Venue page](<https://icml.cc/virtual/2026/poster/64813>) · [PDF](<https://openreview.net/pdf?id=JWWpV4StVf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3334,7 +3738,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhiwei Bai; Zhangchen Zhou; Jiajie Zhao; Xiaolong Li; Zhiyu li; Feiyu Xiong; Hongkang Yang; Yaoyu Zhang; Zhi-Qin John Xu
 
-[OpenReview](<https://openreview.net/forum?id=STWQoscanw>) · [Official program](<https://icml.cc/virtual/2026/poster/63930>) · [PDF](<https://openreview.net/pdf?id=STWQoscanw>)
+[Primary source](<https://openreview.net/forum?id=STWQoscanw>) · [Venue page](<https://icml.cc/virtual/2026/poster/63930>) · [PDF](<https://openreview.net/pdf?id=STWQoscanw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3354,7 +3760,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Dimitris Oikonomou; Nicolas Loizou
 
-[OpenReview](<https://openreview.net/forum?id=On2B3By7PT>) · [Official program](<https://icml.cc/virtual/2026/poster/64318>) · [PDF](<https://openreview.net/pdf?id=On2B3By7PT>)
+[Primary source](<https://openreview.net/forum?id=On2B3By7PT>) · [Venue page](<https://icml.cc/virtual/2026/poster/64318>) · [PDF](<https://openreview.net/pdf?id=On2B3By7PT>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -3372,7 +3780,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Nuno M. T. Gonçalves; Hugo Pitorro; Vlad Niculae; Edoardo Ponti; Lei Li; Andre Martins; Marcos V. Treviso
 
-[OpenReview](<https://openreview.net/forum?id=7qpvff2gWI>) · [Official program](<https://icml.cc/virtual/2026/poster/66022>) · [PDF](<https://openreview.net/pdf?id=7qpvff2gWI>)
+[Primary source](<https://openreview.net/forum?id=7qpvff2gWI>) · [Venue page](<https://icml.cc/virtual/2026/poster/66022>) · [PDF](<https://openreview.net/pdf?id=7qpvff2gWI>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -3388,7 +3798,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Moritz Thoma; Maximilian Groezinger; Maximilian Forstenhäusler; Emad Aghajanzadeh; Manoj Rohit Vemparala; Christos Anagnostopoulos; Pierpaolo Mori; Nael Fasfous; Alexander Frickenstein; Daniel Mueller-Gritschneder; Ulf Schlichtmann
 
-[OpenReview](<https://openreview.net/forum?id=IjIgNPFuCt>) · [Official program](<https://icml.cc/virtual/2026/poster/64908>) · [PDF](<https://openreview.net/pdf?id=IjIgNPFuCt>)
+[Primary source](<https://openreview.net/forum?id=IjIgNPFuCt>) · [Venue page](<https://icml.cc/virtual/2026/poster/64908>) · [PDF](<https://openreview.net/pdf?id=IjIgNPFuCt>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X6 — Matrix and tensor methods for compression.
 
@@ -3406,7 +3818,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Wei LIN; Yining Jiang; Qingyu Song; Qiao Xiang; Hong Xu
 
-[OpenReview](<https://openreview.net/forum?id=zfVxpXEZti>) · [Official program](<https://icml.cc/virtual/2026/poster/60499>) · [PDF](<https://openreview.net/pdf?id=zfVxpXEZti>)
+[Primary source](<https://openreview.net/forum?id=zfVxpXEZti>) · [Venue page](<https://icml.cc/virtual/2026/poster/60499>) · [PDF](<https://openreview.net/pdf?id=zfVxpXEZti>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -3418,7 +3832,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Jea Kwon; Dong-Kyum Kim; Jiwon Kim; Yonghyun Kim; Woong Kook; MEEYOUNG CHA
 
-[OpenReview](<https://openreview.net/forum?id=QZO3oby12w>) · [Official program](<https://icml.cc/virtual/2026/oral/71045>) · [PDF](<https://openreview.net/pdf?id=QZO3oby12w>)
+[Primary source](<https://openreview.net/forum?id=QZO3oby12w>) · [Venue page](<https://icml.cc/virtual/2026/oral/71045>) · [PDF](<https://openreview.net/pdf?id=QZO3oby12w>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -3432,7 +3848,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Adrián Javaloy; Antonio Vergari
 
-[OpenReview](<https://openreview.net/forum?id=rlvnG8oKmN>) · [Official program](<https://icml.cc/virtual/2026/poster/61285>) · [PDF](<https://openreview.net/pdf?id=rlvnG8oKmN>)
+[Primary source](<https://openreview.net/forum?id=rlvnG8oKmN>) · [Venue page](<https://icml.cc/virtual/2026/poster/61285>) · [PDF](<https://openreview.net/pdf?id=rlvnG8oKmN>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M1 — General manifold algorithms and convergence theory.
 
@@ -3450,7 +3868,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Michael Crawshaw; Chirag Modi; Mingrui Liu; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=O5xoqSmNzc>) · [Official program](<https://icml.cc/virtual/2026/poster/64390>) · [PDF](<https://openreview.net/pdf?id=O5xoqSmNzc>)
+[Primary source](<https://openreview.net/forum?id=O5xoqSmNzc>) · [Venue page](<https://icml.cc/virtual/2026/poster/64390>) · [PDF](<https://openreview.net/pdf?id=O5xoqSmNzc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3470,7 +3890,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · YuQing Xie; Ameya Daigavane; Mit Kotak; Tess Smidt
 
-[OpenReview](<https://openreview.net/forum?id=8UzZ0CbPsk>) · [Official program](<https://icml.cc/virtual/2026/poster/65961>) · [PDF](<https://openreview.net/pdf?id=8UzZ0CbPsk>)
+[Primary source](<https://openreview.net/forum?id=8UzZ0CbPsk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65961>) · [PDF](<https://openreview.net/pdf?id=8UzZ0CbPsk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -3486,7 +3908,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Esteban Real; Mirko Rossini; Connal de Souza; Manav Garg; Moritz Firsching; Quoc Le; Yao Chen; Akhil Verghese; Ekin Dogus Cubuk; David Park
 
-[OpenReview](<https://openreview.net/forum?id=n7F2nwPcYB>) · [Official program](<https://icml.cc/virtual/2026/poster/61770>) · [PDF](<https://openreview.net/pdf?id=n7F2nwPcYB>)
+[Primary source](<https://openreview.net/forum?id=n7F2nwPcYB>) · [Venue page](<https://icml.cc/virtual/2026/poster/61770>) · [PDF](<https://openreview.net/pdf?id=n7F2nwPcYB>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3502,7 +3926,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Valérie Castin; Kimia Nadjahi; Pierre Ablin; Gabriel Peyré
 
-[OpenReview](<https://openreview.net/forum?id=kHInw3cjCP>) · [Official program](<https://icml.cc/virtual/2026/poster/62055>) · [PDF](<https://openreview.net/pdf?id=kHInw3cjCP>)
+[Primary source](<https://openreview.net/forum?id=kHInw3cjCP>) · [Venue page](<https://icml.cc/virtual/2026/poster/62055>) · [PDF](<https://openreview.net/pdf?id=kHInw3cjCP>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -3518,7 +3944,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Tianyu Pang; Vignesh Kothapalli; Shenyang Deng; Haohui Wang; Dawei Zhou; Yaoqing Yang
 
-[OpenReview](<https://openreview.net/forum?id=4vztmTrGhd>) · [Official program](<https://icml.cc/virtual/2026/poster/66301>) · [PDF](<https://openreview.net/pdf?id=4vztmTrGhd>)
+[Primary source](<https://openreview.net/forum?id=4vztmTrGhd>) · [Venue page](<https://icml.cc/virtual/2026/poster/66301>) · [PDF](<https://openreview.net/pdf?id=4vztmTrGhd>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -3538,7 +3966,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yijie Zhou; Mingliang Zhang; Jiaqi Zhang; Xunliang Cai; Shi Pu
 
-[OpenReview](<https://openreview.net/forum?id=Agiagru6BM>) · [Official program](<https://icml.cc/virtual/2026/poster/65735>) · [PDF](<https://openreview.net/pdf?id=Agiagru6BM>)
+[Primary source](<https://openreview.net/forum?id=Agiagru6BM>) · [Venue page](<https://icml.cc/virtual/2026/poster/65735>) · [PDF](<https://openreview.net/pdf?id=Agiagru6BM>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -3550,7 +3980,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhicheng Cai; Xinyuan Guo; Hanlin Wu; Mingxuan Wang; Wei-Ying Ma; Ya-Qin Zhang; Hao Zhou
 
-[OpenReview](<https://openreview.net/forum?id=nSRbKvrmsH>) · [Official program](<https://icml.cc/virtual/2026/poster/61727>) · [PDF](<https://openreview.net/pdf?id=nSRbKvrmsH>)
+[Primary source](<https://openreview.net/forum?id=nSRbKvrmsH>) · [Venue page](<https://icml.cc/virtual/2026/poster/61727>) · [PDF](<https://openreview.net/pdf?id=nSRbKvrmsH>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -3566,7 +3998,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xingyu Qu; Peigeng Huang; Samuel Horváth
 
-[OpenReview](<https://openreview.net/forum?id=NKKwTEYdAm>) · [Official program](<https://icml.cc/virtual/2026/poster/64467>) · [PDF](<https://openreview.net/pdf?id=NKKwTEYdAm>)
+[Primary source](<https://openreview.net/forum?id=NKKwTEYdAm>) · [Venue page](<https://icml.cc/virtual/2026/poster/64467>) · [PDF](<https://openreview.net/pdf?id=NKKwTEYdAm>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3588,7 +4022,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ziwei Li; Shuzi Niu; Tao Yuan; Huiyuan Li
 
-[OpenReview](<https://openreview.net/forum?id=VbMi2zFVlk>) · [Official program](<https://icml.cc/virtual/2026/poster/63598>) · [PDF](<https://openreview.net/pdf?id=VbMi2zFVlk>)
+[Primary source](<https://openreview.net/forum?id=VbMi2zFVlk>) · [Venue page](<https://icml.cc/virtual/2026/poster/63598>) · [PDF](<https://openreview.net/pdf?id=VbMi2zFVlk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3604,7 +4040,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuli Chen; Shuhao Zhang; Jiale Han; Fanshen Meng; Haishen Jiang; Bo Cheng; Qiang Tong; Xiulei Liu
 
-[OpenReview](<https://openreview.net/forum?id=x23DAFnbhi>) · [Official program](<https://icml.cc/virtual/2026/poster/60742>) · [PDF](<https://openreview.net/pdf?id=x23DAFnbhi>)
+[Primary source](<https://openreview.net/forum?id=x23DAFnbhi>) · [Venue page](<https://icml.cc/virtual/2026/poster/60742>) · [PDF](<https://openreview.net/pdf?id=x23DAFnbhi>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -3622,7 +4060,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yixiao Wang; Hayden McTavish; Varun Babbar; Margo Seltzer; Cynthia Rudin
 
-[OpenReview](<https://openreview.net/forum?id=JjBozF4i2w>) · [Official program](<https://icml.cc/virtual/2026/poster/64794>) · [PDF](<https://openreview.net/pdf?id=JjBozF4i2w>)
+[Primary source](<https://openreview.net/forum?id=JjBozF4i2w>) · [Venue page](<https://icml.cc/virtual/2026/poster/64794>) · [PDF](<https://openreview.net/pdf?id=JjBozF4i2w>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3638,7 +4078,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Adam Lee; M Ganesh Kumar; Blake Bordelon; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=3uXAGWqCny>) · [Official program](<https://icml.cc/virtual/2026/poster/66419>) · [PDF](<https://openreview.net/pdf?id=3uXAGWqCny>)
+[Primary source](<https://openreview.net/forum?id=3uXAGWqCny>) · [Venue page](<https://icml.cc/virtual/2026/poster/66419>) · [PDF](<https://openreview.net/pdf?id=3uXAGWqCny>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -3656,7 +4098,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Krzysztof Choromanski; Kumar Avinava Dubey; Arijit Sehanobish; Isaac Reid
 
-[OpenReview](<https://openreview.net/forum?id=NvJPE1oiKd>) · [Official program](<https://icml.cc/virtual/2026/poster/64410>) · [PDF](<https://openreview.net/pdf?id=NvJPE1oiKd>)
+[Primary source](<https://openreview.net/forum?id=NvJPE1oiKd>) · [Venue page](<https://icml.cc/virtual/2026/poster/64410>) · [PDF](<https://openreview.net/pdf?id=NvJPE1oiKd>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -3672,7 +4116,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Maria Matveev; Vit Fojtik; Hung-Hsu Chou; Gitta Kutyniok; Johannes Maly
 
-[OpenReview](<https://openreview.net/forum?id=6eI4YHFyON>) · [Official program](<https://icml.cc/virtual/2026/poster/66129>) · [PDF](<https://openreview.net/pdf?id=6eI4YHFyON>)
+[Primary source](<https://openreview.net/forum?id=6eI4YHFyON>) · [Venue page](<https://icml.cc/virtual/2026/poster/66129>) · [PDF](<https://openreview.net/pdf?id=6eI4YHFyON>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3690,7 +4136,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Tian Xie; Haoming Luo; Haoyu Tang; Hu Yiwen; Jason Liu; Qingnan Ren; Yang Wang; Xin Zhao; Rui Yan; Bing Su; Chong Luo; Baining Guo
 
-[OpenReview](<https://openreview.net/forum?id=5kTn1c3vtt>) · [Official program](<https://icml.cc/virtual/2026/poster/66212>) · [PDF](<https://openreview.net/pdf?id=5kTn1c3vtt>)
+[Primary source](<https://openreview.net/forum?id=5kTn1c3vtt>) · [Venue page](<https://icml.cc/virtual/2026/poster/66212>) · [PDF](<https://openreview.net/pdf?id=5kTn1c3vtt>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; M4 — Related constrained and geometry-aware optimization.
 
@@ -3706,7 +4154,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Wei Jiang; Mao Xu; Wenhao Yang; Yibo Wang; Zechao Li; Lijun Zhang
 
-[OpenReview](<https://openreview.net/forum?id=32NvV5zixD>) · [Official program](<https://icml.cc/virtual/2026/poster/66516>) · [PDF](<https://openreview.net/pdf?id=32NvV5zixD>)
+[Primary source](<https://openreview.net/forum?id=32NvV5zixD>) · [Venue page](<https://icml.cc/virtual/2026/poster/66516>) · [PDF](<https://openreview.net/pdf?id=32NvV5zixD>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -3718,7 +4168,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Sharan Vaswani; Yifan Sun; Reza Babanezhad
 
-[OpenReview](<https://openreview.net/forum?id=vwTTp11PTD>) · [Official program](<https://icml.cc/virtual/2026/poster/60861>) · [PDF](<https://openreview.net/pdf?id=vwTTp11PTD>)
+[Primary source](<https://openreview.net/forum?id=vwTTp11PTD>) · [Venue page](<https://icml.cc/virtual/2026/poster/60861>) · [PDF](<https://openreview.net/pdf?id=vwTTp11PTD>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -3730,7 +4182,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Huan Li; Yiming Dong; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=gvWsViQBYB>) · [Official program](<https://icml.cc/virtual/2026/poster/62404>) · [PDF](<https://openreview.net/pdf?id=gvWsViQBYB>)
+[Primary source](<https://openreview.net/forum?id=gvWsViQBYB>) · [Venue page](<https://icml.cc/virtual/2026/poster/62404>) · [PDF](<https://openreview.net/pdf?id=gvWsViQBYB>)
+
+**Topics:** Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation.
 
@@ -3742,7 +4196,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zarif Ikram; Arad Firouzkouhi; Stephen Tu; Mahdi Soltanolkotabi; Paria Rashidinejad
 
-[OpenReview](<https://openreview.net/forum?id=gTHlB3WK0l>) · [Official program](<https://icml.cc/virtual/2026/poster/62453>) · [PDF](<https://openreview.net/pdf?id=gTHlB3WK0l>)
+[Primary source](<https://openreview.net/forum?id=gTHlB3WK0l>) · [Venue page](<https://icml.cc/virtual/2026/poster/62453>) · [PDF](<https://openreview.net/pdf?id=gTHlB3WK0l>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -3754,7 +4210,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Shuo Wang; Ziyu Chen; Ming Tang
 
-[OpenReview](<https://openreview.net/forum?id=L35b2JZ8gS>) · [Official program](<https://icml.cc/virtual/2026/poster/64669>) · [PDF](<https://openreview.net/pdf?id=L35b2JZ8gS>)
+[Primary source](<https://openreview.net/forum?id=L35b2JZ8gS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64669>) · [PDF](<https://openreview.net/pdf?id=L35b2JZ8gS>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -3766,7 +4224,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ionut-Vlad Modoranu; Philip Zmushko; Erik Schultheis; Mher Safaryan; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=ujeyxKwTGM>) · [Official program](<https://icml.cc/virtual/2026/poster/60988>) · [PDF](<https://openreview.net/pdf?id=ujeyxKwTGM>)
+[Primary source](<https://openreview.net/forum?id=ujeyxKwTGM>) · [Venue page](<https://icml.cc/virtual/2026/poster/60988>) · [PDF](<https://openreview.net/pdf?id=ujeyxKwTGM>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -3788,7 +4248,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yirun Ding; Zhihui Lai
 
-[OpenReview](<https://openreview.net/forum?id=l6MbbwsWUs>) · [Official program](<https://icml.cc/virtual/2026/poster/61970>) · [PDF](<https://openreview.net/pdf?id=l6MbbwsWUs>)
+[Primary source](<https://openreview.net/forum?id=l6MbbwsWUs>) · [Venue page](<https://icml.cc/virtual/2026/poster/61970>) · [PDF](<https://openreview.net/pdf?id=l6MbbwsWUs>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -3802,7 +4264,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Junhyeong Lee; Sangjin Jin; Yongjae Lee
 
-[OpenReview](<https://openreview.net/forum?id=ZDtFevjwin>) · [Official program](<https://icml.cc/virtual/2026/poster/63194>) · [PDF](<https://openreview.net/pdf?id=ZDtFevjwin>)
+[Primary source](<https://openreview.net/forum?id=ZDtFevjwin>) · [Venue page](<https://icml.cc/virtual/2026/poster/63194>) · [PDF](<https://openreview.net/pdf?id=ZDtFevjwin>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3818,7 +4282,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zitao Song; Cedar Site Bai; Zhe Zhang; Brian Bullins; David Gleich
 
-[OpenReview](<https://openreview.net/forum?id=bCxkeiNGxZ>) · [Official program](<https://icml.cc/virtual/2026/poster/62986>) · [PDF](<https://openreview.net/pdf?id=bCxkeiNGxZ>)
+[Primary source](<https://openreview.net/forum?id=bCxkeiNGxZ>) · [Venue page](<https://icml.cc/virtual/2026/poster/62986>) · [PDF](<https://openreview.net/pdf?id=bCxkeiNGxZ>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -3830,7 +4296,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Vladimír Macko; Vladimír Boža
 
-[OpenReview](<https://openreview.net/forum?id=ah9xkFXCV6>) · [Official program](<https://icml.cc/virtual/2026/poster/63039>) · [PDF](<https://openreview.net/pdf?id=ah9xkFXCV6>)
+[Primary source](<https://openreview.net/forum?id=ah9xkFXCV6>) · [Venue page](<https://icml.cc/virtual/2026/poster/63039>) · [PDF](<https://openreview.net/pdf?id=ah9xkFXCV6>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -3846,7 +4314,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Xianbiao Qi; Marco Chen; Jiaquan Ye; Yelin He; Rong Xiao
 
-[OpenReview](<https://openreview.net/forum?id=xUQ0Gw11NL>) · [Official program](<https://icml.cc/virtual/2026/poster/60694>) · [PDF](<https://openreview.net/pdf?id=xUQ0Gw11NL>)
+[Primary source](<https://openreview.net/forum?id=xUQ0Gw11NL>) · [Venue page](<https://icml.cc/virtual/2026/poster/60694>) · [PDF](<https://openreview.net/pdf?id=xUQ0Gw11NL>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3866,7 +4336,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Francesco Cagnetta; Allan Raventos; Surya Ganguli; Matthieu Wyart
 
-[OpenReview](<https://openreview.net/forum?id=VXlniX0C5y>) · [Official program](<https://icml.cc/virtual/2026/poster/63606>) · [PDF](<https://openreview.net/pdf?id=VXlniX0C5y>)
+[Primary source](<https://openreview.net/forum?id=VXlniX0C5y>) · [Venue page](<https://icml.cc/virtual/2026/poster/63606>) · [PDF](<https://openreview.net/pdf?id=VXlniX0C5y>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3884,7 +4356,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ziyang Zhang; Xinheng Ding; Jiayi Yuan; Rixin Liu; Huizi Mao; Jiarong Xing; Zirui Liu
 
-[OpenReview](<https://openreview.net/forum?id=5eZmlUyFpl>) · [Official program](<https://icml.cc/virtual/2026/poster/66224>) · [PDF](<https://openreview.net/pdf?id=5eZmlUyFpl>)
+[Primary source](<https://openreview.net/forum?id=5eZmlUyFpl>) · [Venue page](<https://icml.cc/virtual/2026/poster/66224>) · [PDF](<https://openreview.net/pdf?id=5eZmlUyFpl>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -3900,7 +4374,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Shota Imai; Sota Nishiyama; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=wg02GN1ygj>) · [Official program](<https://icml.cc/virtual/2026/poster/60792>) · [PDF](<https://openreview.net/pdf?id=wg02GN1ygj>)
+[Primary source](<https://openreview.net/forum?id=wg02GN1ygj>) · [Venue page](<https://icml.cc/virtual/2026/poster/60792>) · [PDF](<https://openreview.net/pdf?id=wg02GN1ygj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3918,7 +4394,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Aditya Kulkarni; Carlos Soto
 
-[OpenReview](<https://openreview.net/forum?id=nGlwpZFZre>) · [Official program](<https://icml.cc/virtual/2026/poster/61746>) · [PDF](<https://openreview.net/pdf?id=nGlwpZFZre>)
+[Primary source](<https://openreview.net/forum?id=nGlwpZFZre>) · [Venue page](<https://icml.cc/virtual/2026/poster/61746>) · [PDF](<https://openreview.net/pdf?id=nGlwpZFZre>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -3932,7 +4410,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Sagnik Mukherjee; Lifan Yuan; Pavan Jayasinha; Dilek Hakkani-Tür; Hao Peng
 
-[OpenReview](<https://openreview.net/forum?id=z31fdV4WRu>) · [Official program](<https://icml.cc/virtual/2026/oral/71027>) · [PDF](<https://openreview.net/pdf?id=z31fdV4WRu>)
+[Primary source](<https://openreview.net/forum?id=z31fdV4WRu>) · [Venue page](<https://icml.cc/virtual/2026/oral/71027>) · [PDF](<https://openreview.net/pdf?id=z31fdV4WRu>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3952,7 +4432,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Marc Molina Van den bosch; Riccardo Taiello; Albert Aillet; Andrea Protani; Miguel Angel Gonzalez Ballester; Luigi Serio
 
-[OpenReview](<https://openreview.net/forum?id=Z6HxJqAzbp>) · [Official program](<https://icml.cc/virtual/2026/poster/63209>) · [PDF](<https://openreview.net/pdf?id=Z6HxJqAzbp>)
+[Primary source](<https://openreview.net/forum?id=Z6HxJqAzbp>) · [Venue page](<https://icml.cc/virtual/2026/poster/63209>) · [PDF](<https://openreview.net/pdf?id=Z6HxJqAzbp>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -3970,7 +4452,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Lucas Fernandez-Sarmiento
 
-[OpenReview](<https://openreview.net/forum?id=FoDU47u2jk>) · [Official program](<https://icml.cc/virtual/2026/poster/65205>) · [PDF](<https://openreview.net/pdf?id=FoDU47u2jk>)
+[Primary source](<https://openreview.net/forum?id=FoDU47u2jk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65205>) · [PDF](<https://openreview.net/pdf?id=FoDU47u2jk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3988,7 +4472,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xuyang Zhong; Qizhang Li; Yiwen Guo; Chen Liu
 
-[OpenReview](<https://openreview.net/forum?id=xGfnQajGPQ>) · [Official program](<https://icml.cc/virtual/2026/poster/60714>) · [PDF](<https://openreview.net/pdf?id=xGfnQajGPQ>)
+[Primary source](<https://openreview.net/forum?id=xGfnQajGPQ>) · [Venue page](<https://icml.cc/virtual/2026/poster/60714>) · [PDF](<https://openreview.net/pdf?id=xGfnQajGPQ>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -4002,7 +4488,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yan-Feng Xie; Yu-Jie Zhang; Peng Zhao; Zhi-Hua Zhou
 
-[OpenReview](<https://openreview.net/forum?id=cGOX9bOWnj>) · [Official program](<https://icml.cc/virtual/2026/poster/62883>) · [PDF](<https://openreview.net/pdf?id=cGOX9bOWnj>)
+[Primary source](<https://openreview.net/forum?id=cGOX9bOWnj>) · [Venue page](<https://icml.cc/virtual/2026/poster/62883>) · [PDF](<https://openreview.net/pdf?id=cGOX9bOWnj>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -4014,7 +4502,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jakob Kramp; Javed Lindner; Moritz Helias
 
-[OpenReview](<https://openreview.net/forum?id=Ge3VtuCvZ7>) · [Official program](<https://icml.cc/virtual/2026/poster/65116>) · [PDF](<https://openreview.net/pdf?id=Ge3VtuCvZ7>)
+[Primary source](<https://openreview.net/forum?id=Ge3VtuCvZ7>) · [Venue page](<https://icml.cc/virtual/2026/poster/65116>) · [PDF](<https://openreview.net/pdf?id=Ge3VtuCvZ7>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4032,7 +4522,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Lin Huang; Chengxiang Huang; Ziang Wang; Yiyue Du; Chu Wang; Haocheng Lu; Yunyang Li; Xiaoli LIU; Arthur JIANG; Jia Zhang
 
-[OpenReview](<https://openreview.net/forum?id=gIUVdEAa3l>) · [Official program](<https://icml.cc/virtual/2026/poster/62474>) · [PDF](<https://openreview.net/pdf?id=gIUVdEAa3l>)
+[Primary source](<https://openreview.net/forum?id=gIUVdEAa3l>) · [Venue page](<https://icml.cc/virtual/2026/poster/62474>) · [PDF](<https://openreview.net/pdf?id=gIUVdEAa3l>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -4050,7 +4542,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Mahdi Nikdan; Amir Zandieh; Dan Alistarh; Vahab Mirrokni
 
-[OpenReview](<https://openreview.net/forum?id=dfVm5yZZ6G>) · [Official program](<https://icml.cc/virtual/2026/poster/62753>) · [PDF](<https://openreview.net/pdf?id=dfVm5yZZ6G>)
+[Primary source](<https://openreview.net/forum?id=dfVm5yZZ6G>) · [Venue page](<https://icml.cc/virtual/2026/poster/62753>) · [PDF](<https://openreview.net/pdf?id=dfVm5yZZ6G>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -4062,7 +4556,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Enayat Ullah; Sai Aparna Aketi; Devansh Gupta; Huanyu Zhang; Meisam Razaviyayn
 
-[OpenReview](<https://openreview.net/forum?id=eTO6G25Jbo>) · [Official program](<https://icml.cc/virtual/2026/poster/62676>) · [PDF](<https://openreview.net/pdf?id=eTO6G25Jbo>)
+[Primary source](<https://openreview.net/forum?id=eTO6G25Jbo>) · [Venue page](<https://icml.cc/virtual/2026/poster/62676>) · [PDF](<https://openreview.net/pdf?id=eTO6G25Jbo>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -4074,7 +4570,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xiaowen Jiang; Andrei Semenov; Sebastian Stich
 
-[OpenReview](<https://openreview.net/forum?id=RF1YUA8plS>) · [Official program](<https://icml.cc/virtual/2026/poster/64066>) · [PDF](<https://openreview.net/pdf?id=RF1YUA8plS>)
+[Primary source](<https://openreview.net/forum?id=RF1YUA8plS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64066>) · [PDF](<https://openreview.net/pdf?id=RF1YUA8plS>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -4086,7 +4584,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jiabei Chen; Haoyu Wang; Yang Yu; Yao Xu; Liangdong Wang; Guang Liu; Shizhu He; Jun Zhao; Kang Liu
 
-[OpenReview](<https://openreview.net/forum?id=RUgiEJJ9Fo>) · [Official program](<https://icml.cc/virtual/2026/poster/64041>) · [PDF](<https://openreview.net/pdf?id=RUgiEJJ9Fo>)
+[Primary source](<https://openreview.net/forum?id=RUgiEJJ9Fo>) · [Venue page](<https://icml.cc/virtual/2026/poster/64041>) · [PDF](<https://openreview.net/pdf?id=RUgiEJJ9Fo>)
+
+**Topics:** Optimizer.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity.
 
@@ -4100,7 +4600,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Rikhav Shah; Sandeep Silwal; Haike Xu
 
-[OpenReview](<https://openreview.net/forum?id=ueNIrBXz7R>) · [Official program](<https://icml.cc/virtual/2026/poster/61003>) · [PDF](<https://openreview.net/pdf?id=ueNIrBXz7R>)
+[Primary source](<https://openreview.net/forum?id=ueNIrBXz7R>) · [Venue page](<https://icml.cc/virtual/2026/poster/61003>) · [PDF](<https://openreview.net/pdf?id=ueNIrBXz7R>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -4116,7 +4618,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xin Qiu; Yulu Gan; Conor Hayes; Qiyao Liang; Yinggan XU; Roberto Dailey; Elliot Meyerson; Babak Hodjat; Risto Miikkulainen
 
-[OpenReview](<https://openreview.net/forum?id=i0P4ew9GpS>) · [Official program](<https://icml.cc/virtual/2026/poster/62279>) · [PDF](<https://openreview.net/pdf?id=i0P4ew9GpS>)
+[Primary source](<https://openreview.net/forum?id=i0P4ew9GpS>) · [Venue page](<https://icml.cc/virtual/2026/poster/62279>) · [PDF](<https://openreview.net/pdf?id=i0P4ew9GpS>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -4128,7 +4632,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Bidipta Sarkar; Mattie Fellows; Juan Duque; Alistair Letcher; Antonio León Villares; Anya Sims; Clarisse Wibault; Dmitry Samsonov; Dylan Cope; Jarek Liesen; Kang Li; Lukas Seier; Theo Wolf; Uljad Berdica; Valentin Mohl; Alexander D. Goldie; Aaron Courville; Karin Sevegnani; Shimon Whiteson; Jakob Foerster
 
-[OpenReview](<https://openreview.net/forum?id=bfVJ4GsHrO>) · [Official program](<https://icml.cc/virtual/2026/poster/62943>) · [PDF](<https://openreview.net/pdf?id=bfVJ4GsHrO>)
+[Primary source](<https://openreview.net/forum?id=bfVJ4GsHrO>) · [Venue page](<https://icml.cc/virtual/2026/poster/62943>) · [PDF](<https://openreview.net/pdf?id=bfVJ4GsHrO>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -4140,7 +4646,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · rui dai; SHURAN ZHENG
 
-[OpenReview](<https://openreview.net/forum?id=joReaAnwnH>) · [Official program](<https://icml.cc/virtual/2026/poster/62102>) · [PDF](<https://openreview.net/pdf?id=joReaAnwnH>)
+[Primary source](<https://openreview.net/forum?id=joReaAnwnH>) · [Venue page](<https://icml.cc/virtual/2026/poster/62102>) · [PDF](<https://openreview.net/pdf?id=joReaAnwnH>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4158,7 +4666,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Artem Artemev; Rui Xia; Benjamin M. Boyd; Youjing Yu; Felix Dangel; Guillaume Hennequin; Alberto Bernacchia
 
-[OpenReview](<https://openreview.net/forum?id=yiq2tZojBK>) · [Official program](<https://icml.cc/virtual/2026/poster/60589>) · [PDF](<https://openreview.net/pdf?id=yiq2tZojBK>)
+[Primary source](<https://openreview.net/forum?id=yiq2tZojBK>) · [Venue page](<https://icml.cc/virtual/2026/poster/60589>) · [PDF](<https://openreview.net/pdf?id=yiq2tZojBK>)
+
+**Topics:** Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation.
 
@@ -4170,7 +4680,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haoxin Sun; Zhongzhi Zhang
 
-[OpenReview](<https://openreview.net/forum?id=0ujhEWEeAc>) · [Official program](<https://icml.cc/virtual/2026/poster/66739>) · [PDF](<https://openreview.net/pdf?id=0ujhEWEeAc>)
+[Primary source](<https://openreview.net/forum?id=0ujhEWEeAc>) · [Venue page](<https://icml.cc/virtual/2026/poster/66739>) · [PDF](<https://openreview.net/pdf?id=0ujhEWEeAc>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -4188,7 +4700,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Nathan Doumèche; Francis Bach; Gérard Biau; Claire Boyer
 
-[OpenReview](<https://openreview.net/forum?id=QiDicUd6PB>) · [Official program](<https://icml.cc/virtual/2026/poster/64123>) · [PDF](<https://openreview.net/pdf?id=QiDicUd6PB>)
+[Primary source](<https://openreview.net/forum?id=QiDicUd6PB>) · [Venue page](<https://icml.cc/virtual/2026/poster/64123>) · [PDF](<https://openreview.net/pdf?id=QiDicUd6PB>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -4204,7 +4718,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Meng Bi; Hong Huang; Jinlong Song; Charles Wang; Chengming Hu; Xi Chen; Ting Yu; Xue Liu
 
-[OpenReview](<https://openreview.net/forum?id=NhW0m7BLPG>) · [Official program](<https://icml.cc/virtual/2026/poster/64435>) · [PDF](<https://openreview.net/pdf?id=NhW0m7BLPG>)
+[Primary source](<https://openreview.net/forum?id=NhW0m7BLPG>) · [Venue page](<https://icml.cc/virtual/2026/poster/64435>) · [PDF](<https://openreview.net/pdf?id=NhW0m7BLPG>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -4220,7 +4736,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Jose Javier Gonzalez Ortiz; Abhay Gupta; Christopher Rinard; Davis Blalock
 
-[OpenReview](<https://openreview.net/forum?id=Wfe1iJocjF>) · [Official program](<https://icml.cc/virtual/2026/poster/63497>) · [PDF](<https://openreview.net/pdf?id=Wfe1iJocjF>)
+[Primary source](<https://openreview.net/forum?id=Wfe1iJocjF>) · [Venue page](<https://icml.cc/virtual/2026/poster/63497>) · [PDF](<https://openreview.net/pdf?id=Wfe1iJocjF>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -4232,7 +4750,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Felix X.-F. Ye; Xingjie Li; An Yu; Ming-Ching Chang; LINSONG CHU; Davis Wertheimer
 
-[OpenReview](<https://openreview.net/forum?id=VzIA4MASxK>) · [Official program](<https://icml.cc/virtual/2026/oral/71180>) · [PDF](<https://openreview.net/pdf?id=VzIA4MASxK>)
+[Primary source](<https://openreview.net/forum?id=VzIA4MASxK>) · [Venue page](<https://icml.cc/virtual/2026/oral/71180>) · [PDF](<https://openreview.net/pdf?id=VzIA4MASxK>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -4250,7 +4770,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Rajat Vadiraj Dwaraknath; Sungyoon Kim; Mert Pilanci
 
-[OpenReview](<https://openreview.net/forum?id=cCwxV6rSXF>) · [Official program](<https://icml.cc/virtual/2026/oral/71181>) · [PDF](<https://openreview.net/pdf?id=cCwxV6rSXF>)
+[Primary source](<https://openreview.net/forum?id=cCwxV6rSXF>) · [Venue page](<https://icml.cc/virtual/2026/oral/71181>) · [PDF](<https://openreview.net/pdf?id=cCwxV6rSXF>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -4268,7 +4790,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Leonardo Galli; Curtis Fox; Wiebke Bartolomaeus; Mark Schmidt; Holger Rauhut
 
-[OpenReview](<https://openreview.net/forum?id=NpSI4x2vBS>) · [Official program](<https://icml.cc/virtual/2026/poster/64420>) · [PDF](<https://openreview.net/pdf?id=NpSI4x2vBS>)
+[Primary source](<https://openreview.net/forum?id=NpSI4x2vBS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64420>) · [PDF](<https://openreview.net/pdf?id=NpSI4x2vBS>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -4286,7 +4810,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ziqing Wen; Jiahuan Wang; ping luo; Dongsheng Li; Tao Sun
 
-[OpenReview](<https://openreview.net/forum?id=k7XzObg9Hy>) · [Official program](<https://icml.cc/virtual/2026/poster/62070>) · [PDF](<https://openreview.net/pdf?id=k7XzObg9Hy>)
+[Primary source](<https://openreview.net/forum?id=k7XzObg9Hy>) · [Venue page](<https://icml.cc/virtual/2026/poster/62070>) · [PDF](<https://openreview.net/pdf?id=k7XzObg9Hy>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -4298,7 +4824,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kyunghun Nam; Sumyeong Ahn
 
-[OpenReview](<https://openreview.net/forum?id=ZwFJbTzJP9>) · [Official program](<https://icml.cc/virtual/2026/poster/63117>) · [PDF](<https://openreview.net/pdf?id=ZwFJbTzJP9>)
+[Primary source](<https://openreview.net/forum?id=ZwFJbTzJP9>) · [Venue page](<https://icml.cc/virtual/2026/poster/63117>) · [PDF](<https://openreview.net/pdf?id=ZwFJbTzJP9>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -4316,7 +4844,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Artem Riabinin; Egor Shulgin; Kaja Gruntkowska; Peter Richtarik
 
-[OpenReview](<https://openreview.net/forum?id=IelAHU5MVz>) · [Official program](<https://icml.cc/virtual/2026/poster/64921>) · [PDF](<https://openreview.net/pdf?id=IelAHU5MVz>)
+[Primary source](<https://openreview.net/forum?id=IelAHU5MVz>) · [Venue page](<https://icml.cc/virtual/2026/poster/64921>) · [PDF](<https://openreview.net/pdf?id=IelAHU5MVz>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -4328,7 +4858,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Aleksandr Shestakov; Martin Takac; Eduard Gorbunov
 
-[OpenReview](<https://openreview.net/forum?id=FGHVEJ2Jz9>) · [Official program](<https://icml.cc/virtual/2026/poster/65262>) · [PDF](<https://openreview.net/pdf?id=FGHVEJ2Jz9>)
+[Primary source](<https://openreview.net/forum?id=FGHVEJ2Jz9>) · [Venue page](<https://icml.cc/virtual/2026/poster/65262>) · [PDF](<https://openreview.net/pdf?id=FGHVEJ2Jz9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4346,7 +4878,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Weixin Liao; Mingquan Feng; Zhizhou Zhang; Youjia Wu; Yifan Fu; Junchi Yan
 
-[OpenReview](<https://openreview.net/forum?id=uizi6lvkSW>) · [Official program](<https://icml.cc/virtual/2026/poster/60991>) · [PDF](<https://openreview.net/pdf?id=uizi6lvkSW>)
+[Primary source](<https://openreview.net/forum?id=uizi6lvkSW>) · [Venue page](<https://icml.cc/virtual/2026/poster/60991>) · [PDF](<https://openreview.net/pdf?id=uizi6lvkSW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -4362,7 +4896,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Egor Shulgin; Mohamed Awad; Peter Richtarik; Eduard Gorbunov
 
-[OpenReview](<https://openreview.net/forum?id=s0Q8nVsrMu>) · [Official program](<https://icml.cc/virtual/2026/poster/61267>) · [PDF](<https://openreview.net/pdf?id=s0Q8nVsrMu>)
+[Primary source](<https://openreview.net/forum?id=s0Q8nVsrMu>) · [Venue page](<https://icml.cc/virtual/2026/poster/61267>) · [PDF](<https://openreview.net/pdf?id=s0Q8nVsrMu>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -4374,7 +4910,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Mansour ZOUBEIROU A MAYAKI
 
-[OpenReview](<https://openreview.net/forum?id=WxmL5UjtNm>) · [Official program](<https://icml.cc/virtual/2026/poster/63463>) · [PDF](<https://openreview.net/pdf?id=WxmL5UjtNm>)
+[Primary source](<https://openreview.net/forum?id=WxmL5UjtNm>) · [Venue page](<https://icml.cc/virtual/2026/poster/63463>) · [PDF](<https://openreview.net/pdf?id=WxmL5UjtNm>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4392,7 +4930,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Felix Petersen; Christian Borgelt; Aashwin Mishra; Stefano Ermon
 
-[OpenReview](<https://openreview.net/forum?id=okzQ1x71pS>) · [Official program](<https://icml.cc/virtual/2026/poster/61580>) · [PDF](<https://openreview.net/pdf?id=okzQ1x71pS>)
+[Primary source](<https://openreview.net/forum?id=okzQ1x71pS>) · [Venue page](<https://icml.cc/virtual/2026/poster/61580>) · [PDF](<https://openreview.net/pdf?id=okzQ1x71pS>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -4408,7 +4948,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Florine Hartwig; Josua Sassen; Juliane Braunsmann; Martin Rumpf; Benedikt Wirth
 
-[OpenReview](<https://openreview.net/forum?id=5LBH6azyBM>) · [Official program](<https://icml.cc/virtual/2026/poster/66261>) · [PDF](<https://openreview.net/pdf?id=5LBH6azyBM>)
+[Primary source](<https://openreview.net/forum?id=5LBH6azyBM>) · [Venue page](<https://icml.cc/virtual/2026/poster/66261>) · [PDF](<https://openreview.net/pdf?id=5LBH6azyBM>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -4422,7 +4964,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Semih Cayci
 
-[OpenReview](<https://openreview.net/forum?id=IoGEXDFVEb>) · [Official program](<https://icml.cc/virtual/2026/poster/64891>) · [PDF](<https://openreview.net/pdf?id=IoGEXDFVEb>)
+[Primary source](<https://openreview.net/forum?id=IoGEXDFVEb>) · [Venue page](<https://icml.cc/virtual/2026/poster/64891>) · [PDF](<https://openreview.net/pdf?id=IoGEXDFVEb>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M1 — General manifold algorithms and convergence theory.
 
@@ -4438,7 +4982,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ruijia Zhang; Jiacheng Zhu; Hanqing Zhu; Laixi Shi
 
-[OpenReview](<https://openreview.net/forum?id=Xo95FS2GTK>) · [Official program](<https://icml.cc/virtual/2026/poster/63355>) · [PDF](<https://openreview.net/pdf?id=Xo95FS2GTK>)
+[Primary source](<https://openreview.net/forum?id=Xo95FS2GTK>) · [Venue page](<https://icml.cc/virtual/2026/poster/63355>) · [PDF](<https://openreview.net/pdf?id=Xo95FS2GTK>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -4450,7 +4996,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Marcus Noack; Mark Risser; HENGRUI LUO; Vardaan Tekriwal; Ronald Pandolfi
 
-[OpenReview](<https://openreview.net/forum?id=xLnzdfOS6r>) · [Official program](<https://icml.cc/virtual/2026/poster/60707>) · [PDF](<https://openreview.net/pdf?id=xLnzdfOS6r>)
+[Primary source](<https://openreview.net/forum?id=xLnzdfOS6r>) · [Venue page](<https://icml.cc/virtual/2026/poster/60707>) · [PDF](<https://openreview.net/pdf?id=xLnzdfOS6r>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -4466,7 +5014,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hee-Sung Kim; Sungyoon Lee
 
-[OpenReview](<https://openreview.net/forum?id=CVXqBkLF5y>) · [Official program](<https://icml.cc/virtual/2026/poster/65550>) · [PDF](<https://openreview.net/pdf?id=CVXqBkLF5y>)
+[Primary source](<https://openreview.net/forum?id=CVXqBkLF5y>) · [Venue page](<https://icml.cc/virtual/2026/poster/65550>) · [PDF](<https://openreview.net/pdf?id=CVXqBkLF5y>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -4484,7 +5034,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jiajie Zhao; Jianxing Wang; Junjie Yang; Zhiwei Bai; Yaoyu Zhang
 
-[OpenReview](<https://openreview.net/forum?id=IJph1t3Egr>) · [Official program](<https://icml.cc/virtual/2026/poster/64965>) · [PDF](<https://openreview.net/pdf?id=IJph1t3Egr>)
+[Primary source](<https://openreview.net/forum?id=IJph1t3Egr>) · [Venue page](<https://icml.cc/virtual/2026/poster/64965>) · [PDF](<https://openreview.net/pdf?id=IJph1t3Egr>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4502,7 +5054,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haoming Meng; Anton Sugolov; Vardan Papyan
 
-[OpenReview](<https://openreview.net/forum?id=xOFHGE60fr>) · [Official program](<https://icml.cc/virtual/2026/poster/60702>) · [PDF](<https://openreview.net/pdf?id=xOFHGE60fr>)
+[Primary source](<https://openreview.net/forum?id=xOFHGE60fr>) · [Venue page](<https://icml.cc/virtual/2026/poster/60702>) · [PDF](<https://openreview.net/pdf?id=xOFHGE60fr>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -4514,7 +5068,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Tianjin Huang; Zhangyang “Atlas” Wang; Haotian Hu; Zhenyu Zhang; Gaojie Jin; Xiang Li; Li Shen; Jiaxing Shang; Tianlong Chen; Ke Li; Lu Liu; Qingsong Wen; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=UZ8e5kivVf>) · [Official program](<https://icml.cc/virtual/2026/poster/63695>) · [PDF](<https://openreview.net/pdf?id=UZ8e5kivVf>)
+[Primary source](<https://openreview.net/forum?id=UZ8e5kivVf>) · [Venue page](<https://icml.cc/virtual/2026/poster/63695>) · [PDF](<https://openreview.net/pdf?id=UZ8e5kivVf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4534,7 +5090,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jinbo Wang; Mingze Wang; Jiaqi Zhang; Wei Wang; Peng Pei; Xunliang Cai; Weinan E; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=I9pDKCWYXk>) · [Official program](<https://icml.cc/virtual/2026/poster/64980>) · [PDF](<https://openreview.net/pdf?id=I9pDKCWYXk>)
+[Primary source](<https://openreview.net/forum?id=I9pDKCWYXk>) · [Venue page](<https://icml.cc/virtual/2026/poster/64980>) · [PDF](<https://openreview.net/pdf?id=I9pDKCWYXk>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -4546,7 +5104,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Pascal Jr Tikeng Notsawo; Guillaume Dumas; Guillaume Rabusseau
 
-[OpenReview](<https://openreview.net/forum?id=5Cvh976L09>) · [Official program](<https://icml.cc/virtual/2026/poster/66276>) · [PDF](<https://openreview.net/pdf?id=5Cvh976L09>)
+[Primary source](<https://openreview.net/forum?id=5Cvh976L09>) · [Venue page](<https://icml.cc/virtual/2026/poster/66276>) · [PDF](<https://openreview.net/pdf?id=5Cvh976L09>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -4564,7 +5124,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuma Ichikawa; Shuhei Kashiwamura; Ayaka Sakata
 
-[OpenReview](<https://openreview.net/forum?id=bI9moH3UZw>) · [Official program](<https://icml.cc/virtual/2026/poster/62979>) · [PDF](<https://openreview.net/pdf?id=bI9moH3UZw>)
+[Primary source](<https://openreview.net/forum?id=bI9moH3UZw>) · [Venue page](<https://icml.cc/virtual/2026/poster/62979>) · [PDF](<https://openreview.net/pdf?id=bI9moH3UZw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4582,7 +5144,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Boliang Hao; Bailing Zhang; Fangyu Wu
 
-[OpenReview](<https://openreview.net/forum?id=m7SH64ZF6j>) · [Official program](<https://icml.cc/virtual/2026/poster/61874>) · [PDF](<https://openreview.net/pdf?id=m7SH64ZF6j>)
+[Primary source](<https://openreview.net/forum?id=m7SH64ZF6j>) · [Venue page](<https://icml.cc/virtual/2026/poster/61874>) · [PDF](<https://openreview.net/pdf?id=m7SH64ZF6j>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -4598,7 +5162,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haosong Zhang; Shenxi Wu; Xingjian Ma; Shirui Bian; Yichi Zhang; Xi Chen; Wei Lin
 
-[OpenReview](<https://openreview.net/forum?id=Q2tAR1xDFQ>) · [Official program](<https://icml.cc/virtual/2026/poster/64199>) · [PDF](<https://openreview.net/pdf?id=Q2tAR1xDFQ>)
+[Primary source](<https://openreview.net/forum?id=Q2tAR1xDFQ>) · [Venue page](<https://icml.cc/virtual/2026/poster/64199>) · [PDF](<https://openreview.net/pdf?id=Q2tAR1xDFQ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -4618,7 +5184,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Tianze Jiang; Blake Bordelon; Cengiz Pehlevan; Boris Hanin
 
-[OpenReview](<https://openreview.net/forum?id=fD36uwJ5oV>) · [Official program](<https://icml.cc/virtual/2026/poster/62595>) · [PDF](<https://openreview.net/pdf?id=fD36uwJ5oV>)
+[Primary source](<https://openreview.net/forum?id=fD36uwJ5oV>) · [Venue page](<https://icml.cc/virtual/2026/poster/62595>) · [PDF](<https://openreview.net/pdf?id=fD36uwJ5oV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -4638,7 +5206,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jian-Feng Cai; Haixia Liu; Zhengyi Su; Chao Wang
 
-[OpenReview](<https://openreview.net/forum?id=IPp3LD6u16>) · [Official program](<https://icml.cc/virtual/2026/poster/64946>) · [PDF](<https://openreview.net/pdf?id=IPp3LD6u16>)
+[Primary source](<https://openreview.net/forum?id=IPp3LD6u16>) · [Venue page](<https://icml.cc/virtual/2026/poster/64946>) · [PDF](<https://openreview.net/pdf?id=IPp3LD6u16>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -4654,7 +5224,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haoxuan Wang; Xinchen Du; Sen Na
 
-[OpenReview](<https://openreview.net/forum?id=h2uxKKK4WZ>) · [Official program](<https://icml.cc/virtual/2026/poster/62394>) · [PDF](<https://openreview.net/pdf?id=h2uxKKK4WZ>)
+[Primary source](<https://openreview.net/forum?id=h2uxKKK4WZ>) · [Venue page](<https://icml.cc/virtual/2026/poster/62394>) · [PDF](<https://openreview.net/pdf?id=h2uxKKK4WZ>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -4670,7 +5242,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Weidong Zhou; Fengze Liu; LIU; Ping Guo; Zijun Wang; Bingni Zhang; Yifan Zhang; Yifeng Yu; Xiaohuan ZHOU; Taifeng Wang
 
-[OpenReview](<https://openreview.net/forum?id=fQaVptMRCY>) · [Official program](<https://icml.cc/virtual/2026/poster/62574>) · [PDF](<https://openreview.net/pdf?id=fQaVptMRCY>)
+[Primary source](<https://openreview.net/forum?id=fQaVptMRCY>) · [Venue page](<https://icml.cc/virtual/2026/poster/62574>) · [PDF](<https://openreview.net/pdf?id=fQaVptMRCY>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4688,7 +5262,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jiayu Fang; Xuande Liu; Sangsha Fang; Zhen Tian; Hongwei Ma; Zhiqi Shao; Junbin Gao
 
-[OpenReview](<https://openreview.net/forum?id=2NbXZDl4nB>) · [Official program](<https://icml.cc/virtual/2026/poster/66595>) · [PDF](<https://openreview.net/pdf?id=2NbXZDl4nB>)
+[Primary source](<https://openreview.net/forum?id=2NbXZDl4nB>) · [Venue page](<https://icml.cc/virtual/2026/poster/66595>) · [PDF](<https://openreview.net/pdf?id=2NbXZDl4nB>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -4702,7 +5278,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yizhou Liu; Sara Kangaslahti; Ziming Liu; Jeff Gore
 
-[OpenReview](<https://openreview.net/forum?id=CEpCpxJqAt>) · [Official program](<https://icml.cc/virtual/2026/poster/65580>) · [PDF](<https://openreview.net/pdf?id=CEpCpxJqAt>)
+[Primary source](<https://openreview.net/forum?id=CEpCpxJqAt>) · [Venue page](<https://icml.cc/virtual/2026/poster/65580>) · [PDF](<https://openreview.net/pdf?id=CEpCpxJqAt>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -4720,7 +5298,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yiting Chen; Zongwei Huo; Junchi Yan
 
-[OpenReview](<https://openreview.net/forum?id=z0m3EhzhOH>) · [Official program](<https://icml.cc/virtual/2026/poster/60558>) · [PDF](<https://openreview.net/pdf?id=z0m3EhzhOH>)
+[Primary source](<https://openreview.net/forum?id=z0m3EhzhOH>) · [Venue page](<https://icml.cc/virtual/2026/poster/60558>) · [PDF](<https://openreview.net/pdf?id=z0m3EhzhOH>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -4738,7 +5318,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Sang Truong; Yuheng Tu; Rylan Schaeffer; Sanmi Koyejo
 
-[OpenReview](<https://openreview.net/forum?id=QFgM1iNKmg>) · [Official program](<https://icml.cc/virtual/2026/poster/64176>) · [PDF](<https://openreview.net/pdf?id=QFgM1iNKmg>)
+[Primary source](<https://openreview.net/forum?id=QFgM1iNKmg>) · [Venue page](<https://icml.cc/virtual/2026/poster/64176>) · [PDF](<https://openreview.net/pdf?id=QFgM1iNKmg>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4756,7 +5338,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Vaisakh Shaj; Cameron Barker; Aidan Scannell; Andras Szecsenyi; Elliot Crowley; Amos Storkey
 
-[OpenReview](<https://openreview.net/forum?id=9h7sSJe4jN>) · [Official program](<https://icml.cc/virtual/2026/poster/65832>) · [PDF](<https://openreview.net/pdf?id=9h7sSJe4jN>)
+[Primary source](<https://openreview.net/forum?id=9h7sSJe4jN>) · [Venue page](<https://icml.cc/virtual/2026/poster/65832>) · [PDF](<https://openreview.net/pdf?id=9h7sSJe4jN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -4772,7 +5356,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Wuyang Zhou; Yuxuan Gu; Giorgos Iacovides; Danilo Mandic
 
-[OpenReview](<https://openreview.net/forum?id=TI7Q2o6EIa>) · [Official program](<https://icml.cc/virtual/2026/poster/63836>) · [PDF](<https://openreview.net/pdf?id=TI7Q2o6EIa>)
+[Primary source](<https://openreview.net/forum?id=TI7Q2o6EIa>) · [Venue page](<https://icml.cc/virtual/2026/poster/63836>) · [PDF](<https://openreview.net/pdf?id=TI7Q2o6EIa>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; M4 — Related constrained and geometry-aware optimization.
 
@@ -4790,7 +5376,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Samuel Fernandez; Eduardo Pavez; Antonio Ortega
 
-[OpenReview](<https://openreview.net/forum?id=kD8iJmyn5l>) · [Official program](<https://icml.cc/virtual/2026/poster/62060>) · [PDF](<https://openreview.net/pdf?id=kD8iJmyn5l>)
+[Primary source](<https://openreview.net/forum?id=kD8iJmyn5l>) · [Venue page](<https://icml.cc/virtual/2026/poster/62060>) · [PDF](<https://openreview.net/pdf?id=kD8iJmyn5l>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -4806,7 +5394,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kairun Zhang; Haoyu Li; Yanjun Zhao; Yifan Sun; Huan Zhang
 
-[OpenReview](<https://openreview.net/forum?id=bRS5iwbqlC>) · [Official program](<https://icml.cc/virtual/2026/poster/62961>) · [PDF](<https://openreview.net/pdf?id=bRS5iwbqlC>)
+[Primary source](<https://openreview.net/forum?id=bRS5iwbqlC>) · [Venue page](<https://icml.cc/virtual/2026/poster/62961>) · [PDF](<https://openreview.net/pdf?id=bRS5iwbqlC>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -4818,7 +5408,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhe Li; Bicheng Ying; Zidong Liu; Haibo Yang
 
-[OpenReview](<https://openreview.net/forum?id=UTIylOfVUb>) · [Official program](<https://icml.cc/virtual/2026/poster/63704>) · [PDF](<https://openreview.net/pdf?id=UTIylOfVUb>)
+[Primary source](<https://openreview.net/forum?id=UTIylOfVUb>) · [Venue page](<https://icml.cc/virtual/2026/poster/63704>) · [PDF](<https://openreview.net/pdf?id=UTIylOfVUb>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -4838,7 +5430,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhi-Quan Feng; Ying-Jia Lin; Hung-Yu Kao
 
-[OpenReview](<https://openreview.net/forum?id=P76Q8Pi1E9>) · [Official program](<https://icml.cc/virtual/2026/poster/64288>) · [PDF](<https://openreview.net/pdf?id=P76Q8Pi1E9>)
+[Primary source](<https://openreview.net/forum?id=P76Q8Pi1E9>) · [Venue page](<https://icml.cc/virtual/2026/poster/64288>) · [PDF](<https://openreview.net/pdf?id=P76Q8Pi1E9>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -4852,7 +5446,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Amit Attia; Tomer Koren
 
-[OpenReview](<https://openreview.net/forum?id=usZLsN3Dnv>) · [Official program](<https://icml.cc/virtual/2026/poster/60981>) · [PDF](<https://openreview.net/pdf?id=usZLsN3Dnv>)
+[Primary source](<https://openreview.net/forum?id=usZLsN3Dnv>) · [Venue page](<https://icml.cc/virtual/2026/poster/60981>) · [PDF](<https://openreview.net/pdf?id=usZLsN3Dnv>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -4872,7 +5468,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Nan Chen; Soledad Villar; Soufiane Hayou
 
-[OpenReview](<https://openreview.net/forum?id=vCAIwEJZQ6>) · [Official program](<https://icml.cc/virtual/2026/poster/60938>) · [PDF](<https://openreview.net/pdf?id=vCAIwEJZQ6>)
+[Primary source](<https://openreview.net/forum?id=vCAIwEJZQ6>) · [Venue page](<https://icml.cc/virtual/2026/poster/60938>) · [PDF](<https://openreview.net/pdf?id=vCAIwEJZQ6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -4892,7 +5490,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yeqiu Chen; Ziyan Liu; Hong Wang; Lei Liu
 
-[OpenReview](<https://openreview.net/forum?id=ZaOZDGJDAM>) · [Official program](<https://icml.cc/virtual/2026/poster/63150>) · [PDF](<https://openreview.net/pdf?id=ZaOZDGJDAM>)
+[Primary source](<https://openreview.net/forum?id=ZaOZDGJDAM>) · [Venue page](<https://icml.cc/virtual/2026/poster/63150>) · [PDF](<https://openreview.net/pdf?id=ZaOZDGJDAM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -4908,7 +5508,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Feihu Huang; Yuning Luo; Songcan Chen
 
-[OpenReview](<https://openreview.net/forum?id=mf8N8PTUAa>) · [Official program](<https://icml.cc/virtual/2026/poster/61819>) · [PDF](<https://openreview.net/pdf?id=mf8N8PTUAa>)
+[Primary source](<https://openreview.net/forum?id=mf8N8PTUAa>) · [Venue page](<https://icml.cc/virtual/2026/poster/61819>) · [PDF](<https://openreview.net/pdf?id=mf8N8PTUAa>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -4920,7 +5522,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Maria-Eleni Sfyraki; Jun-Kun Wang
 
-[OpenReview](<https://openreview.net/forum?id=gvroXZ0HS8>) · [Official program](<https://icml.cc/virtual/2026/poster/62403>) · [PDF](<https://openreview.net/pdf?id=gvroXZ0HS8>)
+[Primary source](<https://openreview.net/forum?id=gvroXZ0HS8>) · [Venue page](<https://icml.cc/virtual/2026/poster/62403>) · [PDF](<https://openreview.net/pdf?id=gvroXZ0HS8>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -4932,7 +5536,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xu Ouyang; Deyi Liu; Yuhang Cai; Jing Liu; Yuan Yang; Chen Zheng; Thomas Hartvigsen; Yiyuan Ma
 
-[OpenReview](<https://openreview.net/forum?id=nuwO8FBadZ>) · [Official program](<https://icml.cc/virtual/2026/poster/61671>) · [PDF](<https://openreview.net/pdf?id=nuwO8FBadZ>)
+[Primary source](<https://openreview.net/forum?id=nuwO8FBadZ>) · [Venue page](<https://icml.cc/virtual/2026/poster/61671>) · [PDF](<https://openreview.net/pdf?id=nuwO8FBadZ>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4950,7 +5556,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Genki Osada
 
-[OpenReview](<https://openreview.net/forum?id=rJ2gMA21ZW>) · [Official program](<https://icml.cc/virtual/2026/poster/61325>) · [PDF](<https://openreview.net/pdf?id=rJ2gMA21ZW>)
+[Primary source](<https://openreview.net/forum?id=rJ2gMA21ZW>) · [Venue page](<https://icml.cc/virtual/2026/poster/61325>) · [PDF](<https://openreview.net/pdf?id=rJ2gMA21ZW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -4968,7 +5576,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Qingyue Zhang; Chang Chu; Tianren Peng; Qi Li; Xiangyang Luo; Zhihao Jiang; Shao-Lun Huang
 
-[OpenReview](<https://openreview.net/forum?id=LvKSVUbXc9>) · [Official program](<https://icml.cc/virtual/2026/poster/64590>) · [PDF](<https://openreview.net/pdf?id=LvKSVUbXc9>)
+[Primary source](<https://openreview.net/forum?id=LvKSVUbXc9>) · [Venue page](<https://icml.cc/virtual/2026/poster/64590>) · [PDF](<https://openreview.net/pdf?id=LvKSVUbXc9>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -4982,7 +5592,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Andrej Jovanović; Alex Iacob; Mher Safaryan; Ionut-Vlad Modoranu; Lorenzo Sani; Shen; Xinchi Qiu; Dan Alistarh; Nicholas Lane
 
-[OpenReview](<https://openreview.net/forum?id=TTAxB2IL2y>) · [Official program](<https://icml.cc/virtual/2026/poster/63818>) · [PDF](<https://openreview.net/pdf?id=TTAxB2IL2y>)
+[Primary source](<https://openreview.net/forum?id=TTAxB2IL2y>) · [Venue page](<https://icml.cc/virtual/2026/poster/63818>) · [PDF](<https://openreview.net/pdf?id=TTAxB2IL2y>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -4994,7 +5606,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jinjie Fang; Chengxun Jin; Tianxing Man; Yi Chang; Bin Gu
 
-[OpenReview](<https://openreview.net/forum?id=QNScXX6osL>) · [Official program](<https://icml.cc/virtual/2026/poster/64159>) · [PDF](<https://openreview.net/pdf?id=QNScXX6osL>)
+[Primary source](<https://openreview.net/forum?id=QNScXX6osL>) · [Venue page](<https://icml.cc/virtual/2026/poster/64159>) · [PDF](<https://openreview.net/pdf?id=QNScXX6osL>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -5006,7 +5620,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xiaoyuan Liang; Sebastian Loeschcke; Mads Toftrup; Anima Anandkumar
 
-[OpenReview](<https://openreview.net/forum?id=XgVv56Y829>) · [Official program](<https://icml.cc/virtual/2026/poster/63374>) · [PDF](<https://openreview.net/pdf?id=XgVv56Y829>)
+[Primary source](<https://openreview.net/forum?id=XgVv56Y829>) · [Venue page](<https://icml.cc/virtual/2026/poster/63374>) · [PDF](<https://openreview.net/pdf?id=XgVv56Y829>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -5018,7 +5634,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zexi Jia; Pengcheng Luo; Zhengyao Fang; Jinchao Zhang; Jie Zhou
 
-[OpenReview](<https://openreview.net/forum?id=eSxGdQ0zwG>) · [Official program](<https://icml.cc/virtual/2026/poster/62677>) · [PDF](<https://openreview.net/pdf?id=eSxGdQ0zwG>)
+[Primary source](<https://openreview.net/forum?id=eSxGdQ0zwG>) · [Venue page](<https://icml.cc/virtual/2026/poster/62677>) · [PDF](<https://openreview.net/pdf?id=eSxGdQ0zwG>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5032,7 +5650,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yulong Huang; Xiang Liu; Hongxiang Huang; Xiaopeng LIN; Zunchang LIU; Xiaowen Chu; Zeke Xie; Bojun Cheng
 
-[OpenReview](<https://openreview.net/forum?id=Sh3rKEAxlW>) · [Official program](<https://icml.cc/virtual/2026/poster/63901>) · [PDF](<https://openreview.net/pdf?id=Sh3rKEAxlW>)
+[Primary source](<https://openreview.net/forum?id=Sh3rKEAxlW>) · [Venue page](<https://icml.cc/virtual/2026/poster/63901>) · [PDF](<https://openreview.net/pdf?id=Sh3rKEAxlW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5050,7 +5670,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Jianhui Chen; Yuzhang Luo; Liangming Pan
 
-[OpenReview](<https://openreview.net/forum?id=PQaxfoEcRc>) · [Official program](<https://icml.cc/virtual/2026/poster/64259>) · [PDF](<https://openreview.net/pdf?id=PQaxfoEcRc>)
+[Primary source](<https://openreview.net/forum?id=PQaxfoEcRc>) · [Venue page](<https://icml.cc/virtual/2026/poster/64259>) · [PDF](<https://openreview.net/pdf?id=PQaxfoEcRc>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -5064,7 +5686,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kunjal Panchal; Sunav Choudhary; Yuriy Brun; Hui Guan
 
-[OpenReview](<https://openreview.net/forum?id=QS0ZROPx8u>) · [Official program](<https://icml.cc/virtual/2026/poster/64148>) · [PDF](<https://openreview.net/pdf?id=QS0ZROPx8u>)
+[Primary source](<https://openreview.net/forum?id=QS0ZROPx8u>) · [Venue page](<https://icml.cc/virtual/2026/poster/64148>) · [PDF](<https://openreview.net/pdf?id=QS0ZROPx8u>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -5076,7 +5700,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Athanasios Glentis; Jiaxiang Li; Andi Han; Mingyi Hong
 
-[OpenReview](<https://openreview.net/forum?id=prvGhNz39e>) · [Official program](<https://icml.cc/virtual/2026/poster/61469>) · [PDF](<https://openreview.net/pdf?id=prvGhNz39e>)
+[Primary source](<https://openreview.net/forum?id=prvGhNz39e>) · [Venue page](<https://icml.cc/virtual/2026/poster/61469>) · [PDF](<https://openreview.net/pdf?id=prvGhNz39e>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -5090,7 +5716,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Qiao Xiao; Boqian Wu; Patrik Okanovic; Tomasz Sternal; Maurice Keulen; Elena Mocanu; Mykola Pechenizkiy; Decebal Constantin Mocanu; Torsten Hoefler
 
-[OpenReview](<https://openreview.net/forum?id=ivVPgBZewP>) · [Official program](<https://icml.cc/virtual/2026/poster/62187>) · [PDF](<https://openreview.net/pdf?id=ivVPgBZewP>)
+[Primary source](<https://openreview.net/forum?id=ivVPgBZewP>) · [Venue page](<https://icml.cc/virtual/2026/poster/62187>) · [PDF](<https://openreview.net/pdf?id=ivVPgBZewP>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -5112,7 +5740,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zhenda Xie; Yixuan Wei; Huanqi Cao; Chenggang Zhao; Chengqi Deng; Jiashi Li; Damai Dai; Huazuo Gao; Mingyu Xu; Kuai Yu; Liang Zhao; Shangyan Zhou; Zhean Xu; Zhengyan Zhang; Wangding Zeng; Shengding Hu; Yuqing Wang; Jingyang Yuan; Lean Wang; Wenfeng Liang
 
-[OpenReview](<https://openreview.net/forum?id=mDhyxu8WRb>) · [Official program](<https://icml.cc/virtual/2026/poster/61870>) · [PDF](<https://openreview.net/pdf?id=mDhyxu8WRb>)
+[Primary source](<https://openreview.net/forum?id=mDhyxu8WRb>) · [Venue page](<https://icml.cc/virtual/2026/poster/61870>) · [PDF](<https://openreview.net/pdf?id=mDhyxu8WRb>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; M4 — Related constrained and geometry-aware optimization.
 
@@ -5128,7 +5758,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yanbo Li; Richard Cornelius Suwandi; Feng Yin; Yiyong SUN; Wei Huang; Wenqiang Pu
 
-[OpenReview](<https://openreview.net/forum?id=UmQ07sj13y>) · [Official program](<https://icml.cc/virtual/2026/poster/63671>) · [PDF](<https://openreview.net/pdf?id=UmQ07sj13y>)
+[Primary source](<https://openreview.net/forum?id=UmQ07sj13y>) · [Venue page](<https://icml.cc/virtual/2026/poster/63671>) · [PDF](<https://openreview.net/pdf?id=UmQ07sj13y>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5144,7 +5776,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hyunji Jung; Sungbin Shin; Namhoon Lee
 
-[OpenReview](<https://openreview.net/forum?id=31iky6wFu5>) · [Official program](<https://icml.cc/virtual/2026/poster/66517>) · [PDF](<https://openreview.net/pdf?id=31iky6wFu5>)
+[Primary source](<https://openreview.net/forum?id=31iky6wFu5>) · [Venue page](<https://icml.cc/virtual/2026/poster/66517>) · [PDF](<https://openreview.net/pdf?id=31iky6wFu5>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -5156,7 +5790,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hengchao Chen; Yuanyao Tan; Chao Huang; Hongtu Zhu; Qiang Sun
 
-[OpenReview](<https://openreview.net/forum?id=7bTdGPe3RG>) · [Official program](<https://icml.cc/virtual/2026/poster/66044>) · [PDF](<https://openreview.net/pdf?id=7bTdGPe3RG>)
+[Primary source](<https://openreview.net/forum?id=7bTdGPe3RG>) · [Venue page](<https://icml.cc/virtual/2026/poster/66044>) · [PDF](<https://openreview.net/pdf?id=7bTdGPe3RG>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5170,7 +5806,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Albert Tseng; Zhaofeng Sun; Chris De Sa
 
-[OpenReview](<https://openreview.net/forum?id=PKFilPWjMI>) · [Official program](<https://icml.cc/virtual/2026/poster/64269>) · [PDF](<https://openreview.net/pdf?id=PKFilPWjMI>)
+[Primary source](<https://openreview.net/forum?id=PKFilPWjMI>) · [Venue page](<https://icml.cc/virtual/2026/poster/64269>) · [PDF](<https://openreview.net/pdf?id=PKFilPWjMI>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -5188,7 +5826,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Arseniy Andreyev; Advikar Ananthkumar; Marc Walden; Tomaso A Poggio; Pierfrancesco Beneventano
 
-[OpenReview](<https://openreview.net/forum?id=mL4i6z7Miy>) · [Official program](<https://icml.cc/virtual/2026/poster/61855>) · [PDF](<https://openreview.net/pdf?id=mL4i6z7Miy>)
+[Primary source](<https://openreview.net/forum?id=mL4i6z7Miy>) · [Venue page](<https://icml.cc/virtual/2026/poster/61855>) · [PDF](<https://openreview.net/pdf?id=mL4i6z7Miy>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5208,7 +5848,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Benjamin Thérien; Xiaolong Huang; Aaron Defazio; Irina Rish; Eugene Belilovsky
 
-[OpenReview](<https://openreview.net/forum?id=OBXBXSgwcD>) · [Official program](<https://icml.cc/virtual/2026/poster/64378>) · [PDF](<https://openreview.net/pdf?id=OBXBXSgwcD>)
+[Primary source](<https://openreview.net/forum?id=OBXBXSgwcD>) · [Venue page](<https://icml.cc/virtual/2026/poster/64378>) · [PDF](<https://openreview.net/pdf?id=OBXBXSgwcD>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -5220,7 +5862,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kaifei Wang; Binghui Li; Han Zhong; Pinyan Lu; Liwei Wang
 
-[OpenReview](<https://openreview.net/forum?id=tn00ERVdgL>) · [Official program](<https://icml.cc/virtual/2026/poster/61087>) · [PDF](<https://openreview.net/pdf?id=tn00ERVdgL>)
+[Primary source](<https://openreview.net/forum?id=tn00ERVdgL>) · [Venue page](<https://icml.cc/virtual/2026/poster/61087>) · [PDF](<https://openreview.net/pdf?id=tn00ERVdgL>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5240,7 +5884,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Thai Khanh Nguyen; Uyen N.B. Vo; Thieu Vo; Tan Nguyen; Cuong Pham
 
-[OpenReview](<https://openreview.net/forum?id=GmP3VcfHi0>) · [Official program](<https://icml.cc/virtual/2026/oral/71058>) · [PDF](<https://openreview.net/pdf?id=GmP3VcfHi0>)
+[Primary source](<https://openreview.net/forum?id=GmP3VcfHi0>) · [Venue page](<https://icml.cc/virtual/2026/oral/71058>) · [PDF](<https://openreview.net/pdf?id=GmP3VcfHi0>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -5252,7 +5898,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Deyi Kong; Zaiwei Chen; Shuzhong Zhang; Shancong Mou
 
-[OpenReview](<https://openreview.net/forum?id=4K54YHTG2i>) · [Official program](<https://icml.cc/virtual/2026/poster/66368>) · [PDF](<https://openreview.net/pdf?id=4K54YHTG2i>)
+[Primary source](<https://openreview.net/forum?id=4K54YHTG2i>) · [Venue page](<https://icml.cc/virtual/2026/poster/66368>) · [PDF](<https://openreview.net/pdf?id=4K54YHTG2i>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -5272,7 +5920,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · John Hood; Aaron Schein
 
-[OpenReview](<https://openreview.net/forum?id=SdKzHplaIq>) · [Official program](<https://icml.cc/virtual/2026/poster/63907>) · [PDF](<https://openreview.net/pdf?id=SdKzHplaIq>)
+[Primary source](<https://openreview.net/forum?id=SdKzHplaIq>) · [Venue page](<https://icml.cc/virtual/2026/poster/63907>) · [PDF](<https://openreview.net/pdf?id=SdKzHplaIq>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -5288,7 +5938,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Rustem Islamov; Michael Crawshaw; Jeremy Cohen; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=piWlEHb4Db>) · [Official program](<https://icml.cc/virtual/2026/oral/71156>) · [PDF](<https://openreview.net/pdf?id=piWlEHb4Db>)
+[Primary source](<https://openreview.net/forum?id=piWlEHb4Db>) · [Venue page](<https://icml.cc/virtual/2026/oral/71156>) · [PDF](<https://openreview.net/pdf?id=piWlEHb4Db>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -5308,7 +5960,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zichong Li; Liming Liu; Chen Liang; Weizhu Chen; Tuo Zhao
 
-[OpenReview](<https://openreview.net/forum?id=m1IRWFAMsa>) · [Official program](<https://icml.cc/virtual/2026/poster/61880>) · [PDF](<https://openreview.net/pdf?id=m1IRWFAMsa>)
+[Primary source](<https://openreview.net/forum?id=m1IRWFAMsa>) · [Venue page](<https://icml.cc/virtual/2026/poster/61880>) · [PDF](<https://openreview.net/pdf?id=m1IRWFAMsa>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -5320,7 +5974,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zixiao Wang; Yifei Shen; Huishuai Zhang
 
-[OpenReview](<https://openreview.net/forum?id=fG4nXq9Ytm>) · [Official program](<https://icml.cc/virtual/2026/poster/62586>) · [PDF](<https://openreview.net/pdf?id=fG4nXq9Ytm>)
+[Primary source](<https://openreview.net/forum?id=fG4nXq9Ytm>) · [Venue page](<https://icml.cc/virtual/2026/poster/62586>) · [PDF](<https://openreview.net/pdf?id=fG4nXq9Ytm>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -5332,7 +5988,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jerry Yao-Chieh Hu; Xiwen Zhang; Ali ElSheikh; Weimin Wu; Han Liu
 
-[OpenReview](<https://openreview.net/forum?id=DKathyl3XN>) · [Official program](<https://icml.cc/virtual/2026/poster/65468>) · [PDF](<https://openreview.net/pdf?id=DKathyl3XN>)
+[Primary source](<https://openreview.net/forum?id=DKathyl3XN>) · [Venue page](<https://icml.cc/virtual/2026/poster/65468>) · [PDF](<https://openreview.net/pdf?id=DKathyl3XN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5350,7 +6008,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Siqiao Mu; Diego Klabjan
 
-[OpenReview](<https://openreview.net/forum?id=9GRlBVAXq8>) · [Official program](<https://icml.cc/virtual/2026/poster/65870>) · [PDF](<https://openreview.net/pdf?id=9GRlBVAXq8>)
+[Primary source](<https://openreview.net/forum?id=9GRlBVAXq8>) · [Venue page](<https://icml.cc/virtual/2026/poster/65870>) · [PDF](<https://openreview.net/pdf?id=9GRlBVAXq8>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -5362,7 +6022,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Enea Monzio Compagnoni; Rustem Islamov; Frank Proske; Aurelien Lucchi; Antonio Orvieto; Eduard Gorbunov
 
-[OpenReview](<https://openreview.net/forum?id=Pmsc4yytlf>) · [Official program](<https://icml.cc/virtual/2026/poster/64227>) · [PDF](<https://openreview.net/pdf?id=Pmsc4yytlf>)
+[Primary source](<https://openreview.net/forum?id=Pmsc4yytlf>) · [Venue page](<https://icml.cc/virtual/2026/poster/64227>) · [PDF](<https://openreview.net/pdf?id=Pmsc4yytlf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -5380,7 +6042,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Maissam Barkeshli; Alberto Alfarano; Andrey Gromov
 
-[OpenReview](<https://openreview.net/forum?id=mu17VSX8q9>) · [Official program](<https://icml.cc/virtual/2026/poster/61791>) · [PDF](<https://openreview.net/pdf?id=mu17VSX8q9>)
+[Primary source](<https://openreview.net/forum?id=mu17VSX8q9>) · [Venue page](<https://icml.cc/virtual/2026/poster/61791>) · [PDF](<https://openreview.net/pdf?id=mu17VSX8q9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -5398,7 +6062,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Di He; Songjun Tu; Keyu Wang; Lu Yin; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=fs9KaJyhRO>) · [Official program](<https://icml.cc/virtual/2026/poster/62519>) · [PDF](<https://openreview.net/pdf?id=fs9KaJyhRO>)
+[Primary source](<https://openreview.net/forum?id=fs9KaJyhRO>) · [Venue page](<https://icml.cc/virtual/2026/poster/62519>) · [PDF](<https://openreview.net/pdf?id=fs9KaJyhRO>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -5420,7 +6086,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Philip Zmushko; Egor Petrov; Nursultan Abdullaev; Khrushchev Mikhail; Samuel Horváth
 
-[OpenReview](<https://openreview.net/forum?id=dpWXlBRLKm>) · [Official program](<https://icml.cc/virtual/2026/poster/62737>) · [PDF](<https://openreview.net/pdf?id=dpWXlBRLKm>)
+[Primary source](<https://openreview.net/forum?id=dpWXlBRLKm>) · [Venue page](<https://icml.cc/virtual/2026/poster/62737>) · [PDF](<https://openreview.net/pdf?id=dpWXlBRLKm>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -5432,7 +6100,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Sihan Yang; Kexuan Shi; Weiyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=pCaeMsqpCa>) · [Official program](<https://icml.cc/virtual/2026/poster/61531>) · [PDF](<https://openreview.net/pdf?id=pCaeMsqpCa>)
+[Primary source](<https://openreview.net/forum?id=pCaeMsqpCa>) · [Venue page](<https://icml.cc/virtual/2026/poster/61531>) · [PDF](<https://openreview.net/pdf?id=pCaeMsqpCa>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5446,7 +6116,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Taesun Yeom; Taehyeok Ha; Jaeho Lee
 
-[OpenReview](<https://openreview.net/forum?id=Ak8sl1w550>) · [Official program](<https://icml.cc/virtual/2026/poster/65728>) · [PDF](<https://openreview.net/pdf?id=Ak8sl1w550>)
+[Primary source](<https://openreview.net/forum?id=Ak8sl1w550>) · [Venue page](<https://icml.cc/virtual/2026/poster/65728>) · [PDF](<https://openreview.net/pdf?id=Ak8sl1w550>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -5464,7 +6136,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Minhao Zou; Tao Ren; Jinyang Jiang; Rui Tao; Zehao Li; Jiale Fu; Hui Shao; Xianhua Liu; Yijie Peng
 
-[OpenReview](<https://openreview.net/forum?id=RIase6VpF6>) · [Official program](<https://icml.cc/virtual/2026/poster/64062>) · [PDF](<https://openreview.net/pdf?id=RIase6VpF6>)
+[Primary source](<https://openreview.net/forum?id=RIase6VpF6>) · [Venue page](<https://icml.cc/virtual/2026/poster/64062>) · [PDF](<https://openreview.net/pdf?id=RIase6VpF6>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -5478,7 +6152,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Marcin Możejko; Adam Bielecki; Jurand Prądzyński; Hyun-Su Lee; Antoni Janowski; Michal Kmicikiewicz; Paulina Szymczak; Karol Jurasz; Marcin Traskowski; Michał Kucharczyk; Marcelo Torres; Cesar de la Fuente-Nunez; Ewa Szczurek
 
-[OpenReview](<https://openreview.net/forum?id=HENUU9VR8F>) · [Official program](<https://icml.cc/virtual/2026/poster/65054>) · [PDF](<https://openreview.net/pdf?id=HENUU9VR8F>)
+[Primary source](<https://openreview.net/forum?id=HENUU9VR8F>) · [Venue page](<https://icml.cc/virtual/2026/poster/65054>) · [PDF](<https://openreview.net/pdf?id=HENUU9VR8F>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5492,7 +6168,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Vincent Roulet; Atish Agarwala
 
-[OpenReview](<https://openreview.net/forum?id=YB6U1yWcGy>) · [Official program](<https://icml.cc/virtual/2026/poster/63313>) · [PDF](<https://openreview.net/pdf?id=YB6U1yWcGy>)
+[Primary source](<https://openreview.net/forum?id=YB6U1yWcGy>) · [Venue page](<https://icml.cc/virtual/2026/poster/63313>) · [PDF](<https://openreview.net/pdf?id=YB6U1yWcGy>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5512,7 +6190,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuwen Huang; Xiang Pan
 
-[OpenReview](<https://openreview.net/forum?id=CYg2w0YKM4>) · [Official program](<https://icml.cc/virtual/2026/poster/65541>) · [PDF](<https://openreview.net/pdf?id=CYg2w0YKM4>)
+[Primary source](<https://openreview.net/forum?id=CYg2w0YKM4>) · [Venue page](<https://icml.cc/virtual/2026/poster/65541>) · [PDF](<https://openreview.net/pdf?id=CYg2w0YKM4>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5528,7 +6208,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zeju Qiu; Lixin LIU; Adrian Weller; Han Shi; Weiyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=et8jpWLUuD>) · [Official program](<https://icml.cc/virtual/2026/oral/71112>) · [PDF](<https://openreview.net/pdf?id=et8jpWLUuD>)
+[Primary source](<https://openreview.net/forum?id=et8jpWLUuD>) · [Venue page](<https://icml.cc/virtual/2026/oral/71112>) · [PDF](<https://openreview.net/pdf?id=et8jpWLUuD>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -5544,7 +6226,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Neehal Tumma; Noel Loo; Daniela Rus
 
-[OpenReview](<https://openreview.net/forum?id=UC6YiTOeKb>) · [Official program](<https://icml.cc/virtual/2026/poster/63733>) · [PDF](<https://openreview.net/pdf?id=UC6YiTOeKb>)
+[Primary source](<https://openreview.net/forum?id=UC6YiTOeKb>) · [Venue page](<https://icml.cc/virtual/2026/poster/63733>) · [PDF](<https://openreview.net/pdf?id=UC6YiTOeKb>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5560,7 +6244,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xiyuan Yang; Wenxuan Bao; Katherine Tieu; Jingrui He
 
-[OpenReview](<https://openreview.net/forum?id=CKzW9g2x3g>) · [Official program](<https://icml.cc/virtual/2026/poster/65570>) · [PDF](<https://openreview.net/pdf?id=CKzW9g2x3g>)
+[Primary source](<https://openreview.net/forum?id=CKzW9g2x3g>) · [Venue page](<https://icml.cc/virtual/2026/poster/65570>) · [PDF](<https://openreview.net/pdf?id=CKzW9g2x3g>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5580,7 +6266,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Boya Xiong; Shuo Wang; Weifeng Ge; Guanhua CHEN; Yun Chen
 
-[OpenReview](<https://openreview.net/forum?id=ErqvESaJpk>) · [Official program](<https://icml.cc/virtual/2026/poster/65313>) · [PDF](<https://openreview.net/pdf?id=ErqvESaJpk>)
+[Primary source](<https://openreview.net/forum?id=ErqvESaJpk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65313>) · [PDF](<https://openreview.net/pdf?id=ErqvESaJpk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -5596,7 +6284,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Shenghao Yang; Zhichao Wang; Oleg Balabanov; N. Benjamin Erichson; Michael Mahoney
 
-[OpenReview](<https://openreview.net/forum?id=hwhvjhXC0m>) · [Official program](<https://icml.cc/virtual/2026/poster/62288>) · [PDF](<https://openreview.net/pdf?id=hwhvjhXC0m>)
+[Primary source](<https://openreview.net/forum?id=hwhvjhXC0m>) · [Venue page](<https://icml.cc/virtual/2026/poster/62288>) · [PDF](<https://openreview.net/pdf?id=hwhvjhXC0m>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -5616,7 +6306,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Eli Chien; Wei-Ning Chen; Pan Li
 
-[OpenReview](<https://openreview.net/forum?id=YBIGgUet07>) · [Official program](<https://icml.cc/virtual/2026/poster/63312>) · [PDF](<https://openreview.net/pdf?id=YBIGgUet07>)
+[Primary source](<https://openreview.net/forum?id=YBIGgUet07>) · [Venue page](<https://icml.cc/virtual/2026/poster/63312>) · [PDF](<https://openreview.net/pdf?id=YBIGgUet07>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -5628,7 +6320,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xi Yang; Yuanrong Xu; Weigang Zhang; Guangming Lu; David Zhang; Jie Wen
 
-[OpenReview](<https://openreview.net/forum?id=ROFqW86Dca>) · [Official program](<https://icml.cc/virtual/2026/poster/64048>) · [PDF](<https://openreview.net/pdf?id=ROFqW86Dca>)
+[Primary source](<https://openreview.net/forum?id=ROFqW86Dca>) · [Venue page](<https://icml.cc/virtual/2026/poster/64048>) · [PDF](<https://openreview.net/pdf?id=ROFqW86Dca>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5642,7 +6336,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Anh T Nguyen; Saleh Momeni; Ashutosh Chaubey; Changnan Xiao; Bing Liu
 
-[OpenReview](<https://openreview.net/forum?id=l1v359RKe0>) · [Official program](<https://icml.cc/virtual/2026/poster/61979>) · [PDF](<https://openreview.net/pdf?id=l1v359RKe0>)
+[Primary source](<https://openreview.net/forum?id=l1v359RKe0>) · [Venue page](<https://icml.cc/virtual/2026/poster/61979>) · [PDF](<https://openreview.net/pdf?id=l1v359RKe0>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -5660,7 +6356,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Andrei Panferov; Erik Schultheis; Soroush Tabesh; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=CciWEZZDVb>) · [Official program](<https://icml.cc/virtual/2026/poster/65532>) · [PDF](<https://openreview.net/pdf?id=CciWEZZDVb>)
+[Primary source](<https://openreview.net/forum?id=CciWEZZDVb>) · [Venue page](<https://icml.cc/virtual/2026/poster/65532>) · [PDF](<https://openreview.net/pdf?id=CciWEZZDVb>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -5672,7 +6370,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Mingfei Sun
 
-[OpenReview](<https://openreview.net/forum?id=oVtiySvpXz>) · [Official program](<https://icml.cc/virtual/2026/poster/61606>) · [PDF](<https://openreview.net/pdf?id=oVtiySvpXz>)
+[Primary source](<https://openreview.net/forum?id=oVtiySvpXz>) · [Venue page](<https://icml.cc/virtual/2026/poster/61606>) · [PDF](<https://openreview.net/pdf?id=oVtiySvpXz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -5690,7 +6390,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yali Fink; Ido Ben-Yair; Lars Ruthotto; Eran Treister
 
-[OpenReview](<https://openreview.net/forum?id=iiNPaOvuwj>) · [Official program](<https://icml.cc/virtual/2026/poster/62202>) · [PDF](<https://openreview.net/pdf?id=iiNPaOvuwj>)
+[Primary source](<https://openreview.net/forum?id=iiNPaOvuwj>) · [Venue page](<https://icml.cc/virtual/2026/poster/62202>) · [PDF](<https://openreview.net/pdf?id=iiNPaOvuwj>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -5706,7 +6408,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kwangmin Lee; Yeonhee Park; Sewon Park
 
-[OpenReview](<https://openreview.net/forum?id=0QjwbySLcU>) · [Official program](<https://icml.cc/virtual/2026/poster/66778>) · [PDF](<https://openreview.net/pdf?id=0QjwbySLcU>)
+[Primary source](<https://openreview.net/forum?id=0QjwbySLcU>) · [Venue page](<https://icml.cc/virtual/2026/poster/66778>) · [PDF](<https://openreview.net/pdf?id=0QjwbySLcU>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5720,7 +6424,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Sihan Zeng; Sujay Bhatt; Sumitra Ganesh
 
-[OpenReview](<https://openreview.net/forum?id=TgohCXoblV>) · [Official program](<https://icml.cc/virtual/2026/poster/63794>) · [PDF](<https://openreview.net/pdf?id=TgohCXoblV>)
+[Primary source](<https://openreview.net/forum?id=TgohCXoblV>) · [Venue page](<https://icml.cc/virtual/2026/poster/63794>) · [PDF](<https://openreview.net/pdf?id=TgohCXoblV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5738,7 +6444,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Raphael Bernas; Fanny Jourdan; Antonin Poché; Céline Hudelot
 
-[OpenReview](<https://openreview.net/forum?id=BxSubxbbNc>) · [Official program](<https://icml.cc/virtual/2026/poster/65605>) · [PDF](<https://openreview.net/pdf?id=BxSubxbbNc>)
+[Primary source](<https://openreview.net/forum?id=BxSubxbbNc>) · [Venue page](<https://icml.cc/virtual/2026/poster/65605>) · [PDF](<https://openreview.net/pdf?id=BxSubxbbNc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -5756,7 +6464,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Junbin Qiu; Zhaowei Hong; Renzhe Xu; Yao Shu
 
-[OpenReview](<https://openreview.net/forum?id=nEQYu4ndGA>) · [Official program](<https://icml.cc/virtual/2026/poster/61753>) · [PDF](<https://openreview.net/pdf?id=nEQYu4ndGA>)
+[Primary source](<https://openreview.net/forum?id=nEQYu4ndGA>) · [Venue page](<https://icml.cc/virtual/2026/poster/61753>) · [PDF](<https://openreview.net/pdf?id=nEQYu4ndGA>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -5772,7 +6482,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zander Blasingame; Chen Liu
 
-[OpenReview](<https://openreview.net/forum?id=7pQIzVNctu>) · [Official program](<https://icml.cc/virtual/2026/poster/66025>) · [PDF](<https://openreview.net/pdf?id=7pQIzVNctu>)
+[Primary source](<https://openreview.net/forum?id=7pQIzVNctu>) · [Venue page](<https://icml.cc/virtual/2026/poster/66025>) · [PDF](<https://openreview.net/pdf?id=7pQIzVNctu>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -5788,7 +6500,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xinpeng Zhao; Jiang Jie; Fengyuan Zhang; Lixin Zhan; Dong Wang; Qinyuan Bu; Jiahangtu; Guangzhen Yao
 
-[OpenReview](<https://openreview.net/forum?id=bjtuHOb3vN>) · [Official program](<https://icml.cc/virtual/2026/poster/62937>) · [PDF](<https://openreview.net/pdf?id=bjtuHOb3vN>)
+[Primary source](<https://openreview.net/forum?id=bjtuHOb3vN>) · [Venue page](<https://icml.cc/virtual/2026/poster/62937>) · [PDF](<https://openreview.net/pdf?id=bjtuHOb3vN>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5802,7 +6516,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuxuan Ren; Abhishek Roy; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=nDfDnsyllY>) · [Official program](<https://icml.cc/virtual/2026/poster/61755>) · [PDF](<https://openreview.net/pdf?id=nDfDnsyllY>)
+[Primary source](<https://openreview.net/forum?id=nDfDnsyllY>) · [Venue page](<https://icml.cc/virtual/2026/poster/61755>) · [PDF](<https://openreview.net/pdf?id=nDfDnsyllY>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -5816,7 +6532,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Jacob Bamberger; Adam Gosztolai; Pierre Vandergheynst; Michael Bronstein; Iolo Jones
 
-[OpenReview](<https://openreview.net/forum?id=KVzXnWPLgX>) · [Official program](<https://icml.cc/virtual/2026/poster/64721>) · [PDF](<https://openreview.net/pdf?id=KVzXnWPLgX>)
+[Primary source](<https://openreview.net/forum?id=KVzXnWPLgX>) · [Venue page](<https://icml.cc/virtual/2026/poster/64721>) · [PDF](<https://openreview.net/pdf?id=KVzXnWPLgX>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5830,7 +6548,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ziheng Chen; Xiaojun Wu; Bernhard Schölkopf; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=8k4om4zj5E>) · [Official program](<https://icml.cc/virtual/2026/poster/65936>) · [PDF](<https://openreview.net/pdf?id=8k4om4zj5E>)
+[Primary source](<https://openreview.net/forum?id=8k4om4zj5E>) · [Venue page](<https://icml.cc/virtual/2026/poster/65936>) · [PDF](<https://openreview.net/pdf?id=8k4om4zj5E>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -5844,7 +6564,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Alessandro Micheli; Yueqi Cao; Anthea Monod; Samir Bhatt
 
-[OpenReview](<https://openreview.net/forum?id=ez4oLq7PR3>) · [Official program](<https://icml.cc/virtual/2026/poster/62618>) · [PDF](<https://openreview.net/pdf?id=ez4oLq7PR3>)
+[Primary source](<https://openreview.net/forum?id=ez4oLq7PR3>) · [Venue page](<https://icml.cc/virtual/2026/poster/62618>) · [PDF](<https://openreview.net/pdf?id=ez4oLq7PR3>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5860,7 +6582,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Minh Phu Vuong; Jinyoung Lee; Young-Ju Lee; Chul-Ho Lee
 
-[OpenReview](<https://openreview.net/forum?id=9crQp1ibCx>) · [Official program](<https://icml.cc/virtual/2026/poster/65835>) · [PDF](<https://openreview.net/pdf?id=9crQp1ibCx>)
+[Primary source](<https://openreview.net/forum?id=9crQp1ibCx>) · [Venue page](<https://icml.cc/virtual/2026/poster/65835>) · [PDF](<https://openreview.net/pdf?id=9crQp1ibCx>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5874,7 +6598,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Thibault Pautrel; François Portier
 
-[OpenReview](<https://openreview.net/forum?id=aLnPza1dyT>) · [Official program](<https://icml.cc/virtual/2026/poster/63071>) · [PDF](<https://openreview.net/pdf?id=aLnPza1dyT>)
+[Primary source](<https://openreview.net/forum?id=aLnPza1dyT>) · [Venue page](<https://icml.cc/virtual/2026/poster/63071>) · [PDF](<https://openreview.net/pdf?id=aLnPza1dyT>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -5888,7 +6614,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jinglong Xiong; Xiaotian Liu; Ruoxin Wang; Zihang Liu; Yefan Zhou; Yujun Yan; Yaoqing Yang
 
-[OpenReview](<https://openreview.net/forum?id=Oj2I1xdKpv>) · [Official program](<https://icml.cc/virtual/2026/poster/64326>) · [PDF](<https://openreview.net/pdf?id=Oj2I1xdKpv>)
+[Primary source](<https://openreview.net/forum?id=Oj2I1xdKpv>) · [Venue page](<https://icml.cc/virtual/2026/poster/64326>) · [PDF](<https://openreview.net/pdf?id=Oj2I1xdKpv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -5906,7 +6634,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Shenyang Deng; Zhuoli Ouyang; Tianyu Pang; Zihang Liu; Ruochen Jin; Shuhua Yu; Yaoqing Yang
 
-[OpenReview](<https://openreview.net/forum?id=BC5aRMdRwp>) · [Official program](<https://icml.cc/virtual/2026/poster/65683>) · [PDF](<https://openreview.net/pdf?id=BC5aRMdRwp>)
+[Primary source](<https://openreview.net/forum?id=BC5aRMdRwp>) · [Venue page](<https://icml.cc/virtual/2026/poster/65683>) · [PDF](<https://openreview.net/pdf?id=BC5aRMdRwp>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -5920,7 +6650,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zile Huang; Ser-Nam Lim
 
-[OpenReview](<https://openreview.net/forum?id=pRsFAKBQKz>) · [Official program](<https://icml.cc/virtual/2026/poster/61508>) · [PDF](<https://openreview.net/pdf?id=pRsFAKBQKz>)
+[Primary source](<https://openreview.net/forum?id=pRsFAKBQKz>) · [Venue page](<https://icml.cc/virtual/2026/poster/61508>) · [PDF](<https://openreview.net/pdf?id=pRsFAKBQKz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -5936,7 +6668,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hongcheng Dong; Wenqiang Pu; Licheng Zhao; Rui Zhou; Feng Yin
 
-[OpenReview](<https://openreview.net/forum?id=FiuJVpxuSX>) · [Official program](<https://icml.cc/virtual/2026/poster/65215>) · [PDF](<https://openreview.net/pdf?id=FiuJVpxuSX>)
+[Primary source](<https://openreview.net/forum?id=FiuJVpxuSX>) · [Venue page](<https://icml.cc/virtual/2026/poster/65215>) · [PDF](<https://openreview.net/pdf?id=FiuJVpxuSX>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -5948,7 +6682,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Viktoriia Chekalina; Daniil Moskovskiy; Tatyana Matveeva; Andrey Kuznetsov; Evgeny Frolov
 
-[OpenReview](<https://openreview.net/forum?id=pNe5fVK1tR>) · [Official program](<https://icml.cc/virtual/2026/poster/61515>) · [PDF](<https://openreview.net/pdf?id=pNe5fVK1tR>)
+[Primary source](<https://openreview.net/forum?id=pNe5fVK1tR>) · [Venue page](<https://icml.cc/virtual/2026/poster/61515>) · [PDF](<https://openreview.net/pdf?id=pNe5fVK1tR>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -5966,7 +6702,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jongchan Park
 
-[OpenReview](<https://openreview.net/forum?id=YI9wSqfz7W>) · [Official program](<https://icml.cc/virtual/2026/poster/63301>) · [PDF](<https://openreview.net/pdf?id=YI9wSqfz7W>)
+[Primary source](<https://openreview.net/forum?id=YI9wSqfz7W>) · [Venue page](<https://icml.cc/virtual/2026/poster/63301>) · [PDF](<https://openreview.net/pdf?id=YI9wSqfz7W>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency.
 
@@ -5984,7 +6722,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhiqi Bu
 
-[OpenReview](<https://openreview.net/forum?id=WP5q6Hn3Cv>) · [Official program](<https://icml.cc/virtual/2026/poster/63529>) · [PDF](<https://openreview.net/pdf?id=WP5q6Hn3Cv>)
+[Primary source](<https://openreview.net/forum?id=WP5q6Hn3Cv>) · [Venue page](<https://icml.cc/virtual/2026/poster/63529>) · [PDF](<https://openreview.net/pdf?id=WP5q6Hn3Cv>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6002,7 +6742,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Mengzhao Chen; Chaoyi Zhang; Jing Liu; Zeng; Zeyue Xue; Zhiheng Liu; Yunshui Li; Jin Ma; Jie Huang; zhou Xun; Ping Luo
 
-[OpenReview](<https://openreview.net/forum?id=fXr3uPr1G5>) · [Official program](<https://icml.cc/virtual/2026/poster/62561>) · [PDF](<https://openreview.net/pdf?id=fXr3uPr1G5>)
+[Primary source](<https://openreview.net/forum?id=fXr3uPr1G5>) · [Venue page](<https://icml.cc/virtual/2026/poster/62561>) · [PDF](<https://openreview.net/pdf?id=fXr3uPr1G5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6020,7 +6762,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Dechen Zhang; Xuan Tang; Yingyu Liang; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=LyhBIrNBXv>) · [Official program](<https://icml.cc/virtual/2026/poster/64582>) · [PDF](<https://openreview.net/pdf?id=LyhBIrNBXv>)
+[Primary source](<https://openreview.net/forum?id=LyhBIrNBXv>) · [Venue page](<https://icml.cc/virtual/2026/poster/64582>) · [PDF](<https://openreview.net/pdf?id=LyhBIrNBXv>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -6038,7 +6782,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yilang Zhang; Xiaodong Yang; Yiwei Cai; Georgios B. Giannakis
 
-[OpenReview](<https://openreview.net/forum?id=Skxb4UgTWU>) · [Official program](<https://icml.cc/virtual/2026/poster/63892>) · [PDF](<https://openreview.net/pdf?id=Skxb4UgTWU>)
+[Primary source](<https://openreview.net/forum?id=Skxb4UgTWU>) · [Venue page](<https://icml.cc/virtual/2026/poster/63892>) · [PDF](<https://openreview.net/pdf?id=Skxb4UgTWU>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -6050,7 +6796,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hoang Anh Duy Le; Sahil Joshi; Zeyu Yang; Zhaozhuo Xu; Anshumali Shrivastava
 
-[OpenReview](<https://openreview.net/forum?id=uCLVPafHqd>) · [Official program](<https://icml.cc/virtual/2026/poster/61048>) · [PDF](<https://openreview.net/pdf?id=uCLVPafHqd>)
+[Primary source](<https://openreview.net/forum?id=uCLVPafHqd>) · [Venue page](<https://icml.cc/virtual/2026/poster/61048>) · [PDF](<https://openreview.net/pdf?id=uCLVPafHqd>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -6066,7 +6814,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Menghao Lv; Huiqiong Wang; Li Sun; Mingli Song
 
-[OpenReview](<https://openreview.net/forum?id=Xn9Eu2x7Hw>) · [Official program](<https://icml.cc/virtual/2026/poster/63357>) · [PDF](<https://openreview.net/pdf?id=Xn9Eu2x7Hw>)
+[Primary source](<https://openreview.net/forum?id=Xn9Eu2x7Hw>) · [Venue page](<https://icml.cc/virtual/2026/poster/63357>) · [PDF](<https://openreview.net/pdf?id=Xn9Eu2x7Hw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -6082,7 +6832,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Chanwoong Park; Uijeong Jang; Ernest Ryu; Insoon Yang
 
-[OpenReview](<https://openreview.net/forum?id=7xwOy8C00l>) · [Official program](<https://icml.cc/virtual/2026/poster/66010>) · [PDF](<https://openreview.net/pdf?id=7xwOy8C00l>)
+[Primary source](<https://openreview.net/forum?id=7xwOy8C00l>) · [Venue page](<https://icml.cc/virtual/2026/poster/66010>) · [PDF](<https://openreview.net/pdf?id=7xwOy8C00l>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6100,7 +6852,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ishaan Watts; Catherine Li; Sachin Goyal; Jacob Mitchell Springer; Aditi Raghunathan
 
-[OpenReview](<https://openreview.net/forum?id=CHvRfubYke>) · [Official program](<https://icml.cc/virtual/2026/poster/65575>) · [PDF](<https://openreview.net/pdf?id=CHvRfubYke>)
+[Primary source](<https://openreview.net/forum?id=CHvRfubYke>) · [Venue page](<https://icml.cc/virtual/2026/poster/65575>) · [PDF](<https://openreview.net/pdf?id=CHvRfubYke>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6120,7 +6874,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Fabrizio Boncoraglio; Vittorio Erba; Emanuele Troiani; Yizhou Xu; FLORENT KRZAKALA; Lenka Zdeborova
 
-[OpenReview](<https://openreview.net/forum?id=3qan4Zg9rA>) · [Official program](<https://icml.cc/virtual/2026/poster/66429>) · [PDF](<https://openreview.net/pdf?id=3qan4Zg9rA>)
+[Primary source](<https://openreview.net/forum?id=3qan4Zg9rA>) · [Venue page](<https://icml.cc/virtual/2026/poster/66429>) · [PDF](<https://openreview.net/pdf?id=3qan4Zg9rA>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -6138,7 +6894,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhiming Zhang; Rong Yin; Xiaoshuai Hao; Hansong Zhang; Hao Peng; Yong Liu; Can Ma; Dan Meng
 
-[OpenReview](<https://openreview.net/forum?id=ytlRCCl7Pf>) · [Official program](<https://icml.cc/virtual/2026/poster/60572>) · [PDF](<https://openreview.net/pdf?id=ytlRCCl7Pf>)
+[Primary source](<https://openreview.net/forum?id=ytlRCCl7Pf>) · [Venue page](<https://icml.cc/virtual/2026/poster/60572>) · [PDF](<https://openreview.net/pdf?id=ytlRCCl7Pf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -6154,7 +6912,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Anselm Paulus; Andreas René Geist; Vit Musil; Sebastian Hoffmann; Georg Martius
 
-[OpenReview](<https://openreview.net/forum?id=RKHDV40omz>) · [Official program](<https://icml.cc/virtual/2026/poster/64057>) · [PDF](<https://openreview.net/pdf?id=RKHDV40omz>)
+[Primary source](<https://openreview.net/forum?id=RKHDV40omz>) · [Venue page](<https://icml.cc/virtual/2026/poster/64057>) · [PDF](<https://openreview.net/pdf?id=RKHDV40omz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -6170,7 +6930,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Dmitrii Feoktistov; Timofey Belinsky; Andrey Veprikov; Amir Zainullin; Aleksandr Beznosikov
 
-[OpenReview](<https://openreview.net/forum?id=n47bK7WM3U>) · [Official program](<https://icml.cc/virtual/2026/poster/61776>) · [PDF](<https://openreview.net/pdf?id=n47bK7WM3U>)
+[Primary source](<https://openreview.net/forum?id=n47bK7WM3U>) · [Venue page](<https://icml.cc/virtual/2026/poster/61776>) · [PDF](<https://openreview.net/pdf?id=n47bK7WM3U>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -6182,7 +6944,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Chao Wang; Bei Li; Jiaqi Zhang; Xinyu Liu; Yuchun Fan; Linkun Lyu; Xin Chen; Jingang Wang; Tong Xiao; Peng Pei; Xunliang Cai
 
-[OpenReview](<https://openreview.net/forum?id=9bLiqb6Vec>) · [Official program](<https://icml.cc/virtual/2026/poster/65837>) · [PDF](<https://openreview.net/pdf?id=9bLiqb6Vec>)
+[Primary source](<https://openreview.net/forum?id=9bLiqb6Vec>) · [Venue page](<https://icml.cc/virtual/2026/poster/65837>) · [PDF](<https://openreview.net/pdf?id=9bLiqb6Vec>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6200,7 +6964,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Qifan Yu; Xinyu Ma; Zhijian Zhuo; Minrui Wang; Deyi Liu; Shiyi Zhan; Yiyuan Ma; liang xiang; Xingyan Bin; Di He
 
-[OpenReview](<https://openreview.net/forum?id=SXJBFREkWi>) · [Official program](<https://icml.cc/virtual/2026/poster/63922>) · [PDF](<https://openreview.net/pdf?id=SXJBFREkWi>)
+[Primary source](<https://openreview.net/forum?id=SXJBFREkWi>) · [Venue page](<https://icml.cc/virtual/2026/poster/63922>) · [PDF](<https://openreview.net/pdf?id=SXJBFREkWi>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -6218,7 +6984,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Xinghao Wang; Pengyu Wang; Dong Zhang; Chenkun Tan; Shaojun Zhou; Zhaoxiang Liu; Shiguo Lian; Fangxu Liu; Kai Song; Xipeng Qiu
 
-[OpenReview](<https://openreview.net/forum?id=5u3Ra6Qf5C>) · [Official program](<https://icml.cc/virtual/2026/poster/66195>) · [PDF](<https://openreview.net/pdf?id=5u3Ra6Qf5C>)
+[Primary source](<https://openreview.net/forum?id=5u3Ra6Qf5C>) · [Venue page](<https://icml.cc/virtual/2026/poster/66195>) · [PDF](<https://openreview.net/pdf?id=5u3Ra6Qf5C>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -6236,7 +7004,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhendong Huang; Hengjie Cao; Fang DONG(董方); Ruijun Huang; Mengyi Chen; Yifeng Yang; Xin Zhang; Anrui Chen; Mingzhi Dong; Yujiang Wang; Jinlong Hou; Qin Lv; Robert Dick; Yuan Cheng; Tun Lu; Fan Yang; Li Shang
 
-[OpenReview](<https://openreview.net/forum?id=uXHiVNJK25>) · [Official program](<https://icml.cc/virtual/2026/poster/61015>) · [PDF](<https://openreview.net/pdf?id=uXHiVNJK25>)
+[Primary source](<https://openreview.net/forum?id=uXHiVNJK25>) · [Venue page](<https://icml.cc/virtual/2026/poster/61015>) · [PDF](<https://openreview.net/pdf?id=uXHiVNJK25>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -6250,7 +7020,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuhang Xi; Yu-Feng Yu; Chuan-Xian Ren; Zhao-Rong Lai
 
-[OpenReview](<https://openreview.net/forum?id=KjF35IhQGS>) · [Official program](<https://icml.cc/virtual/2026/poster/64699>) · [PDF](<https://openreview.net/pdf?id=KjF35IhQGS>)
+[Primary source](<https://openreview.net/forum?id=KjF35IhQGS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64699>) · [PDF](<https://openreview.net/pdf?id=KjF35IhQGS>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -6266,7 +7038,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Arjun Prakash; Naicheng He; Kaicheng Guo; Saket Tiwari; Tyrone Serapio; Ruo Yu Tao; Amy Greenwald; George Konidaris
 
-[OpenReview](<https://openreview.net/forum?id=O6rHSkpYJU>) · [Official program](<https://icml.cc/virtual/2026/poster/64388>) · [PDF](<https://openreview.net/pdf?id=O6rHSkpYJU>)
+[Primary source](<https://openreview.net/forum?id=O6rHSkpYJU>) · [Venue page](<https://icml.cc/virtual/2026/poster/64388>) · [PDF](<https://openreview.net/pdf?id=O6rHSkpYJU>)
+
+**Topics:** Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations.
 
@@ -6278,7 +7052,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hao Gu; Mao-Lin Luo; Zi-Hao Zhou; Han-Chen Zhang; Min-Ling Zhang; Tong Wei
 
-[OpenReview](<https://openreview.net/forum?id=kqE6GjpQTn>) · [Official program](<https://icml.cc/virtual/2026/poster/61996>) · [PDF](<https://openreview.net/pdf?id=kqE6GjpQTn>)
+[Primary source](<https://openreview.net/forum?id=kqE6GjpQTn>) · [Venue page](<https://icml.cc/virtual/2026/poster/61996>) · [PDF](<https://openreview.net/pdf?id=kqE6GjpQTn>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -6294,7 +7070,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Konstantin Nikolaou; Jonas Scheunemann; Sven Krippendorf; Samuel Tovey; Christian Holm
 
-[OpenReview](<https://openreview.net/forum?id=ECdZxuI9Hf>) · [Official program](<https://icml.cc/virtual/2026/poster/65378>) · [PDF](<https://openreview.net/pdf?id=ECdZxuI9Hf>)
+[Primary source](<https://openreview.net/forum?id=ECdZxuI9Hf>) · [Venue page](<https://icml.cc/virtual/2026/poster/65378>) · [PDF](<https://openreview.net/pdf?id=ECdZxuI9Hf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -6314,7 +7092,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Paul Janson; Edouard Oyallon; Eugene Belilovsky
 
-[OpenReview](<https://openreview.net/forum?id=kb5wjkqu8q>) · [Official program](<https://icml.cc/virtual/2026/poster/62024>) · [PDF](<https://openreview.net/pdf?id=kb5wjkqu8q>)
+[Primary source](<https://openreview.net/forum?id=kb5wjkqu8q>) · [Venue page](<https://icml.cc/virtual/2026/poster/62024>) · [PDF](<https://openreview.net/pdf?id=kb5wjkqu8q>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -6328,7 +7108,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Atsushi Takabatake; Takaharu Yaguchi
 
-[OpenReview](<https://openreview.net/forum?id=eeRgTFtEjv>) · [Official program](<https://icml.cc/virtual/2026/poster/62656>) · [PDF](<https://openreview.net/pdf?id=eeRgTFtEjv>)
+[Primary source](<https://openreview.net/forum?id=eeRgTFtEjv>) · [Venue page](<https://icml.cc/virtual/2026/poster/62656>) · [PDF](<https://openreview.net/pdf?id=eeRgTFtEjv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -6344,7 +7126,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yuyang Wang; Felix Wang; Zedong Wang; Ijay Narang; Yuzhou Wang; Siva Maguluri
 
-[OpenReview](<https://openreview.net/forum?id=m4TAzup6Yc>) · [Official program](<https://icml.cc/virtual/2026/poster/61876>) · [PDF](<https://openreview.net/pdf?id=m4TAzup6Yc>)
+[Primary source](<https://openreview.net/forum?id=m4TAzup6Yc>) · [Venue page](<https://icml.cc/virtual/2026/poster/61876>) · [PDF](<https://openreview.net/pdf?id=m4TAzup6Yc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -6362,7 +7146,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Fabian Schaipp; Robert Gower; Adrien Taylor
 
-[OpenReview](<https://openreview.net/forum?id=yhvzMLgpdV>) · [Official program](<https://icml.cc/virtual/2026/poster/60591>) · [PDF](<https://openreview.net/pdf?id=yhvzMLgpdV>)
+[Primary source](<https://openreview.net/forum?id=yhvzMLgpdV>) · [Venue page](<https://icml.cc/virtual/2026/poster/60591>) · [PDF](<https://openreview.net/pdf?id=yhvzMLgpdV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -6380,7 +7166,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kyurae Kim; Qiang Fu; Yian Ma; Jacob Gardner; Trevor Campbell
 
-[OpenReview](<https://openreview.net/forum?id=4HquuQN4qK>) · [Official program](<https://icml.cc/virtual/2026/poster/66371>) · [PDF](<https://openreview.net/pdf?id=4HquuQN4qK>)
+[Primary source](<https://openreview.net/forum?id=4HquuQN4qK>) · [Venue page](<https://icml.cc/virtual/2026/poster/66371>) · [PDF](<https://openreview.net/pdf?id=4HquuQN4qK>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -6394,7 +7182,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Min Xue; Artur Andrzejak
 
-[OpenReview](<https://openreview.net/forum?id=7tt8TwMjdJ>) · [Official program](<https://icml.cc/virtual/2026/poster/66016>) · [PDF](<https://openreview.net/pdf?id=7tt8TwMjdJ>)
+[Primary source](<https://openreview.net/forum?id=7tt8TwMjdJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/66016>) · [PDF](<https://openreview.net/pdf?id=7tt8TwMjdJ>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -6410,7 +7200,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Nico Daheim; Thomas Moellenhoff; James Ming Liang Ang; Mohammad Emtiyaz Khan
 
-[OpenReview](<https://openreview.net/forum?id=3NQSeJOfkz>) · [Official program](<https://icml.cc/virtual/2026/oral/71109>) · [PDF](<https://openreview.net/pdf?id=3NQSeJOfkz>)
+[Primary source](<https://openreview.net/forum?id=3NQSeJOfkz>) · [Venue page](<https://icml.cc/virtual/2026/oral/71109>) · [PDF](<https://openreview.net/pdf?id=3NQSeJOfkz>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -6422,7 +7214,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ruoling Qi; Yirui Liu; Xuaner Wu; Xiangyu Wang; Ming Li; Chen Chen; Jian Chen; Yin Chen; Qizhen Weng
 
-[OpenReview](<https://openreview.net/forum?id=nAQ4h8FpdM>) · [Official program](<https://icml.cc/virtual/2026/poster/61765>) · [PDF](<https://openreview.net/pdf?id=nAQ4h8FpdM>)
+[Primary source](<https://openreview.net/forum?id=nAQ4h8FpdM>) · [Venue page](<https://icml.cc/virtual/2026/poster/61765>) · [PDF](<https://openreview.net/pdf?id=nAQ4h8FpdM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -6440,7 +7234,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Alessandro Manenti; Kumar Avinava Dubey; Arijit Sehanobish; Cesare Alippi; Krzysztof Choromanski
 
-[OpenReview](<https://openreview.net/forum?id=LBcnybFVBp>) · [Official program](<https://icml.cc/virtual/2026/poster/64659>) · [PDF](<https://openreview.net/pdf?id=LBcnybFVBp>)
+[Primary source](<https://openreview.net/forum?id=LBcnybFVBp>) · [Venue page](<https://icml.cc/virtual/2026/poster/64659>) · [PDF](<https://openreview.net/pdf?id=LBcnybFVBp>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -6456,7 +7252,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Yuxiang Chen; Yifan Liu; Xiaoming Xu; Pengle Zhang; Michael Beyer; Martin Rapp; Jun Zhu; Jianfei Chen
 
-[OpenReview](<https://openreview.net/forum?id=7ZQhm5HnOA>) · [Official program](<https://icml.cc/virtual/2026/poster/66046>) · [PDF](<https://openreview.net/pdf?id=7ZQhm5HnOA>)
+[Primary source](<https://openreview.net/forum?id=7ZQhm5HnOA>) · [Venue page](<https://icml.cc/virtual/2026/poster/66046>) · [PDF](<https://openreview.net/pdf?id=7ZQhm5HnOA>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -6468,7 +7266,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Peyman Afshani; Rezaul Chowdhury; Mayank Goswami; Jens Kristian R Schou; Francesco Silvestri; Mariafiore Tognon
 
-[OpenReview](<https://openreview.net/forum?id=oHxq8g8Wy1>) · [Official program](<https://icml.cc/virtual/2026/poster/61632>) · [PDF](<https://openreview.net/pdf?id=oHxq8g8Wy1>)
+[Primary source](<https://openreview.net/forum?id=oHxq8g8Wy1>) · [Venue page](<https://icml.cc/virtual/2026/poster/61632>) · [PDF](<https://openreview.net/pdf?id=oHxq8g8Wy1>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -6484,7 +7284,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Kefei Tao; Zhang Zhang; Mingze Qi; Xiaojun Duan
 
-[OpenReview](<https://openreview.net/forum?id=GMdvtJz5Ez>) · [Official program](<https://icml.cc/virtual/2026/poster/65146>) · [PDF](<https://openreview.net/pdf?id=GMdvtJz5Ez>)
+[Primary source](<https://openreview.net/forum?id=GMdvtJz5Ez>) · [Venue page](<https://icml.cc/virtual/2026/poster/65146>) · [PDF](<https://openreview.net/pdf?id=GMdvtJz5Ez>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -6502,7 +7304,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Eitan Gronich; Gal Vardi
 
-[OpenReview](<https://openreview.net/forum?id=DpIc1cpNKG>) · [Official program](<https://icml.cc/virtual/2026/poster/65420>) · [PDF](<https://openreview.net/pdf?id=DpIc1cpNKG>)
+[Primary source](<https://openreview.net/forum?id=DpIc1cpNKG>) · [Venue page](<https://icml.cc/virtual/2026/poster/65420>) · [PDF](<https://openreview.net/pdf?id=DpIc1cpNKG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -6522,7 +7326,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Connall Garrod; Jonathan Keating; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=TDaVoBfTjY>) · [Official program](<https://icml.cc/virtual/2026/poster/63845>) · [PDF](<https://openreview.net/pdf?id=TDaVoBfTjY>)
+[Primary source](<https://openreview.net/forum?id=TDaVoBfTjY>) · [Venue page](<https://icml.cc/virtual/2026/poster/63845>) · [PDF](<https://openreview.net/pdf?id=TDaVoBfTjY>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6540,7 +7346,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Jichu Li; Xuan Tang; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=OT9cxeWbEO>) · [Official program](<https://icml.cc/virtual/2026/poster/64352>) · [PDF](<https://openreview.net/pdf?id=OT9cxeWbEO>)
+[Primary source](<https://openreview.net/forum?id=OT9cxeWbEO>) · [Venue page](<https://icml.cc/virtual/2026/poster/64352>) · [PDF](<https://openreview.net/pdf?id=OT9cxeWbEO>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -6560,7 +7368,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Hongtao Zhang; WenJie Zhou; Chenxi Jia; Wei Chen; Xueqi Cheng
 
-[OpenReview](<https://openreview.net/forum?id=gVPwive1z6>) · [Official program](<https://icml.cc/virtual/2026/poster/62448>) · [PDF](<https://openreview.net/pdf?id=gVPwive1z6>)
+[Primary source](<https://openreview.net/forum?id=gVPwive1z6>) · [Venue page](<https://icml.cc/virtual/2026/poster/62448>) · [PDF](<https://openreview.net/pdf?id=gVPwive1z6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -6580,7 +7390,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Huangyu Xu; Jingqin Yang; Qianqian Xu; Jiaye Teng
 
-[OpenReview](<https://openreview.net/forum?id=74PNBqBKPA>) · [Official program](<https://icml.cc/virtual/2026/poster/66097>) · [PDF](<https://openreview.net/pdf?id=74PNBqBKPA>)
+[Primary source](<https://openreview.net/forum?id=74PNBqBKPA>) · [Venue page](<https://icml.cc/virtual/2026/poster/66097>) · [PDF](<https://openreview.net/pdf?id=74PNBqBKPA>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6598,7 +7410,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Mingyue Xu; Gal Vardi; Itay Safran
 
-[OpenReview](<https://openreview.net/forum?id=5nNNVY8NW4>) · [Official program](<https://icml.cc/virtual/2026/oral/71134>) · [PDF](<https://openreview.net/pdf?id=5nNNVY8NW4>)
+[Primary source](<https://openreview.net/forum?id=5nNNVY8NW4>) · [Venue page](<https://icml.cc/virtual/2026/oral/71134>) · [PDF](<https://openreview.net/pdf?id=5nNNVY8NW4>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6616,7 +7430,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Yuanjian Xu; Jianing Hao; Wanbo Zhang; Zhong Li; Guang Zhang
 
-[OpenReview](<https://openreview.net/forum?id=2UH01A9Za0>) · [Official program](<https://icml.cc/virtual/2026/poster/66576>) · [PDF](<https://openreview.net/pdf?id=2UH01A9Za0>)
+[Primary source](<https://openreview.net/forum?id=2UH01A9Za0>) · [Venue page](<https://icml.cc/virtual/2026/poster/66576>) · [PDF](<https://openreview.net/pdf?id=2UH01A9Za0>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -6634,7 +7450,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Zhiwei Bai; Jiajie Zhao; Zhangchen Zhou; Zhi-Qin John Xu; Yaoyu Zhang
 
-[OpenReview](<https://openreview.net/forum?id=uYWVGk1Qt0>) · [Official program](<https://icml.cc/virtual/2026/poster/61014>) · [PDF](<https://openreview.net/pdf?id=uYWVGk1Qt0>)
+[Primary source](<https://openreview.net/forum?id=uYWVGk1Qt0>) · [Venue page](<https://icml.cc/virtual/2026/poster/61014>) · [PDF](<https://openreview.net/pdf?id=uYWVGk1Qt0>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -6654,7 +7472,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Daohai Yu; Zhanpeng Zeng; Keyu Chen; Wenhao Li; Zhifeng Shen; Luxi Lin; Ruizhi Qiao; Xing Sun; Rongrong Ji
 
-[OpenReview](<https://openreview.net/forum?id=4spHlgHY9x>) · [Official program](<https://icml.cc/virtual/2026/poster/66306>) · [PDF](<https://openreview.net/pdf?id=4spHlgHY9x>)
+[Primary source](<https://openreview.net/forum?id=4spHlgHY9x>) · [Venue page](<https://icml.cc/virtual/2026/poster/66306>) · [PDF](<https://openreview.net/pdf?id=4spHlgHY9x>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -6672,7 +7492,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haodong WANG; Junjie Liu; Zicong Hong; Qianli Liu; Jian Lin; Song Guo; Xu Chen
 
-[OpenReview](<https://openreview.net/forum?id=ahYRAjx7UG>) · [Official program](<https://icml.cc/virtual/2026/poster/63038>) · [PDF](<https://openreview.net/pdf?id=ahYRAjx7UG>)
+[Primary source](<https://openreview.net/forum?id=ahYRAjx7UG>) · [Venue page](<https://icml.cc/virtual/2026/poster/63038>) · [PDF](<https://openreview.net/pdf?id=ahYRAjx7UG>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -6686,7 +7508,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Zhixiong Zhao; Zukang Xu; Zhixuan Chen; Xing Hu; Zhe jiang; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=s1WSLFmnr8>) · [Official program](<https://icml.cc/virtual/2026/poster/61264>) · [PDF](<https://openreview.net/pdf?id=s1WSLFmnr8>)
+[Primary source](<https://openreview.net/forum?id=s1WSLFmnr8>) · [Venue page](<https://icml.cc/virtual/2026/poster/61264>) · [PDF](<https://openreview.net/pdf?id=s1WSLFmnr8>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -6702,7 +7526,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Egor Shulgin; Tamaz Gadaev; Sarit Khirirat; Peter Richtarik
 
-[OpenReview](<https://openreview.net/forum?id=jokamk4yGt>) · [Official program](<https://icml.cc/virtual/2026/poster/62098>) · [PDF](<https://openreview.net/pdf?id=jokamk4yGt>)
+[Primary source](<https://openreview.net/forum?id=jokamk4yGt>) · [Venue page](<https://icml.cc/virtual/2026/poster/62098>) · [PDF](<https://openreview.net/pdf?id=jokamk4yGt>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -6714,7 +7540,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (spotlight)** · Wan Song; Zhou Wei; Rui Wang; Jun Yu; Toru Kurihara; Xu Jiajia; shu zhan
 
-[OpenReview](<https://openreview.net/forum?id=Qg9Jcy788i>) · [Official program](<https://icml.cc/virtual/2026/poster/64126>) · [PDF](<https://openreview.net/pdf?id=Qg9Jcy788i>)
+[Primary source](<https://openreview.net/forum?id=Qg9Jcy788i>) · [Venue page](<https://icml.cc/virtual/2026/poster/64126>) · [PDF](<https://openreview.net/pdf?id=Qg9Jcy788i>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -6730,7 +7558,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Tessa Han; Sebastian Bordt; Hanlin Zhang; Sham Kakade
 
-[OpenReview](<https://openreview.net/forum?id=zMO9H4hLyR>) · [Official program](<https://icml.cc/virtual/2026/poster/60527>) · [PDF](<https://openreview.net/pdf?id=zMO9H4hLyR>)
+[Primary source](<https://openreview.net/forum?id=zMO9H4hLyR>) · [Venue page](<https://icml.cc/virtual/2026/poster/60527>) · [PDF](<https://openreview.net/pdf?id=zMO9H4hLyR>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6750,7 +7580,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Yao Yao; Xinyuan Song; Sebastian Pokutta; Max Zimmer; Nico Pelleriti; Thomas Hofmann; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=7boy4Ipbyn>) · [Official program](<https://icml.cc/virtual/2026/poster/66043>) · [PDF](<https://openreview.net/pdf?id=7boy4Ipbyn>)
+[Primary source](<https://openreview.net/forum?id=7boy4Ipbyn>) · [Venue page](<https://icml.cc/virtual/2026/poster/66043>) · [PDF](<https://openreview.net/pdf?id=7boy4Ipbyn>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -6768,7 +7600,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Haoran Zhao; Caren Han; Eduard Hovy
 
-[OpenReview](<https://openreview.net/forum?id=Umu6IsAUbS>) · [Official program](<https://icml.cc/virtual/2026/poster/63669>) · [PDF](<https://openreview.net/pdf?id=Umu6IsAUbS>)
+[Primary source](<https://openreview.net/forum?id=Umu6IsAUbS>) · [Venue page](<https://icml.cc/virtual/2026/poster/63669>) · [PDF](<https://openreview.net/pdf?id=Umu6IsAUbS>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -6780,7 +7614,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Foivos Alimisis; Rustem Islamov; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=a6fo32UnpU>) · [Official program](<https://icml.cc/virtual/2026/poster/63104>) · [PDF](<https://openreview.net/pdf?id=a6fo32UnpU>)
+[Primary source](<https://openreview.net/forum?id=a6fo32UnpU>) · [Venue page](<https://icml.cc/virtual/2026/poster/63104>) · [PDF](<https://openreview.net/pdf?id=a6fo32UnpU>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -6800,7 +7636,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Tobias Schröder; Lester Mackey
 
-[OpenReview](<https://openreview.net/forum?id=lfqyLp4hZm>) · [Official program](<https://icml.cc/virtual/2026/poster/61920>) · [PDF](<https://openreview.net/pdf?id=lfqyLp4hZm>)
+[Primary source](<https://openreview.net/forum?id=lfqyLp4hZm>) · [Venue page](<https://icml.cc/virtual/2026/poster/61920>) · [PDF](<https://openreview.net/pdf?id=lfqyLp4hZm>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -6816,7 +7654,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Dongyue Li; Zechun Liu; Kai Yi; Zhenshuo Zhang; Changsheng Zhao; Raghuraman Krishnamoorthi; Harshit Khaitan; Hongyang Zhang; Steven Li
 
-[OpenReview](<https://openreview.net/forum?id=lIQnUtwWVb>) · [Official program](<https://icml.cc/virtual/2026/poster/61959>) · [PDF](<https://openreview.net/pdf?id=lIQnUtwWVb>)
+[Primary source](<https://openreview.net/forum?id=lIQnUtwWVb>) · [Venue page](<https://icml.cc/virtual/2026/poster/61959>) · [PDF](<https://openreview.net/pdf?id=lIQnUtwWVb>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -6828,7 +7668,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Ali Abbasi; Chayne Thrash; Haoran Qin; Shansita Sharma; Sepehr Seifi; Soheil Kolouri
 
-[OpenReview](<https://openreview.net/forum?id=tAdsDOkRBw>) · [Official program](<https://icml.cc/virtual/2026/poster/61159>) · [PDF](<https://openreview.net/pdf?id=tAdsDOkRBw>)
+[Primary source](<https://openreview.net/forum?id=tAdsDOkRBw>) · [Venue page](<https://icml.cc/virtual/2026/poster/61159>) · [PDF](<https://openreview.net/pdf?id=tAdsDOkRBw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -6846,7 +7688,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **ICML 2026 · Accept (regular)** · Minhak Song; Liang Zhang; Bingcong Li; Niao He; Michael Muehlebach; Sewoong Oh
 
-[OpenReview](<https://openreview.net/forum?id=s87tQaKAER>) · [Official program](<https://icml.cc/virtual/2026/poster/61252>) · [PDF](<https://openreview.net/pdf?id=s87tQaKAER>)
+[Primary source](<https://openreview.net/forum?id=s87tQaKAER>) · [Venue page](<https://icml.cc/virtual/2026/poster/61252>) · [PDF](<https://openreview.net/pdf?id=s87tQaKAER>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -6866,7 +7710,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mehdi Makni; Xiang Meng; Rahul Mazumder
 
-[OpenReview](<https://openreview.net/forum?id=byNNv5Et10>) · [Official program](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=byNNv5Et10>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -6886,7 +7732,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kuat Gazizov; Miguel A. Carreira-Perpinan
 
-[OpenReview](<https://openreview.net/forum?id=urDdBuhbLx>) · [Official program](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=urDdBuhbLx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -6904,7 +7752,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ayoub El Hanchi; Murat Erdogdu; Chris Maddison
 
-[OpenReview](<https://openreview.net/forum?id=KEVjRT4haB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KEVjRT4haB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -6920,7 +7770,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Steffen Schotthöfer; Timon Klein; Jonas Kusch
 
-[OpenReview](<https://openreview.net/forum?id=cCefuzQrjK>) · [Official program](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cCefuzQrjK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -6938,7 +7790,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yassine ABBAHADDOU; Amine Aboussalah
 
-[OpenReview](<https://openreview.net/forum?id=YAc0O13qMc>) · [Official program](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=YAc0O13qMc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -6954,7 +7808,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Liming Liu; Zixuan Zhang; Simon Du; Tuo Zhao
 
-[OpenReview](<https://openreview.net/forum?id=yst8MHfcgP>) · [Official program](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=yst8MHfcgP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -6974,7 +7830,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Bar Mahpud; Or Sheffet
 
-[OpenReview](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -6992,7 +7850,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kevin Frans; Sergey Levine; Pieter Abbeel
 
-[OpenReview](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -7012,7 +7872,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Etienne Boursier; Scott Pesme; Radu-Alexandru Dragomir
 
-[OpenReview](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Official program](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -7038,7 +7900,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Jiyoung Park; Abhishek Roy; Jonathan W. Siegel; Anirban Bhattacharya
 
-[OpenReview](<https://openreview.net/forum?id=Nl02znfTCT>) · [Official program](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Nl02znfTCT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -7054,7 +7918,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Adel Nabli; Louis Fournier; Pierre ERBACHER; Louis Serrano; Eugene Belilovsky; Edouard Oyallon
 
-[OpenReview](<https://openreview.net/forum?id=1qKUVyymXs>) · [Official program](<https://neurips.cc/virtual/2025/poster/120191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6454dcd80b5373daaa97e53ce32c78a1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=1qKUVyymXs>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6454dcd80b5373daaa97e53ce32c78a1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -7068,7 +7934,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Hongyuan Dong; Dingkang Yang; Xiao Liang; ChaoFeng; Ran Jiao
 
-[OpenReview](<https://openreview.net/forum?id=Rc489jcc30>) · [Official program](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Rc489jcc30>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -7090,7 +7958,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xinghan Li; Haodong Wen; Kaifeng Lyu
 
-[OpenReview](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Official program](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -7116,7 +7986,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kangkang Deng; Jiachen Jin; Jiang Hu; Hongxia Wang
 
-[OpenReview](<https://openreview.net/forum?id=lni933mlvF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lni933mlvF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -7132,7 +8004,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Di He; Songjun Tu; Ajay Jaiswal; Li Shen; Ganzhao Yuan; Shiwei Liu; Lu Yin
 
-[OpenReview](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Official program](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -7154,7 +8028,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Daniel Kunin; Giovanni Luca Marchetti; Feng Chen; Dhruva Karkada; James Simon; Michael Deweese; Surya Ganguli; Nina Miolane
 
-[OpenReview](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Official program](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -7174,7 +8050,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xin Yu; Yujia Wang; Jinghui Chen; Lingzhou Xue
 
-[OpenReview](<https://openreview.net/forum?id=9YNJ03jYsU>) · [Official program](<https://neurips.cc/virtual/2025/poster/119533>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/35c3db8db1b962538b0958af56ba329b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9YNJ03jYsU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119533>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/35c3db8db1b962538b0958af56ba329b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -7188,7 +8066,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xu Shi; Rufeng Xiao; Rujun Jiang
 
-[OpenReview](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Official program](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -7204,7 +8084,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Binxu Wang; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=SDhOClkyqC>) · [Official program](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SDhOClkyqC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -7224,7 +8106,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Han Bao; Shinsaku Sakaue; Yuki Takezawa
 
-[OpenReview](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -7244,7 +8128,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kang An; Yuxing Liu; Rui Pan; Yi Ren; Shiqian Ma; Donald Goldfarb; Tong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=fru52tkjHf>) · [Official program](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fru52tkjHf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -7264,7 +8150,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Or Goldreich; Ziyang Wei; SOHAM BONNERJEE; Jiaqi Li; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -7284,7 +8172,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Andrew Wang; Elisa Nguyen; Runshi Yang; Juhan Bae; Sheila McIlraith; Roger Grosse
 
-[OpenReview](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -7306,7 +8196,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Reza Shirkavand; Peiran Yu; Qi He; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=v6vBK4t8vB>) · [Official program](<https://neurips.cc/virtual/2025/poster/115441>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=v6vBK4t8vB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115441>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -7320,7 +8212,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kyo Kuroki; Yasuyuki Okoshi; Thiem Van Chu; Kazushi Kawamura; Masato Motomura
 
-[OpenReview](<https://openreview.net/forum?id=5MGClYw1cR>) · [Official program](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5MGClYw1cR>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -7338,7 +8232,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Haochen Zhang; Junze Yin; Guanchu Wang; Zirui Liu; Lin Yang; Tianyi Zhang; Anshumali Shrivastava; Vladimir Braverman
 
-[OpenReview](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X4 — Randomized sketching and kernel approximations.
 
@@ -7358,7 +8254,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · XUCHEN FENG; Siyu Liao
 
-[OpenReview](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Official program](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -7378,7 +8276,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Dhruva Karkada; James Simon; Yasaman Bahri; Michael Deweese
 
-[OpenReview](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Official program](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -7398,7 +8298,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Zachary Charles; Gabriel Teston; Lucio Dery; John Rush; Nova Fallen; Zachary Garrett; Arthur Szlam; Arthur Douillard
 
-[OpenReview](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -7418,7 +8320,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Lowell Weissman; Michael Krumdick; A. Abbott
 
-[OpenReview](<https://openreview.net/forum?id=EdKl4PulMX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EdKl4PulMX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -7438,7 +8342,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yuesen Liao; Zhiwei Li; Binrui Wu; Zihao Cheng; Su Zhao; Shuai Chen; Weizhong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=4EkEL77k6O>) · [Official program](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=4EkEL77k6O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -7456,7 +8362,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Preston Fu; Oleh Rybkin; Zhiyuan (Paul) Zhou; Michal Nauman; Pieter Abbeel; Sergey Levine; Aviral Kumar
 
-[OpenReview](<https://openreview.net/forum?id=9GzyCtlngK>) · [Official program](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GzyCtlngK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -7476,7 +8384,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zhipeng Zhou; Ziqiao Meng; Pengcheng Wu; Peilin Zhao; Chunyan Miao
 
-[OpenReview](<https://openreview.net/forum?id=8P5MUySaqi>) · [Official program](<https://neurips.cc/virtual/2025/poster/119621>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fa30825df7ceaba452d5533538ea29c2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8P5MUySaqi>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119621>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fa30825df7ceaba452d5533538ea29c2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -7490,7 +8400,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mingyang Yi; Bohan Wang
 
-[OpenReview](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Official program](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -7506,7 +8418,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Sebastian Kassing; Simon Weissmann; Leif Döring
 
-[OpenReview](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -7526,7 +8440,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Lachlan MacDonald; Hancheng Min; Leandro Palma; Salma Tarmoun; Ziqing Xu; Rene Vidal
 
-[OpenReview](<https://openreview.net/forum?id=MU0JuT0A54>) · [Official program](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MU0JuT0A54>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -7546,7 +8462,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Will Merrill; Shane Arora; Dirk Groeneveld; Hanna Hajishirzi
 
-[OpenReview](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Official program](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -7568,7 +8486,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Seewon Choi; Alaia Solko-Breslin; Rajeev Alur; Eric Wong
 
-[OpenReview](<https://openreview.net/forum?id=mor7s1NGBV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=mor7s1NGBV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -7586,7 +8506,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Xinran Gu; Kaifeng Lyu; Jiazheng Li; Jingzhao Zhang
 
-[OpenReview](<https://openreview.net/forum?id=tQZK5frjVU>) · [Official program](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tQZK5frjVU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -7606,7 +8528,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Naoki Nishikawa; Rei Higuchi; Taiji Suzuki
 
-[OpenReview](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Official program](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -7624,7 +8548,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ming Wen; Jiaqi Zhu; Yuedong Xu; Yipeng Zhou; DINGDING HAN
 
-[OpenReview](<https://openreview.net/forum?id=TecJ926Vgn>) · [Official program](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=TecJ926Vgn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X4 — Randomized sketching and kernel approximations.
 
@@ -7644,7 +8570,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Alper KALLE; Théo Rudkiewicz; Mohamed Ouerfelli; Mohamed Tamaazousti
 
-[OpenReview](<https://openreview.net/forum?id=ODgWBaErst>) · [Official program](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ODgWBaErst>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -7662,7 +8590,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Nolan Dey; Bin Zhang; Lorenzo Noci; Mufan Li; Blake Bordelon; Shane Bergsma; Cengiz Pehlevan; Boris Hanin; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=lMU2kaMANl>) · [Official program](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lMU2kaMANl>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -7686,7 +8616,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Steffen Schotthöfer; Lexie Yang; Stefan Schnake
 
-[OpenReview](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Official program](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X6 — Matrix and tensor methods for compression.
 
@@ -7706,7 +8638,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Yunyang Li; Lin Huang; Zhihao Ding; Xinran Wei; Chu Wang; Han Yang; Zun Wang; Chang Liu; Yu Shi; Peiran Jin; Tao Qin; Mark Gerstein; Jia Zhang
 
-[OpenReview](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -7724,7 +8658,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Su Hyeong Lee; Sidharth Sharma; Manzil Zaheer; Tian Li
 
-[OpenReview](<https://openreview.net/forum?id=dopfjQFr65>) · [Official program](<https://neurips.cc/virtual/2025/poster/116984>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fab71c08b15508fd6c435e59b0e82b68-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dopfjQFr65>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116984>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fab71c08b15508fd6c435e59b0e82b68-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -7738,7 +8674,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mahdi Nikdan; Vincent Cohen-Addad; Dan Alistarh; Vahab Mirrokni
 
-[OpenReview](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -7756,7 +8694,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Li Tenghui; Guoxu Zhou; Xuyang Zhao; Yuning Qiu; Qibin Zhao
 
-[OpenReview](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -7776,7 +8716,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Minchan Jeong; Jongha (Jon) Ryu; Se-Young Yun; Gregory Wornell
 
-[OpenReview](<https://openreview.net/forum?id=kL2pnzClyD>) · [Official program](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kL2pnzClyD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -7794,7 +8736,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yunwei Ren; Eshaan Nichani; Denny Wu; Jason Lee
 
-[OpenReview](<https://openreview.net/forum?id=kA2H90nm26>) · [Official program](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kA2H90nm26>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -7814,7 +8758,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Rustem Islamov; Niccolò Ajroldi; Antonio Orvieto; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=9t2OtyQ9mf>) · [Official program](<https://neurips.cc/virtual/2025/poster/119505>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1470947b2ecc3a877ef124b50efc4d37-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9t2OtyQ9mf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119505>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1470947b2ecc3a877ef124b50efc4d37-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -7828,7 +8774,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Alexander Bodard; Panagiotis Patrinos
 
-[OpenReview](<https://openreview.net/forum?id=7qrhHzZpTA>) · [Official program](<https://neurips.cc/virtual/2025/poster/119669>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b3bfae1e280ded2c7b441108a28c293e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7qrhHzZpTA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119669>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b3bfae1e280ded2c7b441108a28c293e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -7842,7 +8790,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Zhenting Qi; Fan Nie; Alexandre Alahi; James Zou; Himabindu Lakkaraju; Yilun Du; Eric Xing; Sham Kakade; Hanlin Zhang
 
-[OpenReview](<https://openreview.net/forum?id=B6bE2GC71a>) · [Official program](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+[Primary source](<https://openreview.net/forum?id=B6bE2GC71a>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -7860,7 +8810,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Seanie Lee; Sangwoo Park; Dong Bok Lee; Dominik Wagner; Haebin Seong; Tobias Bocklet; Juho Lee; Sung Ju Hwang
 
-[OpenReview](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Official program](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -7880,7 +8832,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Fengmiao Bian; Jinyang ZHENG; Ziyun Liu; Jianzhou Luo; Jian-Feng CAI
 
-[OpenReview](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Official program](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -7898,7 +8852,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Emre Sahinoglu; Youbang Sun; Shahin Shahrampour
 
-[OpenReview](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Official program](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -7914,7 +8870,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xi Chen; Kaituo Feng; Changsheng Li; Xunhao Lai; Xiangyu Yue; Ye Yuan; Guoren Wang
 
-[OpenReview](<https://openreview.net/forum?id=7aSBAw7tJf>) · [Official program](<https://neurips.cc/virtual/2025/poster/119690>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aeae2c860cbe283ef73344c4ecd52567-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7aSBAw7tJf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119690>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aeae2c860cbe283ef73344c4ecd52567-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -7928,7 +8886,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Andrew Liu; Axel Elaldi; Nicholas Franklin; Nathan Russell; Gurinder Atwal; Yih-En Ban; Olivia Viessmann
 
-[OpenReview](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -7948,7 +8908,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Haixu Wu; Minghao Guo; Yuezhou Ma; Yuanxu Sun; Jianmin Wang; Wojciech Matusik; Mingsheng Long
 
-[OpenReview](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Official program](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -7968,7 +8930,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Osayamen Aimuyo; Byungsoo Oh; Rachee Singh
 
-[OpenReview](<https://openreview.net/forum?id=EZfDHprhZM>) · [Official program](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EZfDHprhZM>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -7988,7 +8952,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Louis Bethune; David Vigouroux; Yilun Du; Rufin VanRullen; Thomas Serre; Victor Boutin
 
-[OpenReview](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -8004,7 +8970,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Chenhui Xu; Dancheng Liu; Amir Nassereldine; Jinjun Xiong
 
-[OpenReview](<https://openreview.net/forum?id=2aotKzkOCm>) · [Official program](<https://neurips.cc/virtual/2025/poster/120125>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d274ea8b3c7f526f79ac9ce75ee3c8df-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2aotKzkOCm>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120125>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d274ea8b3c7f526f79ac9ce75ee3c8df-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -8018,7 +8986,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Zheng-An Chen; Tao Luo
 
-[OpenReview](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Official program](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8038,7 +9008,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Konstantinos Tsiolis; Alireza Mousavi-Hosseini; Murat Erdogdu
 
-[OpenReview](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -8058,7 +9030,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Binghui Li; Fengling Chen; Zixun Huang; Lean Wang; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=dpllevHMbc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dpllevHMbc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -8080,7 +9054,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ziyang Wei; Jiaqi Li; Zhipeng Lou; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=aCPFvEg22L>) · [Official program](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aCPFvEg22L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -8100,7 +9076,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Sean McLeish; John Kirchenbauer; David Miller; Siddharth Singh; Abhinav Bhatele; Micah Goldblum; Ashwinee Panda; Tom Goldstein
 
-[OpenReview](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Official program](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -8120,7 +9098,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Sifan Wang; Ananyae bhartari; Bowen Li; Paris Perdikaris
 
-[OpenReview](<https://openreview.net/forum?id=iweeVl1RHU>) · [Official program](<https://neurips.cc/virtual/2025/poster/116510>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f655706547885b8e32ef46f1c067ece2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iweeVl1RHU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116510>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f655706547885b8e32ef46f1c067ece2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation.
 
@@ -8136,7 +9116,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · John Vastola; Samuel J Gershman; Kanaka Rajan
 
-[OpenReview](<https://openreview.net/forum?id=oMi4uyNOlL>) · [Official program](<https://neurips.cc/virtual/2025/poster/116043>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad557daf1552a14dd0c26c11d3a72676-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oMi4uyNOlL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116043>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad557daf1552a14dd0c26c11d3a72676-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -8150,7 +9132,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Meyer Scetbon; Chao Ma; Wenbo Gong; Ted Meeds
 
-[OpenReview](<https://openreview.net/forum?id=oanhUGY6un>) · [Official program](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oanhUGY6un>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -8170,7 +9154,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yoav Gelberg; Yam Eitan; Aviv Navon; Aviv Shamsian; Theo Putterman; Michael Bronstein; Haggai Maron
 
-[OpenReview](<https://openreview.net/forum?id=Gvex75bPMI>) · [Official program](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvex75bPMI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8190,7 +9176,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Hongjun Wang; yitong jiang; Collin McCarthy; David Wehr; Hanrong Ye; Xinhao Li; Ka Chun Cheung; Wonmin Byeon; Jinwei Gu; Ke Chen; Kai Han; Hongxu Yin; Pavlo Molchanov; Jan Kautz; Sifei Liu
 
-[OpenReview](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Official program](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -8208,7 +9196,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Paul Schwerdtner; Jules Berman; Benjamin Peherstorfer
 
-[OpenReview](<https://openreview.net/forum?id=WkztaHpjt1>) · [Official program](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=WkztaHpjt1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -8226,7 +9216,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Qitao Tan; Jun Liu; Zheng Zhan; Caiwen Ding; Yanzhi Wang; Xiaolong Ma; Jaewoo Lee; Jin Lu; Geng Yuan
 
-[OpenReview](<https://openreview.net/forum?id=Rx6m16By6l>) · [Official program](<https://neurips.cc/virtual/2025/poster/117979>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ffd4f5a2ea6b93e9bf5af9264d568cf2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Rx6m16By6l>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117979>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ffd4f5a2ea6b93e9bf5af9264d568cf2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -8242,7 +9234,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Charlie Chen; Shikai Qiu; Hoang Phan; Qi Lei; Andrew Wilson
 
-[OpenReview](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Official program](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+[Primary source](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8262,7 +9256,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Chen Fan; Mark Schmidt; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -8284,7 +9280,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Licong Lin; Jingfeng Wu; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=jeen4x145W>) · [Official program](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jeen4x145W>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -8304,7 +9302,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Andrés Guzmán-Cordero; Felix Dangel; Gil Goldshlager; Marius Zeinhofer
 
-[OpenReview](<https://openreview.net/forum?id=5YMZfufpfY>) · [Official program](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5YMZfufpfY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8324,7 +9324,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Antonio Orvieto; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=CH72XyZs4y>) · [Official program](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CH72XyZs4y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -8344,7 +9346,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mana Sakai; Ryo Karakida; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8364,7 +9368,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zhen Tian; Xin Zhao; Ji-Rong Wen
 
-[OpenReview](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Official program](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -8384,7 +9390,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Xiaotian Zhang; Yue Shang; Entao Yang; Ge Zhang
 
-[OpenReview](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Official program](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -8404,7 +9412,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zixuan XIa; Aram Davtyan; Paolo Favaro
 
-[OpenReview](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8424,7 +9434,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zhuo Chen; Oriol Comas; Zhuotao Jin; Di Luo; Marin Soljacic
 
-[OpenReview](<https://openreview.net/forum?id=s3maemwE5M>) · [Official program](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s3maemwE5M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -8444,7 +9456,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Jingfeng Wu; Pierre Marion; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=w22e5MrS4X>) · [Official program](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=w22e5MrS4X>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -8464,7 +9478,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xi Zhang; Xiaolin Wu; Jiamang Wang; Weisi Lin
 
-[OpenReview](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Official program](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -8484,7 +9500,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Jörg Franke; Urs Spiegelhalter; Marianna Nezhurina; Jenia Jitsev; Frank Hutter; Michael Hefenbrock
 
-[OpenReview](<https://openreview.net/forum?id=dH8mKmvADv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dH8mKmvADv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8504,7 +9522,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Gerard Ben Arous; Murat Erdogdu; Nuri Mert Vural; Denny Wu
 
-[OpenReview](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -8524,7 +9544,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zhehao Li; Zhehao Li; Kangbo Lyu; Yixuan Li; Tao Du; Ligang Liu
 
-[OpenReview](<https://openreview.net/forum?id=jtMDzggo6M>) · [Official program](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jtMDzggo6M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -8542,7 +9564,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yvann Le Fay; Nicolas Chopin; Simon Barthelmé
 
-[OpenReview](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Official program](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8562,7 +9586,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Arshia Afzal; Elias Abad Rocamora; Leyla Candogan; Pol Puigdemont; Francesco Tonin; Yongtao Wu; Mahsa Shoaran; Volkan Cevher
 
-[OpenReview](<https://openreview.net/forum?id=Ar62cqTduE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ar62cqTduE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -8580,7 +9606,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Peter Richtarik; Simone Maria Giancola; Dymitr Lubczyk; Robin Yadav
 
-[OpenReview](<https://openreview.net/forum?id=EqWZ1yVRfN>) · [Official program](<https://neurips.cc/virtual/2025/poster/119093>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/107aaa54d9481515e981e332e2e115b1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EqWZ1yVRfN>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119093>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/107aaa54d9481515e981e332e2e115b1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -8594,7 +9622,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · XINYU DING; Bangtian Liu; Siyu Liao; Zhongfeng Wang
 
-[OpenReview](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -8612,7 +9642,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Da Chang; Ganzhao Yuan
 
-[OpenReview](<https://openreview.net/forum?id=TDFSKAspoQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117868>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1d769a56c0fd47b03cfa491bdc3be9ba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=TDFSKAspoQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117868>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1d769a56c0fd47b03cfa491bdc3be9ba-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -8628,7 +9660,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yuxi Liu; Renjia Deng; Yutong He; xue wang; Tao Yao; Kun Yuan
 
-[OpenReview](<https://openreview.net/forum?id=yISJGSdzdd>) · [Official program](<https://neurips.cc/virtual/2025/poster/115158>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/73efab19ebde03ff0958f4f155483f57-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=yISJGSdzdd>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115158>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/73efab19ebde03ff0958f4f155483f57-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -8642,7 +9676,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Fangyuan Sun; Ilyas Fatkhullin; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=Cfd5S9108a>) · [Official program](<https://neurips.cc/virtual/2025/poster/119276>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a07bb7288caaea2ecc4c367188bc6db-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Cfd5S9108a>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119276>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a07bb7288caaea2ecc4c367188bc6db-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -8656,7 +9692,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Francesco Orabona; Ryan D&#x27;Orazio
 
-[OpenReview](<https://openreview.net/forum?id=7GwcxPIkip>) · [Official program](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7GwcxPIkip>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -8676,7 +9714,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Konstantinos Oikonomidis; Jan Quan; Panagiotis Patrinos
 
-[OpenReview](<https://openreview.net/forum?id=xGmS1i0pDq>) · [Official program](<https://neurips.cc/virtual/2025/poster/115256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3768bb822e5c024b408dd930c4aafe67-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=xGmS1i0pDq>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3768bb822e5c024b408dd930c4aafe67-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -8690,7 +9730,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Huan Li; Yiming Dong; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=eYKz5M7Aws>) · [Official program](<https://neurips.cc/virtual/2025/poster/116906>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bf9b7879998f32982db708136dcb174b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=eYKz5M7Aws>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116906>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bf9b7879998f32982db708136dcb174b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -8704,7 +9746,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Shaocong Ma; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Official program](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8724,7 +9768,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Moritz Haas; Sebastian Bordt; Ulrike Luxburg; Leena Chennuru Vankadara
 
-[OpenReview](<https://openreview.net/forum?id=hTxnm6H93P>) · [Official program](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hTxnm6H93P>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -8746,7 +9792,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zechun Liu; Changsheng Zhao; Hanxian Huang; Sijia Chen; Jing Zhang; Jiawei Zhao; Scott Roy; Lisa Jin; Yunyang Xiong; Yangyang Shi; Lin Xiao; Yuandong Tian; Bilge Soran; Raghuraman Krishnamoorthi; Tijmen Blankevoort; Vikas Chandra
 
-[OpenReview](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Official program](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8766,7 +9814,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · DongWon Kim; Sungdong Lee; Joong-Ho (Johann) Won
 
-[OpenReview](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -8784,7 +9834,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Hanzhen Zhao; Ding Shihong; Cong Fang; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Official program](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8804,7 +9856,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Phuc Tran; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Official program](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -8822,7 +9876,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Korbinian Pöppel; Richard Freinschlag; Thomas Schmied; Wei Lin; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=2sa13vyCn0>) · [Official program](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2sa13vyCn0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -8842,7 +9898,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kai Lion; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=jDxFD45kkc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jDxFD45kkc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -8866,7 +9924,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Shane Bergsma; Nolan Dey; Gurpreet Gosal; Gavia Gray; Daria Soboleva; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -8888,7 +9948,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Houyi Li; Wenzhen Zheng; Qiufeng Wang; Zhenyu Ding; Haoying Wang; Zili Wang; Shijie Xuyang; Ning DING; Shuigeng Zhou; Xiangyu Zhang; Daxin Jiang
 
-[OpenReview](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Official program](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -8910,7 +9972,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Anirudh Chakravarthy; Shuai Zheng; Xin Huang; Sachithra Hemachandra; Xiao Zhang; Yuning Chai; Zhao Chen
 
-[OpenReview](<https://openreview.net/forum?id=Yyb1Gi8e36>) · [Official program](<https://neurips.cc/virtual/2025/poster/117387>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/130534d1b9f0a54bb59b529589123cb4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Yyb1Gi8e36>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117387>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/130534d1b9f0a54bb59b529589123cb4-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -8924,7 +9988,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Jacob Block; Sundararajan Srinivasan; Liam Collins; Aryan Mokhtari; Sanjay Shakkottai
 
-[OpenReview](<https://openreview.net/forum?id=QUN6uidabr>) · [Official program](<https://neurips.cc/virtual/2025/poster/118126>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/369d5d79908d1f7d4b4ac42e68037a13-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=QUN6uidabr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118126>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/369d5d79908d1f7d4b4ac42e68037a13-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -8938,7 +10004,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Pengyun Yue; Xuanlin Yang; Mingqing Xiao; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Official program](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -8960,7 +10028,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Runa Eschenhagen; Aaron Defazio; Tsung-Hsien Lee; Richard Turner; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=kePsKwxvaV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kePsKwxvaV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics; X1 — Matrix functions, roots and matrix geometry.
 
@@ -8990,7 +10060,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ipsita Ghosh; Ethan Nguyen; Christian Kümmerle
 
-[OpenReview](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Official program](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -9010,7 +10082,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Yutong Wang; Haiyu Wang; Sai Qian Zhang
 
-[OpenReview](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Official program](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -9030,7 +10104,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yilang Zhang; Bingcong Li; Georgios Giannakis
 
-[OpenReview](<https://openreview.net/forum?id=zefDc9oi5T>) · [Official program](<https://neurips.cc/virtual/2025/poster/115034>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/85c1ee0b3cdf49b84f14b163b01f2711-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=zefDc9oi5T>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115034>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/85c1ee0b3cdf49b84f14b163b01f2711-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -9044,7 +10120,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Noga Bar; Mariia Seleznova; ‪Yotam Alexander‬‏; Gitta Kutyniok; Raja Giryes
 
-[OpenReview](<https://openreview.net/forum?id=bd8kppxyB3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bd8kppxyB3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -9064,7 +10142,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Giyeong Oh; Woohyun Cho; Siyeol Kim; Suhwan Choi; Youngjae Yu
 
-[OpenReview](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Official program](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -9086,7 +10166,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Jiawei Gu; Ziyue Qiao; Xinming Li; Zechao Li
 
-[OpenReview](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Official program](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -9106,7 +10188,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Junda Zhu; Jun Ai; Yujun Li; Yichun Yin; Yasheng Wang; Lifeng Shang; Qun Liu
 
-[OpenReview](<https://openreview.net/forum?id=0RF80tUWuv>) · [Official program](<https://neurips.cc/virtual/2025/poster/120320>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/31dc7ab2a83641aa58b57017545f0e7e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=0RF80tUWuv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120320>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/31dc7ab2a83641aa58b57017545f0e7e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -9120,7 +10204,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Chaoran Cheng; Yusong Wang; Yuxin Chen; Xiangxin Zhou; Nanning Zheng; Ge Liu
 
-[OpenReview](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -9136,7 +10222,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Antoine Collas; Ce Ju; Nicolas Salvy; Bertrand Thirion
 
-[OpenReview](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X1 — Matrix functions, roots and matrix geometry.
 
@@ -9160,7 +10248,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yunrui Guan; Krishnakumar Balasubramanian; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Official program](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -9176,7 +10266,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Marshal Sinaga; Julien Martinelli; Samuel Kaski
 
-[OpenReview](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Official program](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -9194,7 +10286,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ahmad Bdeir; Johannes Burchert; Lars Schmidt-Thieme; Niels Landwehr
 
-[OpenReview](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Official program](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -9212,7 +10306,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zukang Xu; Xing Hu; Qiang Wu; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Official program](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X6 — Matrix and tensor methods for compression.
 
@@ -9234,7 +10330,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Chenyu Zheng; Xinyu Zhang; Rongzhen Wang; Wei Huang; Zhi Tian; Weilin Huang; Jun Zhu; Chongxuan LI
 
-[OpenReview](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -9254,7 +10352,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Howe Tissue; Venus Wang; Lu Wang
 
-[OpenReview](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -9276,7 +10376,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Frederik Kunstner; Francis Bach
 
-[OpenReview](<https://openreview.net/forum?id=VUbwLjLkws>) · [Official program](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VUbwLjLkws>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -9298,7 +10400,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mustafa Shukor; Louis Bethune; Dan Busbridge; David Grangier; Enrico Fini; Alaaeldin El-Nouby; Pierre Ablin
 
-[OpenReview](<https://openreview.net/forum?id=vVU1KTOsju>) · [Official program](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=vVU1KTOsju>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -9318,7 +10422,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Abdurakhmon Sadiev; Peter Richtarik; Ilyas Fatkhullin
 
-[OpenReview](<https://openreview.net/forum?id=rgrpS4SFNF>) · [Official program](<https://neurips.cc/virtual/2025/poster/115749>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/be7b70477c8fca697f14b1dbb1c086d1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rgrpS4SFNF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115749>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/be7b70477c8fca697f14b1dbb1c086d1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -9332,7 +10438,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Evan Markou; Thalaiyasingam Ajanthan; Stephen Gould
 
-[OpenReview](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Official program](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -9350,7 +10458,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Son Nguyen; Aymeric Histace; Nistor Grozavu
 
-[OpenReview](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Official program](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -9366,7 +10476,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Amber Hu; Henry Smith; Scott Linderman
 
-[OpenReview](<https://openreview.net/forum?id=jmnt0F21K7>) · [Official program](<https://neurips.cc/virtual/2025/poster/116435>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e23b1d49a1fe9732e6d6175006113010-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jmnt0F21K7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116435>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e23b1d49a1fe9732e6d6175006113010-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -9380,7 +10492,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ryien Hosseini; Filippo Simini; Venkatram Vishwanath; Rebecca Willett; Henry Hoffmann
 
-[OpenReview](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Official program](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -9398,7 +10512,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Zhijie Chen; Qiaobo Li; Arindam Banerjee
 
-[OpenReview](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Official program](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; X4 — Randomized sketching and kernel approximations.
 
@@ -9418,7 +10534,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Felipe Maia Polo; Seamus Somerstep; Leshem Choshen; Yuekai Sun; Mikhail Yurochkin
 
-[OpenReview](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Official program](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -9438,7 +10556,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Martin Marek; Sanae Lotfi; Aditya Somasundaram; Andrew Wilson; Micah Goldblum
 
-[OpenReview](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Official program](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -9460,7 +10580,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yong Liu; Zirui Zhu; Chaoyu Gong; Minhao Cheng; Cho-Jui Hsieh; Yang You
 
-[OpenReview](<https://openreview.net/forum?id=Tjw0ACu3NL>) · [Official program](<https://neurips.cc/virtual/2025/poster/117825>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1e5c2efbddc02c1d971e2f19ccdb07d0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Tjw0ACu3NL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117825>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1e5c2efbddc02c1d971e2f19ccdb07d0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -9474,7 +10596,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Tianqi Qiao; Marie Maros
 
-[OpenReview](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Official program](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -9494,7 +10618,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Siavash Ameli; Chris van der Heide; Liam Hodgkinson; Michael Mahoney
 
-[OpenReview](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Official program](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -9512,7 +10638,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ido Cohen; Ronen Talmon
 
-[OpenReview](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -9534,7 +10662,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Phuc Tran; Van Vu; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=F0JzotXYgC>) · [Official program](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=F0JzotXYgC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -9552,7 +10682,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhizhong Li; Sina Sajadmanesh; Jingtao Li; Lingjuan Lyu
 
-[OpenReview](<https://openreview.net/forum?id=55Lv1unlUL>) · [Official program](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=55Lv1unlUL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -9574,7 +10706,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Anda Tang; Yiming Dong; Yutao Zeng; zhou Xun; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=rNcIJi7N65>) · [Official program](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rNcIJi7N65>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -9596,7 +10730,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Yixuan Jiang; Jie Wang; Xinyi Li; Jian Luo; huanshuo dong
 
-[OpenReview](<https://openreview.net/forum?id=nimTd1IJz1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nimTd1IJz1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -9614,7 +10750,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Qijun Luo; Mengqi Li; Lei Zhao; Xiao Li
 
-[OpenReview](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Official program](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -9636,7 +10774,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Aleksandar Terzic; Nicolas Menet; Michael Hersche; Thomas Hofmann; Abbas Rahimi
 
-[OpenReview](<https://openreview.net/forum?id=RDbuSCWhad>) · [Official program](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=RDbuSCWhad>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -9656,7 +10796,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Sahar Rajabi; Nayeema Nonta; Sirisha Rambhatla
 
-[OpenReview](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -9684,7 +10826,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yehonathan Refael; Guy Smorodinsky; Tom Tirer; Ofir Lindenbaum
 
-[OpenReview](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Official program](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -9704,7 +10848,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (oral)** · Yizhou Liu; Ziming Liu; Jeff Gore
 
-[OpenReview](<https://openreview.net/forum?id=knPz7gtjPW>) · [Official program](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=knPz7gtjPW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -9724,7 +10870,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Jie Wang; Minghao Ma; Haoran Shao; Haoyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=Oupeovfx0L>) · [Official program](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Oupeovfx0L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -9742,7 +10890,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yuchao Lin; Cong Fu; Zachary Krueger; Haiyang Yu; Maho Nakata; Jianwen Xie; Emine Kucukbenli; Xiaofeng Qian; Shuiwang Ji
 
-[OpenReview](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Official program](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -9764,7 +10914,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Yifan Zhang; Yifeng Liu; Huizhuo Yuan; Zhen Qin; Yang Yuan; Quanquan Gu; Andrew Yao
 
-[OpenReview](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Official program](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -9784,7 +10936,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Zicheng Zhang; Haoran Li; Yifeng Zhang; Guoqiang Gong; Jiaxing Wang; Pengzhang Liu; Qixia Jiang; Junxing Hu
 
-[OpenReview](<https://openreview.net/forum?id=s4LnWgjacg>) · [Official program](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s4LnWgjacg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; X6 — Matrix and tensor methods for compression.
 
@@ -9812,7 +10966,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Mykola Lukashchuk; Raphaël Trésor; Wouter Nuijten; Ismail Senoz; Bert Vries
 
-[OpenReview](<https://openreview.net/forum?id=XDisynd63Y>) · [Official program](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XDisynd63Y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M1 — General manifold algorithms and convergence theory.
 
@@ -9830,7 +10986,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Bhavya Vasudeva; Jung Lee; Vatsal Sharan; Mahdi Soltanolkotabi
 
-[OpenReview](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -9850,7 +11008,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Emile Anand; Jan van den Brand; Rose McCarty
 
-[OpenReview](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Official program](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -9868,7 +11028,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Minhak Song; Beomhan Baek; Kwangjun Ahn; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Official program](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -9890,7 +11052,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Maximilian Beck; Korbinian Pöppel; Phillip Lippe; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=b6H64u6TqI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b6H64u6TqI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -9910,7 +11074,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Rui Wang; Chen Hu; Xiaoning Song; Xiaojun Wu; Nicu Sebe; Ziheng Chen
 
-[OpenReview](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -9926,7 +11092,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Pratik Rathore; Zachary Frangella; Sachin Garg; Shaghayegh Fazliani; Michal Derezinski; Madeleine Udell
 
-[OpenReview](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Official program](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -9944,7 +11112,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhixuan Pan; Shaowen Wang; Liao Pengfei; Jian Li
 
-[OpenReview](<https://openreview.net/forum?id=853SwC2dMZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=853SwC2dMZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -9964,7 +11134,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Ahmed Khaled; Satyen Kale; Arthur Douillard; Chi Jin; Rob Fergus; Manzil Zaheer
 
-[OpenReview](<https://openreview.net/forum?id=2VX79YLT9s>) · [Official program](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2VX79YLT9s>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -9988,7 +11160,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Kaiqi Jiang; Jeremy Cohen; Yuanzhi Li
 
-[OpenReview](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Official program](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -10008,7 +11182,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Tang; Han Zhang; Yuan Cao; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -10030,7 +11206,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Andrei Panferov; Alexandra Volkova; Ionut-Vlad Modoranu; Vage Egiazarian; Mher Safaryan; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=24wDPGiDzA>) · [Official program](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=24wDPGiDzA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -10050,7 +11228,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Annie Marsden; Elad Hazan
 
-[OpenReview](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X7 — Structured products, transforms and GPU kernels.
 
@@ -10070,7 +11250,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Haocheng Luo; Mehrtash Harandi; Dinh Phung; Trung Le
 
-[OpenReview](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Official program](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -10090,7 +11272,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Avrajit Ghosh; Bai Cong; Rio Yokota; Saiprasad Ravishankar; Rongrong Wang; Molei Tao; Mohammad Emtiyaz Khan; Thomas Möllenhoff
 
-[OpenReview](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Official program](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -10110,7 +11294,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Dominic Maggio; Hyungtae Lim; Luca Carlone
 
-[OpenReview](<https://openreview.net/forum?id=63ljkCGMhE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=63ljkCGMhE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -10128,7 +11314,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Youqi WU; Jingwei Zhang; Farzan Farnia
 
-[OpenReview](<https://openreview.net/forum?id=XougXwZAHI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XougXwZAHI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -10148,7 +11336,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Yuhong CHOU; Zehao Liu; Rui-Jie Zhu; Xinyi Wan; Tianjian Li; Congying Chu; Qian Liu; Jibin Wu; Zejun MA
 
-[OpenReview](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Official program](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -10166,7 +11356,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Viktoria Schram; Markus Hiller; Daniel Beck; Trevor Cohn
 
-[OpenReview](<https://openreview.net/forum?id=paiyYD81Wr>) · [Official program](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=paiyYD81Wr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -10186,7 +11378,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (spotlight)** · Jiecheng Lu; Xu Han; Yan Sun; Viresh Pati; Yubin Kim; Siddhartha Somani; Shihao Yang
 
-[OpenReview](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Official program](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -10204,7 +11398,9 @@ Selection is based on titles, abstracts, and targeted full-text checks; it is no
 
 **NeurIPS 2025 · Accept (poster)** · Liang Zhang; Bingcong Li; Kiran Thekumparampil; Sewoong Oh; Michael Muehlebach; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 

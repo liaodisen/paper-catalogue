@@ -1,6 +1,6 @@
-# Matrix computation and numerical methods — ICML 2026 / ICLR 2026 / NeurIPS 2025
+# All Papers — Matrix computation and numerical methods
 
-186 accepted papers: 51 ICLR 2026, 65 ICML 2026, 70 NeurIPS 2025. Updated 2026-09-24.
+186 curated papers: 51 ICLR 2026, 65 ICML 2026, 70 NeurIPS 2025. Updated 2026-09-24.
 
 The catalog separates direct deep-learning applications, general ML, theoretical foundations and scientific computing. X9 includes adjacent numerical primitives beyond matrix algebra. Each entry records the computed quantity, computational idea, qualification and primary-source links. Most entries are supported by the accepted abstract; targeted full-text checks are marked.
 
@@ -22,7 +22,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Nikita Kalinin; Ryan McKenna; Jalaj Upadhyay; Christoph Lampert
 
-[OpenReview](<https://openreview.net/forum?id=EEr6cADbZx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010697>) · [PDF](<https://openreview.net/pdf?id=EEr6cADbZx>)
+[Primary source](<https://openreview.net/forum?id=EEr6cADbZx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010697>) · [PDF](<https://openreview.net/pdf?id=EEr6cADbZx>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -38,7 +40,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ziheng Chen; Yue Song; Xiaojun Wu; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+[Primary source](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -60,7 +64,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Oral)** · Noah Amsel; David Persson; Christopher Musco; Robert M. Gower
 
-[OpenReview](<https://openreview.net/forum?id=yRtgZ1K8hO>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006553>) · [PDF](<https://openreview.net/pdf?id=yRtgZ1K8hO>)
+[Primary source](<https://openreview.net/forum?id=yRtgZ1K8hO>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006553>) · [PDF](<https://openreview.net/pdf?id=yRtgZ1K8hO>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -80,7 +86,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Ionut-Vlad Modoranu; Philip Zmushko; Erik Schultheis; Mher Safaryan; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=ujeyxKwTGM>) · [Official program](<https://icml.cc/virtual/2026/poster/60988>) · [PDF](<https://openreview.net/pdf?id=ujeyxKwTGM>)
+[Primary source](<https://openreview.net/forum?id=ujeyxKwTGM>) · [Venue page](<https://icml.cc/virtual/2026/poster/60988>) · [PDF](<https://openreview.net/pdf?id=ujeyxKwTGM>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -102,7 +110,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Kyunghun Nam; Sumyeong Ahn
 
-[OpenReview](<https://openreview.net/forum?id=ZwFJbTzJP9>) · [Official program](<https://icml.cc/virtual/2026/poster/63117>) · [PDF](<https://openreview.net/pdf?id=ZwFJbTzJP9>)
+[Primary source](<https://openreview.net/forum?id=ZwFJbTzJP9>) · [Venue page](<https://icml.cc/virtual/2026/poster/63117>) · [PDF](<https://openreview.net/pdf?id=ZwFJbTzJP9>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -120,7 +130,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Shenghao Yang; Zhichao Wang; Oleg Balabanov; N. Benjamin Erichson; Michael Mahoney
 
-[OpenReview](<https://openreview.net/forum?id=hwhvjhXC0m>) · [Official program](<https://icml.cc/virtual/2026/poster/62288>) · [PDF](<https://openreview.net/pdf?id=hwhvjhXC0m>)
+[Primary source](<https://openreview.net/forum?id=hwhvjhXC0m>) · [Venue page](<https://icml.cc/virtual/2026/poster/62288>) · [PDF](<https://openreview.net/pdf?id=hwhvjhXC0m>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -140,7 +152,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Kevin Frans; Sergey Levine; Pieter Abbeel
 
-[OpenReview](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -160,7 +174,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Phuc Tran; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Official program](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -178,7 +194,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Kai Lion; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=jDxFD45kkc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jDxFD45kkc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -202,7 +220,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Runa Eschenhagen; Aaron Defazio; Tsung-Hsien Lee; Richard Turner; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=kePsKwxvaV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kePsKwxvaV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics; X1 — Matrix functions, roots and matrix geometry.
 
@@ -232,7 +252,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Jiawei Gu; Ziyue Qiao; Xinming Li; Zechao Li
 
-[OpenReview](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Official program](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -252,7 +274,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Antoine Collas; Ce Ju; Nicolas Salvy; Bertrand Thirion
 
-[OpenReview](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X1 — Matrix functions, roots and matrix geometry.
 
@@ -276,7 +300,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yehonathan Refael; Guy Smorodinsky; Tom Tirer; Ofir Lindenbaum
 
-[OpenReview](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Official program](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -299,7 +325,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Hong Wang; Jie Wang; Jian Luo; huanshuo dong; Yeqiu Chen; Runmin Jiang; Zhen Huang
 
-[OpenReview](<https://openreview.net/forum?id=rrbCQT7JKX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007112>) · [PDF](<https://openreview.net/pdf?id=rrbCQT7JKX>)
+[Primary source](<https://openreview.net/forum?id=rrbCQT7JKX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007112>) · [PDF](<https://openreview.net/pdf?id=rrbCQT7JKX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -315,7 +343,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Shirin Shoushtari; Yi Wang; Xiao Shi; Salman Asif; Ulugbek Kamilov
 
-[OpenReview](<https://openreview.net/forum?id=Dq64kthckN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010743>) · [PDF](<https://openreview.net/pdf?id=Dq64kthckN>)
+[Primary source](<https://openreview.net/forum?id=Dq64kthckN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010743>) · [PDF](<https://openreview.net/pdf?id=Dq64kthckN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -331,7 +361,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Xiao Zhang; Xiangyu Han; Xiwen Lai; Yao Sun; Pei Zhang; Xia Liu; Konrad P Kording
 
-[OpenReview](<https://openreview.net/forum?id=PvWHzAf9qp>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009636>) · [PDF](<https://openreview.net/pdf?id=PvWHzAf9qp>)
+[Primary source](<https://openreview.net/forum?id=PvWHzAf9qp>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009636>) · [PDF](<https://openreview.net/pdf?id=PvWHzAf9qp>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -347,7 +379,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ranran Shen; Xiaoyi Zhu; Pan Peng; Zengfeng Huang
 
-[OpenReview](<https://openreview.net/forum?id=0GpolO2auw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011950>) · [PDF](<https://openreview.net/pdf?id=0GpolO2auw>)
+[Primary source](<https://openreview.net/forum?id=0GpolO2auw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011950>) · [PDF](<https://openreview.net/pdf?id=0GpolO2auw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -363,7 +397,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ravindran Kannan; Kijun Shin; David Woodruff
 
-[OpenReview](<https://openreview.net/forum?id=N1kiOll2EN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009900>) · [PDF](<https://openreview.net/pdf?id=N1kiOll2EN>)
+[Primary source](<https://openreview.net/forum?id=N1kiOll2EN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009900>) · [PDF](<https://openreview.net/pdf?id=N1kiOll2EN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -379,7 +415,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Samuel Fernandez; Eduardo Pavez; Antonio Ortega
 
-[OpenReview](<https://openreview.net/forum?id=kD8iJmyn5l>) · [Official program](<https://icml.cc/virtual/2026/poster/62060>) · [PDF](<https://openreview.net/pdf?id=kD8iJmyn5l>)
+[Primary source](<https://openreview.net/forum?id=kD8iJmyn5l>) · [Venue page](<https://icml.cc/virtual/2026/poster/62060>) · [PDF](<https://openreview.net/pdf?id=kD8iJmyn5l>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -395,7 +433,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yeqiu Chen; Ziyan Liu; Hong Wang; Lei Liu
 
-[OpenReview](<https://openreview.net/forum?id=ZaOZDGJDAM>) · [Official program](<https://icml.cc/virtual/2026/poster/63150>) · [PDF](<https://openreview.net/pdf?id=ZaOZDGJDAM>)
+[Primary source](<https://openreview.net/forum?id=ZaOZDGJDAM>) · [Venue page](<https://icml.cc/virtual/2026/poster/63150>) · [PDF](<https://openreview.net/pdf?id=ZaOZDGJDAM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -411,7 +451,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Atsushi Takabatake; Takaharu Yaguchi
 
-[OpenReview](<https://openreview.net/forum?id=eeRgTFtEjv>) · [Official program](<https://icml.cc/virtual/2026/poster/62656>) · [PDF](<https://openreview.net/pdf?id=eeRgTFtEjv>)
+[Primary source](<https://openreview.net/forum?id=eeRgTFtEjv>) · [Venue page](<https://icml.cc/virtual/2026/poster/62656>) · [PDF](<https://openreview.net/pdf?id=eeRgTFtEjv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -427,7 +469,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Min Xue; Artur Andrzejak
 
-[OpenReview](<https://openreview.net/forum?id=7tt8TwMjdJ>) · [Official program](<https://icml.cc/virtual/2026/poster/66016>) · [PDF](<https://openreview.net/pdf?id=7tt8TwMjdJ>)
+[Primary source](<https://openreview.net/forum?id=7tt8TwMjdJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/66016>) · [PDF](<https://openreview.net/pdf?id=7tt8TwMjdJ>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -443,7 +487,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Ruoling Qi; Yirui Liu; Xuaner Wu; Xiangyu Wang; Ming Li; Chen Chen; Jian Chen; Yin Chen; Qizhen Weng
 
-[OpenReview](<https://openreview.net/forum?id=nAQ4h8FpdM>) · [Official program](<https://icml.cc/virtual/2026/poster/61765>) · [PDF](<https://openreview.net/pdf?id=nAQ4h8FpdM>)
+[Primary source](<https://openreview.net/forum?id=nAQ4h8FpdM>) · [Venue page](<https://icml.cc/virtual/2026/poster/61765>) · [PDF](<https://openreview.net/pdf?id=nAQ4h8FpdM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -461,7 +507,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Minchan Jeong; Jongha (Jon) Ryu; Se-Young Yun; Gregory Wornell
 
-[OpenReview](<https://openreview.net/forum?id=kL2pnzClyD>) · [Official program](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kL2pnzClyD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -479,7 +527,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Paul Schwerdtner; Jules Berman; Benjamin Peherstorfer
 
-[OpenReview](<https://openreview.net/forum?id=WkztaHpjt1>) · [Official program](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=WkztaHpjt1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -497,7 +547,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Siavash Ameli; Chris van der Heide; Liam Hodgkinson; Michael Mahoney
 
-[OpenReview](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Official program](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -515,7 +567,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Ido Cohen; Ronen Talmon
 
-[OpenReview](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -537,7 +591,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (oral)** · Phuc Tran; Van Vu; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=F0JzotXYgC>) · [Official program](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=F0JzotXYgC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -555,7 +611,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Yixuan Jiang; Jie Wang; Xinyi Li; Jian Luo; huanshuo dong
 
-[OpenReview](<https://openreview.net/forum?id=nimTd1IJz1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nimTd1IJz1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -573,7 +631,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Sahar Rajabi; Nayeema Nonta; Sirisha Rambhatla
 
-[OpenReview](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -604,7 +664,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Zekun Wang; Anant Gupta; Zihan Dong; Christopher MacLellan
 
-[OpenReview](<https://openreview.net/forum?id=zCZcbRsc4g>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006476>) · [PDF](<https://openreview.net/pdf?id=zCZcbRsc4g>)
+[Primary source](<https://openreview.net/forum?id=zCZcbRsc4g>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006476>) · [PDF](<https://openreview.net/pdf?id=zCZcbRsc4g>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -620,7 +682,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Philipp Alexander Kreer; Wilson Wu; Maxwell Adam; Zach Furman; Jesse Hoogland
 
-[OpenReview](<https://openreview.net/forum?id=YEBpZVm70i>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008904>) · [PDF](<https://openreview.net/pdf?id=YEBpZVm70i>)
+[Primary source](<https://openreview.net/forum?id=YEBpZVm70i>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008904>) · [PDF](<https://openreview.net/pdf?id=YEBpZVm70i>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -640,7 +704,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yihong Chen; Xiangxiang Xu; Pontus Stenetorp; Sebastian Riedel; Luca Franceschi
 
-[OpenReview](<https://openreview.net/forum?id=u6JLh0BO5h>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006920>) · [PDF](<https://openreview.net/pdf?id=u6JLh0BO5h>)
+[Primary source](<https://openreview.net/forum?id=u6JLh0BO5h>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006920>) · [PDF](<https://openreview.net/pdf?id=u6JLh0BO5h>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -656,7 +722,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ke Sun
 
-[OpenReview](<https://openreview.net/forum?id=Ssevs8KCsU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009375>) · [PDF](<https://openreview.net/pdf?id=Ssevs8KCsU>)
+[Primary source](<https://openreview.net/forum?id=Ssevs8KCsU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009375>) · [PDF](<https://openreview.net/pdf?id=Ssevs8KCsU>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -672,7 +740,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Jinyang ZHENG; Tong Wu
 
-[OpenReview](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+[Primary source](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -694,7 +764,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Sameera Ramasinghe; Thalaiyasingam Ajanthan; Hadi Mohaghegh Dolatabadi; Chamin Hewa Koneputugodage; Gil Avraham; Violetta Shevchenko; Yan Zuo; Karol Pajak; Alexander Long
 
-[OpenReview](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+[Primary source](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -720,7 +792,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Wenbo Gong; Meyer Scetbon; Chao Ma; Edward Meeds
 
-[OpenReview](<https://openreview.net/forum?id=KUFZXdem5R>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010128>) · [PDF](<https://openreview.net/pdf?id=KUFZXdem5R>)
+[Primary source](<https://openreview.net/forum?id=KUFZXdem5R>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010128>) · [PDF](<https://openreview.net/pdf?id=KUFZXdem5R>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -740,7 +814,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Wu Lin; Scott C. Lowe; Felix Dangel; Runa Eschenhagen; Zikun Xu; Roger Grosse
 
-[OpenReview](<https://openreview.net/forum?id=pQQuC1nIQq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007330>) · [PDF](<https://openreview.net/pdf?id=pQQuC1nIQq>)
+[Primary source](<https://openreview.net/forum?id=pQQuC1nIQq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007330>) · [PDF](<https://openreview.net/pdf?id=pQQuC1nIQq>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -758,7 +834,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Roger Hsiao; Yuchen Fang; Xiangru Huang; Ruilong Li; Hesam Rabeti; Zan Gojcic; Javad Lavaei; James Demmel; Sophia Shao
 
-[OpenReview](<https://openreview.net/forum?id=Kaliw0BQL9>) · [Official program](<https://icml.cc/virtual/2026/poster/64716>) · [PDF](<https://openreview.net/pdf?id=Kaliw0BQL9>)
+[Primary source](<https://openreview.net/forum?id=Kaliw0BQL9>) · [Venue page](<https://icml.cc/virtual/2026/poster/64716>) · [PDF](<https://openreview.net/pdf?id=Kaliw0BQL9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -774,7 +852,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Zihao Zhao; Kai-Chia Mo; Shing-Hei Ho; Brandon Amos; Kai Wang
 
-[OpenReview](<https://openreview.net/forum?id=jJur8Fq7IK>) · [Official program](<https://icml.cc/virtual/2026/poster/62152>) · [PDF](<https://openreview.net/pdf?id=jJur8Fq7IK>)
+[Primary source](<https://openreview.net/forum?id=jJur8Fq7IK>) · [Venue page](<https://icml.cc/virtual/2026/poster/62152>) · [PDF](<https://openreview.net/pdf?id=jJur8Fq7IK>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -790,7 +870,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yuxuan Linghu; Zhiyuan Liu; Qi Deng
 
-[OpenReview](<https://openreview.net/forum?id=2jpMiRwsrL>) · [Official program](<https://icml.cc/virtual/2026/poster/66543>) · [PDF](<https://openreview.net/pdf?id=2jpMiRwsrL>)
+[Primary source](<https://openreview.net/forum?id=2jpMiRwsrL>) · [Venue page](<https://icml.cc/virtual/2026/poster/66543>) · [PDF](<https://openreview.net/pdf?id=2jpMiRwsrL>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -808,7 +890,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Gil Goldshlager; Jiang Hu; Lin Lin
 
-[OpenReview](<https://openreview.net/forum?id=2iDtIht7W4>) · [Official program](<https://icml.cc/virtual/2026/poster/66550>) · [PDF](<https://openreview.net/pdf?id=2iDtIht7W4>)
+[Primary source](<https://openreview.net/forum?id=2iDtIht7W4>) · [Venue page](<https://icml.cc/virtual/2026/poster/66550>) · [PDF](<https://openreview.net/pdf?id=2iDtIht7W4>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -826,7 +910,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Junhyeong Lee; Sangjin Jin; Yongjae Lee
 
-[OpenReview](<https://openreview.net/forum?id=ZDtFevjwin>) · [Official program](<https://icml.cc/virtual/2026/poster/63194>) · [PDF](<https://openreview.net/pdf?id=ZDtFevjwin>)
+[Primary source](<https://openreview.net/forum?id=ZDtFevjwin>) · [Venue page](<https://icml.cc/virtual/2026/poster/63194>) · [PDF](<https://openreview.net/pdf?id=ZDtFevjwin>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -842,7 +928,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Marc Molina Van den bosch; Riccardo Taiello; Albert Aillet; Andrea Protani; Miguel Angel Gonzalez Ballester; Luigi Serio
 
-[OpenReview](<https://openreview.net/forum?id=Z6HxJqAzbp>) · [Official program](<https://icml.cc/virtual/2026/poster/63209>) · [PDF](<https://openreview.net/pdf?id=Z6HxJqAzbp>)
+[Primary source](<https://openreview.net/forum?id=Z6HxJqAzbp>) · [Venue page](<https://icml.cc/virtual/2026/poster/63209>) · [PDF](<https://openreview.net/pdf?id=Z6HxJqAzbp>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -860,7 +948,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yiting Chen; Zongwei Huo; Junchi Yan
 
-[OpenReview](<https://openreview.net/forum?id=z0m3EhzhOH>) · [Official program](<https://icml.cc/virtual/2026/poster/60558>) · [PDF](<https://openreview.net/pdf?id=z0m3EhzhOH>)
+[Primary source](<https://openreview.net/forum?id=z0m3EhzhOH>) · [Venue page](<https://icml.cc/virtual/2026/poster/60558>) · [PDF](<https://openreview.net/pdf?id=z0m3EhzhOH>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -878,7 +968,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Genki Osada
 
-[OpenReview](<https://openreview.net/forum?id=rJ2gMA21ZW>) · [Official program](<https://icml.cc/virtual/2026/poster/61325>) · [PDF](<https://openreview.net/pdf?id=rJ2gMA21ZW>)
+[Primary source](<https://openreview.net/forum?id=rJ2gMA21ZW>) · [Venue page](<https://icml.cc/virtual/2026/poster/61325>) · [PDF](<https://openreview.net/pdf?id=rJ2gMA21ZW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -896,7 +988,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Albert Tseng; Zhaofeng Sun; Chris De Sa
 
-[OpenReview](<https://openreview.net/forum?id=PKFilPWjMI>) · [Official program](<https://icml.cc/virtual/2026/poster/64269>) · [PDF](<https://openreview.net/pdf?id=PKFilPWjMI>)
+[Primary source](<https://openreview.net/forum?id=PKFilPWjMI>) · [Venue page](<https://icml.cc/virtual/2026/poster/64269>) · [PDF](<https://openreview.net/pdf?id=PKFilPWjMI>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -914,7 +1008,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Deyi Kong; Zaiwei Chen; Shuzhong Zhang; Shancong Mou
 
-[OpenReview](<https://openreview.net/forum?id=4K54YHTG2i>) · [Official program](<https://icml.cc/virtual/2026/poster/66368>) · [PDF](<https://openreview.net/pdf?id=4K54YHTG2i>)
+[Primary source](<https://openreview.net/forum?id=4K54YHTG2i>) · [Venue page](<https://icml.cc/virtual/2026/poster/66368>) · [PDF](<https://openreview.net/pdf?id=4K54YHTG2i>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -934,7 +1030,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Mingfei Sun
 
-[OpenReview](<https://openreview.net/forum?id=oVtiySvpXz>) · [Official program](<https://icml.cc/virtual/2026/poster/61606>) · [PDF](<https://openreview.net/pdf?id=oVtiySvpXz>)
+[Primary source](<https://openreview.net/forum?id=oVtiySvpXz>) · [Venue page](<https://icml.cc/virtual/2026/poster/61606>) · [PDF](<https://openreview.net/pdf?id=oVtiySvpXz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -952,7 +1050,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Junbin Qiu; Zhaowei Hong; Renzhe Xu; Yao Shu
 
-[OpenReview](<https://openreview.net/forum?id=nEQYu4ndGA>) · [Official program](<https://icml.cc/virtual/2026/poster/61753>) · [PDF](<https://openreview.net/pdf?id=nEQYu4ndGA>)
+[Primary source](<https://openreview.net/forum?id=nEQYu4ndGA>) · [Venue page](<https://icml.cc/virtual/2026/poster/61753>) · [PDF](<https://openreview.net/pdf?id=nEQYu4ndGA>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -968,7 +1068,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Viktoriia Chekalina; Daniil Moskovskiy; Tatyana Matveeva; Andrey Kuznetsov; Evgeny Frolov
 
-[OpenReview](<https://openreview.net/forum?id=pNe5fVK1tR>) · [Official program](<https://icml.cc/virtual/2026/poster/61515>) · [PDF](<https://openreview.net/pdf?id=pNe5fVK1tR>)
+[Primary source](<https://openreview.net/forum?id=pNe5fVK1tR>) · [Venue page](<https://icml.cc/virtual/2026/poster/61515>) · [PDF](<https://openreview.net/pdf?id=pNe5fVK1tR>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -986,7 +1088,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Bar Mahpud; Or Sheffet
 
-[OpenReview](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1004,7 +1108,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Kang An; Yuxing Liu; Rui Pan; Yi Ren; Shiqian Ma; Donald Goldfarb; Tong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=fru52tkjHf>) · [Official program](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fru52tkjHf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1024,7 +1130,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Andrew Wang; Elisa Nguyen; Runshi Yang; Juhan Bae; Sheila McIlraith; Roger Grosse
 
-[OpenReview](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1046,7 +1154,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Mahdi Nikdan; Vincent Cohen-Addad; Dan Alistarh; Vahab Mirrokni
 
-[OpenReview](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1064,7 +1174,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yoav Gelberg; Yam Eitan; Aviv Navon; Aviv Shamsian; Theo Putterman; Michael Bronstein; Haggai Maron
 
-[OpenReview](<https://openreview.net/forum?id=Gvex75bPMI>) · [Official program](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvex75bPMI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1084,7 +1196,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Andrés Guzmán-Cordero; Felix Dangel; Gil Goldshlager; Marius Zeinhofer
 
-[OpenReview](<https://openreview.net/forum?id=5YMZfufpfY>) · [Official program](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5YMZfufpfY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1104,7 +1218,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Zixuan XIa; Aram Davtyan; Paolo Favaro
 
-[OpenReview](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1124,7 +1240,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yvann Le Fay; Nicolas Chopin; Simon Barthelmé
 
-[OpenReview](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Official program](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1144,7 +1262,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Shaocong Ma; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Official program](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1164,7 +1284,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Hanzhen Zhao; Ding Shihong; Cong Fang; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Official program](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1184,7 +1306,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Pengyun Yue; Xuanlin Yang; Mingqing Xiao; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Official program](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1206,7 +1330,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Qijun Luo; Mengqi Li; Lei Zhao; Xiao Li
 
-[OpenReview](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Official program](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1231,7 +1357,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Matthew Zhang; Jihao Andreas Lin; Krzysztof Choromanski; Adrian Weller; Richard E Turner; Isaac Reid
 
-[OpenReview](<https://openreview.net/forum?id=89SQfLguNn>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011224>) · [PDF](<https://openreview.net/pdf?id=89SQfLguNn>)
+[Primary source](<https://openreview.net/forum?id=89SQfLguNn>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011224>) · [PDF](<https://openreview.net/pdf?id=89SQfLguNn>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1247,7 +1375,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Dongxie Wen; Hanyan Yin; Xiao Zhang; Peng Zhao; Lijun Zhang; Zhewei Wei
 
-[OpenReview](<https://openreview.net/forum?id=FKEHiHU4bN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010610>) · [PDF](<https://openreview.net/pdf?id=FKEHiHU4bN>)
+[Primary source](<https://openreview.net/forum?id=FKEHiHU4bN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010610>) · [PDF](<https://openreview.net/pdf?id=FKEHiHU4bN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1263,7 +1393,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Sawan Kumar; Souvik Chakraborty
 
-[OpenReview](<https://openreview.net/forum?id=fWhRslwYri>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008227>) · [PDF](<https://openreview.net/pdf?id=fWhRslwYri>)
+[Primary source](<https://openreview.net/forum?id=fWhRslwYri>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008227>) · [PDF](<https://openreview.net/pdf?id=fWhRslwYri>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1279,7 +1411,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Zhao Song; Shenghao Xie; Samson Zhou
 
-[OpenReview](<https://openreview.net/forum?id=ZgLEEp7AwL>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008784>) · [PDF](<https://openreview.net/pdf?id=ZgLEEp7AwL>)
+[Primary source](<https://openreview.net/forum?id=ZgLEEp7AwL>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008784>) · [PDF](<https://openreview.net/pdf?id=ZgLEEp7AwL>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1295,7 +1429,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Krzysztof Choromanski; Kumar Avinava Dubey; Arijit Sehanobish; Isaac Reid
 
-[OpenReview](<https://openreview.net/forum?id=NvJPE1oiKd>) · [Official program](<https://icml.cc/virtual/2026/poster/64410>) · [PDF](<https://openreview.net/pdf?id=NvJPE1oiKd>)
+[Primary source](<https://openreview.net/forum?id=NvJPE1oiKd>) · [Venue page](<https://icml.cc/virtual/2026/poster/64410>) · [PDF](<https://openreview.net/pdf?id=NvJPE1oiKd>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1311,7 +1447,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Rikhav Shah; Sandeep Silwal; Haike Xu
 
-[OpenReview](<https://openreview.net/forum?id=ueNIrBXz7R>) · [Official program](<https://icml.cc/virtual/2026/poster/61003>) · [PDF](<https://openreview.net/pdf?id=ueNIrBXz7R>)
+[Primary source](<https://openreview.net/forum?id=ueNIrBXz7R>) · [Venue page](<https://icml.cc/virtual/2026/poster/61003>) · [PDF](<https://openreview.net/pdf?id=ueNIrBXz7R>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1327,7 +1465,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Rajat Vadiraj Dwaraknath; Sungyoon Kim; Mert Pilanci
 
-[OpenReview](<https://openreview.net/forum?id=cCwxV6rSXF>) · [Official program](<https://icml.cc/virtual/2026/oral/71181>) · [PDF](<https://openreview.net/pdf?id=cCwxV6rSXF>)
+[Primary source](<https://openreview.net/forum?id=cCwxV6rSXF>) · [Venue page](<https://icml.cc/virtual/2026/oral/71181>) · [PDF](<https://openreview.net/pdf?id=cCwxV6rSXF>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1345,7 +1485,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Jinglong Xiong; Xiaotian Liu; Ruoxin Wang; Zihang Liu; Yefan Zhou; Yujun Yan; Yaoqing Yang
 
-[OpenReview](<https://openreview.net/forum?id=Oj2I1xdKpv>) · [Official program](<https://icml.cc/virtual/2026/poster/64326>) · [PDF](<https://openreview.net/pdf?id=Oj2I1xdKpv>)
+[Primary source](<https://openreview.net/forum?id=Oj2I1xdKpv>) · [Venue page](<https://icml.cc/virtual/2026/poster/64326>) · [PDF](<https://openreview.net/pdf?id=Oj2I1xdKpv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1363,7 +1505,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Zhiming Zhang; Rong Yin; Xiaoshuai Hao; Hansong Zhang; Hao Peng; Yong Liu; Can Ma; Dan Meng
 
-[OpenReview](<https://openreview.net/forum?id=ytlRCCl7Pf>) · [Official program](<https://icml.cc/virtual/2026/poster/60572>) · [PDF](<https://openreview.net/pdf?id=ytlRCCl7Pf>)
+[Primary source](<https://openreview.net/forum?id=ytlRCCl7Pf>) · [Venue page](<https://icml.cc/virtual/2026/poster/60572>) · [PDF](<https://openreview.net/pdf?id=ytlRCCl7Pf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1379,7 +1523,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Alessandro Manenti; Kumar Avinava Dubey; Arijit Sehanobish; Cesare Alippi; Krzysztof Choromanski
 
-[OpenReview](<https://openreview.net/forum?id=LBcnybFVBp>) · [Official program](<https://icml.cc/virtual/2026/poster/64659>) · [PDF](<https://openreview.net/pdf?id=LBcnybFVBp>)
+[Primary source](<https://openreview.net/forum?id=LBcnybFVBp>) · [Venue page](<https://icml.cc/virtual/2026/poster/64659>) · [PDF](<https://openreview.net/pdf?id=LBcnybFVBp>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1395,7 +1541,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Haochen Zhang; Junze Yin; Guanchu Wang; Zirui Liu; Lin Yang; Tianyi Zhang; Anshumali Shrivastava; Vladimir Braverman
 
-[OpenReview](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X4 — Randomized sketching and kernel approximations.
 
@@ -1415,7 +1563,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Seewon Choi; Alaia Solko-Breslin; Rajeev Alur; Eric Wong
 
-[OpenReview](<https://openreview.net/forum?id=mor7s1NGBV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=mor7s1NGBV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1433,7 +1583,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Ming Wen; Jiaqi Zhu; Yuedong Xu; Yipeng Zhou; DINGDING HAN
 
-[OpenReview](<https://openreview.net/forum?id=TecJ926Vgn>) · [Official program](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=TecJ926Vgn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X4 — Randomized sketching and kernel approximations.
 
@@ -1453,7 +1605,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Ryien Hosseini; Filippo Simini; Venkatram Vishwanath; Rebecca Willett; Henry Hoffmann
 
-[OpenReview](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Official program](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1471,7 +1625,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Zhijie Chen; Qiaobo Li; Arindam Banerjee
 
-[OpenReview](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Official program](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; X4 — Randomized sketching and kernel approximations.
 
@@ -1491,7 +1647,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Youqi WU; Jingwei Zhang; Farzan Farnia
 
-[OpenReview](<https://openreview.net/forum?id=XougXwZAHI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XougXwZAHI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -1514,7 +1672,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Jaeyoung Hong; YunYoung Choi; Joohwan Ko; Minseon Gwak
 
-[OpenReview](<https://openreview.net/forum?id=w7csRoB5CO>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006756>) · [PDF](<https://openreview.net/pdf?id=w7csRoB5CO>)
+[Primary source](<https://openreview.net/forum?id=w7csRoB5CO>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006756>) · [PDF](<https://openreview.net/pdf?id=w7csRoB5CO>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1530,7 +1690,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Xinwei Qiang; Hongmin chen; Shixuan Sun; Jingwen Leng; Xin Liu; Minyi Guo
 
-[OpenReview](<https://openreview.net/forum?id=bMi5ssfPoM>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008616>) · [PDF](<https://openreview.net/pdf?id=bMi5ssfPoM>)
+[Primary source](<https://openreview.net/forum?id=bMi5ssfPoM>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008616>) · [PDF](<https://openreview.net/pdf?id=bMi5ssfPoM>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1548,7 +1710,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Haojie Duanmu; Size Zheng; Ningxin Zheng; Jianqiao Lu; Xuegui Zheng; Xingcheng Zhang; Li-Wen Chang; Xin Liu; Dahua Lin
 
-[OpenReview](<https://openreview.net/forum?id=N4jJQvQSiN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009893>) · [PDF](<https://openreview.net/pdf?id=N4jJQvQSiN>)
+[Primary source](<https://openreview.net/forum?id=N4jJQvQSiN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009893>) · [PDF](<https://openreview.net/pdf?id=N4jJQvQSiN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1564,7 +1728,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Jiefu Zhang; Qin Zhen; Jiabo Tong; Shijie Mei; Jiakui Hu; Yuqi Pan; Anjie Hu; Man Yao; Bo XU; Guoqi Li
 
-[OpenReview](<https://openreview.net/forum?id=HVFjzaQeig>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010385>) · [PDF](<https://openreview.net/pdf?id=HVFjzaQeig>)
+[Primary source](<https://openreview.net/forum?id=HVFjzaQeig>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010385>) · [PDF](<https://openreview.net/pdf?id=HVFjzaQeig>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1580,7 +1746,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Zhe Feng; Sen Lian; Changwei Wang; Muyang Zhang; Tianlong Tan; Rongtao Xu; Weiliang Meng; Xiaopeng Zhang
 
-[OpenReview](<https://openreview.net/forum?id=bJZExGYWqx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008622>) · [PDF](<https://openreview.net/pdf?id=bJZExGYWqx>)
+[Primary source](<https://openreview.net/forum?id=bJZExGYWqx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008622>) · [PDF](<https://openreview.net/pdf?id=bJZExGYWqx>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1596,7 +1764,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yifei Zuo; Yutong Yin; Zhichen Zeng; Ang Li; Banghua Zhu; Zhaoran Wang
 
-[OpenReview](<https://openreview.net/forum?id=WGpzi489XY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009059>) · [PDF](<https://openreview.net/pdf?id=WGpzi489XY>)
+[Primary source](<https://openreview.net/forum?id=WGpzi489XY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009059>) · [PDF](<https://openreview.net/pdf?id=WGpzi489XY>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1612,7 +1782,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Guo; Songlin Yang; Tarushii Goel; Eric P Xing; Tri Dao; Yoon Kim
 
-[OpenReview](<https://openreview.net/forum?id=mOJgZWkXKW>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007581>) · [PDF](<https://openreview.net/pdf?id=mOJgZWkXKW>)
+[Primary source](<https://openreview.net/forum?id=mOJgZWkXKW>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007581>) · [PDF](<https://openreview.net/pdf?id=mOJgZWkXKW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1628,7 +1800,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Johannes von Oswald; Nino Scherrer; Seijin Kobayashi; Luca Versari; Songlin Yang; Maximilian Schlegel; Kaitlin Maile; Yanick Schimpf; Oliver Sieberling; Alexander Meulemans; Guillaume Lajoie; Rif A. Saurous; Charlotte Frenkel; Razvan Pascanu; Blaise Aguera y Arcas; Joao Sacramento
 
-[OpenReview](<https://openreview.net/forum?id=xa3OnTb6c3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006633>) · [PDF](<https://openreview.net/pdf?id=xa3OnTb6c3>)
+[Primary source](<https://openreview.net/forum?id=xa3OnTb6c3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006633>) · [PDF](<https://openreview.net/pdf?id=xa3OnTb6c3>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1644,7 +1818,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Sahil Joshi; Agniva Chowdhury; Amar Kanakamedala; Ekam Singh; Evan Tu; Anshumali Shrivastava
 
-[OpenReview](<https://openreview.net/forum?id=RR8Lh8RHgA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009492>) · [PDF](<https://openreview.net/pdf?id=RR8Lh8RHgA>)
+[Primary source](<https://openreview.net/forum?id=RR8Lh8RHgA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009492>) · [PDF](<https://openreview.net/pdf?id=RR8Lh8RHgA>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1660,7 +1836,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yan Xie; Tiansheng Wen; Tang Da Huang; Bo Chen; Chenyu You; Stefanie Jegelka; Yifei Wang
 
-[OpenReview](<https://openreview.net/forum?id=UspMJlGusi>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009189>) · [PDF](<https://openreview.net/pdf?id=UspMJlGusi>)
+[Primary source](<https://openreview.net/forum?id=UspMJlGusi>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009189>) · [PDF](<https://openreview.net/pdf?id=UspMJlGusi>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1676,7 +1854,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Morris Yau; Sharut Gupta; Valerie Engelmayer; Kazuki Irie; Stefanie Jegelka; Jacob Andreas
 
-[OpenReview](<https://openreview.net/forum?id=tuLF84azND>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006941>) · [PDF](<https://openreview.net/pdf?id=tuLF84azND>)
+[Primary source](<https://openreview.net/forum?id=tuLF84azND>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006941>) · [PDF](<https://openreview.net/pdf?id=tuLF84azND>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1692,7 +1872,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ahmet Yüzügüler; Ahmet Çelik; Jiawei Zhuang; Lukas Cavigelli
 
-[OpenReview](<https://openreview.net/forum?id=ZfCCwJ4Wcs>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008790>) · [PDF](<https://openreview.net/pdf?id=ZfCCwJ4Wcs>)
+[Primary source](<https://openreview.net/forum?id=ZfCCwJ4Wcs>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008790>) · [PDF](<https://openreview.net/pdf?id=ZfCCwJ4Wcs>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1708,7 +1890,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Nuno M. T. Gonçalves; Hugo Pitorro; Vlad Niculae; Edoardo Ponti; Lei Li; Andre Martins; Marcos V. Treviso
 
-[OpenReview](<https://openreview.net/forum?id=7qpvff2gWI>) · [Official program](<https://icml.cc/virtual/2026/poster/66022>) · [PDF](<https://openreview.net/pdf?id=7qpvff2gWI>)
+[Primary source](<https://openreview.net/forum?id=7qpvff2gWI>) · [Venue page](<https://icml.cc/virtual/2026/poster/66022>) · [PDF](<https://openreview.net/pdf?id=7qpvff2gWI>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1724,7 +1908,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Vaisakh Shaj; Cameron Barker; Aidan Scannell; Andras Szecsenyi; Elliot Crowley; Amos Storkey
 
-[OpenReview](<https://openreview.net/forum?id=9h7sSJe4jN>) · [Official program](<https://icml.cc/virtual/2026/poster/65832>) · [PDF](<https://openreview.net/pdf?id=9h7sSJe4jN>)
+[Primary source](<https://openreview.net/forum?id=9h7sSJe4jN>) · [Venue page](<https://icml.cc/virtual/2026/poster/65832>) · [PDF](<https://openreview.net/pdf?id=9h7sSJe4jN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1740,7 +1926,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yulong Huang; Xiang Liu; Hongxiang Huang; Xiaopeng LIN; Zunchang LIU; Xiaowen Chu; Zeke Xie; Bojun Cheng
 
-[OpenReview](<https://openreview.net/forum?id=Sh3rKEAxlW>) · [Official program](<https://icml.cc/virtual/2026/poster/63901>) · [PDF](<https://openreview.net/pdf?id=Sh3rKEAxlW>)
+[Primary source](<https://openreview.net/forum?id=Sh3rKEAxlW>) · [Venue page](<https://icml.cc/virtual/2026/poster/63901>) · [PDF](<https://openreview.net/pdf?id=Sh3rKEAxlW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1758,7 +1946,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yanbo Li; Richard Cornelius Suwandi; Feng Yin; Yiyong SUN; Wei Huang; Wenqiang Pu
 
-[OpenReview](<https://openreview.net/forum?id=UmQ07sj13y>) · [Official program](<https://icml.cc/virtual/2026/poster/63671>) · [PDF](<https://openreview.net/pdf?id=UmQ07sj13y>)
+[Primary source](<https://openreview.net/forum?id=UmQ07sj13y>) · [Venue page](<https://icml.cc/virtual/2026/poster/63671>) · [PDF](<https://openreview.net/pdf?id=UmQ07sj13y>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1774,7 +1964,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Jerry Yao-Chieh Hu; Xiwen Zhang; Ali ElSheikh; Weimin Wu; Han Liu
 
-[OpenReview](<https://openreview.net/forum?id=DKathyl3XN>) · [Official program](<https://icml.cc/virtual/2026/poster/65468>) · [PDF](<https://openreview.net/pdf?id=DKathyl3XN>)
+[Primary source](<https://openreview.net/forum?id=DKathyl3XN>) · [Venue page](<https://icml.cc/virtual/2026/poster/65468>) · [PDF](<https://openreview.net/pdf?id=DKathyl3XN>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1792,7 +1984,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yuwen Huang; Xiang Pan
 
-[OpenReview](<https://openreview.net/forum?id=CYg2w0YKM4>) · [Official program](<https://icml.cc/virtual/2026/poster/65541>) · [PDF](<https://openreview.net/pdf?id=CYg2w0YKM4>)
+[Primary source](<https://openreview.net/forum?id=CYg2w0YKM4>) · [Venue page](<https://icml.cc/virtual/2026/poster/65541>) · [PDF](<https://openreview.net/pdf?id=CYg2w0YKM4>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1808,7 +2002,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Neehal Tumma; Noel Loo; Daniela Rus
 
-[OpenReview](<https://openreview.net/forum?id=UC6YiTOeKb>) · [Official program](<https://icml.cc/virtual/2026/poster/63733>) · [PDF](<https://openreview.net/pdf?id=UC6YiTOeKb>)
+[Primary source](<https://openreview.net/forum?id=UC6YiTOeKb>) · [Venue page](<https://icml.cc/virtual/2026/poster/63733>) · [PDF](<https://openreview.net/pdf?id=UC6YiTOeKb>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1824,7 +2020,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Anh T Nguyen; Saleh Momeni; Ashutosh Chaubey; Changnan Xiao; Bing Liu
 
-[OpenReview](<https://openreview.net/forum?id=l1v359RKe0>) · [Official program](<https://icml.cc/virtual/2026/poster/61979>) · [PDF](<https://openreview.net/pdf?id=l1v359RKe0>)
+[Primary source](<https://openreview.net/forum?id=l1v359RKe0>) · [Venue page](<https://icml.cc/virtual/2026/poster/61979>) · [PDF](<https://openreview.net/pdf?id=l1v359RKe0>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1842,7 +2040,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Hoang Anh Duy Le; Sahil Joshi; Zeyu Yang; Zhaozhuo Xu; Anshumali Shrivastava
 
-[OpenReview](<https://openreview.net/forum?id=uCLVPafHqd>) · [Official program](<https://icml.cc/virtual/2026/poster/61048>) · [PDF](<https://openreview.net/pdf?id=uCLVPafHqd>)
+[Primary source](<https://openreview.net/forum?id=uCLVPafHqd>) · [Venue page](<https://icml.cc/virtual/2026/poster/61048>) · [PDF](<https://openreview.net/pdf?id=uCLVPafHqd>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1858,7 +2058,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Xinghao Wang; Pengyu Wang; Dong Zhang; Chenkun Tan; Shaojun Zhou; Zhaoxiang Liu; Shiguo Lian; Fangxu Liu; Kai Song; Xipeng Qiu
 
-[OpenReview](<https://openreview.net/forum?id=5u3Ra6Qf5C>) · [Official program](<https://icml.cc/virtual/2026/poster/66195>) · [PDF](<https://openreview.net/pdf?id=5u3Ra6Qf5C>)
+[Primary source](<https://openreview.net/forum?id=5u3Ra6Qf5C>) · [Venue page](<https://icml.cc/virtual/2026/poster/66195>) · [PDF](<https://openreview.net/pdf?id=5u3Ra6Qf5C>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1876,7 +2078,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Daohai Yu; Zhanpeng Zeng; Keyu Chen; Wenhao Li; Zhifeng Shen; Luxi Lin; Ruizhi Qiao; Xing Sun; Rongrong Ji
 
-[OpenReview](<https://openreview.net/forum?id=4spHlgHY9x>) · [Official program](<https://icml.cc/virtual/2026/poster/66306>) · [PDF](<https://openreview.net/pdf?id=4spHlgHY9x>)
+[Primary source](<https://openreview.net/forum?id=4spHlgHY9x>) · [Venue page](<https://icml.cc/virtual/2026/poster/66306>) · [PDF](<https://openreview.net/pdf?id=4spHlgHY9x>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1894,7 +2098,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Tobias Schröder; Lester Mackey
 
-[OpenReview](<https://openreview.net/forum?id=lfqyLp4hZm>) · [Official program](<https://icml.cc/virtual/2026/poster/61920>) · [PDF](<https://openreview.net/pdf?id=lfqyLp4hZm>)
+[Primary source](<https://openreview.net/forum?id=lfqyLp4hZm>) · [Venue page](<https://icml.cc/virtual/2026/poster/61920>) · [PDF](<https://openreview.net/pdf?id=lfqyLp4hZm>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1910,7 +2116,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Naoki Nishikawa; Rei Higuchi; Taiji Suzuki
 
-[OpenReview](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Official program](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1928,7 +2136,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Li Tenghui; Guoxu Zhou; Xuyang Zhao; Yuning Qiu; Qibin Zhao
 
-[OpenReview](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1948,7 +2158,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Andrew Liu; Axel Elaldi; Nicholas Franklin; Nathan Russell; Gurinder Atwal; Yih-En Ban; Olivia Viessmann
 
-[OpenReview](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1968,7 +2180,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Haixu Wu; Minghao Guo; Yuezhou Ma; Yuanxu Sun; Jianmin Wang; Wojciech Matusik; Mingsheng Long
 
-[OpenReview](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Official program](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1988,7 +2202,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Hongjun Wang; yitong jiang; Collin McCarthy; David Wehr; Hanrong Ye; Xinhao Li; Ka Chun Cheung; Wonmin Byeon; Jinwei Gu; Ke Chen; Kai Han; Hongxu Yin; Pavlo Molchanov; Jan Kautz; Sifei Liu
 
-[OpenReview](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Official program](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2006,7 +2222,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Arshia Afzal; Elias Abad Rocamora; Leyla Candogan; Pol Puigdemont; Francesco Tonin; Yongtao Wu; Mahsa Shoaran; Volkan Cevher
 
-[OpenReview](<https://openreview.net/forum?id=Ar62cqTduE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ar62cqTduE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2024,7 +2242,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Korbinian Pöppel; Richard Freinschlag; Thomas Schmied; Wei Lin; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=2sa13vyCn0>) · [Official program](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2sa13vyCn0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2044,7 +2264,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Aleksandar Terzic; Nicolas Menet; Michael Hersche; Thomas Hofmann; Abbas Rahimi
 
-[OpenReview](<https://openreview.net/forum?id=RDbuSCWhad>) · [Official program](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=RDbuSCWhad>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2064,7 +2286,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Yifan Zhang; Yifeng Liu; Huizhuo Yuan; Zhen Qin; Yang Yuan; Quanquan Gu; Andrew Yao
 
-[OpenReview](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Official program](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2084,7 +2308,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Maximilian Beck; Korbinian Pöppel; Phillip Lippe; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=b6H64u6TqI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b6H64u6TqI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2104,7 +2330,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yuhong CHOU; Zehao Liu; Rui-Jie Zhu; Xinyi Wan; Tianjian Li; Congying Chu; Qian Liu; Jibin Wu; Zejun MA
 
-[OpenReview](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Official program](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2122,7 +2350,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Jiecheng Lu; Xu Han; Yan Sun; Viresh Pati; Yubin Kim; Siddhartha Somani; Shihao Yang
 
-[OpenReview](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Official program](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2143,7 +2373,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Lawrence Liu; Alexander Liu; Mengdi Wang; Tuo Zhao; Lin Yang
 
-[OpenReview](<https://openreview.net/forum?id=8NE554wv0m>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011207>) · [PDF](<https://openreview.net/pdf?id=8NE554wv0m>)
+[Primary source](<https://openreview.net/forum?id=8NE554wv0m>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011207>) · [PDF](<https://openreview.net/pdf?id=8NE554wv0m>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2159,7 +2391,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Zhongzhu Zhou; Fengxiang Bie; Ziyan Chen; Zhenyu Zhang; Yibo Yang; Junxiong Wang; Ben Athiwaratkun; Xiaoxia (Shirley) Wu; Shuaiwen Song
 
-[OpenReview](<https://openreview.net/forum?id=DVurf4kGag>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010773>) · [PDF](<https://openreview.net/pdf?id=DVurf4kGag>)
+[Primary source](<https://openreview.net/forum?id=DVurf4kGag>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010773>) · [PDF](<https://openreview.net/pdf?id=DVurf4kGag>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2175,7 +2409,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ke Li; Zheng Yang; Zhongbin Zhou; Xuefeng; Zhonglin Jiang; Wenxiao Wang
 
-[OpenReview](<https://openreview.net/forum?id=JAbMgS7gl6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010227>) · [PDF](<https://openreview.net/pdf?id=JAbMgS7gl6>)
+[Primary source](<https://openreview.net/forum?id=JAbMgS7gl6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010227>) · [PDF](<https://openreview.net/pdf?id=JAbMgS7gl6>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2193,7 +2429,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Zukang Xu; Zhixiong Zhao; Xing Hu; Zhixuan Chen; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=veFs5UfYq9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006798>) · [PDF](<https://openreview.net/pdf?id=veFs5UfYq9>)
+[Primary source](<https://openreview.net/forum?id=veFs5UfYq9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006798>) · [PDF](<https://openreview.net/pdf?id=veFs5UfYq9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2209,7 +2447,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yi Li; Zhichun Guo; Miao Yin; Bingzhe Li
 
-[OpenReview](<https://openreview.net/forum?id=0oHaazjMUX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011895>) · [PDF](<https://openreview.net/pdf?id=0oHaazjMUX>)
+[Primary source](<https://openreview.net/forum?id=0oHaazjMUX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011895>) · [PDF](<https://openreview.net/pdf?id=0oHaazjMUX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2225,7 +2465,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Malik Khalaf; Yara Shamshoum; Nitzan Hodos; Yuval Sieradzki; Assaf Schuster
 
-[OpenReview](<https://openreview.net/forum?id=Xvpk1g02u2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008929>) · [PDF](<https://openreview.net/pdf?id=Xvpk1g02u2>)
+[Primary source](<https://openreview.net/forum?id=Xvpk1g02u2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008929>) · [PDF](<https://openreview.net/pdf?id=Xvpk1g02u2>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2241,7 +2483,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Hyesung Jeon; Seojune Lee; Beomseok Kang; Yulhwa Kim; jae-joon kim
 
-[OpenReview](<https://openreview.net/forum?id=QMN4ERDdp4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009595>) · [PDF](<https://openreview.net/pdf?id=QMN4ERDdp4>)
+[Primary source](<https://openreview.net/forum?id=QMN4ERDdp4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009595>) · [PDF](<https://openreview.net/pdf?id=QMN4ERDdp4>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2257,7 +2501,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Xing Hu; Dawei Yang; Yuan Cheng; Zhixuan Chen; Zukang Xu
 
-[OpenReview](<https://openreview.net/forum?id=KMAYsQO8pU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010139>) · [PDF](<https://openreview.net/pdf?id=KMAYsQO8pU>)
+[Primary source](<https://openreview.net/forum?id=KMAYsQO8pU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010139>) · [PDF](<https://openreview.net/pdf?id=KMAYsQO8pU>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2273,7 +2519,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yeonsik Park; Hyeonseong Kim; Seungkyu Choi
 
-[OpenReview](<https://openreview.net/forum?id=nFjj8NEBqv>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007493>) · [PDF](<https://openreview.net/pdf?id=nFjj8NEBqv>)
+[Primary source](<https://openreview.net/forum?id=nFjj8NEBqv>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007493>) · [PDF](<https://openreview.net/pdf?id=nFjj8NEBqv>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2289,7 +2537,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Hyunwoo Kim; BYOUNGCHAN KO; Minseok Kang; Minwoo Kim; Dongjin Lee; Jaehoon Lee; Sungroh Yoon; Dahuin Jung
 
-[OpenReview](<https://openreview.net/forum?id=pjMDZJd4rT>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007309>) · [PDF](<https://openreview.net/pdf?id=pjMDZJd4rT>)
+[Primary source](<https://openreview.net/forum?id=pjMDZJd4rT>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007309>) · [PDF](<https://openreview.net/pdf?id=pjMDZJd4rT>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2307,7 +2557,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yuebin XU; YANHONG WANG; Xuemei Peng; Hui Zang; Minghao Chen; Pengfei Xia; Zeyi Wen
 
-[OpenReview](<https://openreview.net/forum?id=D9cnZNZfxX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010804>) · [PDF](<https://openreview.net/pdf?id=D9cnZNZfxX>)
+[Primary source](<https://openreview.net/forum?id=D9cnZNZfxX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010804>) · [PDF](<https://openreview.net/pdf?id=D9cnZNZfxX>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2325,7 +2577,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Junhan Kim; Yeo Jeong Park; Seungwoo Son; Chungman Lee; Ho-young Kim; Joonyoung Kim; Yongkweon Jeon
 
-[OpenReview](<https://openreview.net/forum?id=HA0TnV8r7x>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010426>) · [PDF](<https://openreview.net/pdf?id=HA0TnV8r7x>)
+[Primary source](<https://openreview.net/forum?id=HA0TnV8r7x>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010426>) · [PDF](<https://openreview.net/pdf?id=HA0TnV8r7x>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2345,7 +2599,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Hung-Yueh Chiang; Chi-Chih Chang; Yu-Chen Lu; Chien-Yu Lin; Kai-Chiang Wu; Mohamed Abdelfattah; Diana Marculescu
 
-[OpenReview](<https://openreview.net/forum?id=iOGu4wtDTF>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007967>) · [PDF](<https://openreview.net/pdf?id=iOGu4wtDTF>)
+[Primary source](<https://openreview.net/forum?id=iOGu4wtDTF>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007967>) · [PDF](<https://openreview.net/pdf?id=iOGu4wtDTF>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2363,7 +2619,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Haiyu Wang; Yutong Wang; Jack Jiang; Sai Qian Zhang
 
-[OpenReview](<https://openreview.net/forum?id=zrmQ4koOw9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006413>) · [PDF](<https://openreview.net/pdf?id=zrmQ4koOw9>)
+[Primary source](<https://openreview.net/forum?id=zrmQ4koOw9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006413>) · [PDF](<https://openreview.net/pdf?id=zrmQ4koOw9>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2381,7 +2639,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Moritz Thoma; Maximilian Groezinger; Maximilian Forstenhäusler; Emad Aghajanzadeh; Manoj Rohit Vemparala; Christos Anagnostopoulos; Pierpaolo Mori; Nael Fasfous; Alexander Frickenstein; Daniel Mueller-Gritschneder; Ulf Schlichtmann
 
-[OpenReview](<https://openreview.net/forum?id=IjIgNPFuCt>) · [Official program](<https://icml.cc/virtual/2026/poster/64908>) · [PDF](<https://openreview.net/pdf?id=IjIgNPFuCt>)
+[Primary source](<https://openreview.net/forum?id=IjIgNPFuCt>) · [Venue page](<https://icml.cc/virtual/2026/poster/64908>) · [PDF](<https://openreview.net/pdf?id=IjIgNPFuCt>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X6 — Matrix and tensor methods for compression.
 
@@ -2399,7 +2659,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yuli Chen; Shuhao Zhang; Jiale Han; Fanshen Meng; Haishen Jiang; Bo Cheng; Qiang Tong; Xiulei Liu
 
-[OpenReview](<https://openreview.net/forum?id=x23DAFnbhi>) · [Official program](<https://icml.cc/virtual/2026/poster/60742>) · [PDF](<https://openreview.net/pdf?id=x23DAFnbhi>)
+[Primary source](<https://openreview.net/forum?id=x23DAFnbhi>) · [Venue page](<https://icml.cc/virtual/2026/poster/60742>) · [PDF](<https://openreview.net/pdf?id=x23DAFnbhi>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2417,7 +2679,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Boya Xiong; Shuo Wang; Weifeng Ge; Guanhua CHEN; Yun Chen
 
-[OpenReview](<https://openreview.net/forum?id=ErqvESaJpk>) · [Official program](<https://icml.cc/virtual/2026/poster/65313>) · [PDF](<https://openreview.net/pdf?id=ErqvESaJpk>)
+[Primary source](<https://openreview.net/forum?id=ErqvESaJpk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65313>) · [PDF](<https://openreview.net/pdf?id=ErqvESaJpk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2433,7 +2697,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Menghao Lv; Huiqiong Wang; Li Sun; Mingli Song
 
-[OpenReview](<https://openreview.net/forum?id=Xn9Eu2x7Hw>) · [Official program](<https://icml.cc/virtual/2026/poster/63357>) · [PDF](<https://openreview.net/pdf?id=Xn9Eu2x7Hw>)
+[Primary source](<https://openreview.net/forum?id=Xn9Eu2x7Hw>) · [Venue page](<https://icml.cc/virtual/2026/poster/63357>) · [PDF](<https://openreview.net/pdf?id=Xn9Eu2x7Hw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2449,7 +2715,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Ali Abbasi; Chayne Thrash; Haoran Qin; Shansita Sharma; Sepehr Seifi; Soheil Kolouri
 
-[OpenReview](<https://openreview.net/forum?id=tAdsDOkRBw>) · [Official program](<https://icml.cc/virtual/2026/poster/61159>) · [PDF](<https://openreview.net/pdf?id=tAdsDOkRBw>)
+[Primary source](<https://openreview.net/forum?id=tAdsDOkRBw>) · [Venue page](<https://icml.cc/virtual/2026/poster/61159>) · [PDF](<https://openreview.net/pdf?id=tAdsDOkRBw>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2467,7 +2735,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Mehdi Makni; Xiang Meng; Rahul Mazumder
 
-[OpenReview](<https://openreview.net/forum?id=byNNv5Et10>) · [Official program](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=byNNv5Et10>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2487,7 +2757,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Kyo Kuroki; Yasuyuki Okoshi; Thiem Van Chu; Kazushi Kawamura; Masato Motomura
 
-[OpenReview](<https://openreview.net/forum?id=5MGClYw1cR>) · [Official program](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5MGClYw1cR>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2505,7 +2777,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yuesen Liao; Zhiwei Li; Binrui Wu; Zihao Cheng; Su Zhao; Shuai Chen; Weizhong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=4EkEL77k6O>) · [Official program](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=4EkEL77k6O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2523,7 +2797,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Alper KALLE; Théo Rudkiewicz; Mohamed Ouerfelli; Mohamed Tamaazousti
 
-[OpenReview](<https://openreview.net/forum?id=ODgWBaErst>) · [Official program](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ODgWBaErst>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2541,7 +2817,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (oral)** · Steffen Schotthöfer; Lexie Yang; Stefan Schnake
 
-[OpenReview](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Official program](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X6 — Matrix and tensor methods for compression.
 
@@ -2561,7 +2839,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Seanie Lee; Sangwoo Park; Dong Bok Lee; Dominik Wagner; Haebin Seong; Tobias Bocklet; Juho Lee; Sung Ju Hwang
 
-[OpenReview](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Official program](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -2581,7 +2861,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Xi Zhang; Xiaolin Wu; Jiamang Wang; Weisi Lin
 
-[OpenReview](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Official program](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2601,7 +2883,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Ipsita Ghosh; Ethan Nguyen; Christian Kümmerle
 
-[OpenReview](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Official program](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -2621,7 +2905,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Yutong Wang; Haiyu Wang; Sai Qian Zhang
 
-[OpenReview](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Official program](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2641,7 +2927,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Zukang Xu; Xing Hu; Qiang Wu; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Official program](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X6 — Matrix and tensor methods for compression.
 
@@ -2663,7 +2951,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Zicheng Zhang; Haoran Li; Yifeng Zhang; Guoqiang Gong; Jiaxing Wang; Pengzhang Liu; Qixia Jiang; Junxing Hu
 
-[OpenReview](<https://openreview.net/forum?id=s4LnWgjacg>) · [Official program](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s4LnWgjacg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; X6 — Matrix and tensor methods for compression.
 
@@ -2694,7 +2984,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Yanbin He; Geethu Joseph
 
-[OpenReview](<https://openreview.net/forum?id=40e58sTE5F>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011587>) · [PDF](<https://openreview.net/pdf?id=40e58sTE5F>)
+[Primary source](<https://openreview.net/forum?id=40e58sTE5F>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011587>) · [PDF](<https://openreview.net/pdf?id=40e58sTE5F>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2710,7 +3002,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Ionut-Vlad Modoranu; Mher Safaryan; Erik Schultheis; Maksim Riabinin; Artem Chumachenko; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=TkHjRwbMNl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009288>) · [PDF](<https://openreview.net/pdf?id=TkHjRwbMNl>)
+[Primary source](<https://openreview.net/forum?id=TkHjRwbMNl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009288>) · [PDF](<https://openreview.net/pdf?id=TkHjRwbMNl>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -2730,7 +3024,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · YuQing Xie; Ameya Daigavane; Mit Kotak; Tess Smidt
 
-[OpenReview](<https://openreview.net/forum?id=8UzZ0CbPsk>) · [Official program](<https://icml.cc/virtual/2026/poster/65961>) · [PDF](<https://openreview.net/pdf?id=8UzZ0CbPsk>)
+[Primary source](<https://openreview.net/forum?id=8UzZ0CbPsk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65961>) · [PDF](<https://openreview.net/pdf?id=8UzZ0CbPsk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2746,7 +3042,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Vladimír Macko; Vladimír Boža
 
-[OpenReview](<https://openreview.net/forum?id=ah9xkFXCV6>) · [Official program](<https://icml.cc/virtual/2026/poster/63039>) · [PDF](<https://openreview.net/pdf?id=ah9xkFXCV6>)
+[Primary source](<https://openreview.net/forum?id=ah9xkFXCV6>) · [Venue page](<https://icml.cc/virtual/2026/poster/63039>) · [PDF](<https://openreview.net/pdf?id=ah9xkFXCV6>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2762,7 +3060,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Ziyang Zhang; Xinheng Ding; Jiayi Yuan; Rixin Liu; Huizi Mao; Jiarong Xing; Zirui Liu
 
-[OpenReview](<https://openreview.net/forum?id=5eZmlUyFpl>) · [Official program](<https://icml.cc/virtual/2026/poster/66224>) · [PDF](<https://openreview.net/pdf?id=5eZmlUyFpl>)
+[Primary source](<https://openreview.net/forum?id=5eZmlUyFpl>) · [Venue page](<https://icml.cc/virtual/2026/poster/66224>) · [PDF](<https://openreview.net/pdf?id=5eZmlUyFpl>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2778,7 +3078,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Lin Huang; Chengxiang Huang; Ziang Wang; Yiyue Du; Chu Wang; Haocheng Lu; Yunyang Li; Xiaoli LIU; Arthur JIANG; Jia Zhang
 
-[OpenReview](<https://openreview.net/forum?id=gIUVdEAa3l>) · [Official program](<https://icml.cc/virtual/2026/poster/62474>) · [PDF](<https://openreview.net/pdf?id=gIUVdEAa3l>)
+[Primary source](<https://openreview.net/forum?id=gIUVdEAa3l>) · [Venue page](<https://icml.cc/virtual/2026/poster/62474>) · [PDF](<https://openreview.net/pdf?id=gIUVdEAa3l>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2796,7 +3098,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · John Hood; Aaron Schein
 
-[OpenReview](<https://openreview.net/forum?id=SdKzHplaIq>) · [Official program](<https://icml.cc/virtual/2026/poster/63907>) · [PDF](<https://openreview.net/pdf?id=SdKzHplaIq>)
+[Primary source](<https://openreview.net/forum?id=SdKzHplaIq>) · [Venue page](<https://icml.cc/virtual/2026/poster/63907>) · [PDF](<https://openreview.net/pdf?id=SdKzHplaIq>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2812,7 +3116,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Wan Song; Zhou Wei; Rui Wang; Jun Yu; Toru Kurihara; Xu Jiajia; shu zhan
 
-[OpenReview](<https://openreview.net/forum?id=Qg9Jcy788i>) · [Official program](<https://icml.cc/virtual/2026/poster/64126>) · [PDF](<https://openreview.net/pdf?id=Qg9Jcy788i>)
+[Primary source](<https://openreview.net/forum?id=Qg9Jcy788i>) · [Venue page](<https://icml.cc/virtual/2026/poster/64126>) · [PDF](<https://openreview.net/pdf?id=Qg9Jcy788i>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2828,7 +3134,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · XUCHEN FENG; Siyu Liao
 
-[OpenReview](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Official program](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2848,7 +3156,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Yunyang Li; Lin Huang; Zhihao Ding; Xinran Wei; Chu Wang; Han Yang; Zun Wang; Chang Liu; Yu Shi; Peiran Jin; Tao Qin; Mark Gerstein; Jia Zhang
 
-[OpenReview](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2866,7 +3176,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Osayamen Aimuyo; Byungsoo Oh; Rachee Singh
 
-[OpenReview](<https://openreview.net/forum?id=EZfDHprhZM>) · [Official program](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EZfDHprhZM>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2886,7 +3198,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Meyer Scetbon; Chao Ma; Wenbo Gong; Ted Meeds
 
-[OpenReview](<https://openreview.net/forum?id=oanhUGY6un>) · [Official program](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oanhUGY6un>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -2906,7 +3220,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Zhen Tian; Xin Zhao; Ji-Rong Wen
 
-[OpenReview](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Official program](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -2926,7 +3242,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · XINYU DING; Bangtian Liu; Siyu Liao; Zhongfeng Wang
 
-[OpenReview](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2944,7 +3262,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Yuchao Lin; Cong Fu; Zachary Krueger; Haiyang Yu; Maho Nakata; Jianwen Xie; Emine Kucukbenli; Xiaofeng Qian; Shuiwang Ji
 
-[OpenReview](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Official program](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2966,7 +3286,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Emile Anand; Jan van den Brand; Rose McCarty
 
-[OpenReview](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Official program](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2984,7 +3306,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (spotlight)** · Annie Marsden; Elad Hazan
 
-[OpenReview](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X7 — Structured products, transforms and GPU kernels.
 
@@ -3007,7 +3331,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Oral)** · Emre Adabag; Marcus Greiff; John Subosits; Thomas Lew
 
-[OpenReview](<https://openreview.net/forum?id=bFYfV6c9zu>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008630>) · [PDF](<https://openreview.net/pdf?id=bFYfV6c9zu>)
+[Primary source](<https://openreview.net/forum?id=bFYfV6c9zu>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008630>) · [PDF](<https://openreview.net/pdf?id=bFYfV6c9zu>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3023,7 +3349,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Butian Xiong; Rong Liu; Kenneth Xu; Meida Chen; Andrew Feng
 
-[OpenReview](<https://openreview.net/forum?id=AepuXqQM4X>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011014>) · [PDF](<https://openreview.net/pdf?id=AepuXqQM4X>)
+[Primary source](<https://openreview.net/forum?id=AepuXqQM4X>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011014>) · [PDF](<https://openreview.net/pdf?id=AepuXqQM4X>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3039,7 +3367,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICLR 2026 · Accept (Poster)** · Andres Potapczynski; Alex Ali; Andrew Gordon Wilson
 
-[OpenReview](<https://openreview.net/forum?id=GBkRMi3qjD>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010523>) · [PDF](<https://openreview.net/pdf?id=GBkRMi3qjD>)
+[Primary source](<https://openreview.net/forum?id=GBkRMi3qjD>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010523>) · [PDF](<https://openreview.net/pdf?id=GBkRMi3qjD>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3055,7 +3385,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Ziwei Li; Shuzi Niu; Tao Yuan; Huiyuan Li
 
-[OpenReview](<https://openreview.net/forum?id=VbMi2zFVlk>) · [Official program](<https://icml.cc/virtual/2026/poster/63598>) · [PDF](<https://openreview.net/pdf?id=VbMi2zFVlk>)
+[Primary source](<https://openreview.net/forum?id=VbMi2zFVlk>) · [Venue page](<https://icml.cc/virtual/2026/poster/63598>) · [PDF](<https://openreview.net/pdf?id=VbMi2zFVlk>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3071,7 +3403,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Nathan Doumèche; Francis Bach; Gérard Biau; Claire Boyer
 
-[OpenReview](<https://openreview.net/forum?id=QiDicUd6PB>) · [Official program](<https://icml.cc/virtual/2026/poster/64123>) · [PDF](<https://openreview.net/pdf?id=QiDicUd6PB>)
+[Primary source](<https://openreview.net/forum?id=QiDicUd6PB>) · [Venue page](<https://icml.cc/virtual/2026/poster/64123>) · [PDF](<https://openreview.net/pdf?id=QiDicUd6PB>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3087,7 +3421,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Weixin Liao; Mingquan Feng; Zhizhou Zhang; Youjia Wu; Yifan Fu; Junchi Yan
 
-[OpenReview](<https://openreview.net/forum?id=uizi6lvkSW>) · [Official program](<https://icml.cc/virtual/2026/poster/60991>) · [PDF](<https://openreview.net/pdf?id=uizi6lvkSW>)
+[Primary source](<https://openreview.net/forum?id=uizi6lvkSW>) · [Venue page](<https://icml.cc/virtual/2026/poster/60991>) · [PDF](<https://openreview.net/pdf?id=uizi6lvkSW>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3103,7 +3439,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Marcus Noack; Mark Risser; HENGRUI LUO; Vardaan Tekriwal; Ronald Pandolfi
 
-[OpenReview](<https://openreview.net/forum?id=xLnzdfOS6r>) · [Official program](<https://icml.cc/virtual/2026/poster/60707>) · [PDF](<https://openreview.net/pdf?id=xLnzdfOS6r>)
+[Primary source](<https://openreview.net/forum?id=xLnzdfOS6r>) · [Venue page](<https://icml.cc/virtual/2026/poster/60707>) · [PDF](<https://openreview.net/pdf?id=xLnzdfOS6r>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3119,7 +3457,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Haoxuan Wang; Xinchen Du; Sen Na
 
-[OpenReview](<https://openreview.net/forum?id=h2uxKKK4WZ>) · [Official program](<https://icml.cc/virtual/2026/poster/62394>) · [PDF](<https://openreview.net/pdf?id=h2uxKKK4WZ>)
+[Primary source](<https://openreview.net/forum?id=h2uxKKK4WZ>) · [Venue page](<https://icml.cc/virtual/2026/poster/62394>) · [PDF](<https://openreview.net/pdf?id=h2uxKKK4WZ>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3135,7 +3475,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yali Fink; Ido Ben-Yair; Lars Ruthotto; Eran Treister
 
-[OpenReview](<https://openreview.net/forum?id=iiNPaOvuwj>) · [Official program](<https://icml.cc/virtual/2026/poster/62202>) · [PDF](<https://openreview.net/pdf?id=iiNPaOvuwj>)
+[Primary source](<https://openreview.net/forum?id=iiNPaOvuwj>) · [Venue page](<https://icml.cc/virtual/2026/poster/62202>) · [PDF](<https://openreview.net/pdf?id=iiNPaOvuwj>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3151,7 +3493,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Kuat Gazizov; Miguel A. Carreira-Perpinan
 
-[OpenReview](<https://openreview.net/forum?id=urDdBuhbLx>) · [Official program](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=urDdBuhbLx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3169,7 +3513,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Zhehao Li; Zhehao Li; Kangbo Lyu; Yixuan Li; Tao Du; Ligang Liu
 
-[OpenReview](<https://openreview.net/forum?id=jtMDzggo6M>) · [Official program](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jtMDzggo6M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3187,7 +3533,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · DongWon Kim; Sungdong Lee; Joong-Ho (Johann) Won
 
-[OpenReview](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3205,7 +3553,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Marshal Sinaga; Julien Martinelli; Samuel Kaski
 
-[OpenReview](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Official program](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3223,7 +3573,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Jie Wang; Minghao Ma; Haoran Shao; Haoyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=Oupeovfx0L>) · [Official program](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Oupeovfx0L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3241,7 +3593,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **NeurIPS 2025 · Accept (poster)** · Pratik Rathore; Zachary Frangella; Sachin Garg; Shaghayegh Fazliani; Michal Derezinski; Madeleine Udell
 
-[OpenReview](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Official program](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3262,7 +3616,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Esteban Real; Mirko Rossini; Connal de Souza; Manav Garg; Moritz Firsching; Quoc Le; Yao Chen; Akhil Verghese; Ekin Dogus Cubuk; David Park
 
-[OpenReview](<https://openreview.net/forum?id=n7F2nwPcYB>) · [Official program](<https://icml.cc/virtual/2026/poster/61770>) · [PDF](<https://openreview.net/pdf?id=n7F2nwPcYB>)
+[Primary source](<https://openreview.net/forum?id=n7F2nwPcYB>) · [Venue page](<https://icml.cc/virtual/2026/poster/61770>) · [PDF](<https://openreview.net/pdf?id=n7F2nwPcYB>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3278,7 +3634,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Yixiao Wang; Hayden McTavish; Varun Babbar; Margo Seltzer; Cynthia Rudin
 
-[OpenReview](<https://openreview.net/forum?id=JjBozF4i2w>) · [Official program](<https://icml.cc/virtual/2026/poster/64794>) · [PDF](<https://openreview.net/pdf?id=JjBozF4i2w>)
+[Primary source](<https://openreview.net/forum?id=JjBozF4i2w>) · [Venue page](<https://icml.cc/virtual/2026/poster/64794>) · [PDF](<https://openreview.net/pdf?id=JjBozF4i2w>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3294,7 +3652,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Haoxin Sun; Zhongzhi Zhang
 
-[OpenReview](<https://openreview.net/forum?id=0ujhEWEeAc>) · [Official program](<https://icml.cc/virtual/2026/poster/66739>) · [PDF](<https://openreview.net/pdf?id=0ujhEWEeAc>)
+[Primary source](<https://openreview.net/forum?id=0ujhEWEeAc>) · [Venue page](<https://icml.cc/virtual/2026/poster/66739>) · [PDF](<https://openreview.net/pdf?id=0ujhEWEeAc>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3312,7 +3672,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Felix X.-F. Ye; Xingjie Li; An Yu; Ming-Ching Chang; LINSONG CHU; Davis Wertheimer
 
-[OpenReview](<https://openreview.net/forum?id=VzIA4MASxK>) · [Official program](<https://icml.cc/virtual/2026/oral/71180>) · [PDF](<https://openreview.net/pdf?id=VzIA4MASxK>)
+[Primary source](<https://openreview.net/forum?id=VzIA4MASxK>) · [Venue page](<https://icml.cc/virtual/2026/oral/71180>) · [PDF](<https://openreview.net/pdf?id=VzIA4MASxK>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3330,7 +3692,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Felix Petersen; Christian Borgelt; Aashwin Mishra; Stefano Ermon
 
-[OpenReview](<https://openreview.net/forum?id=okzQ1x71pS>) · [Official program](<https://icml.cc/virtual/2026/poster/61580>) · [PDF](<https://openreview.net/pdf?id=okzQ1x71pS>)
+[Primary source](<https://openreview.net/forum?id=okzQ1x71pS>) · [Venue page](<https://icml.cc/virtual/2026/poster/61580>) · [PDF](<https://openreview.net/pdf?id=okzQ1x71pS>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3346,7 +3710,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Zander Blasingame; Chen Liu
 
-[OpenReview](<https://openreview.net/forum?id=7pQIzVNctu>) · [Official program](<https://icml.cc/virtual/2026/poster/66025>) · [PDF](<https://openreview.net/pdf?id=7pQIzVNctu>)
+[Primary source](<https://openreview.net/forum?id=7pQIzVNctu>) · [Venue page](<https://icml.cc/virtual/2026/poster/66025>) · [PDF](<https://openreview.net/pdf?id=7pQIzVNctu>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3362,7 +3728,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Zile Huang; Ser-Nam Lim
 
-[OpenReview](<https://openreview.net/forum?id=pRsFAKBQKz>) · [Official program](<https://icml.cc/virtual/2026/poster/61508>) · [PDF](<https://openreview.net/pdf?id=pRsFAKBQKz>)
+[Primary source](<https://openreview.net/forum?id=pRsFAKBQKz>) · [Venue page](<https://icml.cc/virtual/2026/poster/61508>) · [PDF](<https://openreview.net/pdf?id=pRsFAKBQKz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3378,7 +3746,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (spotlight)** · Anselm Paulus; Andreas René Geist; Vit Musil; Sebastian Hoffmann; Georg Martius
 
-[OpenReview](<https://openreview.net/forum?id=RKHDV40omz>) · [Official program](<https://icml.cc/virtual/2026/poster/64057>) · [PDF](<https://openreview.net/pdf?id=RKHDV40omz>)
+[Primary source](<https://openreview.net/forum?id=RKHDV40omz>) · [Venue page](<https://icml.cc/virtual/2026/poster/64057>) · [PDF](<https://openreview.net/pdf?id=RKHDV40omz>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 
@@ -3394,7 +3764,9 @@ The catalog separates direct deep-learning applications, general ML, theoretical
 
 **ICML 2026 · Accept (regular)** · Peyman Afshani; Rezaul Chowdhury; Mayank Goswami; Jens Kristian R Schou; Francesco Silvestri; Mariafiore Tognon
 
-[OpenReview](<https://openreview.net/forum?id=oHxq8g8Wy1>) · [Official program](<https://icml.cc/virtual/2026/poster/61632>) · [PDF](<https://openreview.net/pdf?id=oHxq8g8Wy1>)
+[Primary source](<https://openreview.net/forum?id=oHxq8g8Wy1>) · [Venue page](<https://icml.cc/virtual/2026/poster/61632>) · [PDF](<https://openreview.net/pdf?id=oHxq8g8Wy1>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X9 — Related numerical primitives and computation.
 

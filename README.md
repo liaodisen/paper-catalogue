@@ -1,9 +1,10 @@
-# Research paper catalogue
+# All Papers
 
-**598 accepted papers** from ICML 2026, ICLR 2026 and NeurIPS 2025.
+**598 curated research papers**. Open to any venue, source or year, including journals, workshops and preprints.
 Snapshot updated 2026-09-24.
 
-[Open the catalogue](paper_catalogue/index.html) ·
+[Open All Papers](paper_catalogue/index.html) ·
+[Add & update papers](paper_catalogue/update_guide.html) ·
 [Training reading guide](training_dynamics_survey/reading_guide.md) ·
 [Matrix reading guide](paper_catalogue/reading_guide.md) ·
 [CSV](paper_catalogue/catalogue.csv) · [BibTeX](paper_catalogue/catalogue.bib)

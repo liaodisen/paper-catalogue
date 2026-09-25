@@ -1,12 +1,14 @@
 # NeurIPS 2025 catalogue
 
-176 accepted main-conference papers. Updated 2026-09-24. Topic membership overlaps; most annotations are based on accepted abstracts, with targeted full-text checks labeled.
+176 curated papers. Updated 2026-09-24. Topic membership overlaps; publication status and evidence are recorded for each entry.
 
 ### 3BASiL: An Algorithmic Framework for Sparse plus Low-Rank Compression of LLMs
 
 **NeurIPS 2025 · Accept (poster)** · Mehdi Makni; Xiang Meng; Rahul Mazumder
 
-[OpenReview](<https://openreview.net/forum?id=byNNv5Et10>) · [Official program](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=byNNv5Et10>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117134>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe498359454d826def8a847fad753dc2-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -26,7 +28,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kuat Gazizov; Miguel A. Carreira-Perpinan
 
-[OpenReview](<https://openreview.net/forum?id=urDdBuhbLx>) · [Official program](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=urDdBuhbLx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115461>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c023f4ec4c567ad48188e9b2ce6bdba7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -44,7 +48,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ayoub El Hanchi; Murat Erdogdu; Chris Maddison
 
-[OpenReview](<https://openreview.net/forum?id=KEVjRT4haB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KEVjRT4haB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -60,7 +66,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Steffen Schotthöfer; Timon Klein; Jonas Kusch
 
-[OpenReview](<https://openreview.net/forum?id=cCefuzQrjK>) · [Official program](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cCefuzQrjK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -78,7 +86,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yassine ABBAHADDOU; Amine Aboussalah
 
-[OpenReview](<https://openreview.net/forum?id=YAc0O13qMc>) · [Official program](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=YAc0O13qMc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -94,7 +104,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Liming Liu; Zixuan Zhang; Simon Du; Tuo Zhao
 
-[OpenReview](<https://openreview.net/forum?id=yst8MHfcgP>) · [Official program](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=yst8MHfcgP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -114,7 +126,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Bar Mahpud; Or Sheffet
 
-[OpenReview](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ep4mYI7OLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e61c3ae7d4ace10e1fb6f9fd25218fd7-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -132,7 +146,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kevin Frans; Sergey Levine; Pieter Abbeel
 
-[OpenReview](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=0T8i3uXq3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120317>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fe722dac731f46d30b043c6b0db9a3ef-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -152,7 +168,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Etienne Boursier; Scott Pesme; Radu-Alexandru Dragomir
 
-[OpenReview](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Official program](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -178,7 +196,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jiyoung Park; Abhishek Roy; Jonathan W. Siegel; Anirban Bhattacharya
 
-[OpenReview](<https://openreview.net/forum?id=Nl02znfTCT>) · [Official program](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Nl02znfTCT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -194,7 +214,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Adel Nabli; Louis Fournier; Pierre ERBACHER; Louis Serrano; Eugene Belilovsky; Edouard Oyallon
 
-[OpenReview](<https://openreview.net/forum?id=1qKUVyymXs>) · [Official program](<https://neurips.cc/virtual/2025/poster/120191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6454dcd80b5373daaa97e53ce32c78a1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=1qKUVyymXs>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6454dcd80b5373daaa97e53ce32c78a1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -208,7 +230,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hongyuan Dong; Dingkang Yang; Xiao Liang; ChaoFeng; Ran Jiao
 
-[OpenReview](<https://openreview.net/forum?id=Rc489jcc30>) · [Official program](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Rc489jcc30>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -230,7 +254,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xinghan Li; Haodong Wen; Kaifeng Lyu
 
-[OpenReview](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Official program](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -256,7 +282,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kangkang Deng; Jiachen Jin; Jiang Hu; Hongxia Wang
 
-[OpenReview](<https://openreview.net/forum?id=lni933mlvF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lni933mlvF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -272,7 +300,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Di He; Songjun Tu; Ajay Jaiswal; Li Shen; Ganzhao Yuan; Shiwei Liu; Lu Yin
 
-[OpenReview](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Official program](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -294,7 +324,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Daniel Kunin; Giovanni Luca Marchetti; Feng Chen; Dhruva Karkada; James Simon; Michael Deweese; Surya Ganguli; Nina Miolane
 
-[OpenReview](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Official program](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -314,7 +346,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xin Yu; Yujia Wang; Jinghui Chen; Lingzhou Xue
 
-[OpenReview](<https://openreview.net/forum?id=9YNJ03jYsU>) · [Official program](<https://neurips.cc/virtual/2025/poster/119533>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/35c3db8db1b962538b0958af56ba329b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9YNJ03jYsU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119533>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/35c3db8db1b962538b0958af56ba329b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -328,7 +362,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xu Shi; Rufeng Xiao; Rujun Jiang
 
-[OpenReview](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Official program](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -344,7 +380,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Binxu Wang; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=SDhOClkyqC>) · [Official program](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SDhOClkyqC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -364,7 +402,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Han Bao; Shinsaku Sakaue; Yuki Takezawa
 
-[OpenReview](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -384,7 +424,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kang An; Yuxing Liu; Rui Pan; Yi Ren; Shiqian Ma; Donald Goldfarb; Tong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=fru52tkjHf>) · [Official program](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fru52tkjHf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116796>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b862a40b617719cde47fa268b8d5c91d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -404,7 +446,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Or Goldreich; Ziyang Wei; SOHAM BONNERJEE; Jiaqi Li; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -424,7 +468,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Andrew Wang; Elisa Nguyen; Runshi Yang; Juhan Bae; Sheila McIlraith; Roger Grosse
 
-[OpenReview](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7LTTzYXyJ1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119714>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/936ce22b767cf1a1496083e4725d3b21-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** A — KFAC / EKFAC methods, applications, and substantive evaluations; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -446,7 +492,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Reza Shirkavand; Peiran Yu; Qi He; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=v6vBK4t8vB>) · [Official program](<https://neurips.cc/virtual/2025/poster/115441>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=v6vBK4t8vB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115441>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -460,7 +508,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kyo Kuroki; Yasuyuki Okoshi; Thiem Van Chu; Kazushi Kawamura; Masato Motomura
 
-[OpenReview](<https://openreview.net/forum?id=5MGClYw1cR>) · [Official program](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5MGClYw1cR>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119877>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e7cf82c8f34920d20299a84b16b720e8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -478,7 +528,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Haochen Zhang; Junze Yin; Guanchu Wang; Zirui Liu; Lin Yang; Tianyi Zhang; Anshumali Shrivastava; Vladimir Braverman
 
-[OpenReview](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZdmmOAN4h3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117335>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0edd294b7632fc96903abfbf3b264fc1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X4 — Randomized sketching and kernel approximations.
 
@@ -498,7 +550,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · XUCHEN FENG; Siyu Liao
 
-[OpenReview](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Official program](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XF4JM2MTSF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117530>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/054a9c9f6249eee0093a85ccee5b3313-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -518,7 +572,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Dhruva Karkada; James Simon; Yasaman Bahri; Michael Deweese
 
-[OpenReview](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Official program](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -538,7 +594,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zachary Charles; Gabriel Teston; Lucio Dery; John Rush; Nova Fallen; Zachary Garrett; Arthur Szlam; Arthur Douillard
 
-[OpenReview](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -558,7 +616,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Lowell Weissman; Michael Krumdick; A. Abbott
 
-[OpenReview](<https://openreview.net/forum?id=EdKl4PulMX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EdKl4PulMX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -578,7 +638,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yuesen Liao; Zhiwei Li; Binrui Wu; Zihao Cheng; Su Zhao; Shuai Chen; Weizhong Zhang
 
-[OpenReview](<https://openreview.net/forum?id=4EkEL77k6O>) · [Official program](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=4EkEL77k6O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119963>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5752f9fd2d5c40174738d6f02c202e72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -596,7 +658,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Preston Fu; Oleh Rybkin; Zhiyuan (Paul) Zhou; Michal Nauman; Pieter Abbeel; Sergey Levine; Aviral Kumar
 
-[OpenReview](<https://openreview.net/forum?id=9GzyCtlngK>) · [Official program](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GzyCtlngK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -616,7 +680,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhipeng Zhou; Ziqiao Meng; Pengcheng Wu; Peilin Zhao; Chunyan Miao
 
-[OpenReview](<https://openreview.net/forum?id=8P5MUySaqi>) · [Official program](<https://neurips.cc/virtual/2025/poster/119621>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fa30825df7ceaba452d5533538ea29c2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8P5MUySaqi>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119621>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fa30825df7ceaba452d5533538ea29c2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -630,7 +696,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mingyang Yi; Bohan Wang
 
-[OpenReview](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Official program](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -646,7 +714,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sebastian Kassing; Simon Weissmann; Leif Döring
 
-[OpenReview](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -666,7 +736,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Lachlan MacDonald; Hancheng Min; Leandro Palma; Salma Tarmoun; Ziqing Xu; Rene Vidal
 
-[OpenReview](<https://openreview.net/forum?id=MU0JuT0A54>) · [Official program](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MU0JuT0A54>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -686,7 +758,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Will Merrill; Shane Arora; Dirk Groeneveld; Hanna Hajishirzi
 
-[OpenReview](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Official program](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -708,7 +782,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Seewon Choi; Alaia Solko-Breslin; Rajeev Alur; Eric Wong
 
-[OpenReview](<https://openreview.net/forum?id=mor7s1NGBV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=mor7s1NGBV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116184>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6d53193a098b982229340a7c3eb0ecbf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -726,7 +802,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Xinran Gu; Kaifeng Lyu; Jiazheng Li; Jingzhao Zhang
 
-[OpenReview](<https://openreview.net/forum?id=tQZK5frjVU>) · [Official program](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tQZK5frjVU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -746,7 +824,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Naoki Nishikawa; Rei Higuchi; Taiji Suzuki
 
-[OpenReview](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Official program](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7qq1UeCYL6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119670>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c98ef086dc70d528e1c1aa1e66893365-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -764,7 +844,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ming Wen; Jiaqi Zhu; Yuedong Xu; Yipeng Zhou; DINGDING HAN
 
-[OpenReview](<https://openreview.net/forum?id=TecJ926Vgn>) · [Official program](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=TecJ926Vgn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117836>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a686ddca183f72ee9f3f04896eb11bcb-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X4 — Randomized sketching and kernel approximations.
 
@@ -784,7 +866,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Alper KALLE; Théo Rudkiewicz; Mohamed Ouerfelli; Mohamed Tamaazousti
 
-[OpenReview](<https://openreview.net/forum?id=ODgWBaErst>) · [Official program](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ODgWBaErst>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118313>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f6901ebab786e43b21530328fc989ca-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -802,7 +886,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Nolan Dey; Bin Zhang; Lorenzo Noci; Mufan Li; Blake Bordelon; Shane Bergsma; Cengiz Pehlevan; Boris Hanin; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=lMU2kaMANl>) · [Official program](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lMU2kaMANl>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -826,7 +912,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Steffen Schotthöfer; Lexie Yang; Stefan Schnake
 
-[OpenReview](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Official program](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7AwFJzgIUW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119731>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cd5c450b7b3a004380cba0ff704a0cc9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X6 — Matrix and tensor methods for compression.
 
@@ -846,7 +934,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Yunyang Li; Lin Huang; Zhihao Ding; Xinran Wei; Chu Wang; Han Yang; Zun Wang; Chang Liu; Yu Shi; Peiran Jin; Tao Qin; Mark Gerstein; Jia Zhang
 
-[OpenReview](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ls5L4IMEwt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116254>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -864,7 +954,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Su Hyeong Lee; Sidharth Sharma; Manzil Zaheer; Tian Li
 
-[OpenReview](<https://openreview.net/forum?id=dopfjQFr65>) · [Official program](<https://neurips.cc/virtual/2025/poster/116984>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fab71c08b15508fd6c435e59b0e82b68-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dopfjQFr65>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116984>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/fab71c08b15508fd6c435e59b0e82b68-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization.
 
@@ -878,7 +970,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mahdi Nikdan; Vincent Cohen-Addad; Dan Alistarh; Vahab Mirrokni
 
-[OpenReview](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=E6ZdfjtoiX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d2d4f6858cc2d21fd0230244fcb34f1d-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -896,7 +990,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Li Tenghui; Guoxu Zhou; Xuyang Zhao; Yuning Qiu; Qibin Zhao
 
-[OpenReview](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Mc0eJHZhW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118451>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36db9d16a9f80ede9e69d5d174cfd6ea-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -916,7 +1012,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Minchan Jeong; Jongha (Jon) Ryu; Se-Young Yun; Gregory Wornell
 
-[OpenReview](<https://openreview.net/forum?id=kL2pnzClyD>) · [Official program](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kL2pnzClyD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116395>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/24826a1c623fe41706850748f3dc7370-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -934,7 +1032,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yunwei Ren; Eshaan Nichani; Denny Wu; Jason Lee
 
-[OpenReview](<https://openreview.net/forum?id=kA2H90nm26>) · [Official program](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kA2H90nm26>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -954,7 +1054,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Rustem Islamov; Niccolò Ajroldi; Antonio Orvieto; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=9t2OtyQ9mf>) · [Official program](<https://neurips.cc/virtual/2025/poster/119505>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1470947b2ecc3a877ef124b50efc4d37-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9t2OtyQ9mf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119505>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1470947b2ecc3a877ef124b50efc4d37-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -968,7 +1070,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Alexander Bodard; Panagiotis Patrinos
 
-[OpenReview](<https://openreview.net/forum?id=7qrhHzZpTA>) · [Official program](<https://neurips.cc/virtual/2025/poster/119669>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b3bfae1e280ded2c7b441108a28c293e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7qrhHzZpTA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119669>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b3bfae1e280ded2c7b441108a28c293e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -982,7 +1086,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Zhenting Qi; Fan Nie; Alexandre Alahi; James Zou; Himabindu Lakkaraju; Yilun Du; Eric Xing; Sham Kakade; Hanlin Zhang
 
-[OpenReview](<https://openreview.net/forum?id=B6bE2GC71a>) · [Official program](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+[Primary source](<https://openreview.net/forum?id=B6bE2GC71a>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1000,7 +1106,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Seanie Lee; Sangwoo Park; Dong Bok Lee; Dominik Wagner; Haebin Seong; Tobias Bocklet; Juho Lee; Sung Ju Hwang
 
-[OpenReview](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Official program](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Qq19n9LZ97>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118097>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad922aa85d4027ff3502e8e5f406e828-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -1020,7 +1128,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Fengmiao Bian; Jinyang ZHENG; Ziyun Liu; Jianzhou Luo; Jian-Feng CAI
 
-[OpenReview](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Official program](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -1038,7 +1148,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Emre Sahinoglu; Youbang Sun; Shahin Shahrampour
 
-[OpenReview](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Official program](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1054,7 +1166,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xi Chen; Kaituo Feng; Changsheng Li; Xunhao Lai; Xiangyu Yue; Ye Yuan; Guoren Wang
 
-[OpenReview](<https://openreview.net/forum?id=7aSBAw7tJf>) · [Official program](<https://neurips.cc/virtual/2025/poster/119690>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aeae2c860cbe283ef73344c4ecd52567-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7aSBAw7tJf>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119690>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aeae2c860cbe283ef73344c4ecd52567-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -1068,7 +1182,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Andrew Liu; Axel Elaldi; Nicholas Franklin; Nathan Russell; Gurinder Atwal; Yih-En Ban; Olivia Viessmann
 
-[OpenReview](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Official program](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gKsG5qR3Bt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116755>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/07ea874e9e4f71ec6680a3574a485a36-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1088,7 +1204,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Haixu Wu; Minghao Guo; Yuezhou Ma; Yuanxu Sun; Jianmin Wang; Wojciech Matusik; Mingsheng Long
 
-[OpenReview](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Official program](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7L4NvUtZY3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119716>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1dc3d70df51a218497529df998a8a8ce-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1108,7 +1226,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Osayamen Aimuyo; Byungsoo Oh; Rachee Singh
 
-[OpenReview](<https://openreview.net/forum?id=EZfDHprhZM>) · [Official program](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EZfDHprhZM>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119124>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/918d938bd209e5b56072777366f8a211-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -1128,7 +1248,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Louis Bethune; David Vigouroux; Yilun Du; Rufin VanRullen; Thomas Serre; Victor Boutin
 
-[OpenReview](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1144,7 +1266,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Chenhui Xu; Dancheng Liu; Amir Nassereldine; Jinjun Xiong
 
-[OpenReview](<https://openreview.net/forum?id=2aotKzkOCm>) · [Official program](<https://neurips.cc/virtual/2025/poster/120125>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d274ea8b3c7f526f79ac9ce75ee3c8df-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2aotKzkOCm>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120125>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d274ea8b3c7f526f79ac9ce75ee3c8df-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -1158,7 +1282,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Zheng-An Chen; Tao Luo
 
-[OpenReview](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Official program](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1178,7 +1304,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Konstantinos Tsiolis; Alireza Mousavi-Hosseini; Murat Erdogdu
 
-[OpenReview](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1198,7 +1326,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Binghui Li; Fengling Chen; Zixun Huang; Lean Wang; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=dpllevHMbc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dpllevHMbc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -1220,7 +1350,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ziyang Wei; Jiaqi Li; Zhipeng Lou; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=aCPFvEg22L>) · [Official program](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aCPFvEg22L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -1240,7 +1372,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sean McLeish; John Kirchenbauer; David Miller; Siddharth Singh; Abhinav Bhatele; Micah Goldblum; Ashwinee Panda; Tom Goldstein
 
-[OpenReview](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Official program](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1260,7 +1394,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sifan Wang; Ananyae bhartari; Bowen Li; Paris Perdikaris
 
-[OpenReview](<https://openreview.net/forum?id=iweeVl1RHU>) · [Official program](<https://neurips.cc/virtual/2025/poster/116510>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f655706547885b8e32ef46f1c067ece2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iweeVl1RHU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116510>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f655706547885b8e32ef46f1c067ece2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation.
 
@@ -1276,7 +1412,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · John Vastola; Samuel J Gershman; Kanaka Rajan
 
-[OpenReview](<https://openreview.net/forum?id=oMi4uyNOlL>) · [Official program](<https://neurips.cc/virtual/2025/poster/116043>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad557daf1552a14dd0c26c11d3a72676-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oMi4uyNOlL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116043>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ad557daf1552a14dd0c26c11d3a72676-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1290,7 +1428,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Meyer Scetbon; Chao Ma; Wenbo Gong; Ted Meeds
 
-[OpenReview](<https://openreview.net/forum?id=oanhUGY6un>) · [Official program](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oanhUGY6un>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116024>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3d6235707dbc91acda049a0ccd641a7e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -1310,7 +1450,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yoav Gelberg; Yam Eitan; Aviv Navon; Aviv Shamsian; Theo Putterman; Michael Bronstein; Haggai Maron
 
-[OpenReview](<https://openreview.net/forum?id=Gvex75bPMI>) · [Official program](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvex75bPMI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118925>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d228a7479823e1fb12918f08f8955f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1330,7 +1472,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hongjun Wang; yitong jiang; Collin McCarthy; David Wehr; Hanrong Ye; Xinhao Li; Ka Chun Cheung; Wonmin Byeon; Jinwei Gu; Ke Chen; Kai Han; Hongxu Yin; Pavlo Molchanov; Jan Kautz; Sifei Liu
 
-[OpenReview](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Official program](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9yG7LGYfHS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119496>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/550ab405d0addd3de5b70e57b44878df-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1348,7 +1492,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Paul Schwerdtner; Jules Berman; Benjamin Peherstorfer
 
-[OpenReview](<https://openreview.net/forum?id=WkztaHpjt1>) · [Official program](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=WkztaHpjt1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117569>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c3070c3388552a08a3326f0d28dc2af9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -1366,7 +1512,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Qitao Tan; Jun Liu; Zheng Zhan; Caiwen Ding; Yanzhi Wang; Xiaolong Ma; Jaewoo Lee; Jin Lu; Geng Yuan
 
-[OpenReview](<https://openreview.net/forum?id=Rx6m16By6l>) · [Official program](<https://neurips.cc/virtual/2025/poster/117979>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ffd4f5a2ea6b93e9bf5af9264d568cf2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Rx6m16By6l>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117979>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ffd4f5a2ea6b93e9bf5af9264d568cf2-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -1382,7 +1530,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Charlie Chen; Shikai Qiu; Hoang Phan; Qi Lei; Andrew Wilson
 
-[OpenReview](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Official program](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+[Primary source](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1402,7 +1552,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Chen Fan; Mark Schmidt; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1424,7 +1576,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Licong Lin; Jingfeng Wu; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=jeen4x145W>) · [Official program](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jeen4x145W>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1444,7 +1598,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Andrés Guzmán-Cordero; Felix Dangel; Gil Goldshlager; Marius Zeinhofer
 
-[OpenReview](<https://openreview.net/forum?id=5YMZfufpfY>) · [Official program](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=5YMZfufpfY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119855>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a5809a25c65040fd43e146126b45b150-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1464,7 +1620,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Antonio Orvieto; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=CH72XyZs4y>) · [Official program](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CH72XyZs4y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1484,7 +1642,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mana Sakai; Ryo Karakida; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1504,7 +1664,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhen Tian; Xin Zhao; Ji-Rong Wen
 
-[OpenReview](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Official program](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fSFgcEVDT2>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116843>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f943a0abbfe9fb6e46a01411fc7372c9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X7 — Structured products, transforms and GPU kernels.
 
@@ -1524,7 +1686,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Xiaotian Zhang; Yue Shang; Entao Yang; Ge Zhang
 
-[OpenReview](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Official program](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1544,7 +1708,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zixuan XIa; Aram Davtyan; Paolo Favaro
 
-[OpenReview](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pvoy6fWaRJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118176>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/323acd89d43df534db8d39da4c67a4b1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1564,7 +1730,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhuo Chen; Oriol Comas; Zhuotao Jin; Di Luo; Marin Soljacic
 
-[OpenReview](<https://openreview.net/forum?id=s3maemwE5M>) · [Official program](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s3maemwE5M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1584,7 +1752,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jingfeng Wu; Pierre Marion; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=w22e5MrS4X>) · [Official program](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=w22e5MrS4X>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -1604,7 +1774,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xi Zhang; Xiaolin Wu; Jiamang Wang; Weisi Lin
 
-[OpenReview](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Official program](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ynwl0V1YH0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117396>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a0183ad2088503d707669e1d222bc8c4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -1624,7 +1796,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jörg Franke; Urs Spiegelhalter; Marianna Nezhurina; Jenia Jitsev; Frank Hutter; Michael Hefenbrock
 
-[OpenReview](<https://openreview.net/forum?id=dH8mKmvADv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dH8mKmvADv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1644,7 +1818,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Gerard Ben Arous; Murat Erdogdu; Nuri Mert Vural; Denny Wu
 
-[OpenReview](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1664,7 +1840,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhehao Li; Zhehao Li; Kangbo Lyu; Yixuan Li; Tao Du; Ligang Liu
 
-[OpenReview](<https://openreview.net/forum?id=jtMDzggo6M>) · [Official program](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jtMDzggo6M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116429>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/23fcc63005ac1a6e460ec4e209d17607-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -1682,7 +1860,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yvann Le Fay; Nicolas Chopin; Simon Barthelmé
 
-[OpenReview](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Official program](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Gvh6sU0uUt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118924>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51ceadaf09a4699f18986702df24987-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1702,7 +1882,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Arshia Afzal; Elias Abad Rocamora; Leyla Candogan; Pol Puigdemont; Francesco Tonin; Yongtao Wu; Mahsa Shoaran; Volkan Cevher
 
-[OpenReview](<https://openreview.net/forum?id=Ar62cqTduE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ar62cqTduE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119431>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/71845d09f05d40d030fa3cde8b5dcd13-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1720,7 +1902,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Peter Richtarik; Simone Maria Giancola; Dymitr Lubczyk; Robin Yadav
 
-[OpenReview](<https://openreview.net/forum?id=EqWZ1yVRfN>) · [Official program](<https://neurips.cc/virtual/2025/poster/119093>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/107aaa54d9481515e981e332e2e115b1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EqWZ1yVRfN>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119093>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/107aaa54d9481515e981e332e2e115b1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1734,7 +1918,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · XINYU DING; Bangtian Liu; Siyu Liao; Zhongfeng Wang
 
-[OpenReview](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=oWnAlRn3X1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116030>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b07091c16719ad3990e3d1ccee6641f1-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -1752,7 +1938,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Da Chang; Ganzhao Yuan
 
-[OpenReview](<https://openreview.net/forum?id=TDFSKAspoQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117868>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1d769a56c0fd47b03cfa491bdc3be9ba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=TDFSKAspoQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117868>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1d769a56c0fd47b03cfa491bdc3be9ba-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -1768,7 +1956,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yuxi Liu; Renjia Deng; Yutong He; xue wang; Tao Yao; Kun Yuan
 
-[OpenReview](<https://openreview.net/forum?id=yISJGSdzdd>) · [Official program](<https://neurips.cc/virtual/2025/poster/115158>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/73efab19ebde03ff0958f4f155483f57-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=yISJGSdzdd>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115158>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/73efab19ebde03ff0958f4f155483f57-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers.
 
@@ -1782,7 +1972,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Fangyuan Sun; Ilyas Fatkhullin; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=Cfd5S9108a>) · [Official program](<https://neurips.cc/virtual/2025/poster/119276>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a07bb7288caaea2ecc4c367188bc6db-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Cfd5S9108a>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119276>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a07bb7288caaea2ecc4c367188bc6db-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1796,7 +1988,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Francesco Orabona; Ryan D&#x27;Orazio
 
-[OpenReview](<https://openreview.net/forum?id=7GwcxPIkip>) · [Official program](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7GwcxPIkip>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -1816,7 +2010,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Konstantinos Oikonomidis; Jan Quan; Panagiotis Patrinos
 
-[OpenReview](<https://openreview.net/forum?id=xGmS1i0pDq>) · [Official program](<https://neurips.cc/virtual/2025/poster/115256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3768bb822e5c024b408dd930c4aafe67-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=xGmS1i0pDq>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3768bb822e5c024b408dd930c4aafe67-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers.
 
@@ -1830,7 +2026,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Huan Li; Yiming Dong; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=eYKz5M7Aws>) · [Official program](<https://neurips.cc/virtual/2025/poster/116906>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bf9b7879998f32982db708136dcb174b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=eYKz5M7Aws>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116906>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bf9b7879998f32982db708136dcb174b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -1844,7 +2042,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Shaocong Ma; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Official program](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rVT1GK60Nt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115772>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7f7eade8b69c853e3137cab80df3ccf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1864,7 +2064,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Moritz Haas; Sebastian Bordt; Ulrike Luxburg; Leena Chennuru Vankadara
 
-[OpenReview](<https://openreview.net/forum?id=hTxnm6H93P>) · [Official program](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hTxnm6H93P>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1886,7 +2088,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zechun Liu; Changsheng Zhao; Hanxian Huang; Sijia Chen; Jing Zhang; Jiawei Zhao; Scott Roy; Lisa Jin; Yunyang Xiong; Yangyang Shi; Lin Xiao; Yuandong Tian; Bilge Soran; Raghuraman Krishnamoorthi; Tijmen Blankevoort; Vikas Chandra
 
-[OpenReview](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Official program](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1906,7 +2110,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · DongWon Kim; Sungdong Lee; Joong-Ho (Johann) Won
 
-[OpenReview](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=L3UfIfNxb7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118580>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f003e17e2fe9aac7667a1b4407ccef46-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -1924,7 +2130,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hanzhen Zhao; Ding Shihong; Cong Fang; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Official program](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b2IU6QOOfo>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117216>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a14193e9d9fb0b03af0b717de1cac8ac-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1944,7 +2152,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Phuc Tran; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Official program](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bPNzBXl1n7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117183>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/953d276d037e701fcd97dbb34ebb2394-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -1962,7 +2172,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Korbinian Pöppel; Richard Freinschlag; Thomas Schmied; Wei Lin; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=2sa13vyCn0>) · [Official program](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2sa13vyCn0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120092>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0d5c9d43eb13c98db21eeb92c7c986d8-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -1982,7 +2194,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kai Lion; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=jDxFD45kkc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jDxFD45kkc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -2006,7 +2220,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Shane Bergsma; Nolan Dey; Gurpreet Gosal; Gavia Gray; Daria Soboleva; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2028,7 +2244,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Houyi Li; Wenzhen Zheng; Qiufeng Wang; Zhenyu Ding; Haoying Wang; Zili Wang; Shijie Xuyang; Ning DING; Shuigeng Zhou; Xiangyu Zhang; Daxin Jiang
 
-[OpenReview](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Official program](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2050,7 +2268,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Anirudh Chakravarthy; Shuai Zheng; Xin Huang; Sachithra Hemachandra; Xiao Zhang; Yuning Chai; Zhao Chen
 
-[OpenReview](<https://openreview.net/forum?id=Yyb1Gi8e36>) · [Official program](<https://neurips.cc/virtual/2025/poster/117387>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/130534d1b9f0a54bb59b529589123cb4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Yyb1Gi8e36>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117387>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/130534d1b9f0a54bb59b529589123cb4-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -2064,7 +2284,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jacob Block; Sundararajan Srinivasan; Liam Collins; Aryan Mokhtari; Sanjay Shakkottai
 
-[OpenReview](<https://openreview.net/forum?id=QUN6uidabr>) · [Official program](<https://neurips.cc/virtual/2025/poster/118126>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/369d5d79908d1f7d4b4ac42e68037a13-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=QUN6uidabr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118126>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/369d5d79908d1f7d4b4ac42e68037a13-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -2078,7 +2300,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Pengyun Yue; Xuanlin Yang; Mingqing Xiao; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Official program](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tM4cHBD7kD>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115604>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9a9afa70eead1805f00e3a0df2a41157-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -2100,7 +2324,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Runa Eschenhagen; Aaron Defazio; Tsung-Hsien Lee; Richard Turner; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=kePsKwxvaV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kePsKwxvaV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics; X1 — Matrix functions, roots and matrix geometry.
 
@@ -2130,7 +2356,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ipsita Ghosh; Ethan Nguyen; Christian Kümmerle
 
-[OpenReview](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Official program](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZtzWvNKOCr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117315>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c1e6da1f619fe4b2e00cb5ca98392ec4-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; X6 — Matrix and tensor methods for compression.
 
@@ -2150,7 +2378,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Yutong Wang; Haiyu Wang; Sai Qian Zhang
 
-[OpenReview](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Official program](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=sEFDhxF1mG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115710>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X6 — Matrix and tensor methods for compression.
 
@@ -2170,7 +2400,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yilang Zhang; Bingcong Li; Georgios Giannakis
 
-[OpenReview](<https://openreview.net/forum?id=zefDc9oi5T>) · [Official program](<https://neurips.cc/virtual/2025/poster/115034>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/85c1ee0b3cdf49b84f14b163b01f2711-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=zefDc9oi5T>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115034>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/85c1ee0b3cdf49b84f14b163b01f2711-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -2184,7 +2416,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Noga Bar; Mariia Seleznova; ‪Yotam Alexander‬‏; Gitta Kutyniok; Raja Giryes
 
-[OpenReview](<https://openreview.net/forum?id=bd8kppxyB3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bd8kppxyB3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2204,7 +2438,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Giyeong Oh; Woohyun Cho; Siyeol Kim; Suhwan Choi; Youngjae Yu
 
-[OpenReview](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Official program](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2226,7 +2462,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jiawei Gu; Ziyue Qiao; Xinming Li; Zechao Li
 
-[OpenReview](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Official program](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=fqpbXJ2QtC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116798>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1292cf2ff215e3c857c34c32336413a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X1 — Matrix functions, roots and matrix geometry.
 
@@ -2246,7 +2484,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Junda Zhu; Jun Ai; Yujun Li; Yichun Yin; Yasheng Wang; Lifeng Shang; Qun Liu
 
-[OpenReview](<https://openreview.net/forum?id=0RF80tUWuv>) · [Official program](<https://neurips.cc/virtual/2025/poster/120320>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/31dc7ab2a83641aa58b57017545f0e7e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=0RF80tUWuv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120320>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/31dc7ab2a83641aa58b57017545f0e7e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training.
 
@@ -2260,7 +2500,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Chaoran Cheng; Yusong Wang; Yuxin Chen; Xiangxin Zhou; Nanning Zheng; Ge Liu
 
-[OpenReview](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -2276,7 +2518,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Antoine Collas; Ce Ju; Nicolas Salvy; Bertrand Thirion
 
-[OpenReview](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X1 — Matrix functions, roots and matrix geometry.
 
@@ -2300,7 +2544,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yunrui Guan; Krishnakumar Balasubramanian; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Official program](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -2316,7 +2562,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Marshal Sinaga; Julien Martinelli; Samuel Kaski
 
-[OpenReview](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Official program](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tJZKaDSSTX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115607>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -2334,7 +2582,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ahmad Bdeir; Johannes Burchert; Lars Schmidt-Thieme; Niels Landwehr
 
-[OpenReview](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Official program](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -2352,7 +2602,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zukang Xu; Xing Hu; Qiang Wu; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Official program](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X6 — Matrix and tensor methods for compression.
 
@@ -2374,7 +2626,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Chenyu Zheng; Xinyu Zhang; Rongzhen Wang; Wei Huang; Zhi Tian; Weilin Huang; Jun Zhu; Chongxuan LI
 
-[OpenReview](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -2394,7 +2648,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Howe Tissue; Venus Wang; Lu Wang
 
-[OpenReview](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -2416,7 +2672,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Frederik Kunstner; Francis Bach
 
-[OpenReview](<https://openreview.net/forum?id=VUbwLjLkws>) · [Official program](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VUbwLjLkws>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2438,7 +2696,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mustafa Shukor; Louis Bethune; Dan Busbridge; David Grangier; Enrico Fini; Alaaeldin El-Nouby; Pierre Ablin
 
-[OpenReview](<https://openreview.net/forum?id=vVU1KTOsju>) · [Official program](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=vVU1KTOsju>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2458,7 +2718,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Abdurakhmon Sadiev; Peter Richtarik; Ilyas Fatkhullin
 
-[OpenReview](<https://openreview.net/forum?id=rgrpS4SFNF>) · [Official program](<https://neurips.cc/virtual/2025/poster/115749>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/be7b70477c8fca697f14b1dbb1c086d1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rgrpS4SFNF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115749>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/be7b70477c8fca697f14b1dbb1c086d1-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics.
 
@@ -2472,7 +2734,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Evan Markou; Thalaiyasingam Ajanthan; Stephen Gould
 
-[OpenReview](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Official program](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -2490,7 +2754,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Son Nguyen; Aymeric Histace; Nistor Grozavu
 
-[OpenReview](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Official program](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -2506,7 +2772,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Amber Hu; Henry Smith; Scott Linderman
 
-[OpenReview](<https://openreview.net/forum?id=jmnt0F21K7>) · [Official program](<https://neurips.cc/virtual/2025/poster/116435>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e23b1d49a1fe9732e6d6175006113010-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jmnt0F21K7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116435>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e23b1d49a1fe9732e6d6175006113010-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods.
 
@@ -2520,7 +2788,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ryien Hosseini; Filippo Simini; Venkatram Vishwanath; Rebecca Willett; Henry Hoffmann
 
-[OpenReview](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Official program](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gXoMU9YYdY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116734>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6ec23290bd9c728558ff882e44e2f28a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -2538,7 +2808,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhijie Chen; Qiaobo Li; Arindam Banerjee
 
-[OpenReview](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Official program](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XIeE8jbM4K>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117527>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/308224aa2da89a3b4257d95b8b2be634-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; X4 — Randomized sketching and kernel approximations.
 
@@ -2558,7 +2830,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Felipe Maia Polo; Seamus Somerstep; Leshem Choshen; Yuekai Sun; Mikhail Yurochkin
 
-[OpenReview](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Official program](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2578,7 +2852,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Martin Marek; Sanae Lotfi; Aditya Somasundaram; Andrew Wilson; Micah Goldblum
 
-[OpenReview](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Official program](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2600,7 +2876,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yong Liu; Zirui Zhu; Chaoyu Gong; Minhao Cheng; Cho-Jui Hsieh; Yang You
 
-[OpenReview](<https://openreview.net/forum?id=Tjw0ACu3NL>) · [Official program](<https://neurips.cc/virtual/2025/poster/117825>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1e5c2efbddc02c1d971e2f19ccdb07d0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Tjw0ACu3NL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117825>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1e5c2efbddc02c1d971e2f19ccdb07d0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs.
 
@@ -2614,7 +2892,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Tianqi Qiao; Marie Maros
 
-[OpenReview](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Official program](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2634,7 +2914,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Siavash Ameli; Chris van der Heide; Liam Hodgkinson; Michael Mahoney
 
-[OpenReview](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Official program](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2CeGVUpOd7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120164>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/02d425a464e48bda5e810f8f4914b77e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2652,7 +2934,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ido Cohen; Ronen Talmon
 
-[OpenReview](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2674,7 +2958,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Phuc Tran; Van Vu; Nisheeth K. Vishnoi
 
-[OpenReview](<https://openreview.net/forum?id=F0JzotXYgC>) · [Official program](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=F0JzotXYgC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119075>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0e2cf47a9f948f8e8f283d06c118e3ae-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2692,7 +2978,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhizhong Li; Sina Sajadmanesh; Jingtao Li; Lingjuan Lyu
 
-[OpenReview](<https://openreview.net/forum?id=55Lv1unlUL>) · [Official program](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=55Lv1unlUL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -2714,7 +3002,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Anda Tang; Yiming Dong; Yutao Zeng; zhou Xun; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=rNcIJi7N65>) · [Official program](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rNcIJi7N65>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2736,7 +3026,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Yixuan Jiang; Jie Wang; Xinyi Li; Jian Luo; huanshuo dong
 
-[OpenReview](<https://openreview.net/forum?id=nimTd1IJz1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nimTd1IJz1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116110>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/48d467d310502791a97d05d1631c5b0f-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2754,7 +3046,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Qijun Luo; Mengqi Li; Lei Zhao; Xiao Li
 
-[OpenReview](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Official program](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EpgMSwJY8t>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119094>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f092c84221d73387a6a5dd7517c500a5-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -2776,7 +3070,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Aleksandar Terzic; Nicolas Menet; Michael Hersche; Thomas Hofmann; Abbas Rahimi
 
-[OpenReview](<https://openreview.net/forum?id=RDbuSCWhad>) · [Official program](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=RDbuSCWhad>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118046>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b830c18836a9b2e1395a4936dd687a-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2796,7 +3092,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sahar Rajabi; Nayeema Nonta; Sirisha Rambhatla
 
-[OpenReview](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -2824,7 +3122,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yehonathan Refael; Guy Smorodinsky; Tom Tirer; Ofir Lindenbaum
 
-[OpenReview](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Official program](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=DIjRvEKOeG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119226>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d85a66edadd443ac2350e93c0287f4f9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -2844,7 +3144,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Yizhou Liu; Ziming Liu; Jeff Gore
 
-[OpenReview](<https://openreview.net/forum?id=knPz7gtjPW>) · [Official program](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=knPz7gtjPW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2864,7 +3166,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hong Wang; Jie Wang; Minghao Ma; Haoran Shao; Haoyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=Oupeovfx0L>) · [Official program](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Oupeovfx0L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118256>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5c17c18c1dea5a0c00907824bbb80449-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -2882,7 +3186,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yuchao Lin; Cong Fu; Zachary Krueger; Haiyang Yu; Maho Nakata; Jianwen Xie; Emine Kucukbenli; Xiaofeng Qian; Shuiwang Ji
 
-[OpenReview](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Official program](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9vKJyCUfMH>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119499>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7fe3f83c15c1c96daf4689d358c9cadf-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -2904,7 +3210,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Yifan Zhang; Yifeng Liu; Huizhuo Yuan; Zhen Qin; Yang Yuan; Quanquan Gu; Andrew Yao
 
-[OpenReview](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Official program](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ECTxVRFhUa>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119152>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a301ec7cb9e07dc050403e2eb11d0041-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -2924,7 +3232,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zicheng Zhang; Haoran Li; Yifeng Zhang; Guoqiang Gong; Jiaxing Wang; Pengzhang Liu; Qixia Jiang; Junxing Hu
 
-[OpenReview](<https://openreview.net/forum?id=s4LnWgjacg>) · [Official program](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s4LnWgjacg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; X6 — Matrix and tensor methods for compression.
 
@@ -2952,7 +3262,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mykola Lukashchuk; Raphaël Trésor; Wouter Nuijten; Ismail Senoz; Bert Vries
 
-[OpenReview](<https://openreview.net/forum?id=XDisynd63Y>) · [Official program](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XDisynd63Y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M1 — General manifold algorithms and convergence theory.
 
@@ -2970,7 +3282,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Bhavya Vasudeva; Jung Lee; Vatsal Sharan; Mahdi Soltanolkotabi
 
-[OpenReview](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2990,7 +3304,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Emile Anand; Jan van den Brand; Rose McCarty
 
-[OpenReview](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Official program](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tGLZj8GWx3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115613>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3545b95bd8bdab38c71bcdfa8a91859e-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X7 — Structured products, transforms and GPU kernels.
 
@@ -3008,7 +3324,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Minhak Song; Beomhan Baek; Kwangjun Ahn; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Official program](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3030,7 +3348,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Maximilian Beck; Korbinian Pöppel; Phillip Lippe; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=b6H64u6TqI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=b6H64u6TqI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117208>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -3050,7 +3370,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Rui Wang; Chen Hu; Xiaoning Song; Xiaojun Wu; Nicu Sebe; Ziheng Chen
 
-[OpenReview](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -3066,7 +3388,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Pratik Rathore; Zachary Frangella; Sachin Garg; Shaghayegh Fazliani; Michal Derezinski; Madeleine Udell
 
-[OpenReview](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Official program](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=GaL0ja9ygG>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118958>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/cf8b2205e39f81726a8d828ecbe00ad0-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X8 — Linear systems, sparse solvers and Gaussian processes.
 
@@ -3084,7 +3408,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhixuan Pan; Shaowen Wang; Liao Pengfei; Jian Li
 
-[OpenReview](<https://openreview.net/forum?id=853SwC2dMZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=853SwC2dMZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3104,7 +3430,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ahmed Khaled; Satyen Kale; Arthur Douillard; Chi Jin; Rob Fergus; Manzil Zaheer
 
-[OpenReview](<https://openreview.net/forum?id=2VX79YLT9s>) · [Official program](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2VX79YLT9s>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3128,7 +3456,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kaiqi Jiang; Jeremy Cohen; Yuanzhi Li
 
-[OpenReview](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Official program](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3148,7 +3478,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Tang; Han Zhang; Yuan Cao; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3170,7 +3502,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Andrei Panferov; Alexandra Volkova; Ionut-Vlad Modoranu; Vage Egiazarian; Mher Safaryan; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=24wDPGiDzA>) · [Official program](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=24wDPGiDzA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3190,7 +3524,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Annie Marsden; Elad Hazan
 
-[OpenReview](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Official program](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rwmVd8BKW5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115735>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/9b25312145e55be426ee7071e845cb90-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; X7 — Structured products, transforms and GPU kernels.
 
@@ -3210,7 +3546,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Haocheng Luo; Mehrtash Harandi; Dinh Phung; Trung Le
 
-[OpenReview](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Official program](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -3230,7 +3568,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Avrajit Ghosh; Bai Cong; Rio Yokota; Saiprasad Ravishankar; Rongrong Wang; Molei Tao; Mohammad Emtiyaz Khan; Thomas Möllenhoff
 
-[OpenReview](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Official program](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3250,7 +3590,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Dominic Maggio; Hyungtae Lim; Luca Carlone
 
-[OpenReview](<https://openreview.net/forum?id=63ljkCGMhE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=63ljkCGMhE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -3268,7 +3610,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Youqi WU; Jingwei Zhang; Farzan Farnia
 
-[OpenReview](<https://openreview.net/forum?id=XougXwZAHI>) · [Official program](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XougXwZAHI>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117475>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/317565cd8f3e83be1163f6324b4a4569-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X4 — Randomized sketching and kernel approximations.
 
@@ -3288,7 +3632,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yuhong CHOU; Zehao Liu; Rui-Jie Zhu; Xinyi Wan; Tianjian Li; Congying Chu; Qian Liu; Jibin Wu; Zejun MA
 
-[OpenReview](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Official program](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=eHRFb3DSZS>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116936>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c7de4d7804077094c10c8f1ba960241c-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -3306,7 +3652,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Viktoria Schram; Markus Hiller; Daniel Beck; Trevor Cohn
 
-[OpenReview](<https://openreview.net/forum?id=paiyYD81Wr>) · [Official program](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=paiyYD81Wr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3326,7 +3674,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Jiecheng Lu; Xu Han; Yan Sun; Viresh Pati; Yubin Kim; Siddhartha Somani; Shihao Yang
 
-[OpenReview](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Official program](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Ms6IXbfzzX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118425>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1363163299a172662dcf0c0f9932acf6-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation.
 
 **Categories:** X5 — Attention, state-space algebra and parallel scans.
 
@@ -3344,7 +3694,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Liang Zhang; Bingcong Li; Kiran Thekumparampil; Sewoong Oh; Michael Muehlebach; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 

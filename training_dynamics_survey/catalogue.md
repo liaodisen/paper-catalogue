@@ -1,12 +1,14 @@
 # Learning rates, scaling laws and training dynamics
 
-208 accepted main-conference papers. Updated 2026-09-24. Topic membership overlaps; most annotations are based on accepted abstracts, with targeted full-text checks labeled.
+208 curated papers. Updated 2026-09-24. Topic membership overlaps; publication status and evidence are recorded for each entry.
 
 ### $\mathbf{Li_2}$: A Framework on Dynamics of Feature Emergence and Delayed Generalization
 
 **ICLR 2026 · Accept (Poster)** · Yuandong Tian
 
-[OpenReview](<https://openreview.net/forum?id=ceIBRhJpUr>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008484>) · [PDF](<https://openreview.net/pdf?id=ceIBRhJpUr>)
+[Primary source](<https://openreview.net/forum?id=ceIBRhJpUr>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008484>) · [PDF](<https://openreview.net/pdf?id=ceIBRhJpUr>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -26,7 +28,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Benjamin Thérien; Charles-Étienne Joseph; Boris Knyazev; Edouard Oyallon; Irina Rish; Eugene Belilovsky
 
-[OpenReview](<https://openreview.net/forum?id=f8z2bzOLK2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008268>) · [PDF](<https://openreview.net/pdf?id=f8z2bzOLK2>)
+[Primary source](<https://openreview.net/forum?id=f8z2bzOLK2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008268>) · [PDF](<https://openreview.net/pdf?id=f8z2bzOLK2>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -46,7 +50,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Mugunthan Shandirasegaran; Hongkang Li; Songyang Zhang; Meng Wang; Shuai Zhang
 
-[OpenReview](<https://openreview.net/forum?id=hvpKqEYJjj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008011>) · [PDF](<https://openreview.net/pdf?id=hvpKqEYJjj>)
+[Primary source](<https://openreview.net/forum?id=hvpKqEYJjj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008011>) · [PDF](<https://openreview.net/pdf?id=hvpKqEYJjj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -64,7 +70,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Hong-Yi Wang; Di Luo; Tomaso Poggio; Isaac Chuang; Liu Ziyin
 
-[OpenReview](<https://openreview.net/forum?id=vxkzW4ljeX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006767>) · [PDF](<https://openreview.net/pdf?id=vxkzW4ljeX>)
+[Primary source](<https://openreview.net/forum?id=vxkzW4ljeX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006767>) · [PDF](<https://openreview.net/pdf?id=vxkzW4ljeX>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -82,7 +90,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Enea Monzio Compagnoni; Alessandro Stanghellini; Rustem Islamov; Aurelien Lucchi; Anastasia Koloskova
 
-[OpenReview](<https://openreview.net/forum?id=hSpA4DAoMk>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008058>) · [PDF](<https://openreview.net/pdf?id=hSpA4DAoMk>)
+[Primary source](<https://openreview.net/forum?id=hSpA4DAoMk>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008058>) · [PDF](<https://openreview.net/pdf?id=hSpA4DAoMk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -102,7 +112,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shayne Longpre; Sneha Kudugunta; Niklas Muennighoff; I-Hung Hsu; Isaac Caswell; Alex Pentland; Sercan Arik; Chen-Yu Lee; Sayna Ebrahimi
 
-[OpenReview](<https://openreview.net/forum?id=0BkvUY61MX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011962>) · [PDF](<https://openreview.net/pdf?id=0BkvUY61MX>)
+[Primary source](<https://openreview.net/forum?id=0BkvUY61MX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011962>) · [PDF](<https://openreview.net/pdf?id=0BkvUY61MX>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -120,7 +132,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Georgios Vlassis; Saleh Ashkboos; Alexandra Volkova; Torsten Hoefler; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=mVldAuDAn5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007569>) · [PDF](<https://openreview.net/pdf?id=mVldAuDAn5>)
+[Primary source](<https://openreview.net/forum?id=mVldAuDAn5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007569>) · [PDF](<https://openreview.net/pdf?id=mVldAuDAn5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -140,7 +154,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jiachen (Tianhao) Wang; Tong Wu; Kaifeng Lyu; James Y Zou; Dawn Song; Ruoxi Jia; Prateek Mittal
 
-[OpenReview](<https://openreview.net/forum?id=2FZC0c06jP>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011765>) · [PDF](<https://openreview.net/pdf?id=2FZC0c06jP>)
+[Primary source](<https://openreview.net/forum?id=2FZC0c06jP>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011765>) · [PDF](<https://openreview.net/pdf?id=2FZC0c06jP>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -158,7 +174,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Lizhang Chen; Jonathan Li; Kaizhao Liang; Baiyu Su; Cong Xie; Chen Liang; Ni Lao; Qiang Liu
 
-[OpenReview](<https://openreview.net/forum?id=Gwe6gbGng5>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010446>) · [PDF](<https://openreview.net/pdf?id=Gwe6gbGng5>)
+[Primary source](<https://openreview.net/forum?id=Gwe6gbGng5>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010446>) · [PDF](<https://openreview.net/pdf?id=Gwe6gbGng5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -178,7 +196,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Basile Confavreux; Aaditya Singh; Jin Hwa Lee; Amaury Sabran; Andrew Saxe
 
-[OpenReview](<https://openreview.net/forum?id=cJAtzOcAnd>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008523>) · [PDF](<https://openreview.net/pdf?id=cJAtzOcAnd>)
+[Primary source](<https://openreview.net/forum?id=cJAtzOcAnd>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008523>) · [PDF](<https://openreview.net/pdf?id=cJAtzOcAnd>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -196,7 +216,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Bruno Mlodozeniec; Pierre Ablin; Louis Béthune; Dan Busbridge; Michal Klein; Jason Ramapuram; marco cuturi
 
-[OpenReview](<https://openreview.net/forum?id=elB9k4nTL1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008289>) · [PDF](<https://openreview.net/pdf?id=elB9k4nTL1>)
+[Primary source](<https://openreview.net/forum?id=elB9k4nTL1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008289>) · [PDF](<https://openreview.net/pdf?id=elB9k4nTL1>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -216,7 +238,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Aleksandr Dremov; David Grangier; Angelos Katharopoulos; Awni Hannun
 
-[OpenReview](<https://openreview.net/forum?id=QpbtT95S95>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009552>) · [PDF](<https://openreview.net/pdf?id=QpbtT95S95>)
+[Primary source](<https://openreview.net/forum?id=QpbtT95S95>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009552>) · [PDF](<https://openreview.net/pdf?id=QpbtT95S95>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -234,7 +258,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Zhiqi Bu; Shiyun Xu; Jialin Mao
 
-[OpenReview](<https://openreview.net/forum?id=dSdLqg02tx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008408>) · [PDF](<https://openreview.net/pdf?id=dSdLqg02tx>)
+[Primary source](<https://openreview.net/forum?id=dSdLqg02tx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008408>) · [PDF](<https://openreview.net/pdf?id=dSdLqg02tx>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -254,7 +280,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Xianbiao Qi; Marco Chen; Wenjie Xiao; Jiaquan Ye; Yelin He; Chun-Guang Li; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=62pn18XmAg>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011405>) · [PDF](<https://openreview.net/pdf?id=62pn18XmAg>)
+[Primary source](<https://openreview.net/forum?id=62pn18XmAg>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011405>) · [PDF](<https://openreview.net/pdf?id=62pn18XmAg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -274,7 +302,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Ali Saheb Pasand; Elvis Dohmatob
 
-[OpenReview](<https://openreview.net/forum?id=wCnHeql3ow>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006751>) · [PDF](<https://openreview.net/pdf?id=wCnHeql3ow>)
+[Primary source](<https://openreview.net/forum?id=wCnHeql3ow>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006751>) · [PDF](<https://openreview.net/pdf?id=wCnHeql3ow>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -294,7 +324,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Keitaro Sakamoto; Issei Sato
 
-[OpenReview](<https://openreview.net/forum?id=sLX5P7FTfT>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007064>) · [PDF](<https://openreview.net/pdf?id=sLX5P7FTfT>)
+[Primary source](<https://openreview.net/forum?id=sLX5P7FTfT>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007064>) · [PDF](<https://openreview.net/pdf?id=sLX5P7FTfT>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -312,7 +344,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Kaiyue Wen; David Hall; Tengyu Ma; Percy Liang
 
-[OpenReview](<https://openreview.net/forum?id=2J51qUZ0iG>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011758>) · [PDF](<https://openreview.net/pdf?id=2J51qUZ0iG>)
+[Primary source](<https://openreview.net/forum?id=2J51qUZ0iG>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011758>) · [PDF](<https://openreview.net/pdf?id=2J51qUZ0iG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T3 — Width/depth scaling and hyperparameter transfer; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -332,7 +366,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jinbo Wang; Binghui Li; Zhanpeng Zhou; Mingze Wang; yuxuan sun; Jiaqi Zhang; Xunliang Cai; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=PXWgzUkVwo>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009661>) · [PDF](<https://openreview.net/pdf?id=PXWgzUkVwo>)
+[Primary source](<https://openreview.net/forum?id=PXWgzUkVwo>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009661>) · [PDF](<https://openreview.net/pdf?id=PXWgzUkVwo>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -352,7 +388,9 @@
 
 **ICLR 2026 · Accept (Oral)** · Guillaume Braun; Bruno Loureiro; Minh Ha Quang; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=Ae4eZpkXBX>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011017>) · [PDF](<https://openreview.net/pdf?id=Ae4eZpkXBX>)
+[Primary source](<https://openreview.net/forum?id=Ae4eZpkXBX>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011017>) · [PDF](<https://openreview.net/pdf?id=Ae4eZpkXBX>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -370,7 +408,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Tongtong Liang; Alexander Cloninger; Rahul Parhi; Yu-Xiang Wang
 
-[OpenReview](<https://openreview.net/forum?id=zVmS7G6Dyi>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006451>) · [PDF](<https://openreview.net/pdf?id=zVmS7G6Dyi>)
+[Primary source](<https://openreview.net/forum?id=zVmS7G6Dyi>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006451>) · [PDF](<https://openreview.net/pdf?id=zVmS7G6Dyi>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -388,7 +428,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shuang Liang; Guido Montufar
 
-[OpenReview](<https://openreview.net/forum?id=wsxGCaBjWC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006694>) · [PDF](<https://openreview.net/pdf?id=wsxGCaBjWC>)
+[Primary source](<https://openreview.net/forum?id=wsxGCaBjWC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006694>) · [PDF](<https://openreview.net/pdf?id=wsxGCaBjWC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -406,7 +448,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Ziyue Li; Chenrui Fan; Tianyi Zhou
 
-[OpenReview](<https://openreview.net/forum?id=blfwRondjY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008581>) · [PDF](<https://openreview.net/pdf?id=blfwRondjY>)
+[Primary source](<https://openreview.net/forum?id=blfwRondjY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008581>) · [PDF](<https://openreview.net/pdf?id=blfwRondjY>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -424,7 +468,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Aukosh Jagannath; Taj Jones-McCormick; Varnan Sarangian
 
-[OpenReview](<https://openreview.net/forum?id=5OJLOwwXV4>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011471>) · [PDF](<https://openreview.net/pdf?id=5OJLOwwXV4>)
+[Primary source](<https://openreview.net/forum?id=5OJLOwwXV4>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011471>) · [PDF](<https://openreview.net/pdf?id=5OJLOwwXV4>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -444,7 +490,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Chenxiang Zhang; Alexander Theus; Damien Teney; Antonio Orvieto; Jun Pang; Sjouke Mauw
 
-[OpenReview](<https://openreview.net/forum?id=RU76KTF1Da>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009486>) · [PDF](<https://openreview.net/pdf?id=RU76KTF1Da>)
+[Primary source](<https://openreview.net/forum?id=RU76KTF1Da>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009486>) · [PDF](<https://openreview.net/pdf?id=RU76KTF1Da>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -464,7 +512,9 @@
 
 **ICLR 2026 · Accept (Oral)** · Kairong Luo; Zhenbo Sun; Haodong Wen; Xinyu Shi; Jiarui Cui; Chenyi Dang; Kaifeng Lyu; Wenguang Chen
 
-[OpenReview](<https://openreview.net/forum?id=T5wkZJqzkz>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009351>) · [PDF](<https://openreview.net/pdf?id=T5wkZJqzkz>)
+[Primary source](<https://openreview.net/forum?id=T5wkZJqzkz>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009351>) · [PDF](<https://openreview.net/pdf?id=T5wkZJqzkz>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -484,7 +534,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Newsha Ardalani; Feiyang Kang; Michael Kuchnik; Mostafa Elhoushi; Shubho Sengupta; Shang-Wen Li; Carole-Jean Wu
 
-[OpenReview](<https://openreview.net/forum?id=ZC5QBfdOw7>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008830>) · [PDF](<https://openreview.net/pdf?id=ZC5QBfdOw7>)
+[Primary source](<https://openreview.net/forum?id=ZC5QBfdOw7>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008830>) · [PDF](<https://openreview.net/pdf?id=ZC5QBfdOw7>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -502,7 +554,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Baekrok Shin; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=NYOYJr988x>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009856>) · [PDF](<https://openreview.net/pdf?id=NYOYJr988x>)
+[Primary source](<https://openreview.net/forum?id=NYOYJr988x>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009856>) · [PDF](<https://openreview.net/pdf?id=NYOYJr988x>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -520,7 +574,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Beomhan Baek; Minhak Song; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=LJdAdCo3BN>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010047>) · [PDF](<https://openreview.net/pdf?id=LJdAdCo3BN>)
+[Primary source](<https://openreview.net/forum?id=LJdAdCo3BN>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010047>) · [PDF](<https://openreview.net/pdf?id=LJdAdCo3BN>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -540,7 +596,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Francesco DAmico; Dario Bocchi; Matteo Negri
 
-[OpenReview](<https://openreview.net/forum?id=qBAV2DEvAC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007275>) · [PDF](<https://openreview.net/pdf?id=qBAV2DEvAC>)
+[Primary source](<https://openreview.net/forum?id=qBAV2DEvAC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007275>) · [PDF](<https://openreview.net/pdf?id=qBAV2DEvAC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -558,7 +616,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Nahal Mirzaie; Alireza Alipanah; Ali Abbasi; Amirmahdi Farzane; Hossein Jafarinia; Erfan Sobhaei; Mahdi Ghaznavi; Amir Najafi; Mahdieh Baghshah; Mohammad Hossein Rohban
 
-[OpenReview](<https://openreview.net/forum?id=CPdAB7H8mU>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010861>) · [PDF](<https://openreview.net/pdf?id=CPdAB7H8mU>)
+[Primary source](<https://openreview.net/forum?id=CPdAB7H8mU>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010861>) · [PDF](<https://openreview.net/pdf?id=CPdAB7H8mU>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -578,7 +638,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Sibylle Marcotte; Gabriel Peyré; Rémi Gribonval
 
-[OpenReview](<https://openreview.net/forum?id=IlyesljaNb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+[Primary source](<https://openreview.net/forum?id=IlyesljaNb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -602,7 +664,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Chaewon Moon; Dongkuk Si; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=ErnnE2UNI2>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010640>) · [PDF](<https://openreview.net/pdf?id=ErnnE2UNI2>)
+[Primary source](<https://openreview.net/forum?id=ErnnE2UNI2>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010640>) · [PDF](<https://openreview.net/pdf?id=ErnnE2UNI2>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -620,7 +684,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Tom Jacobs; Chao Zhou; Rebekka Burkholz
 
-[OpenReview](<https://openreview.net/forum?id=YgudIlQ9nC>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008875>) · [PDF](<https://openreview.net/pdf?id=YgudIlQ9nC>)
+[Primary source](<https://openreview.net/forum?id=YgudIlQ9nC>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008875>) · [PDF](<https://openreview.net/pdf?id=YgudIlQ9nC>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -640,7 +706,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Aki Rehn; Linzh Zhao; Mikko Heikkilä; Antti Honkela
 
-[OpenReview](<https://openreview.net/forum?id=V3fEo612nE>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009176>) · [PDF](<https://openreview.net/pdf?id=V3fEo612nE>)
+[Primary source](<https://openreview.net/forum?id=V3fEo612nE>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009176>) · [PDF](<https://openreview.net/pdf?id=V3fEo612nE>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -660,7 +728,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Cai Yuchen; Ding Cao; Xin Xu; Zijun Yao; Yuqing Huang; Benyi Zhang; Zhenyu Tan; Guiquan Liu; Junfeng Fang
 
-[OpenReview](<https://openreview.net/forum?id=SdHmA6BYVJ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009393>) · [PDF](<https://openreview.net/pdf?id=SdHmA6BYVJ>)
+[Primary source](<https://openreview.net/forum?id=SdHmA6BYVJ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009393>) · [PDF](<https://openreview.net/pdf?id=SdHmA6BYVJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -678,7 +748,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shuai Jiang; Eric Cyr; Ben Southworth; Alexey Voronin
 
-[OpenReview](<https://openreview.net/forum?id=CXlsqTAf1E>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010848>) · [PDF](<https://openreview.net/pdf?id=CXlsqTAf1E>)
+[Primary source](<https://openreview.net/forum?id=CXlsqTAf1E>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010848>) · [PDF](<https://openreview.net/pdf?id=CXlsqTAf1E>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -698,7 +770,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shuo Chen; Xiaolong Li; Jiaying Peng; Yao Zhao
 
-[OpenReview](<https://openreview.net/forum?id=3U6wH7uAPZ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011642>) · [PDF](<https://openreview.net/pdf?id=3U6wH7uAPZ>)
+[Primary source](<https://openreview.net/forum?id=3U6wH7uAPZ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011642>) · [PDF](<https://openreview.net/pdf?id=3U6wH7uAPZ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -718,7 +792,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jim Zhao; Tin Sum Cheng; Wojciech Masarczyk; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=9EPYWJrib1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011133>) · [PDF](<https://openreview.net/pdf?id=9EPYWJrib1>)
+[Primary source](<https://openreview.net/forum?id=9EPYWJrib1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011133>) · [PDF](<https://openreview.net/pdf?id=9EPYWJrib1>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -738,7 +814,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Kazuki Yano; Shun Kiyono; Sosuke Kobayashi; Sho Takase; Jun Suzuki
 
-[OpenReview](<https://openreview.net/forum?id=JnebU2QLdH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010172>) · [PDF](<https://openreview.net/pdf?id=JnebU2QLdH>)
+[Primary source](<https://openreview.net/forum?id=JnebU2QLdH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010172>) · [PDF](<https://openreview.net/pdf?id=JnebU2QLdH>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -758,7 +836,9 @@
 
 **ICLR 2026 · Accept (Oral)** · Konwoo Kim; Suhas Kotha; Percy Liang; Tatsunori Hashimoto
 
-[OpenReview](<https://openreview.net/forum?id=ck0aZTAnwK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008473>) · [PDF](<https://openreview.net/pdf?id=ck0aZTAnwK>)
+[Primary source](<https://openreview.net/forum?id=ck0aZTAnwK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008473>) · [PDF](<https://openreview.net/pdf?id=ck0aZTAnwK>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -776,7 +856,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Rylan Schaeffer; Noam Levi; Brando Miranda; Sanmi Koyejo
 
-[OpenReview](<https://openreview.net/forum?id=Ym33xJYINV>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008870>) · [PDF](<https://openreview.net/pdf?id=Ym33xJYINV>)
+[Primary source](<https://openreview.net/forum?id=Ym33xJYINV>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008870>) · [PDF](<https://openreview.net/pdf?id=Ym33xJYINV>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -794,7 +876,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Xingwu Chen; Tianle Li; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=2OO399hRD6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011748>) · [PDF](<https://openreview.net/pdf?id=2OO399hRD6>)
+[Primary source](<https://openreview.net/forum?id=2OO399hRD6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011748>) · [PDF](<https://openreview.net/pdf?id=2OO399hRD6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -812,7 +896,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yiyou Sun; Yuhan Cao; Pohao Huang; Haoyue Bai; Hanna Hajishirzi; Nouha Dziri; Dawn Song
 
-[OpenReview](<https://openreview.net/forum?id=CJJ8VxOWbG>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010871>) · [PDF](<https://openreview.net/pdf?id=CJJ8VxOWbG>)
+[Primary source](<https://openreview.net/forum?id=CJJ8VxOWbG>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010871>) · [PDF](<https://openreview.net/pdf?id=CJJ8VxOWbG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -830,7 +916,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yedi Zhang; Andrew Saxe; Peter Latham
 
-[OpenReview](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+[Primary source](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -854,7 +942,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Dimitri von Rütte; Janis Fluri; Omead Pooladzandi; Bernhard Schölkopf; Thomas Hofmann; Antonio Orvieto
 
-[OpenReview](<https://openreview.net/forum?id=GDYaNzxt9T>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010520>) · [PDF](<https://openreview.net/pdf?id=GDYaNzxt9T>)
+[Primary source](<https://openreview.net/forum?id=GDYaNzxt9T>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010520>) · [PDF](<https://openreview.net/pdf?id=GDYaNzxt9T>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -872,7 +962,9 @@
 
 **ICLR 2026 · Accept (Oral)** · Leonardo Defilippis; Yizhou Xu; Julius Girardin; Vittorio Erba; Emanuele Troiani; Lenka Zdeborova; Bruno Loureiro; Florent Krzakala
 
-[OpenReview](<https://openreview.net/forum?id=Q3yLIIkt7z>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009624>) · [PDF](<https://openreview.net/pdf?id=Q3yLIIkt7z>)
+[Primary source](<https://openreview.net/forum?id=Q3yLIIkt7z>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009624>) · [PDF](<https://openreview.net/pdf?id=Q3yLIIkt7z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -890,7 +982,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Zhengyang Liang; Hao He; Ceyuan Yang; Bo DAI
 
-[OpenReview](<https://openreview.net/forum?id=T985gm4sDA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009343>) · [PDF](<https://openreview.net/pdf?id=T985gm4sDA>)
+[Primary source](<https://openreview.net/forum?id=T985gm4sDA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009343>) · [PDF](<https://openreview.net/pdf?id=T985gm4sDA>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -908,7 +1002,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Song Bian; Tao Yu; Shivaram Venkataraman; Youngsuk Park
 
-[OpenReview](<https://openreview.net/forum?id=0TmVqOpBbK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011936>) · [PDF](<https://openreview.net/pdf?id=0TmVqOpBbK>)
+[Primary source](<https://openreview.net/forum?id=0TmVqOpBbK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011936>) · [PDF](<https://openreview.net/pdf?id=0TmVqOpBbK>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -926,7 +1022,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jihwan Kim; Dogyoon Song; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=zVwRP0ikrx>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006450>) · [PDF](<https://openreview.net/pdf?id=zVwRP0ikrx>)
+[Primary source](<https://openreview.net/forum?id=zVwRP0ikrx>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006450>) · [PDF](<https://openreview.net/pdf?id=zVwRP0ikrx>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -944,7 +1042,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Anirudh Subramanyam; Yuxin Chen; Robert Grossman
 
-[OpenReview](<https://openreview.net/forum?id=x54wwB6QvL>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006678>) · [PDF](<https://openreview.net/pdf?id=x54wwB6QvL>)
+[Primary source](<https://openreview.net/forum?id=x54wwB6QvL>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006678>) · [PDF](<https://openreview.net/pdf?id=x54wwB6QvL>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -962,7 +1062,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shane Bergsma; Bin Zhang; Nolan Dey; Shaheer Muhammad; Gurpreet Gosal; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=3YKeB9R1g9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011632>) · [PDF](<https://openreview.net/pdf?id=3YKeB9R1g9>)
+[Primary source](<https://openreview.net/forum?id=3YKeB9R1g9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011632>) · [PDF](<https://openreview.net/pdf?id=3YKeB9R1g9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -982,7 +1084,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Alexandru Meterez; Depen Morwani; Jingfeng Wu; Costin-Andrei Oncescu; Cengiz Pehlevan; Sham Kakade
 
-[OpenReview](<https://openreview.net/forum?id=Nj0XBF2o7z>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009838>) · [PDF](<https://openreview.net/pdf?id=Nj0XBF2o7z>)
+[Primary source](<https://openreview.net/forum?id=Nj0XBF2o7z>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009838>) · [PDF](<https://openreview.net/pdf?id=Nj0XBF2o7z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -1002,7 +1106,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Konstantinos Emmanouilidis; Emmanouil-Vasileios Vlatakis-Gkaragkounis; Rene Vidal
 
-[OpenReview](<https://openreview.net/forum?id=QQZ53UtXgf>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009589>) · [PDF](<https://openreview.net/pdf?id=QQZ53UtXgf>)
+[Primary source](<https://openreview.net/forum?id=QQZ53UtXgf>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009589>) · [PDF](<https://openreview.net/pdf?id=QQZ53UtXgf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -1020,7 +1126,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Daniil Medyakov; Stanko Sergey; Gleb Molodtsov; Philip Zmushko; Grigoriy Evseev; Egor Petrov; Aleksandr Beznosikov
 
-[OpenReview](<https://openreview.net/forum?id=yDLD3D95w3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006577>) · [PDF](<https://openreview.net/pdf?id=yDLD3D95w3>)
+[Primary source](<https://openreview.net/forum?id=yDLD3D95w3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006577>) · [PDF](<https://openreview.net/pdf?id=yDLD3D95w3>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -1040,7 +1148,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yize Wu; KE GAO; Ling Li; Yanjun WU
 
-[OpenReview](<https://openreview.net/forum?id=xSa19DAieH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006643>) · [PDF](<https://openreview.net/pdf?id=xSa19DAieH>)
+[Primary source](<https://openreview.net/forum?id=xSa19DAieH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006643>) · [PDF](<https://openreview.net/pdf?id=xSa19DAieH>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1060,7 +1170,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Aël Quélennec; Nour Hezbri; Pavlo Mozharovskyi; Van-Tam Nguyen; Enzo Tartaglione
 
-[OpenReview](<https://openreview.net/forum?id=BhfIg0tuti>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010926>) · [PDF](<https://openreview.net/pdf?id=BhfIg0tuti>)
+[Primary source](<https://openreview.net/forum?id=BhfIg0tuti>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010926>) · [PDF](<https://openreview.net/pdf?id=BhfIg0tuti>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1080,7 +1192,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Sameera Ramasinghe; Thalaiyasingam Ajanthan; Hadi Mohaghegh Dolatabadi; Chamin Hewa Koneputugodage; Gil Avraham; Violetta Shevchenko; Yan Zuo; Karol Pajak; Alexander Long
 
-[OpenReview](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+[Primary source](<https://openreview.net/forum?id=DuNf2vPTTK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010735>) · [PDF](<https://openreview.net/pdf?id=DuNf2vPTTK>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -1106,7 +1220,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yifan Sun; Yushan Liang; Zhen Zhang; Xin Liu; Jiaye Teng
 
-[OpenReview](<https://openreview.net/forum?id=Hh7x3c0cZl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010371>) · [PDF](<https://openreview.net/pdf?id=Hh7x3c0cZl>)
+[Primary source](<https://openreview.net/forum?id=Hh7x3c0cZl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010371>) · [PDF](<https://openreview.net/pdf?id=Hh7x3c0cZl>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1124,7 +1240,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Blake Bordelon; Mary Letey; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=qA42mWsnbl>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007276>) · [PDF](<https://openreview.net/pdf?id=qA42mWsnbl>)
+[Primary source](<https://openreview.net/forum?id=qA42mWsnbl>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007276>) · [PDF](<https://openreview.net/pdf?id=qA42mWsnbl>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1142,7 +1260,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Changxin Tian; Kunlong Chen; Jia Liu; Ziqi Liu; Zhiqiang Zhang; JUN ZHOU
 
-[OpenReview](<https://openreview.net/forum?id=7r2lkhDGUj>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011257>) · [PDF](<https://openreview.net/pdf?id=7r2lkhDGUj>)
+[Primary source](<https://openreview.net/forum?id=7r2lkhDGUj>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011257>) · [PDF](<https://openreview.net/pdf?id=7r2lkhDGUj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1160,7 +1280,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Albert Catalan-Tatjer; Niccolò Ajroldi; Jonas Geiping
 
-[OpenReview](<https://openreview.net/forum?id=ZXr3Xx7Z1O>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008797>) · [PDF](<https://openreview.net/pdf?id=ZXr3Xx7Z1O>)
+[Primary source](<https://openreview.net/forum?id=ZXr3Xx7Z1O>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008797>) · [PDF](<https://openreview.net/pdf?id=ZXr3Xx7Z1O>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1178,7 +1300,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Clarissa Lauditi; Blake Bordelon; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=Oox4QOhmi9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009752>) · [PDF](<https://openreview.net/pdf?id=Oox4QOhmi9>)
+[Primary source](<https://openreview.net/forum?id=Oox4QOhmi9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009752>) · [PDF](<https://openreview.net/pdf?id=Oox4QOhmi9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1196,7 +1320,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Alessio Giorlandino; Sebastian Goldt
 
-[OpenReview](<https://openreview.net/forum?id=utSqpxQHXq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006858>) · [PDF](<https://openreview.net/pdf?id=utSqpxQHXq>)
+[Primary source](<https://openreview.net/forum?id=utSqpxQHXq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006858>) · [PDF](<https://openreview.net/pdf?id=utSqpxQHXq>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1214,7 +1340,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Annan Yu; Danielle Maddix; Boran Han; Xiyuan Zhang; Abdul Fatir Ansari; Oleksandr Shchur; Christos Faloutsos; Andrew Gordon Wilson; Michael W Mahoney; Bernie Wang
 
-[OpenReview](<https://openreview.net/forum?id=5jkzTzV5Ao>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011425>) · [PDF](<https://openreview.net/pdf?id=5jkzTzV5Ao>)
+[Primary source](<https://openreview.net/forum?id=5jkzTzV5Ao>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011425>) · [PDF](<https://openreview.net/pdf?id=5jkzTzV5Ao>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1232,7 +1360,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Nikhil Ghosh; Denny Wu; Alberto Bietti
 
-[OpenReview](<https://openreview.net/forum?id=Q7mLKxQ8qk>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009619>) · [PDF](<https://openreview.net/pdf?id=Q7mLKxQ8qk>)
+[Primary source](<https://openreview.net/forum?id=Q7mLKxQ8qk>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009619>) · [PDF](<https://openreview.net/pdf?id=Q7mLKxQ8qk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -1252,7 +1382,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Atli Kosson; Jeremy Welborn; Yang Liu; Martin Jaggi; Xi Chen
 
-[OpenReview](<https://openreview.net/forum?id=PvTxIdZc1E>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009637>) · [PDF](<https://openreview.net/pdf?id=PvTxIdZc1E>)
+[Primary source](<https://openreview.net/forum?id=PvTxIdZc1E>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009637>) · [PDF](<https://openreview.net/pdf?id=PvTxIdZc1E>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1272,7 +1404,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Junxi Yan; Zixi Wei; Qingyao Ai; Yiqun LIU; Jingtao Zhan
 
-[OpenReview](<https://openreview.net/forum?id=o94xgM0sWJ>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007437>) · [PDF](<https://openreview.net/pdf?id=o94xgM0sWJ>)
+[Primary source](<https://openreview.net/forum?id=o94xgM0sWJ>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007437>) · [PDF](<https://openreview.net/pdf?id=o94xgM0sWJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1290,7 +1424,9 @@
 
 **ICLR 2026 · Accept (Oral)** · Changxin Tian; Jiapeng Wang; Qian Zhao; Kunlong Chen; Jia Liu; Ziqi Liu; Jiaxin Mao; Xin Zhao; Zhiqiang Zhang; JUN ZHOU
 
-[OpenReview](<https://openreview.net/forum?id=HhThhjKyfw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010369>) · [PDF](<https://openreview.net/pdf?id=HhThhjKyfw>)
+[Primary source](<https://openreview.net/forum?id=HhThhjKyfw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010369>) · [PDF](<https://openreview.net/pdf?id=HhThhjKyfw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -1310,7 +1446,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Maximilian Beck; Kajetan Schweighofer; Sebastian Böck; Sebastian Lehner; Sepp Hochreiter
 
-[OpenReview](<https://openreview.net/forum?id=bpbU549sSg>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008569>) · [PDF](<https://openreview.net/pdf?id=bpbU549sSg>)
+[Primary source](<https://openreview.net/forum?id=bpbU549sSg>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008569>) · [PDF](<https://openreview.net/pdf?id=bpbU549sSg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1328,7 +1466,9 @@
 
 **ICML 2026 · Accept (regular)** · Yuxin Ma; Nan Chen; Mateo D Diaz; Soufiane Hayou; Dmitriy Kunisky; Soledad Villar
 
-[OpenReview](<https://openreview.net/forum?id=bAqpZRzlTg>) · [Official program](<https://icml.cc/virtual/2026/poster/62988>) · [PDF](<https://openreview.net/pdf?id=bAqpZRzlTg>)
+[Primary source](<https://openreview.net/forum?id=bAqpZRzlTg>) · [Venue page](<https://icml.cc/virtual/2026/poster/62988>) · [PDF](<https://openreview.net/pdf?id=bAqpZRzlTg>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1348,7 +1488,9 @@
 
 **ICML 2026 · Accept (regular)** · Fabiola Ricci; Claudia Merger; Sebastian Goldt
 
-[OpenReview](<https://openreview.net/forum?id=RQECNEUcbJ>) · [Official program](<https://icml.cc/virtual/2026/poster/64045>) · [PDF](<https://openreview.net/pdf?id=RQECNEUcbJ>)
+[Primary source](<https://openreview.net/forum?id=RQECNEUcbJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/64045>) · [PDF](<https://openreview.net/pdf?id=RQECNEUcbJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1366,7 +1508,9 @@
 
 **ICML 2026 · Accept (regular)** · Jan Bauer; Kirsten Fischer; Moritz Helias; Agostina Palmigiano
 
-[OpenReview](<https://openreview.net/forum?id=nkVt0sY9HJ>) · [Official program](<https://icml.cc/virtual/2026/poster/61686>) · [PDF](<https://openreview.net/pdf?id=nkVt0sY9HJ>)
+[Primary source](<https://openreview.net/forum?id=nkVt0sY9HJ>) · [Venue page](<https://icml.cc/virtual/2026/poster/61686>) · [PDF](<https://openreview.net/pdf?id=nkVt0sY9HJ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1384,7 +1528,9 @@
 
 **ICML 2026 · Accept (regular)** · Viktoria Schram; Markus Hiller; Daniel Beck; Trevor Cohn
 
-[OpenReview](<https://openreview.net/forum?id=DXnLu7qu75>) · [Official program](<https://icml.cc/virtual/2026/poster/65451>) · [PDF](<https://openreview.net/pdf?id=DXnLu7qu75>)
+[Primary source](<https://openreview.net/forum?id=DXnLu7qu75>) · [Venue page](<https://icml.cc/virtual/2026/poster/65451>) · [PDF](<https://openreview.net/pdf?id=DXnLu7qu75>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1402,7 +1548,9 @@
 
 **ICML 2026 · Accept (regular)** · Guoxia Wang; Shuai Li; Congliang Chen; Jinle Zeng; Jiabin Yang; Dianhai Yu; Yanjun Ma; Li Shen
 
-[OpenReview](<https://openreview.net/forum?id=uBYlCu8b8Z>) · [Official program](<https://icml.cc/virtual/2026/poster/61050>) · [PDF](<https://openreview.net/pdf?id=uBYlCu8b8Z>)
+[Primary source](<https://openreview.net/forum?id=uBYlCu8b8Z>) · [Venue page](<https://icml.cc/virtual/2026/poster/61050>) · [PDF](<https://openreview.net/pdf?id=uBYlCu8b8Z>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1424,7 +1572,9 @@
 
 **ICML 2026 · Accept (regular)** · Hiroki Naganuma; Shagun Gupta; Youssef Briki; Ioannis Mitliagkas; Irina Rish; Parameswaran Raman; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=XMSaWRpEPS>) · [Official program](<https://icml.cc/virtual/2026/poster/63415>) · [PDF](<https://openreview.net/pdf?id=XMSaWRpEPS>)
+[Primary source](<https://openreview.net/forum?id=XMSaWRpEPS>) · [Venue page](<https://icml.cc/virtual/2026/poster/63415>) · [PDF](<https://openreview.net/pdf?id=XMSaWRpEPS>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency.
 
@@ -1444,7 +1594,9 @@
 
 **ICML 2026 · Accept (regular)** · Aikaterini Karoni; Rajit Rajpal; Benedict Leimkuhler; Gabriel Stoltz
 
-[OpenReview](<https://openreview.net/forum?id=JWWpV4StVf>) · [Official program](<https://icml.cc/virtual/2026/poster/64813>) · [PDF](<https://openreview.net/pdf?id=JWWpV4StVf>)
+[Primary source](<https://openreview.net/forum?id=JWWpV4StVf>) · [Venue page](<https://icml.cc/virtual/2026/poster/64813>) · [PDF](<https://openreview.net/pdf?id=JWWpV4StVf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1464,7 +1616,9 @@
 
 **ICML 2026 · Accept (regular)** · Zhiwei Bai; Zhangchen Zhou; Jiajie Zhao; Xiaolong Li; Zhiyu li; Feiyu Xiong; Hongkang Yang; Yaoyu Zhang; Zhi-Qin John Xu
 
-[OpenReview](<https://openreview.net/forum?id=STWQoscanw>) · [Official program](<https://icml.cc/virtual/2026/poster/63930>) · [PDF](<https://openreview.net/pdf?id=STWQoscanw>)
+[Primary source](<https://openreview.net/forum?id=STWQoscanw>) · [Venue page](<https://icml.cc/virtual/2026/poster/63930>) · [PDF](<https://openreview.net/pdf?id=STWQoscanw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1484,7 +1638,9 @@
 
 **ICML 2026 · Accept (regular)** · Dimitris Oikonomou; Nicolas Loizou
 
-[OpenReview](<https://openreview.net/forum?id=On2B3By7PT>) · [Official program](<https://icml.cc/virtual/2026/poster/64318>) · [PDF](<https://openreview.net/pdf?id=On2B3By7PT>)
+[Primary source](<https://openreview.net/forum?id=On2B3By7PT>) · [Venue page](<https://icml.cc/virtual/2026/poster/64318>) · [PDF](<https://openreview.net/pdf?id=On2B3By7PT>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -1502,7 +1658,9 @@
 
 **ICML 2026 · Accept (regular)** · Michael Crawshaw; Chirag Modi; Mingrui Liu; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=O5xoqSmNzc>) · [Official program](<https://icml.cc/virtual/2026/poster/64390>) · [PDF](<https://openreview.net/pdf?id=O5xoqSmNzc>)
+[Primary source](<https://openreview.net/forum?id=O5xoqSmNzc>) · [Venue page](<https://icml.cc/virtual/2026/poster/64390>) · [PDF](<https://openreview.net/pdf?id=O5xoqSmNzc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1522,7 +1680,9 @@
 
 **ICML 2026 · Accept (regular)** · Tianyu Pang; Vignesh Kothapalli; Shenyang Deng; Haohui Wang; Dawei Zhou; Yaoqing Yang
 
-[OpenReview](<https://openreview.net/forum?id=4vztmTrGhd>) · [Official program](<https://icml.cc/virtual/2026/poster/66301>) · [PDF](<https://openreview.net/pdf?id=4vztmTrGhd>)
+[Primary source](<https://openreview.net/forum?id=4vztmTrGhd>) · [Venue page](<https://icml.cc/virtual/2026/poster/66301>) · [PDF](<https://openreview.net/pdf?id=4vztmTrGhd>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -1542,7 +1702,9 @@
 
 **ICML 2026 · Accept (regular)** · Xingyu Qu; Peigeng Huang; Samuel Horváth
 
-[OpenReview](<https://openreview.net/forum?id=NKKwTEYdAm>) · [Official program](<https://icml.cc/virtual/2026/poster/64467>) · [PDF](<https://openreview.net/pdf?id=NKKwTEYdAm>)
+[Primary source](<https://openreview.net/forum?id=NKKwTEYdAm>) · [Venue page](<https://icml.cc/virtual/2026/poster/64467>) · [PDF](<https://openreview.net/pdf?id=NKKwTEYdAm>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1564,7 +1726,9 @@
 
 **ICML 2026 · Accept (regular)** · Adam Lee; M Ganesh Kumar; Blake Bordelon; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=3uXAGWqCny>) · [Official program](<https://icml.cc/virtual/2026/poster/66419>) · [PDF](<https://openreview.net/pdf?id=3uXAGWqCny>)
+[Primary source](<https://openreview.net/forum?id=3uXAGWqCny>) · [Venue page](<https://icml.cc/virtual/2026/poster/66419>) · [PDF](<https://openreview.net/pdf?id=3uXAGWqCny>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -1582,7 +1746,9 @@
 
 **ICML 2026 · Accept (regular)** · Maria Matveev; Vit Fojtik; Hung-Hsu Chou; Gitta Kutyniok; Johannes Maly
 
-[OpenReview](<https://openreview.net/forum?id=6eI4YHFyON>) · [Official program](<https://icml.cc/virtual/2026/poster/66129>) · [PDF](<https://openreview.net/pdf?id=6eI4YHFyON>)
+[Primary source](<https://openreview.net/forum?id=6eI4YHFyON>) · [Venue page](<https://icml.cc/virtual/2026/poster/66129>) · [PDF](<https://openreview.net/pdf?id=6eI4YHFyON>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1600,7 +1766,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Xianbiao Qi; Marco Chen; Jiaquan Ye; Yelin He; Rong Xiao
 
-[OpenReview](<https://openreview.net/forum?id=xUQ0Gw11NL>) · [Official program](<https://icml.cc/virtual/2026/poster/60694>) · [PDF](<https://openreview.net/pdf?id=xUQ0Gw11NL>)
+[Primary source](<https://openreview.net/forum?id=xUQ0Gw11NL>) · [Venue page](<https://icml.cc/virtual/2026/poster/60694>) · [PDF](<https://openreview.net/pdf?id=xUQ0Gw11NL>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1620,7 +1788,9 @@
 
 **ICML 2026 · Accept (regular)** · Francesco Cagnetta; Allan Raventos; Surya Ganguli; Matthieu Wyart
 
-[OpenReview](<https://openreview.net/forum?id=VXlniX0C5y>) · [Official program](<https://icml.cc/virtual/2026/poster/63606>) · [PDF](<https://openreview.net/pdf?id=VXlniX0C5y>)
+[Primary source](<https://openreview.net/forum?id=VXlniX0C5y>) · [Venue page](<https://icml.cc/virtual/2026/poster/63606>) · [PDF](<https://openreview.net/pdf?id=VXlniX0C5y>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1638,7 +1808,9 @@
 
 **ICML 2026 · Accept (regular)** · Shota Imai; Sota Nishiyama; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=wg02GN1ygj>) · [Official program](<https://icml.cc/virtual/2026/poster/60792>) · [PDF](<https://openreview.net/pdf?id=wg02GN1ygj>)
+[Primary source](<https://openreview.net/forum?id=wg02GN1ygj>) · [Venue page](<https://icml.cc/virtual/2026/poster/60792>) · [PDF](<https://openreview.net/pdf?id=wg02GN1ygj>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1656,7 +1828,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Sagnik Mukherjee; Lifan Yuan; Pavan Jayasinha; Dilek Hakkani-Tür; Hao Peng
 
-[OpenReview](<https://openreview.net/forum?id=z31fdV4WRu>) · [Official program](<https://icml.cc/virtual/2026/oral/71027>) · [PDF](<https://openreview.net/pdf?id=z31fdV4WRu>)
+[Primary source](<https://openreview.net/forum?id=z31fdV4WRu>) · [Venue page](<https://icml.cc/virtual/2026/oral/71027>) · [PDF](<https://openreview.net/pdf?id=z31fdV4WRu>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1676,7 +1850,9 @@
 
 **ICML 2026 · Accept (regular)** · Lucas Fernandez-Sarmiento
 
-[OpenReview](<https://openreview.net/forum?id=FoDU47u2jk>) · [Official program](<https://icml.cc/virtual/2026/poster/65205>) · [PDF](<https://openreview.net/pdf?id=FoDU47u2jk>)
+[Primary source](<https://openreview.net/forum?id=FoDU47u2jk>) · [Venue page](<https://icml.cc/virtual/2026/poster/65205>) · [PDF](<https://openreview.net/pdf?id=FoDU47u2jk>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1694,7 +1870,9 @@
 
 **ICML 2026 · Accept (regular)** · Jakob Kramp; Javed Lindner; Moritz Helias
 
-[OpenReview](<https://openreview.net/forum?id=Ge3VtuCvZ7>) · [Official program](<https://icml.cc/virtual/2026/poster/65116>) · [PDF](<https://openreview.net/pdf?id=Ge3VtuCvZ7>)
+[Primary source](<https://openreview.net/forum?id=Ge3VtuCvZ7>) · [Venue page](<https://icml.cc/virtual/2026/poster/65116>) · [PDF](<https://openreview.net/pdf?id=Ge3VtuCvZ7>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1712,7 +1890,9 @@
 
 **ICML 2026 · Accept (regular)** · rui dai; SHURAN ZHENG
 
-[OpenReview](<https://openreview.net/forum?id=joReaAnwnH>) · [Official program](<https://icml.cc/virtual/2026/poster/62102>) · [PDF](<https://openreview.net/pdf?id=joReaAnwnH>)
+[Primary source](<https://openreview.net/forum?id=joReaAnwnH>) · [Venue page](<https://icml.cc/virtual/2026/poster/62102>) · [PDF](<https://openreview.net/pdf?id=joReaAnwnH>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1730,7 +1910,9 @@
 
 **ICML 2026 · Accept (regular)** · Leonardo Galli; Curtis Fox; Wiebke Bartolomaeus; Mark Schmidt; Holger Rauhut
 
-[OpenReview](<https://openreview.net/forum?id=NpSI4x2vBS>) · [Official program](<https://icml.cc/virtual/2026/poster/64420>) · [PDF](<https://openreview.net/pdf?id=NpSI4x2vBS>)
+[Primary source](<https://openreview.net/forum?id=NpSI4x2vBS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64420>) · [PDF](<https://openreview.net/pdf?id=NpSI4x2vBS>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -1748,7 +1930,9 @@
 
 **ICML 2026 · Accept (regular)** · Aleksandr Shestakov; Martin Takac; Eduard Gorbunov
 
-[OpenReview](<https://openreview.net/forum?id=FGHVEJ2Jz9>) · [Official program](<https://icml.cc/virtual/2026/poster/65262>) · [PDF](<https://openreview.net/pdf?id=FGHVEJ2Jz9>)
+[Primary source](<https://openreview.net/forum?id=FGHVEJ2Jz9>) · [Venue page](<https://icml.cc/virtual/2026/poster/65262>) · [PDF](<https://openreview.net/pdf?id=FGHVEJ2Jz9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1766,7 +1950,9 @@
 
 **ICML 2026 · Accept (regular)** · Mansour ZOUBEIROU A MAYAKI
 
-[OpenReview](<https://openreview.net/forum?id=WxmL5UjtNm>) · [Official program](<https://icml.cc/virtual/2026/poster/63463>) · [PDF](<https://openreview.net/pdf?id=WxmL5UjtNm>)
+[Primary source](<https://openreview.net/forum?id=WxmL5UjtNm>) · [Venue page](<https://icml.cc/virtual/2026/poster/63463>) · [PDF](<https://openreview.net/pdf?id=WxmL5UjtNm>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1784,7 +1970,9 @@
 
 **ICML 2026 · Accept (regular)** · Hee-Sung Kim; Sungyoon Lee
 
-[OpenReview](<https://openreview.net/forum?id=CVXqBkLF5y>) · [Official program](<https://icml.cc/virtual/2026/poster/65550>) · [PDF](<https://openreview.net/pdf?id=CVXqBkLF5y>)
+[Primary source](<https://openreview.net/forum?id=CVXqBkLF5y>) · [Venue page](<https://icml.cc/virtual/2026/poster/65550>) · [PDF](<https://openreview.net/pdf?id=CVXqBkLF5y>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1802,7 +1990,9 @@
 
 **ICML 2026 · Accept (regular)** · Jiajie Zhao; Jianxing Wang; Junjie Yang; Zhiwei Bai; Yaoyu Zhang
 
-[OpenReview](<https://openreview.net/forum?id=IJph1t3Egr>) · [Official program](<https://icml.cc/virtual/2026/poster/64965>) · [PDF](<https://openreview.net/pdf?id=IJph1t3Egr>)
+[Primary source](<https://openreview.net/forum?id=IJph1t3Egr>) · [Venue page](<https://icml.cc/virtual/2026/poster/64965>) · [PDF](<https://openreview.net/pdf?id=IJph1t3Egr>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1820,7 +2010,9 @@
 
 **ICML 2026 · Accept (regular)** · Tianjin Huang; Zhangyang “Atlas” Wang; Haotian Hu; Zhenyu Zhang; Gaojie Jin; Xiang Li; Li Shen; Jiaxing Shang; Tianlong Chen; Ke Li; Lu Liu; Qingsong Wen; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=UZ8e5kivVf>) · [Official program](<https://icml.cc/virtual/2026/poster/63695>) · [PDF](<https://openreview.net/pdf?id=UZ8e5kivVf>)
+[Primary source](<https://openreview.net/forum?id=UZ8e5kivVf>) · [Venue page](<https://icml.cc/virtual/2026/poster/63695>) · [PDF](<https://openreview.net/pdf?id=UZ8e5kivVf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1840,7 +2032,9 @@
 
 **ICML 2026 · Accept (regular)** · Pascal Jr Tikeng Notsawo; Guillaume Dumas; Guillaume Rabusseau
 
-[OpenReview](<https://openreview.net/forum?id=5Cvh976L09>) · [Official program](<https://icml.cc/virtual/2026/poster/66276>) · [PDF](<https://openreview.net/pdf?id=5Cvh976L09>)
+[Primary source](<https://openreview.net/forum?id=5Cvh976L09>) · [Venue page](<https://icml.cc/virtual/2026/poster/66276>) · [PDF](<https://openreview.net/pdf?id=5Cvh976L09>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -1858,7 +2052,9 @@
 
 **ICML 2026 · Accept (regular)** · Yuma Ichikawa; Shuhei Kashiwamura; Ayaka Sakata
 
-[OpenReview](<https://openreview.net/forum?id=bI9moH3UZw>) · [Official program](<https://icml.cc/virtual/2026/poster/62979>) · [PDF](<https://openreview.net/pdf?id=bI9moH3UZw>)
+[Primary source](<https://openreview.net/forum?id=bI9moH3UZw>) · [Venue page](<https://icml.cc/virtual/2026/poster/62979>) · [PDF](<https://openreview.net/pdf?id=bI9moH3UZw>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1876,7 +2072,9 @@
 
 **ICML 2026 · Accept (regular)** · Haosong Zhang; Shenxi Wu; Xingjian Ma; Shirui Bian; Yichi Zhang; Xi Chen; Wei Lin
 
-[OpenReview](<https://openreview.net/forum?id=Q2tAR1xDFQ>) · [Official program](<https://icml.cc/virtual/2026/poster/64199>) · [PDF](<https://openreview.net/pdf?id=Q2tAR1xDFQ>)
+[Primary source](<https://openreview.net/forum?id=Q2tAR1xDFQ>) · [Venue page](<https://icml.cc/virtual/2026/poster/64199>) · [PDF](<https://openreview.net/pdf?id=Q2tAR1xDFQ>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -1896,7 +2094,9 @@
 
 **ICML 2026 · Accept (regular)** · Tianze Jiang; Blake Bordelon; Cengiz Pehlevan; Boris Hanin
 
-[OpenReview](<https://openreview.net/forum?id=fD36uwJ5oV>) · [Official program](<https://icml.cc/virtual/2026/poster/62595>) · [PDF](<https://openreview.net/pdf?id=fD36uwJ5oV>)
+[Primary source](<https://openreview.net/forum?id=fD36uwJ5oV>) · [Venue page](<https://icml.cc/virtual/2026/poster/62595>) · [PDF](<https://openreview.net/pdf?id=fD36uwJ5oV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -1916,7 +2116,9 @@
 
 **ICML 2026 · Accept (regular)** · Weidong Zhou; Fengze Liu; LIU; Ping Guo; Zijun Wang; Bingni Zhang; Yifan Zhang; Yifeng Yu; Xiaohuan ZHOU; Taifeng Wang
 
-[OpenReview](<https://openreview.net/forum?id=fQaVptMRCY>) · [Official program](<https://icml.cc/virtual/2026/poster/62574>) · [PDF](<https://openreview.net/pdf?id=fQaVptMRCY>)
+[Primary source](<https://openreview.net/forum?id=fQaVptMRCY>) · [Venue page](<https://icml.cc/virtual/2026/poster/62574>) · [PDF](<https://openreview.net/pdf?id=fQaVptMRCY>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1934,7 +2136,9 @@
 
 **ICML 2026 · Accept (regular)** · Yizhou Liu; Sara Kangaslahti; Ziming Liu; Jeff Gore
 
-[OpenReview](<https://openreview.net/forum?id=CEpCpxJqAt>) · [Official program](<https://icml.cc/virtual/2026/poster/65580>) · [PDF](<https://openreview.net/pdf?id=CEpCpxJqAt>)
+[Primary source](<https://openreview.net/forum?id=CEpCpxJqAt>) · [Venue page](<https://icml.cc/virtual/2026/poster/65580>) · [PDF](<https://openreview.net/pdf?id=CEpCpxJqAt>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -1952,7 +2156,9 @@
 
 **ICML 2026 · Accept (regular)** · Sang Truong; Yuheng Tu; Rylan Schaeffer; Sanmi Koyejo
 
-[OpenReview](<https://openreview.net/forum?id=QFgM1iNKmg>) · [Official program](<https://icml.cc/virtual/2026/poster/64176>) · [PDF](<https://openreview.net/pdf?id=QFgM1iNKmg>)
+[Primary source](<https://openreview.net/forum?id=QFgM1iNKmg>) · [Venue page](<https://icml.cc/virtual/2026/poster/64176>) · [PDF](<https://openreview.net/pdf?id=QFgM1iNKmg>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -1970,7 +2176,9 @@
 
 **ICML 2026 · Accept (regular)** · Zhe Li; Bicheng Ying; Zidong Liu; Haibo Yang
 
-[OpenReview](<https://openreview.net/forum?id=UTIylOfVUb>) · [Official program](<https://icml.cc/virtual/2026/poster/63704>) · [PDF](<https://openreview.net/pdf?id=UTIylOfVUb>)
+[Primary source](<https://openreview.net/forum?id=UTIylOfVUb>) · [Venue page](<https://icml.cc/virtual/2026/poster/63704>) · [PDF](<https://openreview.net/pdf?id=UTIylOfVUb>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** F — Zeroth-order and backpropagation alternatives for LLMs; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1990,7 +2198,9 @@
 
 **ICML 2026 · Accept (regular)** · Amit Attia; Tomer Koren
 
-[OpenReview](<https://openreview.net/forum?id=usZLsN3Dnv>) · [Official program](<https://icml.cc/virtual/2026/poster/60981>) · [PDF](<https://openreview.net/pdf?id=usZLsN3Dnv>)
+[Primary source](<https://openreview.net/forum?id=usZLsN3Dnv>) · [Venue page](<https://icml.cc/virtual/2026/poster/60981>) · [PDF](<https://openreview.net/pdf?id=usZLsN3Dnv>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2010,7 +2220,9 @@
 
 **ICML 2026 · Accept (regular)** · Nan Chen; Soledad Villar; Soufiane Hayou
 
-[OpenReview](<https://openreview.net/forum?id=vCAIwEJZQ6>) · [Official program](<https://icml.cc/virtual/2026/poster/60938>) · [PDF](<https://openreview.net/pdf?id=vCAIwEJZQ6>)
+[Primary source](<https://openreview.net/forum?id=vCAIwEJZQ6>) · [Venue page](<https://icml.cc/virtual/2026/poster/60938>) · [PDF](<https://openreview.net/pdf?id=vCAIwEJZQ6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -2030,7 +2242,9 @@
 
 **ICML 2026 · Accept (regular)** · Xu Ouyang; Deyi Liu; Yuhang Cai; Jing Liu; Yuan Yang; Chen Zheng; Thomas Hartvigsen; Yiyuan Ma
 
-[OpenReview](<https://openreview.net/forum?id=nuwO8FBadZ>) · [Official program](<https://icml.cc/virtual/2026/poster/61671>) · [PDF](<https://openreview.net/pdf?id=nuwO8FBadZ>)
+[Primary source](<https://openreview.net/forum?id=nuwO8FBadZ>) · [Venue page](<https://icml.cc/virtual/2026/poster/61671>) · [PDF](<https://openreview.net/pdf?id=nuwO8FBadZ>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2048,7 +2262,9 @@
 
 **ICML 2026 · Accept (regular)** · Qiao Xiao; Boqian Wu; Patrik Okanovic; Tomasz Sternal; Maurice Keulen; Elena Mocanu; Mykola Pechenizkiy; Decebal Constantin Mocanu; Torsten Hoefler
 
-[OpenReview](<https://openreview.net/forum?id=ivVPgBZewP>) · [Official program](<https://icml.cc/virtual/2026/poster/62187>) · [PDF](<https://openreview.net/pdf?id=ivVPgBZewP>)
+[Primary source](<https://openreview.net/forum?id=ivVPgBZewP>) · [Venue page](<https://icml.cc/virtual/2026/poster/62187>) · [PDF](<https://openreview.net/pdf?id=ivVPgBZewP>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2070,7 +2286,9 @@
 
 **ICML 2026 · Accept (regular)** · Arseniy Andreyev; Advikar Ananthkumar; Marc Walden; Tomaso A Poggio; Pierfrancesco Beneventano
 
-[OpenReview](<https://openreview.net/forum?id=mL4i6z7Miy>) · [Official program](<https://icml.cc/virtual/2026/poster/61855>) · [PDF](<https://openreview.net/pdf?id=mL4i6z7Miy>)
+[Primary source](<https://openreview.net/forum?id=mL4i6z7Miy>) · [Venue page](<https://icml.cc/virtual/2026/poster/61855>) · [PDF](<https://openreview.net/pdf?id=mL4i6z7Miy>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2090,7 +2308,9 @@
 
 **ICML 2026 · Accept (regular)** · Kaifei Wang; Binghui Li; Han Zhong; Pinyan Lu; Liwei Wang
 
-[OpenReview](<https://openreview.net/forum?id=tn00ERVdgL>) · [Official program](<https://icml.cc/virtual/2026/poster/61087>) · [PDF](<https://openreview.net/pdf?id=tn00ERVdgL>)
+[Primary source](<https://openreview.net/forum?id=tn00ERVdgL>) · [Venue page](<https://icml.cc/virtual/2026/poster/61087>) · [PDF](<https://openreview.net/pdf?id=tn00ERVdgL>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2110,7 +2330,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Rustem Islamov; Michael Crawshaw; Jeremy Cohen; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=piWlEHb4Db>) · [Official program](<https://icml.cc/virtual/2026/oral/71156>) · [PDF](<https://openreview.net/pdf?id=piWlEHb4Db>)
+[Primary source](<https://openreview.net/forum?id=piWlEHb4Db>) · [Venue page](<https://icml.cc/virtual/2026/oral/71156>) · [PDF](<https://openreview.net/pdf?id=piWlEHb4Db>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2130,7 +2352,9 @@
 
 **ICML 2026 · Accept (regular)** · Enea Monzio Compagnoni; Rustem Islamov; Frank Proske; Aurelien Lucchi; Antonio Orvieto; Eduard Gorbunov
 
-[OpenReview](<https://openreview.net/forum?id=Pmsc4yytlf>) · [Official program](<https://icml.cc/virtual/2026/poster/64227>) · [PDF](<https://openreview.net/pdf?id=Pmsc4yytlf>)
+[Primary source](<https://openreview.net/forum?id=Pmsc4yytlf>) · [Venue page](<https://icml.cc/virtual/2026/poster/64227>) · [PDF](<https://openreview.net/pdf?id=Pmsc4yytlf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2148,7 +2372,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Maissam Barkeshli; Alberto Alfarano; Andrey Gromov
 
-[OpenReview](<https://openreview.net/forum?id=mu17VSX8q9>) · [Official program](<https://icml.cc/virtual/2026/poster/61791>) · [PDF](<https://openreview.net/pdf?id=mu17VSX8q9>)
+[Primary source](<https://openreview.net/forum?id=mu17VSX8q9>) · [Venue page](<https://icml.cc/virtual/2026/poster/61791>) · [PDF](<https://openreview.net/pdf?id=mu17VSX8q9>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2166,7 +2392,9 @@
 
 **ICML 2026 · Accept (regular)** · Di He; Songjun Tu; Keyu Wang; Lu Yin; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=fs9KaJyhRO>) · [Official program](<https://icml.cc/virtual/2026/poster/62519>) · [PDF](<https://openreview.net/pdf?id=fs9KaJyhRO>)
+[Primary source](<https://openreview.net/forum?id=fs9KaJyhRO>) · [Venue page](<https://icml.cc/virtual/2026/poster/62519>) · [PDF](<https://openreview.net/pdf?id=fs9KaJyhRO>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2188,7 +2416,9 @@
 
 **ICML 2026 · Accept (regular)** · Taesun Yeom; Taehyeok Ha; Jaeho Lee
 
-[OpenReview](<https://openreview.net/forum?id=Ak8sl1w550>) · [Official program](<https://icml.cc/virtual/2026/poster/65728>) · [PDF](<https://openreview.net/pdf?id=Ak8sl1w550>)
+[Primary source](<https://openreview.net/forum?id=Ak8sl1w550>) · [Venue page](<https://icml.cc/virtual/2026/poster/65728>) · [PDF](<https://openreview.net/pdf?id=Ak8sl1w550>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2206,7 +2436,9 @@
 
 **ICML 2026 · Accept (regular)** · Vincent Roulet; Atish Agarwala
 
-[OpenReview](<https://openreview.net/forum?id=YB6U1yWcGy>) · [Official program](<https://icml.cc/virtual/2026/poster/63313>) · [PDF](<https://openreview.net/pdf?id=YB6U1yWcGy>)
+[Primary source](<https://openreview.net/forum?id=YB6U1yWcGy>) · [Venue page](<https://icml.cc/virtual/2026/poster/63313>) · [PDF](<https://openreview.net/pdf?id=YB6U1yWcGy>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2226,7 +2458,9 @@
 
 **ICML 2026 · Accept (regular)** · Xiyuan Yang; Wenxuan Bao; Katherine Tieu; Jingrui He
 
-[OpenReview](<https://openreview.net/forum?id=CKzW9g2x3g>) · [Official program](<https://icml.cc/virtual/2026/poster/65570>) · [PDF](<https://openreview.net/pdf?id=CKzW9g2x3g>)
+[Primary source](<https://openreview.net/forum?id=CKzW9g2x3g>) · [Venue page](<https://icml.cc/virtual/2026/poster/65570>) · [PDF](<https://openreview.net/pdf?id=CKzW9g2x3g>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2246,7 +2480,9 @@
 
 **ICML 2026 · Accept (regular)** · Sihan Zeng; Sujay Bhatt; Sumitra Ganesh
 
-[OpenReview](<https://openreview.net/forum?id=TgohCXoblV>) · [Official program](<https://icml.cc/virtual/2026/poster/63794>) · [PDF](<https://openreview.net/pdf?id=TgohCXoblV>)
+[Primary source](<https://openreview.net/forum?id=TgohCXoblV>) · [Venue page](<https://icml.cc/virtual/2026/poster/63794>) · [PDF](<https://openreview.net/pdf?id=TgohCXoblV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2264,7 +2500,9 @@
 
 **ICML 2026 · Accept (regular)** · Raphael Bernas; Fanny Jourdan; Antonin Poché; Céline Hudelot
 
-[OpenReview](<https://openreview.net/forum?id=BxSubxbbNc>) · [Official program](<https://icml.cc/virtual/2026/poster/65605>) · [PDF](<https://openreview.net/pdf?id=BxSubxbbNc>)
+[Primary source](<https://openreview.net/forum?id=BxSubxbbNc>) · [Venue page](<https://icml.cc/virtual/2026/poster/65605>) · [PDF](<https://openreview.net/pdf?id=BxSubxbbNc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2282,7 +2520,9 @@
 
 **ICML 2026 · Accept (regular)** · Jongchan Park
 
-[OpenReview](<https://openreview.net/forum?id=YI9wSqfz7W>) · [Official program](<https://icml.cc/virtual/2026/poster/63301>) · [PDF](<https://openreview.net/pdf?id=YI9wSqfz7W>)
+[Primary source](<https://openreview.net/forum?id=YI9wSqfz7W>) · [Venue page](<https://icml.cc/virtual/2026/poster/63301>) · [PDF](<https://openreview.net/pdf?id=YI9wSqfz7W>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency.
 
@@ -2300,7 +2540,9 @@
 
 **ICML 2026 · Accept (regular)** · Zhiqi Bu
 
-[OpenReview](<https://openreview.net/forum?id=WP5q6Hn3Cv>) · [Official program](<https://icml.cc/virtual/2026/poster/63529>) · [PDF](<https://openreview.net/pdf?id=WP5q6Hn3Cv>)
+[Primary source](<https://openreview.net/forum?id=WP5q6Hn3Cv>) · [Venue page](<https://icml.cc/virtual/2026/poster/63529>) · [PDF](<https://openreview.net/pdf?id=WP5q6Hn3Cv>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2318,7 +2560,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Mengzhao Chen; Chaoyi Zhang; Jing Liu; Zeng; Zeyue Xue; Zhiheng Liu; Yunshui Li; Jin Ma; Jie Huang; zhou Xun; Ping Luo
 
-[OpenReview](<https://openreview.net/forum?id=fXr3uPr1G5>) · [Official program](<https://icml.cc/virtual/2026/poster/62561>) · [PDF](<https://openreview.net/pdf?id=fXr3uPr1G5>)
+[Primary source](<https://openreview.net/forum?id=fXr3uPr1G5>) · [Venue page](<https://icml.cc/virtual/2026/poster/62561>) · [PDF](<https://openreview.net/pdf?id=fXr3uPr1G5>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2336,7 +2580,9 @@
 
 **ICML 2026 · Accept (regular)** · Dechen Zhang; Xuan Tang; Yingyu Liang; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=LyhBIrNBXv>) · [Official program](<https://icml.cc/virtual/2026/poster/64582>) · [PDF](<https://openreview.net/pdf?id=LyhBIrNBXv>)
+[Primary source](<https://openreview.net/forum?id=LyhBIrNBXv>) · [Venue page](<https://icml.cc/virtual/2026/poster/64582>) · [PDF](<https://openreview.net/pdf?id=LyhBIrNBXv>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -2354,7 +2600,9 @@
 
 **ICML 2026 · Accept (regular)** · Chanwoong Park; Uijeong Jang; Ernest Ryu; Insoon Yang
 
-[OpenReview](<https://openreview.net/forum?id=7xwOy8C00l>) · [Official program](<https://icml.cc/virtual/2026/poster/66010>) · [PDF](<https://openreview.net/pdf?id=7xwOy8C00l>)
+[Primary source](<https://openreview.net/forum?id=7xwOy8C00l>) · [Venue page](<https://icml.cc/virtual/2026/poster/66010>) · [PDF](<https://openreview.net/pdf?id=7xwOy8C00l>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2372,7 +2620,9 @@
 
 **ICML 2026 · Accept (regular)** · Ishaan Watts; Catherine Li; Sachin Goyal; Jacob Mitchell Springer; Aditi Raghunathan
 
-[OpenReview](<https://openreview.net/forum?id=CHvRfubYke>) · [Official program](<https://icml.cc/virtual/2026/poster/65575>) · [PDF](<https://openreview.net/pdf?id=CHvRfubYke>)
+[Primary source](<https://openreview.net/forum?id=CHvRfubYke>) · [Venue page](<https://icml.cc/virtual/2026/poster/65575>) · [PDF](<https://openreview.net/pdf?id=CHvRfubYke>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2392,7 +2642,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Fabrizio Boncoraglio; Vittorio Erba; Emanuele Troiani; Yizhou Xu; FLORENT KRZAKALA; Lenka Zdeborova
 
-[OpenReview](<https://openreview.net/forum?id=3qan4Zg9rA>) · [Official program](<https://icml.cc/virtual/2026/poster/66429>) · [PDF](<https://openreview.net/pdf?id=3qan4Zg9rA>)
+[Primary source](<https://openreview.net/forum?id=3qan4Zg9rA>) · [Venue page](<https://icml.cc/virtual/2026/poster/66429>) · [PDF](<https://openreview.net/pdf?id=3qan4Zg9rA>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2410,7 +2662,9 @@
 
 **ICML 2026 · Accept (regular)** · Chao Wang; Bei Li; Jiaqi Zhang; Xinyu Liu; Yuchun Fan; Linkun Lyu; Xin Chen; Jingang Wang; Tong Xiao; Peng Pei; Xunliang Cai
 
-[OpenReview](<https://openreview.net/forum?id=9bLiqb6Vec>) · [Official program](<https://icml.cc/virtual/2026/poster/65837>) · [PDF](<https://openreview.net/pdf?id=9bLiqb6Vec>)
+[Primary source](<https://openreview.net/forum?id=9bLiqb6Vec>) · [Venue page](<https://icml.cc/virtual/2026/poster/65837>) · [PDF](<https://openreview.net/pdf?id=9bLiqb6Vec>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2428,7 +2682,9 @@
 
 **ICML 2026 · Accept (regular)** · Qifan Yu; Xinyu Ma; Zhijian Zhuo; Minrui Wang; Deyi Liu; Shiyi Zhan; Yiyuan Ma; liang xiang; Xingyan Bin; Di He
 
-[OpenReview](<https://openreview.net/forum?id=SXJBFREkWi>) · [Official program](<https://icml.cc/virtual/2026/poster/63922>) · [PDF](<https://openreview.net/pdf?id=SXJBFREkWi>)
+[Primary source](<https://openreview.net/forum?id=SXJBFREkWi>) · [Venue page](<https://icml.cc/virtual/2026/poster/63922>) · [PDF](<https://openreview.net/pdf?id=SXJBFREkWi>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2446,7 +2702,9 @@
 
 **ICML 2026 · Accept (regular)** · Konstantin Nikolaou; Jonas Scheunemann; Sven Krippendorf; Samuel Tovey; Christian Holm
 
-[OpenReview](<https://openreview.net/forum?id=ECdZxuI9Hf>) · [Official program](<https://icml.cc/virtual/2026/poster/65378>) · [PDF](<https://openreview.net/pdf?id=ECdZxuI9Hf>)
+[Primary source](<https://openreview.net/forum?id=ECdZxuI9Hf>) · [Venue page](<https://icml.cc/virtual/2026/poster/65378>) · [PDF](<https://openreview.net/pdf?id=ECdZxuI9Hf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2466,7 +2724,9 @@
 
 **ICML 2026 · Accept (regular)** · Yuyang Wang; Felix Wang; Zedong Wang; Ijay Narang; Yuzhou Wang; Siva Maguluri
 
-[OpenReview](<https://openreview.net/forum?id=m4TAzup6Yc>) · [Official program](<https://icml.cc/virtual/2026/poster/61876>) · [PDF](<https://openreview.net/pdf?id=m4TAzup6Yc>)
+[Primary source](<https://openreview.net/forum?id=m4TAzup6Yc>) · [Venue page](<https://icml.cc/virtual/2026/poster/61876>) · [PDF](<https://openreview.net/pdf?id=m4TAzup6Yc>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -2484,7 +2744,9 @@
 
 **ICML 2026 · Accept (regular)** · Fabian Schaipp; Robert Gower; Adrien Taylor
 
-[OpenReview](<https://openreview.net/forum?id=yhvzMLgpdV>) · [Official program](<https://icml.cc/virtual/2026/poster/60591>) · [PDF](<https://openreview.net/pdf?id=yhvzMLgpdV>)
+[Primary source](<https://openreview.net/forum?id=yhvzMLgpdV>) · [Venue page](<https://icml.cc/virtual/2026/poster/60591>) · [PDF](<https://openreview.net/pdf?id=yhvzMLgpdV>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2502,7 +2764,9 @@
 
 **ICML 2026 · Accept (regular)** · Kefei Tao; Zhang Zhang; Mingze Qi; Xiaojun Duan
 
-[OpenReview](<https://openreview.net/forum?id=GMdvtJz5Ez>) · [Official program](<https://icml.cc/virtual/2026/poster/65146>) · [PDF](<https://openreview.net/pdf?id=GMdvtJz5Ez>)
+[Primary source](<https://openreview.net/forum?id=GMdvtJz5Ez>) · [Venue page](<https://icml.cc/virtual/2026/poster/65146>) · [PDF](<https://openreview.net/pdf?id=GMdvtJz5Ez>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2520,7 +2784,9 @@
 
 **ICML 2026 · Accept (regular)** · Eitan Gronich; Gal Vardi
 
-[OpenReview](<https://openreview.net/forum?id=DpIc1cpNKG>) · [Official program](<https://icml.cc/virtual/2026/poster/65420>) · [PDF](<https://openreview.net/pdf?id=DpIc1cpNKG>)
+[Primary source](<https://openreview.net/forum?id=DpIc1cpNKG>) · [Venue page](<https://icml.cc/virtual/2026/poster/65420>) · [PDF](<https://openreview.net/pdf?id=DpIc1cpNKG>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2540,7 +2806,9 @@
 
 **ICML 2026 · Accept (regular)** · Connall Garrod; Jonathan Keating; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=TDaVoBfTjY>) · [Official program](<https://icml.cc/virtual/2026/poster/63845>) · [PDF](<https://openreview.net/pdf?id=TDaVoBfTjY>)
+[Primary source](<https://openreview.net/forum?id=TDaVoBfTjY>) · [Venue page](<https://icml.cc/virtual/2026/poster/63845>) · [PDF](<https://openreview.net/pdf?id=TDaVoBfTjY>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2558,7 +2826,9 @@
 
 **ICML 2026 · Accept (regular)** · Jichu Li; Xuan Tang; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=OT9cxeWbEO>) · [Official program](<https://icml.cc/virtual/2026/poster/64352>) · [PDF](<https://openreview.net/pdf?id=OT9cxeWbEO>)
+[Primary source](<https://openreview.net/forum?id=OT9cxeWbEO>) · [Venue page](<https://icml.cc/virtual/2026/poster/64352>) · [PDF](<https://openreview.net/pdf?id=OT9cxeWbEO>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T2 — Batch size, gradient noise and training efficiency; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2578,7 +2848,9 @@
 
 **ICML 2026 · Accept (regular)** · Hongtao Zhang; WenJie Zhou; Chenxi Jia; Wei Chen; Xueqi Cheng
 
-[OpenReview](<https://openreview.net/forum?id=gVPwive1z6>) · [Official program](<https://icml.cc/virtual/2026/poster/62448>) · [PDF](<https://openreview.net/pdf?id=gVPwive1z6>)
+[Primary source](<https://openreview.net/forum?id=gVPwive1z6>) · [Venue page](<https://icml.cc/virtual/2026/poster/62448>) · [PDF](<https://openreview.net/pdf?id=gVPwive1z6>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2598,7 +2870,9 @@
 
 **ICML 2026 · Accept (regular)** · Huangyu Xu; Jingqin Yang; Qianqian Xu; Jiaye Teng
 
-[OpenReview](<https://openreview.net/forum?id=74PNBqBKPA>) · [Official program](<https://icml.cc/virtual/2026/poster/66097>) · [PDF](<https://openreview.net/pdf?id=74PNBqBKPA>)
+[Primary source](<https://openreview.net/forum?id=74PNBqBKPA>) · [Venue page](<https://icml.cc/virtual/2026/poster/66097>) · [PDF](<https://openreview.net/pdf?id=74PNBqBKPA>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2616,7 +2890,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Mingyue Xu; Gal Vardi; Itay Safran
 
-[OpenReview](<https://openreview.net/forum?id=5nNNVY8NW4>) · [Official program](<https://icml.cc/virtual/2026/oral/71134>) · [PDF](<https://openreview.net/pdf?id=5nNNVY8NW4>)
+[Primary source](<https://openreview.net/forum?id=5nNNVY8NW4>) · [Venue page](<https://icml.cc/virtual/2026/oral/71134>) · [PDF](<https://openreview.net/pdf?id=5nNNVY8NW4>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2634,7 +2910,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Yuanjian Xu; Jianing Hao; Wanbo Zhang; Zhong Li; Guang Zhang
 
-[OpenReview](<https://openreview.net/forum?id=2UH01A9Za0>) · [Official program](<https://icml.cc/virtual/2026/poster/66576>) · [PDF](<https://openreview.net/pdf?id=2UH01A9Za0>)
+[Primary source](<https://openreview.net/forum?id=2UH01A9Za0>) · [Venue page](<https://icml.cc/virtual/2026/poster/66576>) · [PDF](<https://openreview.net/pdf?id=2UH01A9Za0>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -2652,7 +2930,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Zhiwei Bai; Jiajie Zhao; Zhangchen Zhou; Zhi-Qin John Xu; Yaoyu Zhang
 
-[OpenReview](<https://openreview.net/forum?id=uYWVGk1Qt0>) · [Official program](<https://icml.cc/virtual/2026/poster/61014>) · [PDF](<https://openreview.net/pdf?id=uYWVGk1Qt0>)
+[Primary source](<https://openreview.net/forum?id=uYWVGk1Qt0>) · [Venue page](<https://icml.cc/virtual/2026/poster/61014>) · [PDF](<https://openreview.net/pdf?id=uYWVGk1Qt0>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2672,7 +2952,9 @@
 
 **ICML 2026 · Accept (regular)** · Tessa Han; Sebastian Bordt; Hanlin Zhang; Sham Kakade
 
-[OpenReview](<https://openreview.net/forum?id=zMO9H4hLyR>) · [Official program](<https://icml.cc/virtual/2026/poster/60527>) · [PDF](<https://openreview.net/pdf?id=zMO9H4hLyR>)
+[Primary source](<https://openreview.net/forum?id=zMO9H4hLyR>) · [Venue page](<https://icml.cc/virtual/2026/poster/60527>) · [PDF](<https://openreview.net/pdf?id=zMO9H4hLyR>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2692,7 +2974,9 @@
 
 **ICML 2026 · Accept (regular)** · Yao Yao; Xinyuan Song; Sebastian Pokutta; Max Zimmer; Nico Pelleriti; Thomas Hofmann; Shiwei Liu
 
-[OpenReview](<https://openreview.net/forum?id=7boy4Ipbyn>) · [Official program](<https://icml.cc/virtual/2026/poster/66043>) · [PDF](<https://openreview.net/pdf?id=7boy4Ipbyn>)
+[Primary source](<https://openreview.net/forum?id=7boy4Ipbyn>) · [Venue page](<https://icml.cc/virtual/2026/poster/66043>) · [PDF](<https://openreview.net/pdf?id=7boy4Ipbyn>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2710,7 +2994,9 @@
 
 **ICML 2026 · Accept (regular)** · Foivos Alimisis; Rustem Islamov; Aurelien Lucchi
 
-[OpenReview](<https://openreview.net/forum?id=a6fo32UnpU>) · [Official program](<https://icml.cc/virtual/2026/poster/63104>) · [PDF](<https://openreview.net/pdf?id=a6fo32UnpU>)
+[Primary source](<https://openreview.net/forum?id=a6fo32UnpU>) · [Venue page](<https://icml.cc/virtual/2026/poster/63104>) · [PDF](<https://openreview.net/pdf?id=a6fo32UnpU>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2730,7 +3016,9 @@
 
 **ICML 2026 · Accept (regular)** · Minhak Song; Liang Zhang; Bingcong Li; Niao He; Michael Muehlebach; Sewoong Oh
 
-[OpenReview](<https://openreview.net/forum?id=s87tQaKAER>) · [Official program](<https://icml.cc/virtual/2026/poster/61252>) · [PDF](<https://openreview.net/pdf?id=s87tQaKAER>)
+[Primary source](<https://openreview.net/forum?id=s87tQaKAER>) · [Venue page](<https://icml.cc/virtual/2026/poster/61252>) · [PDF](<https://openreview.net/pdf?id=s87tQaKAER>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2750,7 +3038,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Liming Liu; Zixuan Zhang; Simon Du; Tuo Zhao
 
-[OpenReview](<https://openreview.net/forum?id=yst8MHfcgP>) · [Official program](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=yst8MHfcgP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115100>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/15eac388458e8a577f96edf7a40d0cbc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2770,7 +3060,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Etienne Boursier; Scott Pesme; Radu-Alexandru Dragomir
 
-[OpenReview](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Official program](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2796,7 +3088,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Hongyuan Dong; Dingkang Yang; Xiao Liang; ChaoFeng; Ran Jiao
 
-[OpenReview](<https://openreview.net/forum?id=Rc489jcc30>) · [Official program](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Rc489jcc30>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118011>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8516e0109e6c4a3cdd17645dd61af7c7-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2818,7 +3112,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xinghan Li; Haodong Wen; Kaifeng Lyu
 
-[OpenReview](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Official program](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2844,7 +3140,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Di He; Songjun Tu; Ajay Jaiswal; Li Shen; Ganzhao Yuan; Shiwei Liu; Lu Yin
 
-[OpenReview](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Official program](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MKEDsVWHd0>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118480>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2aacf95ddc1ebd79832474bb41d13943-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2866,7 +3164,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Daniel Kunin; Giovanni Luca Marchetti; Feng Chen; Dhruva Karkada; James Simon; Michael Deweese; Surya Ganguli; Nina Miolane
 
-[OpenReview](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Official program](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=t7LKc0MMW6>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115627>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/06cbd2e81dfbd3bb4cb0abce95b32584-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2886,7 +3186,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Binxu Wang; Cengiz Pehlevan
 
-[OpenReview](<https://openreview.net/forum?id=SDhOClkyqC>) · [Official program](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SDhOClkyqC>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117950>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8a0d3f77bb435817807d463c5dcef1ab-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -2906,7 +3208,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Han Bao; Shinsaku Sakaue; Yuki Takezawa
 
-[OpenReview](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=D6aCr4RRdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -2926,7 +3230,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Or Goldreich; Ziyang Wei; SOHAM BONNERJEE; Jiaqi Li; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=y5Diyh9XEQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115186>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/21ad9738bb0d93eb2e9ade69ff809da0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -2946,7 +3252,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Dhruva Karkada; James Simon; Yasaman Bahri; Michael Deweese
 
-[OpenReview](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Official program](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VS9N6q6b0k>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117686>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/060f64f690417a5cc6a882479478fd96-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -2966,7 +3274,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zachary Charles; Gabriel Teston; Lucio Dery; John Rush; Nova Fallen; Zachary Garrett; Arthur Szlam; Arthur Douillard
 
-[OpenReview](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Official program](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=X4SCxcgb3O>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/99acb4c087266e80b547aed79247266b-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -2986,7 +3296,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Lowell Weissman; Michael Krumdick; A. Abbott
 
-[OpenReview](<https://openreview.net/forum?id=EdKl4PulMX>) · [Official program](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=EdKl4PulMX>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119119>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1c9dbe4d49fa0ac833959230a9895c06-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3006,7 +3318,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Preston Fu; Oleh Rybkin; Zhiyuan (Paul) Zhou; Michal Nauman; Pieter Abbeel; Sergey Levine; Aviral Kumar
 
-[OpenReview](<https://openreview.net/forum?id=9GzyCtlngK>) · [Official program](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GzyCtlngK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119555>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eaf550b6c727bc065244513f2260a30e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws.
 
@@ -3026,7 +3340,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sebastian Kassing; Simon Weissmann; Leif Döring
 
-[OpenReview](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hMZnFo0FLF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116658>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cf05c14e645df408001fbb669976ec0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3046,7 +3362,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Lachlan MacDonald; Hancheng Min; Leandro Palma; Salma Tarmoun; Ziqing Xu; Rene Vidal
 
-[OpenReview](<https://openreview.net/forum?id=MU0JuT0A54>) · [Official program](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=MU0JuT0A54>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118466>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d9af4d6ac714626b652da5616ca71f99-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3066,7 +3384,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Will Merrill; Shane Arora; Dirk Groeneveld; Hanna Hajishirzi
 
-[OpenReview](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Official program](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XUKUx7Xu89>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117500>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a99f732df9b668284b449da0214a3286-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -3088,7 +3408,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Xinran Gu; Kaifeng Lyu; Jiazheng Li; Jingzhao Zhang
 
-[OpenReview](<https://openreview.net/forum?id=tQZK5frjVU>) · [Official program](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tQZK5frjVU>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115595>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/eee7ae5cf0c4356c2aeca400771791aa-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3108,7 +3430,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Nolan Dey; Bin Zhang; Lorenzo Noci; Mufan Li; Blake Bordelon; Shane Bergsma; Cengiz Pehlevan; Boris Hanin; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=lMU2kaMANl>) · [Official program](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lMU2kaMANl>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c917d8b9e01427f3184d80ade22f4d1f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -3132,7 +3456,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yunwei Ren; Eshaan Nichani; Denny Wu; Jason Lee
 
-[OpenReview](<https://openreview.net/forum?id=kA2H90nm26>) · [Official program](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kA2H90nm26>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116407>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/36d13b71487b29965a2d3f5fcc109afc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3152,7 +3478,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Zhenting Qi; Fan Nie; Alexandre Alahi; James Zou; Himabindu Lakkaraju; Yilun Du; Eric Xing; Sham Kakade; Hanlin Zhang
 
-[OpenReview](<https://openreview.net/forum?id=B6bE2GC71a>) · [Official program](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+[Primary source](<https://openreview.net/forum?id=B6bE2GC71a>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119408>) · [PDF](<https://openreview.net/pdf?id=B6bE2GC71a>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3170,7 +3498,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Zheng-An Chen; Tao Luo
 
-[OpenReview](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Official program](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gm5mkiTGOy>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116705>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3b576711b12ab036b45130fc8eb78504-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3190,7 +3520,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Konstantinos Tsiolis; Alireza Mousavi-Hosseini; Murat Erdogdu
 
-[OpenReview](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Pf3SVNhAQB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118200>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/77b7d565f2370979b898d76d7ea27288-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3210,7 +3542,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Binghui Li; Fengling Chen; Zixun Huang; Lean Wang; Lei Wu
 
-[OpenReview](<https://openreview.net/forum?id=dpllevHMbc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dpllevHMbc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116983>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92abec9d3f278c648dfe99c8b8f35954-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -3232,7 +3566,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ziyang Wei; Jiaqi Li; Zhipeng Lou; Wei Biao Wu
 
-[OpenReview](<https://openreview.net/forum?id=aCPFvEg22L>) · [Official program](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aCPFvEg22L>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117289>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7aae9e3ec211249e05bd07271a6b1441-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency.
 
@@ -3252,7 +3588,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sean McLeish; John Kirchenbauer; David Miller; Siddharth Singh; Abhinav Bhatele; Micah Goldblum; Ashwinee Panda; Tom Goldstein
 
-[OpenReview](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Official program](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iZk78dZ1Ap>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116550>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b2b781badeeb49896c4b324c466ec442-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -3272,7 +3610,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Charlie Chen; Shikai Qiu; Hoang Phan; Qi Lei; Andrew Wilson
 
-[OpenReview](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Official program](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+[Primary source](<https://openreview.net/forum?id=Ei6IsmxYrb>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119109>) · [PDF](<https://openreview.net/pdf?id=Ei6IsmxYrb>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3292,7 +3632,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Chen Fan; Mark Schmidt; Christos Thrampoulidis
 
-[OpenReview](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Zn2ajV1kTQ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117324>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/386432c7534eec9a1cd7cbeea90d7e9f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3314,7 +3656,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Licong Lin; Jingfeng Wu; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=jeen4x145W>) · [Official program](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jeen4x145W>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116442>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/82b76a72a9df183498cf0be3df6eef71-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3334,7 +3678,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Antonio Orvieto; Robert Gower
 
-[OpenReview](<https://openreview.net/forum?id=CH72XyZs4y>) · [Official program](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CH72XyZs4y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119297>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5bd9aa206d782e4e1f7ab5d177a10828-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3354,7 +3700,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mana Sakai; Ryo Karakida; Masaaki Imaizumi
 
-[OpenReview](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Official program](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=gZzLjIYzH1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116729>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/33201f38001dd381aba2c462051449ba-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3374,7 +3722,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Xiaotian Zhang; Yue Shang; Entao Yang; Ge Zhang
 
-[OpenReview](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Official program](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Tk5nQnTGmP>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117824>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/92f67b9047fa7a43d7506054b5f0ec6a-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3394,7 +3744,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zhuo Chen; Oriol Comas; Zhuotao Jin; Di Luo; Marin Soljacic
 
-[OpenReview](<https://openreview.net/forum?id=s3maemwE5M>) · [Official program](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s3maemwE5M>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115721>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c9da56addea9c977cf4ba873e1da979d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws.
 
@@ -3414,7 +3766,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jingfeng Wu; Pierre Marion; Peter Bartlett
 
-[OpenReview](<https://openreview.net/forum?id=w22e5MrS4X>) · [Official program](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=w22e5MrS4X>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115359>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/96b8167534ef3cc30c230bbeb55a524d-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -3434,7 +3788,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jörg Franke; Urs Spiegelhalter; Marianna Nezhurina; Jenia Jitsev; Frank Hutter; Michael Hefenbrock
 
-[OpenReview](<https://openreview.net/forum?id=dH8mKmvADv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=dH8mKmvADv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117015>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6dcdf117a037f459e53205d3f3af4a77-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3454,7 +3810,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Gerard Ben Arous; Murat Erdogdu; Nuri Mert Vural; Denny Wu
 
-[OpenReview](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=m3Sz3tFxIV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116241>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d7ce06e9293c3d8e6cb3f80b4157f875-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3474,7 +3832,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Francesco Orabona; Ryan D&#x27;Orazio
 
-[OpenReview](<https://openreview.net/forum?id=7GwcxPIkip>) · [Official program](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=7GwcxPIkip>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119719>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e45879046fd900c2536e419e361c94c0-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -3494,7 +3854,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Moritz Haas; Sebastian Bordt; Ulrike Luxburg; Leena Chennuru Vankadara
 
-[OpenReview](<https://openreview.net/forum?id=hTxnm6H93P>) · [Official program](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=hTxnm6H93P>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116648>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3eec5006051d9544e717067de3220198-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T3 — Width/depth scaling and hyperparameter transfer; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3516,7 +3878,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zechun Liu; Changsheng Zhao; Hanxian Huang; Sijia Chen; Jing Zhang; Jiawei Zhao; Scott Roy; Lisa Jin; Yunyang Xiong; Yangyang Shi; Lin Xiao; Yuandong Tian; Bilge Soran; Raghuraman Krishnamoorthi; Tijmen Blankevoort; Vikas Chandra
 
-[OpenReview](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Official program](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PMSNd8xTHp>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118224>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/83b17fb3369b1effa97ca5409526b02e-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3536,7 +3900,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Shane Bergsma; Nolan Dey; Gurpreet Gosal; Gavia Gray; Daria Soboleva; Joel Hestness
 
-[OpenReview](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bFXbLQzRoZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117191>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b5f78a17a94da3e34c935515d1b6adae-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3558,7 +3924,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Houyi Li; Wenzhen Zheng; Qiufeng Wang; Zhenyu Ding; Haoying Wang; Zili Wang; Shijie Xuyang; Ning DING; Shuigeng Zhou; Xiangyu Zhang; Daxin Jiang
 
-[OpenReview](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Official program](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2Gnp8sdwVe>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120156>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ae9f1d3b89a81fcb1c45b4fc1afbd4fe-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3580,7 +3948,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Runa Eschenhagen; Aaron Defazio; Tsung-Hsien Lee; Richard Turner; Hao-Jun Shi
 
-[OpenReview](<https://openreview.net/forum?id=kePsKwxvaV>) · [Official program](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kePsKwxvaV>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116361>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f14f4eda29a74c02c803699a09529bb9-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** B — Shampoo, structured curvature, and matrix-function computation; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics; X1 — Matrix functions, roots and matrix geometry.
 
@@ -3610,7 +3980,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Noga Bar; Mariia Seleznova; ‪Yotam Alexander‬‏; Gitta Kutyniok; Raja Giryes
 
-[OpenReview](<https://openreview.net/forum?id=bd8kppxyB3>) · [Official program](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=bd8kppxyB3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117163>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3630,7 +4002,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Giyeong Oh; Woohyun Cho; Siyeol Kim; Suhwan Choi; Youngjae Yu
 
-[OpenReview](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Official program](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=LWmfHjJnrx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118548>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/67c15da4a9340140c60783d9a175fd3f-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3652,7 +4026,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Chenyu Zheng; Xinyu Zhang; Rongzhen Wang; Wei Huang; Zhi Tian; Weilin Huang; Jun Zhu; Chongxuan LI
 
-[OpenReview](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Official program](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VfIOdGiBAv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117664>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1bf3dbbd6346f50627e2ab1795f90435-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T3 — Width/depth scaling and hyperparameter transfer.
 
@@ -3672,7 +4048,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Howe Tissue; Venus Wang; Lu Wang
 
-[OpenReview](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VBx4yMNtjt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117707>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/830b1abc6d2da85f23d41169fa44d185-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T4 — Compute, data and model scaling laws.
 
@@ -3694,7 +4072,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Frederik Kunstner; Francis Bach
 
-[OpenReview](<https://openreview.net/forum?id=VUbwLjLkws>) · [Official program](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=VUbwLjLkws>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117684>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/d51397f67732d310809220b1236f4702-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3716,7 +4096,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mustafa Shukor; Louis Bethune; Dan Busbridge; David Grangier; Enrico Fini; Alaaeldin El-Nouby; Pierre Ablin
 
-[OpenReview](<https://openreview.net/forum?id=vVU1KTOsju>) · [Official program](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=vVU1KTOsju>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115404>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc1d640f841f752c689aae20b31198c1-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3736,7 +4118,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Felipe Maia Polo; Seamus Somerstep; Leshem Choshen; Yuekai Sun; Mikhail Yurochkin
 
-[OpenReview](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Official program](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9GN5Jsa3lv>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119556>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/3834d037cd6e29ac7649df42611c5d66-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -3756,7 +4140,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Martin Marek; Sanae Lotfi; Aditya Somasundaram; Andrew Wilson; Micah Goldblum
 
-[OpenReview](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Official program](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=52Ehpe0Lu5>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119899>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dabfbf500318462382aa70a95466ad85-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3778,7 +4164,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Tianqi Qiao; Marie Maros
 
-[OpenReview](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Official program](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ddyJqXyCxE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116994>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/032c421541ad303d9cfa36161a381ed6-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -3798,7 +4186,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Anda Tang; Yiming Dong; Yutao Zeng; zhou Xun; Zhouchen Lin
 
-[OpenReview](<https://openreview.net/forum?id=rNcIJi7N65>) · [Official program](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rNcIJi7N65>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115783>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/dce0ad3bd4981fea9a5a5a274a2256d9-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules.
 
@@ -3820,7 +4210,9 @@
 
 **NeurIPS 2025 · Accept (oral)** · Yizhou Liu; Ziming Liu; Jeff Gore
 
-[OpenReview](<https://openreview.net/forum?id=knPz7gtjPW>) · [Official program](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=knPz7gtjPW>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116346>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e97ac22927560eb2de6b658498cbc575-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -3840,7 +4232,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zicheng Zhang; Haoran Li; Yifeng Zhang; Guoqiang Gong; Jiaxing Wang; Pengzhang Liu; Qixia Jiang; Junxing Hu
 
-[OpenReview](<https://openreview.net/forum?id=s4LnWgjacg>) · [Official program](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=s4LnWgjacg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115720>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0010665e949927b74faf6e3ada6d7f72-Paper-Conference.pdf>)
+
+**Topics:** Matrix computation; Optimizer; Training dynamics.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; T1 — Learning-rate selection, warm-up and schedules; T7 — Initialization, normalization, weight decay and regularization; X6 — Matrix and tensor methods for compression.
 
@@ -3868,7 +4262,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Bhavya Vasudeva; Jung Lee; Vatsal Sharan; Mahdi Soltanolkotabi
 
-[OpenReview](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XLvHmzaHsx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117522>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ec9b2a6ad5444caeff75efaa6176b3e4-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3888,7 +4284,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Minhak Song; Beomhan Baek; Kwangjun Ahn; Chulhee Yun
 
-[OpenReview](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Official program](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=CGx4XU9rCA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119299>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/b94ab4933fea38629a1308fb78cce2cc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3910,7 +4308,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhixuan Pan; Shaowen Wang; Liao Pengfei; Jian Li
 
-[OpenReview](<https://openreview.net/forum?id=853SwC2dMZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=853SwC2dMZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119655>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/f61d7778e89b9221d1ea0ce8428b7014-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T4 — Compute, data and model scaling laws; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3930,7 +4330,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ahmed Khaled; Satyen Kale; Arthur Douillard; Chi Jin; Rob Fergus; Manzil Zaheer
 
-[OpenReview](<https://openreview.net/forum?id=2VX79YLT9s>) · [Official program](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=2VX79YLT9s>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120142>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/90ad0e850532986dff56da49bc599904-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** E — Training stabilization and distributed optimization; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3954,7 +4356,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kaiqi Jiang; Jeremy Cohen; Yuanzhi Li
 
-[OpenReview](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Official program](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=QKo4c3LAz3>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118146>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2e091b1c71ac0e4b4a4cc39ed3d64fcc-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T1 — Learning-rate selection, warm-up and schedules; T5 — Stability, curvature and edge-of-stability dynamics; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -3974,7 +4378,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Tang; Han Zhang; Yuan Cao; Difan Zou
 
-[OpenReview](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Official program](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ETgPUJfQE1>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119131>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/1a54d9deffbb569151e8e4895f4ca162-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T1 — Learning-rate selection, warm-up and schedules; T2 — Batch size, gradient noise and training efficiency; T7 — Initialization, normalization, weight decay and regularization; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -3996,7 +4402,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Andrei Panferov; Alexandra Volkova; Ionut-Vlad Modoranu; Vage Egiazarian; Mher Safaryan; Dan Alistarh
 
-[OpenReview](<https://openreview.net/forum?id=24wDPGiDzA>) · [Official program](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=24wDPGiDzA>) · [Venue page](<https://neurips.cc/virtual/2025/poster/120174>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ddd7eae51dcd8bbfc936e5b19433d339-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T4 — Compute, data and model scaling laws; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4016,7 +4424,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Haocheng Luo; Mehrtash Harandi; Dinh Phung; Trung Le
 
-[OpenReview](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Official program](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=rMptAK0Xm8>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115785>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/623a1a9205ba93c5fbb8686df4256223-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T2 — Batch size, gradient noise and training efficiency; T5 — Stability, curvature and edge-of-stability dynamics.
 
@@ -4036,7 +4446,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Avrajit Ghosh; Bai Cong; Rio Yokota; Saiprasad Ravishankar; Rongrong Wang; Molei Tao; Mohammad Emtiyaz Khan; Thomas Möllenhoff
 
-[OpenReview](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Official program](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=nIFFMrDQ5w>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116148>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6b61c278e483954fee502b49fe71cd14-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; T5 — Stability, curvature and edge-of-stability dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -4056,7 +4468,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Viktoria Schram; Markus Hiller; Daniel Beck; Trevor Cohn
 
-[OpenReview](<https://openreview.net/forum?id=paiyYD81Wr>) · [Official program](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=paiyYD81Wr>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115947>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/072769405a3c1b60171d09c0ade96ebf-Paper-Conference.pdf>)
+
+**Topics:** Training dynamics.
 
 **Categories:** T4 — Compute, data and model scaling laws.
 
@@ -4076,7 +4490,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Liang Zhang; Bingcong Li; Kiran Thekumparampil; Sewoong Oh; Michael Muehlebach; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iXy0ncNepZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116554>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc62a3af9342eb4ebc728e5c5bc4cca-Paper-Conference.pdf>)
+
+**Topics:** Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; T6 — Feature learning, implicit bias and generalization dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 

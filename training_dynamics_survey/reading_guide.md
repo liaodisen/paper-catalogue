@@ -1,6 +1,6 @@
 # Learning rates, scaling laws and training dynamics: reading guide
 
-208 accepted papers across ICML 2026, ICLR 2026 and NeurIPS 2025; 126 newly added to the project and 82 earlier entries newly grouped here. Updated 2026-09-24.
+208 papers in the current training-dynamics collection. The paths below were drawn from the initial ICML 2026 / ICLR 2026 / NeurIPS 2025 collection. Updated 2026-09-24.
 
 Start with the paths below. These 28 priorities reflect fit to the project, not a ranking of paper quality. New means absent from the preceding 472-paper catalogue. Links point to the accepted papers.
 

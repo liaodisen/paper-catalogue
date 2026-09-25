@@ -1,12 +1,14 @@
 # Manifold Catalogue
 
-87 accepted main-conference papers. Updated 2026-09-24. Topic membership overlaps; most annotations are based on accepted abstracts, with targeted full-text checks labeled.
+87 curated papers. Updated 2026-09-24. Topic membership overlaps; publication status and evidence are recorded for each entry.
 
 ### A Block Coordinate Descent Method for Nonsmooth Composite Optimization under Orthogonality Constraints
 
 **ICLR 2026 · Accept (Poster)** · Ganzhao Yuan
 
-[OpenReview](<https://openreview.net/forum?id=L3Or2mhuCH>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010069>) · [PDF](<https://openreview.net/pdf?id=L3Or2mhuCH>)
+[Primary source](<https://openreview.net/forum?id=L3Or2mhuCH>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010069>) · [PDF](<https://openreview.net/pdf?id=L3Or2mhuCH>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -20,7 +22,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Thibaut Germain; Rémi Flamary; Vladimir Kostic; Karim Lounici
 
-[OpenReview](<https://openreview.net/forum?id=B02EqvyiF3>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010984>) · [PDF](<https://openreview.net/pdf?id=B02EqvyiF3>)
+[Primary source](<https://openreview.net/forum?id=B02EqvyiF3>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010984>) · [PDF](<https://openreview.net/pdf?id=B02EqvyiF3>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -34,7 +38,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jiyoung Park; Jaewook J. Suh; Bofan Wang; Anirban Bhattacharya; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=2TTQjRkgFn>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011738>) · [PDF](<https://openreview.net/pdf?id=2TTQjRkgFn>)
+[Primary source](<https://openreview.net/forum?id=2TTQjRkgFn>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011738>) · [PDF](<https://openreview.net/pdf?id=2TTQjRkgFn>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -48,7 +54,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Amir Joudaki; Giulia Lanzillotta; Mohammad Samragh; Iman Mirzadeh; Keivan Alizadeh-Vahid; Thomas Hofmann; Mehrdad Farajtabar; Fartash Faghri
 
-[OpenReview](<https://openreview.net/forum?id=g6kof5fSba>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008176>) · [PDF](<https://openreview.net/pdf?id=g6kof5fSba>)
+[Primary source](<https://openreview.net/forum?id=g6kof5fSba>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008176>) · [PDF](<https://openreview.net/pdf?id=g6kof5fSba>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** H — Learning rates, batch sizes, parameterization, and plasticity; M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -64,7 +72,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Eslam Zaher; Maciej Trzaskowski; Quan Nguyen; Fred Roosta
 
-[OpenReview](<https://openreview.net/forum?id=B5RBKM4vPY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010974>) · [PDF](<https://openreview.net/pdf?id=B5RBKM4vPY>)
+[Primary source](<https://openreview.net/forum?id=B5RBKM4vPY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010974>) · [PDF](<https://openreview.net/pdf?id=B5RBKM4vPY>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -78,7 +88,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Kunhee Kim; NaHyeon Park; Kibeom Hong; Hyunjung Shim
 
-[OpenReview](<https://openreview.net/forum?id=6wA4qpyyU9>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011344>) · [PDF](<https://openreview.net/pdf?id=6wA4qpyyU9>)
+[Primary source](<https://openreview.net/forum?id=6wA4qpyyU9>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011344>) · [PDF](<https://openreview.net/pdf?id=6wA4qpyyU9>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -94,7 +106,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Fei Wu; Jia Hu; Geyong Min; Shiqiang Wang
 
-[OpenReview](<https://openreview.net/forum?id=FSHrinMArK>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010597>) · [PDF](<https://openreview.net/pdf?id=FSHrinMArK>)
+[Primary source](<https://openreview.net/forum?id=FSHrinMArK>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010597>) · [PDF](<https://openreview.net/pdf?id=FSHrinMArK>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M4 — Related constrained and geometry-aware optimization.
 
@@ -110,7 +124,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Qingyuan Liu; Jia-Chen Gu; Yunzhi Yao; Hong Wang; Nanyun (Violet) Peng
 
-[OpenReview](<https://openreview.net/forum?id=CHsdtzCip6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010872>) · [PDF](<https://openreview.net/pdf?id=CHsdtzCip6>)
+[Primary source](<https://openreview.net/forum?id=CHsdtzCip6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010872>) · [PDF](<https://openreview.net/pdf?id=CHsdtzCip6>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -124,7 +140,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Dongxuan Zhu; Ly Khanh; Andy Yat-Ming Cheung; Man-Chung Yue; Viet Anh Nguyen
 
-[OpenReview](<https://openreview.net/forum?id=v0QOVSVPtq>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006851>) · [PDF](<https://openreview.net/pdf?id=v0QOVSVPtq>)
+[Primary source](<https://openreview.net/forum?id=v0QOVSVPtq>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006851>) · [PDF](<https://openreview.net/pdf?id=v0QOVSVPtq>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -138,7 +156,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yangdi Jiang; Xiaotian Chang; Lei Ding; Linglong Kong; Bei Jiang
 
-[OpenReview](<https://openreview.net/forum?id=ulCVfMOo30>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006869>) · [PDF](<https://openreview.net/pdf?id=ulCVfMOo30>)
+[Primary source](<https://openreview.net/forum?id=ulCVfMOo30>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006869>) · [PDF](<https://openreview.net/pdf?id=ulCVfMOo30>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -152,7 +172,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Ziheng Chen; Yue Song; Xiaojun Wu; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+[Primary source](<https://openreview.net/forum?id=5S8ruWKe8l>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011463>) · [PDF](<https://openreview.net/pdf?id=5S8ruWKe8l>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers; X1 — Matrix functions, roots and matrix geometry.
 
@@ -174,7 +196,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yunzhe Hu; Difan Zou; Dong Xu
 
-[OpenReview](<https://openreview.net/forum?id=FinhjyDgYA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010570>) · [PDF](<https://openreview.net/pdf?id=FinhjyDgYA>)
+[Primary source](<https://openreview.net/forum?id=FinhjyDgYA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010570>) · [PDF](<https://openreview.net/pdf?id=FinhjyDgYA>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M4 — Related constrained and geometry-aware optimization.
 
@@ -192,7 +216,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Tom Jacobs; Advait Gadhikar; Celia Rubio-Madrigal; Rebekka Burkholz
 
-[OpenReview](<https://openreview.net/forum?id=XKB5Hu0ACY>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008982>) · [PDF](<https://openreview.net/pdf?id=XKB5Hu0ACY>)
+[Primary source](<https://openreview.net/forum?id=XKB5Hu0ACY>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008982>) · [PDF](<https://openreview.net/pdf?id=XKB5Hu0ACY>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; M4 — Related constrained and geometry-aware optimization.
 
@@ -208,7 +234,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Sibylle Marcotte; Gabriel Peyré; Rémi Gribonval
 
-[OpenReview](<https://openreview.net/forum?id=IlyesljaNb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+[Primary source](<https://openreview.net/forum?id=IlyesljaNb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010269>) · [PDF](<https://openreview.net/pdf?id=IlyesljaNb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics.
 
@@ -232,7 +260,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Andrey Kharitenko; Zebang Shen; Riccardo De Santi; Niao He; Florian Dorfler
 
-[OpenReview](<https://openreview.net/forum?id=xZNoeX0z9f>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006634>) · [PDF](<https://openreview.net/pdf?id=xZNoeX0z9f>)
+[Primary source](<https://openreview.net/forum?id=xZNoeX0z9f>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006634>) · [PDF](<https://openreview.net/pdf?id=xZNoeX0z9f>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -246,7 +276,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Kai Hu; Haoqi Hu; Matt Fredrikson
 
-[OpenReview](<https://openreview.net/forum?id=2fgzEJPH02>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011713>) · [PDF](<https://openreview.net/pdf?id=2fgzEJPH02>)
+[Primary source](<https://openreview.net/forum?id=2fgzEJPH02>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011713>) · [PDF](<https://openreview.net/pdf?id=2fgzEJPH02>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -260,7 +292,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Vladimir Bogachev; Vladimir Aletov; Alexander Molozhavenko; Denis Bobkov; Vera Soboleva; Aibek Alanov; Maxim Rakhuba
 
-[OpenReview](<https://openreview.net/forum?id=WtbXgc9GVA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009014>) · [PDF](<https://openreview.net/pdf?id=WtbXgc9GVA>)
+[Primary source](<https://openreview.net/forum?id=WtbXgc9GVA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009014>) · [PDF](<https://openreview.net/pdf?id=WtbXgc9GVA>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -276,7 +310,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jinyang ZHENG; Tong Wu
 
-[OpenReview](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+[Primary source](<https://openreview.net/forum?id=Guo2XGgxZA>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010449>) · [PDF](<https://openreview.net/pdf?id=Guo2XGgxZA>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X3 — Fisher, Hessian, derivatives and implicit differentiation.
 
@@ -298,7 +334,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yudong Wei; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=JIMM5YLShy>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010215>) · [PDF](<https://openreview.net/pdf?id=JIMM5YLShy>)
+[Primary source](<https://openreview.net/forum?id=JIMM5YLShy>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010215>) · [PDF](<https://openreview.net/pdf?id=JIMM5YLShy>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -312,7 +350,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Dexia Chen; Qianjie Zhu; Weibing Li; Yue Yu; Tong Zhang; Ruixuan Wang
 
-[OpenReview](<https://openreview.net/forum?id=ZGJJF1e2u0>) · [Official program](<https://iclr.cc/virtual/2026/poster/10008824>) · [PDF](<https://openreview.net/pdf?id=ZGJJF1e2u0>)
+[Primary source](<https://openreview.net/forum?id=ZGJJF1e2u0>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10008824>) · [PDF](<https://openreview.net/pdf?id=ZGJJF1e2u0>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -326,7 +366,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Zhenwei Huang; Wen Huang; Pratik Jawanpuria; Bamdev Mishra
 
-[OpenReview](<https://openreview.net/forum?id=oEtrDiFOFF>) · [Official program](<https://iclr.cc/virtual/2026/poster/10007434>) · [PDF](<https://openreview.net/pdf?id=oEtrDiFOFF>)
+[Primary source](<https://openreview.net/forum?id=oEtrDiFOFF>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10007434>) · [PDF](<https://openreview.net/pdf?id=oEtrDiFOFF>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -340,7 +382,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Chen Hu; Ziheng Chen; Rui Wang; Yefeng Zheng; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=66h1sCMm7F>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011398>) · [PDF](<https://openreview.net/pdf?id=66h1sCMm7F>)
+[Primary source](<https://openreview.net/forum?id=66h1sCMm7F>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011398>) · [PDF](<https://openreview.net/pdf?id=66h1sCMm7F>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -354,7 +398,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Jinghui Yuan; Xie Fangyuan; Feiping Nie; Xuelong Li
 
-[OpenReview](<https://openreview.net/forum?id=ERJd7dMN6U>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010676>) · [PDF](<https://openreview.net/pdf?id=ERJd7dMN6U>)
+[Primary source](<https://openreview.net/forum?id=ERJd7dMN6U>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010676>) · [PDF](<https://openreview.net/pdf?id=ERJd7dMN6U>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -368,7 +414,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Shaocong Ma; Heng Huang
 
-[OpenReview](<https://openreview.net/forum?id=yEfKDCbtv1>) · [Official program](<https://iclr.cc/virtual/2026/poster/10006573>) · [PDF](<https://openreview.net/pdf?id=yEfKDCbtv1>)
+[Primary source](<https://openreview.net/forum?id=yEfKDCbtv1>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10006573>) · [PDF](<https://openreview.net/pdf?id=yEfKDCbtv1>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -382,7 +430,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Yedi Zhang; Andrew Saxe; Peter Latham
 
-[OpenReview](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Official program](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+[Primary source](<https://openreview.net/forum?id=Vit5M0G5Gb>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10009110>) · [PDF](<https://openreview.net/pdf?id=Vit5M0G5Gb>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -406,7 +456,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Peng Xu; Chun Ying Hou; Xiaohui Chen; Richard Zhang
 
-[OpenReview](<https://openreview.net/forum?id=FNWNG1ftuw>) · [Official program](<https://iclr.cc/virtual/2026/poster/10010606>) · [PDF](<https://openreview.net/pdf?id=FNWNG1ftuw>)
+[Primary source](<https://openreview.net/forum?id=FNWNG1ftuw>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10010606>) · [PDF](<https://openreview.net/pdf?id=FNWNG1ftuw>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -420,7 +472,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Damien Scieur; David Martinez-Rubio; thomas Kerdreux; Alexandre d&amp;#x27;Aspremont; Sebastian Pokutta
 
-[OpenReview](<https://openreview.net/forum?id=4sDszSYKP6>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011522>) · [PDF](<https://openreview.net/pdf?id=4sDszSYKP6>)
+[Primary source](<https://openreview.net/forum?id=4sDszSYKP6>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011522>) · [PDF](<https://openreview.net/pdf?id=4sDszSYKP6>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -434,7 +488,9 @@
 
 **ICLR 2026 · Accept (Poster)** · Timo Klein; Thomas Lang; Andrii Shkabrii; Alexander Sturm; Kevin Sidak; Lukas Miklautz; Claudia Plant; Yllka Velaj; Sebastian Tschiatschek
 
-[OpenReview](<https://openreview.net/forum?id=7rfdenlP1L>) · [Official program](<https://iclr.cc/virtual/2026/poster/10011256>) · [PDF](<https://openreview.net/pdf?id=7rfdenlP1L>)
+[Primary source](<https://openreview.net/forum?id=7rfdenlP1L>) · [Venue page](<https://iclr.cc/virtual/2026/poster/10011256>) · [PDF](<https://openreview.net/pdf?id=7rfdenlP1L>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -450,7 +506,9 @@
 
 **ICML 2026 · Accept (regular)** · Nan Qiao; Sheng Yue; Shuning Wang; Ju Ren
 
-[OpenReview](<https://openreview.net/forum?id=mMlt3tQ7Ot>) · [Official program](<https://icml.cc/virtual/2026/poster/61849>) · [PDF](<https://openreview.net/pdf?id=mMlt3tQ7Ot>)
+[Primary source](<https://openreview.net/forum?id=mMlt3tQ7Ot>) · [Venue page](<https://icml.cc/virtual/2026/poster/61849>) · [PDF](<https://openreview.net/pdf?id=mMlt3tQ7Ot>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -464,7 +522,9 @@
 
 **ICML 2026 · Accept (regular)** · Adrián Javaloy; Antonio Vergari
 
-[OpenReview](<https://openreview.net/forum?id=rlvnG8oKmN>) · [Official program](<https://icml.cc/virtual/2026/poster/61285>) · [PDF](<https://openreview.net/pdf?id=rlvnG8oKmN>)
+[Primary source](<https://openreview.net/forum?id=rlvnG8oKmN>) · [Venue page](<https://icml.cc/virtual/2026/poster/61285>) · [PDF](<https://openreview.net/pdf?id=rlvnG8oKmN>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M1 — General manifold algorithms and convergence theory.
 
@@ -482,7 +542,9 @@
 
 **ICML 2026 · Accept (regular)** · Valérie Castin; Kimia Nadjahi; Pierre Ablin; Gabriel Peyré
 
-[OpenReview](<https://openreview.net/forum?id=kHInw3cjCP>) · [Official program](<https://icml.cc/virtual/2026/poster/62055>) · [PDF](<https://openreview.net/pdf?id=kHInw3cjCP>)
+[Primary source](<https://openreview.net/forum?id=kHInw3cjCP>) · [Venue page](<https://icml.cc/virtual/2026/poster/62055>) · [PDF](<https://openreview.net/pdf?id=kHInw3cjCP>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -498,7 +560,9 @@
 
 **ICML 2026 · Accept (regular)** · Zhicheng Cai; Xinyuan Guo; Hanlin Wu; Mingxuan Wang; Wei-Ying Ma; Ya-Qin Zhang; Hao Zhou
 
-[OpenReview](<https://openreview.net/forum?id=nSRbKvrmsH>) · [Official program](<https://icml.cc/virtual/2026/poster/61727>) · [PDF](<https://openreview.net/pdf?id=nSRbKvrmsH>)
+[Primary source](<https://openreview.net/forum?id=nSRbKvrmsH>) · [Venue page](<https://icml.cc/virtual/2026/poster/61727>) · [PDF](<https://openreview.net/pdf?id=nSRbKvrmsH>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -514,7 +578,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Tian Xie; Haoming Luo; Haoyu Tang; Hu Yiwen; Jason Liu; Qingnan Ren; Yang Wang; Xin Zhao; Rui Yan; Bing Su; Chong Luo; Baining Guo
 
-[OpenReview](<https://openreview.net/forum?id=5kTn1c3vtt>) · [Official program](<https://icml.cc/virtual/2026/poster/66212>) · [PDF](<https://openreview.net/pdf?id=5kTn1c3vtt>)
+[Primary source](<https://openreview.net/forum?id=5kTn1c3vtt>) · [Venue page](<https://icml.cc/virtual/2026/poster/66212>) · [PDF](<https://openreview.net/pdf?id=5kTn1c3vtt>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** C — General-purpose matrix, spectral, adaptive, and learned optimizers; M4 — Related constrained and geometry-aware optimization.
 
@@ -530,7 +596,9 @@
 
 **ICML 2026 · Accept (regular)** · Yirun Ding; Zhihui Lai
 
-[OpenReview](<https://openreview.net/forum?id=l6MbbwsWUs>) · [Official program](<https://icml.cc/virtual/2026/poster/61970>) · [PDF](<https://openreview.net/pdf?id=l6MbbwsWUs>)
+[Primary source](<https://openreview.net/forum?id=l6MbbwsWUs>) · [Venue page](<https://icml.cc/virtual/2026/poster/61970>) · [PDF](<https://openreview.net/pdf?id=l6MbbwsWUs>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -544,7 +612,9 @@
 
 **ICML 2026 · Accept (regular)** · Aditya Kulkarni; Carlos Soto
 
-[OpenReview](<https://openreview.net/forum?id=nGlwpZFZre>) · [Official program](<https://icml.cc/virtual/2026/poster/61746>) · [PDF](<https://openreview.net/pdf?id=nGlwpZFZre>)
+[Primary source](<https://openreview.net/forum?id=nGlwpZFZre>) · [Venue page](<https://icml.cc/virtual/2026/poster/61746>) · [PDF](<https://openreview.net/pdf?id=nGlwpZFZre>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -558,7 +628,9 @@
 
 **ICML 2026 · Accept (regular)** · Florine Hartwig; Josua Sassen; Juliane Braunsmann; Martin Rumpf; Benedikt Wirth
 
-[OpenReview](<https://openreview.net/forum?id=5LBH6azyBM>) · [Official program](<https://icml.cc/virtual/2026/poster/66261>) · [PDF](<https://openreview.net/pdf?id=5LBH6azyBM>)
+[Primary source](<https://openreview.net/forum?id=5LBH6azyBM>) · [Venue page](<https://icml.cc/virtual/2026/poster/66261>) · [PDF](<https://openreview.net/pdf?id=5LBH6azyBM>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -572,7 +644,9 @@
 
 **ICML 2026 · Accept (regular)** · Semih Cayci
 
-[OpenReview](<https://openreview.net/forum?id=IoGEXDFVEb>) · [Official program](<https://icml.cc/virtual/2026/poster/64891>) · [PDF](<https://openreview.net/pdf?id=IoGEXDFVEb>)
+[Primary source](<https://openreview.net/forum?id=IoGEXDFVEb>) · [Venue page](<https://icml.cc/virtual/2026/poster/64891>) · [PDF](<https://openreview.net/pdf?id=IoGEXDFVEb>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M1 — General manifold algorithms and convergence theory.
 
@@ -588,7 +662,9 @@
 
 **ICML 2026 · Accept (regular)** · Boliang Hao; Bailing Zhang; Fangyu Wu
 
-[OpenReview](<https://openreview.net/forum?id=m7SH64ZF6j>) · [Official program](<https://icml.cc/virtual/2026/poster/61874>) · [PDF](<https://openreview.net/pdf?id=m7SH64ZF6j>)
+[Primary source](<https://openreview.net/forum?id=m7SH64ZF6j>) · [Venue page](<https://icml.cc/virtual/2026/poster/61874>) · [PDF](<https://openreview.net/pdf?id=m7SH64ZF6j>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -604,7 +680,9 @@
 
 **ICML 2026 · Accept (regular)** · Jian-Feng Cai; Haixia Liu; Zhengyi Su; Chao Wang
 
-[OpenReview](<https://openreview.net/forum?id=IPp3LD6u16>) · [Official program](<https://icml.cc/virtual/2026/poster/64946>) · [PDF](<https://openreview.net/pdf?id=IPp3LD6u16>)
+[Primary source](<https://openreview.net/forum?id=IPp3LD6u16>) · [Venue page](<https://icml.cc/virtual/2026/poster/64946>) · [PDF](<https://openreview.net/pdf?id=IPp3LD6u16>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -620,7 +698,9 @@
 
 **ICML 2026 · Accept (regular)** · Jiayu Fang; Xuande Liu; Sangsha Fang; Zhen Tian; Hongwei Ma; Zhiqi Shao; Junbin Gao
 
-[OpenReview](<https://openreview.net/forum?id=2NbXZDl4nB>) · [Official program](<https://icml.cc/virtual/2026/poster/66595>) · [PDF](<https://openreview.net/pdf?id=2NbXZDl4nB>)
+[Primary source](<https://openreview.net/forum?id=2NbXZDl4nB>) · [Venue page](<https://icml.cc/virtual/2026/poster/66595>) · [PDF](<https://openreview.net/pdf?id=2NbXZDl4nB>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -634,7 +714,9 @@
 
 **ICML 2026 · Accept (regular)** · Wuyang Zhou; Yuxuan Gu; Giorgos Iacovides; Danilo Mandic
 
-[OpenReview](<https://openreview.net/forum?id=TI7Q2o6EIa>) · [Official program](<https://icml.cc/virtual/2026/poster/63836>) · [PDF](<https://openreview.net/pdf?id=TI7Q2o6EIa>)
+[Primary source](<https://openreview.net/forum?id=TI7Q2o6EIa>) · [Venue page](<https://icml.cc/virtual/2026/poster/63836>) · [PDF](<https://openreview.net/pdf?id=TI7Q2o6EIa>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; M4 — Related constrained and geometry-aware optimization.
 
@@ -652,7 +734,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Zexi Jia; Pengcheng Luo; Zhengyao Fang; Jinchao Zhang; Jie Zhou
 
-[OpenReview](<https://openreview.net/forum?id=eSxGdQ0zwG>) · [Official program](<https://icml.cc/virtual/2026/poster/62677>) · [PDF](<https://openreview.net/pdf?id=eSxGdQ0zwG>)
+[Primary source](<https://openreview.net/forum?id=eSxGdQ0zwG>) · [Venue page](<https://icml.cc/virtual/2026/poster/62677>) · [PDF](<https://openreview.net/pdf?id=eSxGdQ0zwG>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -666,7 +750,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Zhenda Xie; Yixuan Wei; Huanqi Cao; Chenggang Zhao; Chengqi Deng; Jiashi Li; Damai Dai; Huazuo Gao; Mingyu Xu; Kuai Yu; Liang Zhao; Shangyan Zhou; Zhean Xu; Zhengyan Zhang; Wangding Zeng; Shengding Hu; Yuqing Wang; Jingyang Yuan; Lean Wang; Wenfeng Liang
 
-[OpenReview](<https://openreview.net/forum?id=mDhyxu8WRb>) · [Official program](<https://icml.cc/virtual/2026/poster/61870>) · [PDF](<https://openreview.net/pdf?id=mDhyxu8WRb>)
+[Primary source](<https://openreview.net/forum?id=mDhyxu8WRb>) · [Venue page](<https://icml.cc/virtual/2026/poster/61870>) · [PDF](<https://openreview.net/pdf?id=mDhyxu8WRb>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** E — Training stabilization and distributed optimization; M4 — Related constrained and geometry-aware optimization.
 
@@ -682,7 +768,9 @@
 
 **ICML 2026 · Accept (regular)** · Hengchao Chen; Yuanyao Tan; Chao Huang; Hongtu Zhu; Qiang Sun
 
-[OpenReview](<https://openreview.net/forum?id=7bTdGPe3RG>) · [Official program](<https://icml.cc/virtual/2026/poster/66044>) · [PDF](<https://openreview.net/pdf?id=7bTdGPe3RG>)
+[Primary source](<https://openreview.net/forum?id=7bTdGPe3RG>) · [Venue page](<https://icml.cc/virtual/2026/poster/66044>) · [PDF](<https://openreview.net/pdf?id=7bTdGPe3RG>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -696,7 +784,9 @@
 
 **ICML 2026 · Accept (regular)** · Sihan Yang; Kexuan Shi; Weiyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=pCaeMsqpCa>) · [Official program](<https://icml.cc/virtual/2026/poster/61531>) · [PDF](<https://openreview.net/pdf?id=pCaeMsqpCa>)
+[Primary source](<https://openreview.net/forum?id=pCaeMsqpCa>) · [Venue page](<https://icml.cc/virtual/2026/poster/61531>) · [PDF](<https://openreview.net/pdf?id=pCaeMsqpCa>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -710,7 +800,9 @@
 
 **ICML 2026 · Accept (regular)** · Marcin Możejko; Adam Bielecki; Jurand Prądzyński; Hyun-Su Lee; Antoni Janowski; Michal Kmicikiewicz; Paulina Szymczak; Karol Jurasz; Marcin Traskowski; Michał Kucharczyk; Marcelo Torres; Cesar de la Fuente-Nunez; Ewa Szczurek
 
-[OpenReview](<https://openreview.net/forum?id=HENUU9VR8F>) · [Official program](<https://icml.cc/virtual/2026/poster/65054>) · [PDF](<https://openreview.net/pdf?id=HENUU9VR8F>)
+[Primary source](<https://openreview.net/forum?id=HENUU9VR8F>) · [Venue page](<https://icml.cc/virtual/2026/poster/65054>) · [PDF](<https://openreview.net/pdf?id=HENUU9VR8F>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -724,7 +816,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Zeju Qiu; Lixin LIU; Adrian Weller; Han Shi; Weiyang Liu
 
-[OpenReview](<https://openreview.net/forum?id=et8jpWLUuD>) · [Official program](<https://icml.cc/virtual/2026/oral/71112>) · [PDF](<https://openreview.net/pdf?id=et8jpWLUuD>)
+[Primary source](<https://openreview.net/forum?id=et8jpWLUuD>) · [Venue page](<https://icml.cc/virtual/2026/oral/71112>) · [PDF](<https://openreview.net/pdf?id=et8jpWLUuD>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -740,7 +834,9 @@
 
 **ICML 2026 · Accept (regular)** · Xi Yang; Yuanrong Xu; Weigang Zhang; Guangming Lu; David Zhang; Jie Wen
 
-[OpenReview](<https://openreview.net/forum?id=ROFqW86Dca>) · [Official program](<https://icml.cc/virtual/2026/poster/64048>) · [PDF](<https://openreview.net/pdf?id=ROFqW86Dca>)
+[Primary source](<https://openreview.net/forum?id=ROFqW86Dca>) · [Venue page](<https://icml.cc/virtual/2026/poster/64048>) · [PDF](<https://openreview.net/pdf?id=ROFqW86Dca>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -754,7 +850,9 @@
 
 **ICML 2026 · Accept (regular)** · Kwangmin Lee; Yeonhee Park; Sewon Park
 
-[OpenReview](<https://openreview.net/forum?id=0QjwbySLcU>) · [Official program](<https://icml.cc/virtual/2026/poster/66778>) · [PDF](<https://openreview.net/pdf?id=0QjwbySLcU>)
+[Primary source](<https://openreview.net/forum?id=0QjwbySLcU>) · [Venue page](<https://icml.cc/virtual/2026/poster/66778>) · [PDF](<https://openreview.net/pdf?id=0QjwbySLcU>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -768,7 +866,9 @@
 
 **ICML 2026 · Accept (regular)** · Xinpeng Zhao; Jiang Jie; Fengyuan Zhang; Lixin Zhan; Dong Wang; Qinyuan Bu; Jiahangtu; Guangzhen Yao
 
-[OpenReview](<https://openreview.net/forum?id=bjtuHOb3vN>) · [Official program](<https://icml.cc/virtual/2026/poster/62937>) · [PDF](<https://openreview.net/pdf?id=bjtuHOb3vN>)
+[Primary source](<https://openreview.net/forum?id=bjtuHOb3vN>) · [Venue page](<https://icml.cc/virtual/2026/poster/62937>) · [PDF](<https://openreview.net/pdf?id=bjtuHOb3vN>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -782,7 +882,9 @@
 
 **ICML 2026 · Accept (regular)** · Yuxuan Ren; Abhishek Roy; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=nDfDnsyllY>) · [Official program](<https://icml.cc/virtual/2026/poster/61755>) · [PDF](<https://openreview.net/pdf?id=nDfDnsyllY>)
+[Primary source](<https://openreview.net/forum?id=nDfDnsyllY>) · [Venue page](<https://icml.cc/virtual/2026/poster/61755>) · [PDF](<https://openreview.net/pdf?id=nDfDnsyllY>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -796,7 +898,9 @@
 
 **ICML 2026 · Accept (spotlight)** · Jacob Bamberger; Adam Gosztolai; Pierre Vandergheynst; Michael Bronstein; Iolo Jones
 
-[OpenReview](<https://openreview.net/forum?id=KVzXnWPLgX>) · [Official program](<https://icml.cc/virtual/2026/poster/64721>) · [PDF](<https://openreview.net/pdf?id=KVzXnWPLgX>)
+[Primary source](<https://openreview.net/forum?id=KVzXnWPLgX>) · [Venue page](<https://icml.cc/virtual/2026/poster/64721>) · [PDF](<https://openreview.net/pdf?id=KVzXnWPLgX>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -810,7 +914,9 @@
 
 **ICML 2026 · Accept (regular)** · Ziheng Chen; Xiaojun Wu; Bernhard Schölkopf; Nicu Sebe
 
-[OpenReview](<https://openreview.net/forum?id=8k4om4zj5E>) · [Official program](<https://icml.cc/virtual/2026/poster/65936>) · [PDF](<https://openreview.net/pdf?id=8k4om4zj5E>)
+[Primary source](<https://openreview.net/forum?id=8k4om4zj5E>) · [Venue page](<https://icml.cc/virtual/2026/poster/65936>) · [PDF](<https://openreview.net/pdf?id=8k4om4zj5E>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -824,7 +930,9 @@
 
 **ICML 2026 · Accept (regular)** · Alessandro Micheli; Yueqi Cao; Anthea Monod; Samir Bhatt
 
-[OpenReview](<https://openreview.net/forum?id=ez4oLq7PR3>) · [Official program](<https://icml.cc/virtual/2026/poster/62618>) · [PDF](<https://openreview.net/pdf?id=ez4oLq7PR3>)
+[Primary source](<https://openreview.net/forum?id=ez4oLq7PR3>) · [Venue page](<https://icml.cc/virtual/2026/poster/62618>) · [PDF](<https://openreview.net/pdf?id=ez4oLq7PR3>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -840,7 +948,9 @@
 
 **ICML 2026 · Accept (regular)** · Minh Phu Vuong; Jinyoung Lee; Young-Ju Lee; Chul-Ho Lee
 
-[OpenReview](<https://openreview.net/forum?id=9crQp1ibCx>) · [Official program](<https://icml.cc/virtual/2026/poster/65835>) · [PDF](<https://openreview.net/pdf?id=9crQp1ibCx>)
+[Primary source](<https://openreview.net/forum?id=9crQp1ibCx>) · [Venue page](<https://icml.cc/virtual/2026/poster/65835>) · [PDF](<https://openreview.net/pdf?id=9crQp1ibCx>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -854,7 +964,9 @@
 
 **ICML 2026 · Accept (regular)** · Thibault Pautrel; François Portier
 
-[OpenReview](<https://openreview.net/forum?id=aLnPza1dyT>) · [Official program](<https://icml.cc/virtual/2026/poster/63071>) · [PDF](<https://openreview.net/pdf?id=aLnPza1dyT>)
+[Primary source](<https://openreview.net/forum?id=aLnPza1dyT>) · [Venue page](<https://icml.cc/virtual/2026/poster/63071>) · [PDF](<https://openreview.net/pdf?id=aLnPza1dyT>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -868,7 +980,9 @@
 
 **ICML 2026 · Accept (regular)** · Yuhang Xi; Yu-Feng Yu; Chuan-Xian Ren; Zhao-Rong Lai
 
-[OpenReview](<https://openreview.net/forum?id=KjF35IhQGS>) · [Official program](<https://icml.cc/virtual/2026/poster/64699>) · [PDF](<https://openreview.net/pdf?id=KjF35IhQGS>)
+[Primary source](<https://openreview.net/forum?id=KjF35IhQGS>) · [Venue page](<https://icml.cc/virtual/2026/poster/64699>) · [PDF](<https://openreview.net/pdf?id=KjF35IhQGS>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -884,7 +998,9 @@
 
 **ICML 2026 · Accept (regular)** · Hao Gu; Mao-Lin Luo; Zi-Hao Zhou; Han-Chen Zhang; Min-Ling Zhang; Tong Wei
 
-[OpenReview](<https://openreview.net/forum?id=kqE6GjpQTn>) · [Official program](<https://icml.cc/virtual/2026/poster/61996>) · [PDF](<https://openreview.net/pdf?id=kqE6GjpQTn>)
+[Primary source](<https://openreview.net/forum?id=kqE6GjpQTn>) · [Venue page](<https://icml.cc/virtual/2026/poster/61996>) · [PDF](<https://openreview.net/pdf?id=kqE6GjpQTn>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -900,7 +1016,9 @@
 
 **ICML 2026 · Accept (regular)** · Kyurae Kim; Qiang Fu; Yian Ma; Jacob Gardner; Trevor Campbell
 
-[OpenReview](<https://openreview.net/forum?id=4HquuQN4qK>) · [Official program](<https://icml.cc/virtual/2026/poster/66371>) · [PDF](<https://openreview.net/pdf?id=4HquuQN4qK>)
+[Primary source](<https://openreview.net/forum?id=4HquuQN4qK>) · [Venue page](<https://icml.cc/virtual/2026/poster/66371>) · [PDF](<https://openreview.net/pdf?id=4HquuQN4qK>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -914,7 +1032,9 @@
 
 **ICML 2026 · Accept (regular)** · Haodong WANG; Junjie Liu; Zicong Hong; Qianli Liu; Jian Lin; Song Guo; Xu Chen
 
-[OpenReview](<https://openreview.net/forum?id=ahYRAjx7UG>) · [Official program](<https://icml.cc/virtual/2026/poster/63038>) · [PDF](<https://openreview.net/pdf?id=ahYRAjx7UG>)
+[Primary source](<https://openreview.net/forum?id=ahYRAjx7UG>) · [Venue page](<https://icml.cc/virtual/2026/poster/63038>) · [PDF](<https://openreview.net/pdf?id=ahYRAjx7UG>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -928,7 +1048,9 @@
 
 **ICML 2026 · Accept (regular)** · Zhixiong Zhao; Zukang Xu; Zhixuan Chen; Xing Hu; Zhe jiang; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=s1WSLFmnr8>) · [Official program](<https://icml.cc/virtual/2026/poster/61264>) · [PDF](<https://openreview.net/pdf?id=s1WSLFmnr8>)
+[Primary source](<https://openreview.net/forum?id=s1WSLFmnr8>) · [Venue page](<https://icml.cc/virtual/2026/poster/61264>) · [PDF](<https://openreview.net/pdf?id=s1WSLFmnr8>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -944,7 +1066,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ayoub El Hanchi; Murat Erdogdu; Chris Maddison
 
-[OpenReview](<https://openreview.net/forum?id=KEVjRT4haB>) · [Official program](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KEVjRT4haB>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118663>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/e9638fbbd671a3361bc807e4e7a71400-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -960,7 +1084,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Steffen Schotthöfer; Timon Klein; Jonas Kusch
 
-[OpenReview](<https://openreview.net/forum?id=cCefuzQrjK>) · [Official program](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cCefuzQrjK>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117118>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/81f1ae463ed30c5d44ff416d134f9071-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -978,7 +1104,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yassine ABBAHADDOU; Amine Aboussalah
 
-[OpenReview](<https://openreview.net/forum?id=YAc0O13qMc>) · [Official program](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=YAc0O13qMc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117444>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de4c2179a4ab3728f8a20aeb5a3f1bb6-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -994,7 +1122,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Etienne Boursier; Scott Pesme; Radu-Alexandru Dragomir
 
-[OpenReview](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Official program](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=iSvAAHGFSw>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116559>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/de18052eb17cce56554a9637dd5aadba-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T6 — Feature learning, implicit bias and generalization dynamics; T7 — Initialization, normalization, weight decay and regularization.
 
@@ -1020,7 +1150,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Jiyoung Park; Abhishek Roy; Jonathan W. Siegel; Anirban Bhattacharya
 
-[OpenReview](<https://openreview.net/forum?id=Nl02znfTCT>) · [Official program](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=Nl02znfTCT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118337>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/347dae37f42ba41506cf7af753f98560-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1036,7 +1168,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xinghan Li; Haodong Wen; Kaifeng Lyu
 
-[OpenReview](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Official program](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=kCUDzyKQ7G>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116405>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a82b0c6d19e4f53c5f2252a742ae8d5e-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer; Training dynamics.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers; T5 — Stability, curvature and edge-of-stability dynamics; T8 — Optimizer dynamics, comparisons and diagnostics.
 
@@ -1062,7 +1196,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kangkang Deng; Jiachen Jin; Jiang Hu; Hongxia Wang
 
-[OpenReview](<https://openreview.net/forum?id=lni933mlvF>) · [Official program](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lni933mlvF>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116261>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc46f5d72f432de4c58e1a311bad011b-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1078,7 +1214,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xu Shi; Rufeng Xiao; Rujun Jiang
 
-[OpenReview](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Official program](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=9r3OQhPiqT>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119506>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/867bc56be95b320a3a7af20bb4cbd9a8-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1094,7 +1232,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mingyang Yi; Bohan Wang
 
-[OpenReview](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Official program](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=PlQqwb7Bte>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118190>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/551d050b0e351ad566e00a088d1e7b1f-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1110,7 +1250,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Fengmiao Bian; Jinyang ZHENG; Ziyun Liu; Jianzhou Luo; Jian-Feng CAI
 
-[OpenReview](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Official program](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=tiGFiCrmKm>) · [Venue page](<https://neurips.cc/virtual/2025/poster/115564>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5679173c400b332796426e443ab5ea0d-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -1128,7 +1270,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Emre Sahinoglu; Youbang Sun; Shahin Shahrampour
 
-[OpenReview](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Official program](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=cbWApYUvZ9>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117078>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/c2bd9242609219deb380f161682f4568-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M1 — General manifold algorithms and convergence theory.
 
@@ -1144,7 +1288,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Louis Bethune; David Vigouroux; Yilun Du; Rufin VanRullen; Thomas Serre; Victor Boutin
 
-[OpenReview](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=BOiQ7Kd5Lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119377>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8cc4d34998c0b4006641ccd1341022b7-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1160,7 +1306,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Kai Lion; Liang Zhang; Bingcong Li; Niao He
 
-[OpenReview](<https://openreview.net/forum?id=jDxFD45kkc>) · [Official program](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=jDxFD45kkc>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116485>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/db79b6c50430a52fbab9d63efb8433ca-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation; X1 — Matrix functions, roots and matrix geometry.
 
@@ -1184,7 +1332,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Chaoran Cheng; Yusong Wang; Yuxin Chen; Xiangxin Zhou; Nanning Zheng; Ge Liu
 
-[OpenReview](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Official program](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=SAlCQdk5lx>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117955>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/7422317f84e8c83e4c1ad2ff87e1e88e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1200,7 +1350,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Antoine Collas; Ce Ju; Nicolas Salvy; Bertrand Thirion
 
-[OpenReview](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Official program](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=NY3LzmUXl7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118350>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/5616112a0120c15bf7d47a6bccc21bc3-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X1 — Matrix functions, roots and matrix geometry.
 
@@ -1224,7 +1376,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Yunrui Guan; Krishnakumar Balasubramanian; Shiqian Ma
 
-[OpenReview](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Official program](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=KxhCJc8BOg>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118588>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/8e185f16e458ef5e666901260079cd42-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1240,7 +1394,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ahmad Bdeir; Johannes Burchert; Lars Schmidt-Thieme; Niels Landwehr
 
-[OpenReview](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Official program](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lJ5WCJZfQn>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116292>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/75817c38dd91ccef8add921b2eb4284a-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M3 — Applications that explicitly optimize or solve problems on manifolds.
 
@@ -1258,7 +1414,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Zukang Xu; Xing Hu; Qiang Wu; Dawei Yang
 
-[OpenReview](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Official program](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=8Ounc8L4F7>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119625>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/022a921af644da887f5930377f9d53d6-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization; X6 — Matrix and tensor methods for compression.
 
@@ -1280,7 +1438,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Evan Markou; Thalaiyasingam Ajanthan; Stephen Gould
 
-[OpenReview](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Official program](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=ZvqbNFWQkh>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117312>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/812f0e17bf0fa2a31a3d0b24dca49462-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** G — Optimizer theory, benchmarks, and training dynamics; M5 — Supporting geometry, statistics, and training-dynamics papers.
 
@@ -1298,7 +1458,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Xuan Son Nguyen; Aymeric Histace; Nistor Grozavu
 
-[OpenReview](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Official program](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=HIV6t8BAZY>) · [Venue page](<https://neurips.cc/virtual/2025/poster/118902>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/ca1c61a02f458bde48180fc15ae50631-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -1314,7 +1476,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Ido Cohen; Ronen Talmon
 
-[OpenReview](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Official program](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=aBUG2Phwdt>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117290>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/aa4bee5e2720d7e8f073d762ee8c7fd4-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -1336,7 +1500,9 @@
 
 **NeurIPS 2025 · Accept (spotlight)** · Zhizhong Li; Sina Sajadmanesh; Jingtao Li; Lingjuan Lyu
 
-[OpenReview](<https://openreview.net/forum?id=55Lv1unlUL>) · [Official program](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=55Lv1unlUL>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119898>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/6cb0c6e7d50d5d65613f0456ca85e2db-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** I — Fine-tuning, LoRA, privacy, and specialized post-training; M2 — Manifold-based LLM training and low-rank adaptation.
 
@@ -1358,7 +1524,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Sahar Rajabi; Nayeema Nonta; Sirisha Rambhatla
 
-[OpenReview](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Official program](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=6geRIdlFWJ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119775>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/2d62cb71e87ae340e3ab0e874befcbc2-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Matrix computation; Optimizer.
 
 **Categories:** D — Memory-efficient and low-precision optimizers; M2 — Manifold-based LLM training and low-rank adaptation; X2 — Eigenproblems, spectral computation and SVD analysis.
 
@@ -1386,7 +1554,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Mykola Lukashchuk; Raphaël Trésor; Wouter Nuijten; Ismail Senoz; Bert Vries
 
-[OpenReview](<https://openreview.net/forum?id=XDisynd63Y>) · [Official program](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=XDisynd63Y>) · [Venue page](<https://neurips.cc/virtual/2025/poster/117534>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/0ce1eb87dbb03fdfa872a93d15cfe333-Paper-Conference.pdf>)
+
+**Topics:** Manifold; Optimizer.
 
 **Categories:** J — Adjacent numerical, architectural, and specialized training methods; M1 — General manifold algorithms and convergence theory.
 
@@ -1404,7 +1574,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Rui Wang; Chen Hu; Xiaoning Song; Xiaojun Wu; Nicu Sebe; Ziheng Chen
 
-[OpenReview](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Official program](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=lovTDtbsdZ>) · [Venue page](<https://neurips.cc/virtual/2025/poster/116259>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/a2e3b4132ab2e0b7a21e6e75da7f91a9-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M4 — Related constrained and geometry-aware optimization.
 
@@ -1420,7 +1592,9 @@
 
 **NeurIPS 2025 · Accept (poster)** · Dominic Maggio; Hyungtae Lim; Luca Carlone
 
-[OpenReview](<https://openreview.net/forum?id=63ljkCGMhE>) · [Official program](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+[Primary source](<https://openreview.net/forum?id=63ljkCGMhE>) · [Venue page](<https://neurips.cc/virtual/2025/poster/119817>) · [PDF](<https://proceedings.neurips.cc/paper_files/paper/2025/file/bc65ab11abfbad890171109686233f4e-Paper-Conference.pdf>)
+
+**Topics:** Manifold.
 
 **Categories:** M3 — Applications that explicitly optimize or solve problems on manifolds.
 
